@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49785/kaz/07.04.2010
+source: https://zan.gov.kz/client/#!/doc/49785/kaz/05.05.2010
 ---
 
 ## 2012 жылға арналған облыстық бюджет
