@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
+source: https://zan.gov.kz/client/#!/doc/56101/kaz/21.02.2011
 ---
 
 ## 2013 жылға арналған облыстық бюджет
@@ -32,7 +32,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>1. КІРІСТЕР</td>
-<td>112 154 204</td>
+<td>117 389 968</td>
 </tr>
 <tr>
 <td>1</td>
@@ -137,21 +137,21 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>ТРАНСФЕРТТЕРДІҢ ТҮСІМДЕРІ</td>
-<td>102 637 419</td>
+<td>107 873 183</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>102 637 419</td>
+<td>107 873 183</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Республикалық бюджеттен түсетiн трансферттер</td>
-<td>102 637 419</td>
+<td>107 873 183</td>
 </tr>
 </table>
 
@@ -185,7 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>111 610 338</td>
+<td>116 846 102</td>
 </tr>
 <tr>
 <td>01</td>
@@ -689,7 +689,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>Денсаулық сақтау</td>
-<td>23 885 727</td>
+<td>29 121 491</td>
 </tr>
 <tr>
 <td></td>
@@ -899,14 +899,14 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td>281</td>
 <td></td>
 <td>Құрылыс, жолаушылар көлігі және автомобиль жолдары басқармасы</td>
-<td>3 026 169</td>
+<td>8 261 933</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Денсаулық сақтау объектілерін салу және реконструкциялау</td>
-<td>3 026 169</td>
+<td>8 261 933</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1745,242 +1745,237 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 
 <table>
 <tr>
-<td colspan="5">Санаты</td>
-<td colspan="2">Атауы</td>
+<td colspan="3">Санаты</td>
+<td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="5">Сыныбы</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">Ішкі сыныбы</td>
-</tr>
-<tr>
-<th colspan="5">1</th>
-<th colspan="2">2</th>
-<th>3</th>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td>645 250</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td>645 250</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="2">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
-<td>645 250</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Атауы</td>
-</tr>
-<tr>
-<th colspan="5">1</th>
-<th colspan="2">2</th>
-<th>3</th>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">4.Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
-<td>443 866</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қаржы активтерін сатып алу</td>
-<td>443 866</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Басқалар</td>
-<td>443 866</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">257</td>
-<td colspan="2"></td>
-<td colspan="2">Облыстың қаржы басқармасы</td>
-<td>443 866</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">005</td>
-<td colspan="2">Заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту</td>
-<td>443 866</td>
-</tr>
-<tr>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="7">Функционалдық топ Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<th colspan="5">1</th>
-<th colspan="2">2</th>
-<th>3</th>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">5.Бюджет тапшылығы (профициті)</td>
-<td>-149 340</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">6.Бюджет тапшылығын қаржыландыру (профицитті пайдалану)</td>
-<td>149 340</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">Санаты</td>
-<td colspan="2">Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td colspan="5">Сыныбы</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">Ішкі сыныбы</td>
-</tr>
-<tr>
-<th></th>
-<th colspan="2">1</th>
-<th colspan="2"></th>
-<th colspan="2">2</th>
-<th>3</th>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қарыздар түсімі</td>
-<td>794 590</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="2">Мемлекеттік сыртқы қарыздар</td>
-<td>794 590</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td colspan="2">Қарыз алу келісім-шарттары</td>
-<td>794 590</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражатының қалдықтарының қозғалысы</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="7">Функционалдық топ Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td colspan="7">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td colspan="7">Бағдарлама</td>
-</tr>
-<tr>
-<th colspan="2"></th>
-<th colspan="2">1</th>
-<th colspan="2"></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
 <tr>
-<td colspan="2">16</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>645 250</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>645 250</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td>645 250</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="4">Функционалдық топ</td>
+<td rowspan="4">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+</tr>
+<tr>
+<th colspan="3">1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>4.Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
+<td>443 866</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаржы активтерін сатып алу</td>
+<td>443 866</td>
+</tr>
+<tr>
+<td>13</td>
+<td></td>
+<td></td>
+<td>Басқалар</td>
+<td>443 866</td>
+</tr>
+<tr>
+<td></td>
+<td>257</td>
+<td></td>
+<td>Облыстың қаржы басқармасы</td>
+<td>443 866</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>005</td>
+<td>Заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту</td>
+<td>443 866</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="4">Функционалдық топ Атауы</td>
+<td rowspan="4">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="3">1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>5.Бюджет тапшылығы (профициті)</td>
+<td>-149 340</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>6.Бюджет тапшылығын қаржыландыру (профицитті пайдалану)</td>
+<td>149 340</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="2">Санаты</td>
+<td></td>
+<td>Атауы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Ішкі сыныбы</td>
+</tr>
+<tr>
+<th></th>
+<th>1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td></td>
+<td>Қарыздар түсімі</td>
+<td>794 590</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Мемлекеттік сыртқы қарыздар</td>
+<td>794 590</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Қарыз алу келісім-шарттары</td>
+<td>794 590</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td>Бюджет қаражатының қалдықтарының қозғалысы</td>
+<td>0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="4">Функционалдық топ Атауы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td colspan="4">Бағдарлама</td>
+</tr>
+<tr>
+<th></th>
+<th>1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td>16</td>
+<td></td>
+<td></td>
 <td>Қарыздарды өтеу</td>
 <td>645 250</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">257</td>
-<td colspan="2"></td>
+<td></td>
+<td>257</td>
+<td></td>
 <td>Облыстың қаржы басқармасы</td>
 <td>645 250</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">015</td>
+<td></td>
+<td></td>
+<td>015</td>
 <td>Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
 <td>645 250</td>
 </tr>
