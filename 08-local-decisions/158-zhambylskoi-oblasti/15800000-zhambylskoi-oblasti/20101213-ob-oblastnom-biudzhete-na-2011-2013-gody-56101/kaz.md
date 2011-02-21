@@ -1,5 +1,5 @@
 ---
-version_id: AI56101_0
+version_id: AI56101_2
 act_code: '56101'
 language: kaz
 title: 2011-2013 жылдарға арналған облыстық бюджет туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '158000000002'
 approval_date: 2010-12-13
-version_date: 2010-12-13
+version_date: 2011-02-21
 registry_number: '56101'
-source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
+caused_by:
+  code: '57478'
+  title: '"2011-2013 жылдарға арналған облыстық бюджет туралы" Жамбыл облыстық мәслихатының 2010 жылғы 13 желтоқсандағы № 30-3 шешіміне өзгерістер енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/57478/kaz
+source: https://zan.gov.kz/client/#!/doc/56101/kaz/21.02.2011
 ---
 
 # 2011-2013 жылдарға арналған облыстық бюджет туралы
@@ -25,7 +29,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 
 1. 2011-2013 жылдарға арналған облыстық бюджет 1, 2, 3-қосымшаларға сәйкес, оның ішінде 2011 жылға мынадай көлемдерде бекітілсін:
 
-   1) кірістер – 109 579 698 мың теңге, оның ішінде:
+   1) кірістер – 110 229 698 мың теңге, оның ішінде:
 
       салықтық түсімдер – 8 612 637 мың теңге;
 
@@ -33,9 +37,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 
       негізгі капиталды сатудан түсетін түсімдер – 0 мың теңге;
 
-      трансферттер түсiмі – 100 914 561 мың теңге;
+      трансферттер түсiмі – 101 564 561 мың теңге;
 
-   2) шығындар –108 939 727 мың теңге;
+   2) шығындар –110 589 727 мың теңге;
 
    3) таза бюджеттік кредиттеу – 155 494 мың теңге:
 
@@ -52,6 +56,8 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
    5) бюджет тапшылығы – - 55 494 мың теңге;
 
    6) бюджет тапшылығын қаржыландыру – 55 494 мың теңге.
+
+      > *Ескерту. 1-тармаққа өзгерту енгізілді - Жамбыл облыстық мәслихатының 2011.02.21 № 31-2(2011 жылдың 1 қаңтарынан қолданысқа енгізіледі) Шешімімен.*
 
 2. 2011 жылы облыстық бюджеттен аудандық және қалалық бюджеттерге берілетін субвенция мөлшері 35 703 637 мың теңге сомасында белгіленсін:
 
@@ -125,6 +131,8 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 > *2010 жылғы 13 желтоқсандағы*  
 > *№ 30-3 шешіміне 1-қосымша*
 
+> *Ескерту. 1-қосымшаға өзгерту енгізілді - Жамбыл облыстық мәслихатының 2011.02.21 № 31-2(2011 жылдың 1 қаңтарынан қолданысқа енгізіледі) Шешімімен.*
+
 ## 2011 жылға арналған облыстық бюджет
 
 <table>
@@ -154,7 +162,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>1. КІРІСТЕР</td>
-<td>109 579 698</td>
+<td>110 229 698</td>
 </tr>
 <tr>
 <td>1</td>
@@ -259,21 +267,21 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>ТРАНСФЕРТТЕРДІҢ ТҮСІМДЕРІ</td>
-<td>100 914 561</td>
+<td>101 564 561</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>100 914 561</td>
+<td>101 564 561</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Республикалық бюджеттен түсетiн трансферттер</td>
-<td>100 914 561</td>
+<td>101 564 561</td>
 </tr>
 </table>
 
@@ -307,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>108 939 727</td>
+<td>109 589 727</td>
 </tr>
 <tr>
 <td>01</td>
@@ -860,7 +868,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>Денсаулық сақтау</td>
-<td>22 613 864</td>
+<td>23 263 864</td>
 </tr>
 <tr>
 <td></td>
@@ -1077,14 +1085,14 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td>281</td>
 <td></td>
 <td>Құрылыс, жолаушылар көлігі және автомобиль жолдары басқармасы</td>
-<td>4 286 530</td>
+<td>4 936 530</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Денсаулық сақтау объектілерін салу және реконструкциялау</td>
-<td>4 286 530</td>
+<td>4 936 530</td>
 </tr>
 <tr>
 <td>06</td>
@@ -2458,6 +2466,8 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 > *2010 жылғы 13 желтоқсандағы*  
 > *№ 30-3 шешіміне 2-қосымша*
 
+> *Ескерту. 2-қосымшаға өзгерту енгізілді - Жамбыл облыстық мәслихатының 2011.02.21 № 31-2(2011 жылдың 1 қаңтарынан қолданысқа енгізіледі) Шешімімен.*
+
 ## 2012 жылға арналған облыстық бюджет
 
 <table>
@@ -2487,7 +2497,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>1. КІРІСТЕР</td>
-<td>111 414 065</td>
+<td>112 624 658</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2592,21 +2602,21 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>ТРАНСФЕРТТЕРДІҢ ТҮСІМДЕРІ</td>
-<td>102 314 103</td>
+<td>103 524 696</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>102 314 103</td>
+<td>103 524 696</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Республикалық бюджеттен түсетiн трансферттер</td>
-<td>102 314 103</td>
+<td>103 524 696</td>
 </tr>
 </table>
 
@@ -2640,7 +2650,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>2.Шығындар</td>
-<td>110 496 131</td>
+<td>111 706 724</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3151,7 +3161,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>Денсаулық сақтау</td>
-<td>23 498 181</td>
+<td>24 708 774</td>
 </tr>
 <tr>
 <td></td>
@@ -3361,14 +3371,14 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td>281</td>
 <td></td>
 <td>Құрылыс, жолаушылар көлігі және автомобиль жолдары басқармасы</td>
-<td>3 933 428</td>
+<td>5 144 021</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Денсаулық сақтау объектілерін салу және реконструкциялау</td>
-<td>3 933 428</td>
+<td>5 144 021</td>
 </tr>
 <tr>
 <td>06</td>
@@ -4249,53 +4259,50 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 
 <table>
 <tr>
-<td colspan="5">Санаты</td>
-<td colspan="2">Атауы</td>
+<td colspan="3">Санаты</td>
+<td>Атауы</td>
 <td rowspan="3">
 Сомасы,
 мың теңге
 </td>
 </tr>
 <tr>
-<td colspan="5">Сыныбы</td>
-<td colspan="2"></td>
+<td></td>
+<td colspan="2">Сыныбы</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="7">Ішкі сыныбы</td>
+<td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="5">1</th>
-<th colspan="2">2</th>
+<th colspan="3">1</th>
+<th>2</th>
 <th>3</th>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджеттік кредиттерді өтеу</td>
+<td></td>
+<td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
 <td>660 250</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="2">Бюджеттік кредиттерді өтеу</td>
+<td>01</td>
+<td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
 <td>660 250</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="2">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td></td>
+<td>1</td>
+<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>660 250</td>
 </tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td colspan="7">Функционалдық топ</td>
 <td rowspan="4">Сомасы, мың теңге</td>
@@ -4324,7 +4331,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">4.Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
+<td colspan="2">4. Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
 <td>817 934</td>
 </tr>
 <tr>
@@ -4386,7 +4393,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">5. Бюджет тапшылығы (профициті)</td>
+<td colspan="2">5.Бюджет тапшылығы (профициті)</td>
 <td>-134 340</td>
 </tr>
 <tr>
@@ -4406,10 +4413,11 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <tr>
 <td colspan="5">Санаты</td>
 <td colspan="2">Атауы</td>
-<td rowspan="3">Сомасы,мың теңге</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="5">Сыныбы</td>
+<td></td>
+<td colspan="4">Сыныбы</td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -4455,17 +4463,13 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 </tr>
 <tr>
 <td colspan="7">Функционалдық топ Атауы</td>
-<td rowspan="2">
-Сомасы,
-мың теңге
-</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="7">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td colspan="7">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <th colspan="2"></th>
@@ -4501,6 +4505,8 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 > *2010 жылғы 13 желтоқсандағы*  
 > *№ 30-3 шешіміне 3-қосымша*
 
+> *Ескерту. 3-қосымшаға өзгерту енгізілді - Жамбыл облыстық мәслихатының 2011.02.21 № 31-2(2011 жылдың 1 қаңтарынан қолданысқа енгізіледі) Шешімімен.*
+
 ## 2013 жылға арналған облыстық бюджет
 
 <table>
@@ -4530,7 +4536,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>1. КІРІСТЕР</td>
-<td>112 154 204</td>
+<td>117 389 968</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4635,21 +4641,21 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>ТРАНСФЕРТТЕРДІҢ ТҮСІМДЕРІ</td>
-<td>102 637 419</td>
+<td>107 873 183</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>102 637 419</td>
+<td>107 873 183</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Республикалық бюджеттен түсетiн трансферттер</td>
-<td>102 637 419</td>
+<td>107 873 183</td>
 </tr>
 </table>
 
@@ -4683,7 +4689,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>111 610 338</td>
+<td>116 846 102</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5187,7 +5193,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td></td>
 <td></td>
 <td>Денсаулық сақтау</td>
-<td>23 885 727</td>
+<td>29 121 491</td>
 </tr>
 <tr>
 <td></td>
@@ -5397,14 +5403,14 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 <td>281</td>
 <td></td>
 <td>Құрылыс, жолаушылар көлігі және автомобиль жолдары басқармасы</td>
-<td>3 026 169</td>
+<td>8 261 933</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Денсаулық сақтау объектілерін салу және реконструкциялау</td>
-<td>3 026 169</td>
+<td>8 261 933</td>
 </tr>
 <tr>
 <td>06</td>
@@ -6243,242 +6249,237 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/13.12.2010
 
 <table>
 <tr>
-<td colspan="5">Санаты</td>
-<td colspan="2">Атауы</td>
+<td colspan="3">Санаты</td>
+<td>Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="5">Сыныбы</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">Ішкі сыныбы</td>
-</tr>
-<tr>
-<th colspan="5">1</th>
-<th colspan="2">2</th>
-<th>3</th>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td>645 250</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td>645 250</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="2">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
-<td>645 250</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Сыныбы</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Атауы</td>
-</tr>
-<tr>
-<th colspan="5">1</th>
-<th colspan="2">2</th>
-<th>3</th>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">4.Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
-<td>443 866</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қаржы активтерін сатып алу</td>
-<td>443 866</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Басқалар</td>
-<td>443 866</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">257</td>
-<td colspan="2"></td>
-<td colspan="2">Облыстың қаржы басқармасы</td>
-<td>443 866</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">005</td>
-<td colspan="2">Заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту</td>
-<td>443 866</td>
-</tr>
-<tr>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="7">Функционалдық топ Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<th colspan="5">1</th>
-<th colspan="2">2</th>
-<th>3</th>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">5.Бюджет тапшылығы (профициті)</td>
-<td>-149 340</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">6.Бюджет тапшылығын қаржыландыру (профицитті пайдалану)</td>
-<td>149 340</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">Санаты</td>
-<td colspan="2">Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td colspan="5">Сыныбы</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">Ішкі сыныбы</td>
-</tr>
-<tr>
-<th></th>
-<th colspan="2">1</th>
-<th colspan="2"></th>
-<th colspan="2">2</th>
-<th>3</th>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қарыздар түсімі</td>
-<td>794 590</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="2">Мемлекеттік сыртқы қарыздар</td>
-<td>794 590</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td colspan="2">Қарыз алу келісім-шарттары</td>
-<td>794 590</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджет қаражатының қалдықтарының қозғалысы</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8"></td>
-</tr>
-<tr>
-<td colspan="7">Функционалдық топ Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td colspan="7">Бюджеттік бағдарламалардың әкiмшiсi</td>
-</tr>
-<tr>
-<td colspan="7">Бағдарлама</td>
-</tr>
-<tr>
-<th colspan="2"></th>
-<th colspan="2">1</th>
-<th colspan="2"></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
 <tr>
-<td colspan="2">16</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>645 250</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>645 250</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td>645 250</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="4">Функционалдық топ</td>
+<td rowspan="4">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+</tr>
+<tr>
+<th colspan="3">1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>4.Қаржы активтерімен жасалатын операциялар бойынша сальдо</td>
+<td>443 866</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаржы активтерін сатып алу</td>
+<td>443 866</td>
+</tr>
+<tr>
+<td>13</td>
+<td></td>
+<td></td>
+<td>Басқалар</td>
+<td>443 866</td>
+</tr>
+<tr>
+<td></td>
+<td>257</td>
+<td></td>
+<td>Облыстың қаржы басқармасы</td>
+<td>443 866</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>005</td>
+<td>Заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту</td>
+<td>443 866</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="4">Функционалдық топ Атауы</td>
+<td rowspan="4">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th colspan="3">1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>5.Бюджет тапшылығы (профициті)</td>
+<td>-149 340</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>6.Бюджет тапшылығын қаржыландыру (профицитті пайдалану)</td>
+<td>149 340</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="2">Санаты</td>
+<td></td>
+<td>Атауы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Сыныбы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">Ішкі сыныбы</td>
+</tr>
+<tr>
+<th></th>
+<th>1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td></td>
+<td>Қарыздар түсімі</td>
+<td>794 590</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Мемлекеттік сыртқы қарыздар</td>
+<td>794 590</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Қарыз алу келісім-шарттары</td>
+<td>794 590</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td>Бюджет қаражатының қалдықтарының қозғалысы</td>
+<td>0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="4">Функционалдық топ Атауы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td colspan="4">Бағдарлама</td>
+</tr>
+<tr>
+<th></th>
+<th>1</th>
+<th></th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<td>16</td>
+<td></td>
+<td></td>
 <td>Қарыздарды өтеу</td>
 <td>645 250</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">257</td>
-<td colspan="2"></td>
+<td></td>
+<td>257</td>
+<td></td>
 <td>Облыстың қаржы басқармасы</td>
 <td>645 250</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">015</td>
+<td></td>
+<td></td>
+<td>015</td>
 <td>Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
 <td>645 250</td>
 </tr>
