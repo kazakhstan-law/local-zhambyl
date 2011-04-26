@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56684/rus/29.03.2011
+source: https://zan.gov.kz/client/#!/doc/56684/rus/26.04.2011
 ---
 
 ## Бюджетные программы каждого аульного округа в районном бюджете на 2011 год
@@ -129,7 +129,7 @@ source: https://zan.gov.kz/client/#!/doc/56684/rus/29.03.2011
 <tr>
 <td>14</td>
 <td>Аппарат акима Каскабулакского округа</td>
-<td>5 698</td>
+<td>5 887</td>
 <td>120</td>
 <td>00</td>
 <td>00</td>
@@ -137,14 +137,14 @@ source: https://zan.gov.kz/client/#!/doc/56684/rus/29.03.2011
 <tr>
 <td></td>
 <td>Всего</td>
-<td>112 747</td>
+<td>112 936</td>
 <td>1 800</td>
 <td>2 960</td>
 <td>7 484</td>
 </tr>
 </table>
 
-Продолжение таблицы:
+Продолжение таблицы
 
 <table>
 <tr>
@@ -173,9 +173,9 @@ source: https://zan.gov.kz/client/#!/doc/56684/rus/29.03.2011
 <td>00</td>
 <td>00</td>
 <td>8 890</td>
-<td>15 068</td>
-<td>266</td>
-<td>7 345</td>
+<td>7 300</td>
+<td>261</td>
+<td>3 974</td>
 </tr>
 <tr>
 <td>2</td>
@@ -192,7 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/56684/rus/29.03.2011
 <td>Аппарат акима Акколского округа</td>
 <td>00</td>
 <td>3 000</td>
-<td>371</td>
+<td>671</td>
 <td>120</td>
 <td>00</td>
 <td>601</td>
@@ -312,9 +312,9 @@ source: https://zan.gov.kz/client/#!/doc/56684/rus/29.03.2011
 <td>Всего</td>
 <td>85</td>
 <td>12 680</td>
-<td>10 634</td>
-<td>16 920</td>
-<td>266</td>
-<td>9 857</td>
+<td>10 934</td>
+<td>9 152</td>
+<td>261</td>
+<td>6 486</td>
 </tr>
 </table>
