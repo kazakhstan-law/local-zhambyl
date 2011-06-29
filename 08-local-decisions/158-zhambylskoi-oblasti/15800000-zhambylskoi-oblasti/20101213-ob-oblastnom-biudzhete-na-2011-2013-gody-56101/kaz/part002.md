@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56101/kaz/25.04.2011
+source: https://zan.gov.kz/client/#!/doc/56101/kaz/29.06.2011
 ---
 
 ## 2012 жылға арналған облыстық бюджет
@@ -21,9 +21,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/25.04.2011
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -1959,9 +1957,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/25.04.2011
 <td colspan="7">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th colspan="2">1</th>
-<th colspan="2"></th>
+<th colspan="5">1</th>
 <th colspan="2">2</th>
 <th>3</th>
 </tr>
@@ -2007,9 +2003,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/25.04.2011
 <td colspan="7">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="2">1</th>
-<th colspan="2"></th>
+<th colspan="6">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2060,9 +2054,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/25.04.2011
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2215,9 +2207,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/25.04.2011
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td>2</td>
-<td>3</td>
+<th colspan="3">1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -3943,9 +3935,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/25.04.2011
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -3991,9 +3981,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/25.04.2011
 <td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>

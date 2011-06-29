@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
+source: https://zan.gov.kz/client/#!/doc/56101/rus/29.06.2011
 ---
 
 ## Областной бюджет на 2011 год
@@ -32,7 +32,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>114 945 451</td>
+<td>114 855 451</td>
 </tr>
 <tr>
 <td>1</td>
@@ -165,7 +165,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>105 301 921</td>
+<td>105 211 921</td>
 </tr>
 <tr>
 <td></td>
@@ -186,14 +186,14 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>105 183 813</td>
+<td>105 093 813</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Трансферты из республиканского бюджета</td>
-<td>105 183 813</td>
+<td>105 093 813</td>
 </tr>
 </table>
 
@@ -227,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>116 314 343</td>
+<td>116 224 343</td>
 </tr>
 <tr>
 <td>01</td>
@@ -324,7 +324,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
 <td></td>
 <td></td>
 <td>013</td>
-<td>Капитальные расходы государственных органов</td>
+<td>Капитальные расходыгосударственных органов</td>
 <td>3 764</td>
 </tr>
 <tr>
@@ -1956,21 +1956,21 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>6 097 368</td>
+<td>6 007 368</td>
 </tr>
 <tr>
 <td></td>
 <td>281</td>
 <td></td>
 <td>Управление строительства, пассажирского транспорта и автомобильных дорог области</td>
-<td>5 978 069</td>
+<td>5 888 069</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>038</td>
 <td>Обеспечение функционирования автомобильных дорог</td>
-<td>3 573 765</td>
+<td>3 483 765</td>
 </tr>
 <tr>
 <td></td>
@@ -2435,9 +2435,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2484,9 +2482,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>

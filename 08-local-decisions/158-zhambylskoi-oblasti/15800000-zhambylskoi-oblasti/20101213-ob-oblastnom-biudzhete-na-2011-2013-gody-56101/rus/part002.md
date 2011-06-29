@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
+source: https://zan.gov.kz/client/#!/doc/56101/rus/29.06.2011
 ---
 
 ## Областной бюджет на 2012 год
@@ -21,9 +21,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -3948,9 +3946,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -3996,9 +3992,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/25.04.2011
 <td colspan="4">Программа</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
