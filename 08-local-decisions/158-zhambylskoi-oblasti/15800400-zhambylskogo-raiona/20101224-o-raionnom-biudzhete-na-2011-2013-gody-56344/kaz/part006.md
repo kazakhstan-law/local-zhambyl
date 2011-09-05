@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
+source: https://zan.gov.kz/client/#!/doc/56344/kaz/05.09.2011
 ---
 
 ## Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық), округ әкімінің аппараты
 
-мың теңге
+> *Ескерту. 6-қосымша жаңа редакцияда - Жамбыл аудандық мәслихатының 2011.09.05 № 44-2 (2011 жылдың 1 қаңтарынан қолданысқа енгізіледі) Шешімімен.мың теңге*
 
 <table>
 <tr>
@@ -24,15 +24,15 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <td>1</td>
 <td>Аса селолық округі</td>
 <td>14254</td>
-<td>1346</td>
+<td>1403</td>
 <td></td>
-<td>7800</td>
+<td>10570</td>
 <td>550</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Айшабибі селолық округі</td>
-<td>11345</td>
+<td>11421</td>
 <td>0</td>
 <td></td>
 <td>4650</td>
@@ -53,7 +53,7 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <td>9168</td>
 <td>0</td>
 <td>600</td>
-<td>4370</td>
+<td>4720</td>
 <td>0</td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <td>6</td>
 <td>Гродеково селолық округі</td>
 <td>12338</td>
-<td>643</td>
+<td>700</td>
 <td></td>
 <td>4650</td>
 <td>300</td>
@@ -95,7 +95,7 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <tr>
 <td>9</td>
 <td>Қызылқайнар ауылдық округі</td>
-<td>9178</td>
+<td>9465</td>
 <td>0</td>
 <td></td>
 <td>650</td>
@@ -104,10 +104,10 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <tr>
 <td>10</td>
 <td>Қаратөбе ауылдық округі</td>
-<td>9642</td>
+<td>9907</td>
 <td>612</td>
 <td></td>
-<td>6000</td>
+<td>5735</td>
 <td>0</td>
 </tr>
 <tr>
@@ -126,13 +126,13 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <td>612</td>
 <td></td>
 <td>0</td>
-<td>3000</td>
+<td>3785</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Құмшағал ауылдық округі</td>
-<td>10331</td>
-<td>633</td>
+<td>10650</td>
+<td>690</td>
 <td></td>
 <td>0</td>
 <td>0</td>
@@ -140,7 +140,7 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <tr>
 <td>14</td>
 <td>Ерназар селолық округі</td>
-<td>8669</td>
+<td>8734</td>
 <td>0</td>
 <td></td>
 <td>0</td>
@@ -158,29 +158,29 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <tr>
 <td>16</td>
 <td>Пионер ауылдық округі</td>
-<td>8437</td>
+<td>8537</td>
 <td>0</td>
 <td></td>
-<td>220</td>
+<td>120</td>
 <td>0</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Полатқосшы селолық округі</td>
-<td>11799</td>
+<td>11912</td>
 <td>745</td>
 <td></td>
-<td>2550</td>
+<td>2450</td>
 <td>300</td>
 </tr>
 <tr>
 <td></td>
 <td>Барлығы:</td>
-<td>173901</td>
-<td>7268</td>
+<td>175126</td>
+<td>7439</td>
 <td>600</td>
-<td>35610</td>
-<td>4450</td>
+<td>38265</td>
+<td>5235</td>
 </tr>
 </table>
 
@@ -201,17 +201,17 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <tr>
 <td>1</td>
 <td>Аса селолық округі</td>
-<td>7030</td>
-<td>36661</td>
-<td>5961</td>
+<td>4230</td>
+<td>33465</td>
+<td>6081</td>
 <td>250</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Айшабибі селолық округі</td>
-<td>1060</td>
+<td>1110</td>
 <td>0</td>
-<td>3533</td>
+<td>3563</td>
 <td>130</td>
 </tr>
 <tr>
@@ -227,14 +227,14 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <td>Ақбұлым селолық округі</td>
 <td>446</td>
 <td>0</td>
-<td>2892</td>
+<td>992</td>
 <td>130</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Бесағаш селолық округі</td>
 <td>415</td>
-<td>8520</td>
+<td>8168</td>
 <td>0</td>
 <td>130</td>
 </tr>
@@ -258,8 +258,8 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <td>8</td>
 <td>Көлқайнар селолық округі</td>
 <td>515</td>
-<td>2132</td>
-<td>4090</td>
+<td>2082</td>
+<td>3790</td>
 <td>130</td>
 </tr>
 <tr>
@@ -267,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <td>Қызылқайнар ауылдық округі</td>
 <td>565</td>
 <td>0</td>
-<td>1306</td>
+<td>806</td>
 <td>130</td>
 </tr>
 <tr>
@@ -290,38 +290,38 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <td>12</td>
 <td>Қаракемер ауылдық округі</td>
 <td>565</td>
-<td>3112</td>
-<td>814</td>
-<td>130</td>
+<td>2898</td>
+<td>1065</td>
+<td>108</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Құмшағал ауылдық округі</td>
 <td>415</td>
 <td>0</td>
-<td>2088</td>
+<td>2033</td>
 <td>130</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Ерназар селолық округі</td>
-<td>465</td>
+<td>410</td>
 <td>0</td>
-<td>3004</td>
-<td>130</td>
+<td>2954</td>
+<td>120</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Өрнек селолық округі</td>
 <td>495</td>
-<td>3761</td>
+<td>3552</td>
 <td>3613</td>
 <td>130</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Пионер ауылдық округі</td>
-<td>595</td>
+<td>465</td>
 <td>0</td>
 <td>0</td>
 <td>130</td>
@@ -330,16 +330,16 @@ source: https://zan.gov.kz/client/#!/doc/56344/kaz/26.04.2011
 <td>17</td>
 <td>Полатқосшы селолық округі</td>
 <td>922</td>
-<td>14853</td>
+<td>14282</td>
 <td>0</td>
 <td>130</td>
 </tr>
 <tr>
 <td></td>
 <td>Барлығы:</td>
-<td>17043</td>
-<td>69039</td>
-<td>31889</td>
-<td>2330</td>
+<td>14108</td>
+<td>64447</td>
+<td>29485</td>
+<td>2298</td>
 </tr>
 </table>
