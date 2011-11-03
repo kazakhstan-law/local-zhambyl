@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/44489/rus/27.01.2009
+repealed_on: 2011-11-04
+repealed_by:
+  code: '61621'
+  title: Об установлении единых ставок фиксированного налога
+  link: https://zan.gov.kz/client/#!/doc/61621/rus
 ---
 
 # О ставках фиксированного налога

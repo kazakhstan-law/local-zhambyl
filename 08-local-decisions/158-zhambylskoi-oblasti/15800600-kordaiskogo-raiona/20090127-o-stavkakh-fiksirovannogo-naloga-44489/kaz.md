@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/44489/kaz/18.05.2010
+repealed_on: 2011-11-04
+repealed_by:
+  code: '61621'
+  title: Бірыңғай тіркелген салық ставкаларын белгілеу туралы
+  link: https://zan.gov.kz/client/#!/doc/61621/kaz
 ---
 
 # Тіркелген салық ставкалары туралы
