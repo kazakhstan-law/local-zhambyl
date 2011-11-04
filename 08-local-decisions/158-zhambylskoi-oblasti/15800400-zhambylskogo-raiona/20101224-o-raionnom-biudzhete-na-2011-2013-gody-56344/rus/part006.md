@@ -1,13 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
+source: https://zan.gov.kz/client/#!/doc/56344/rus/04.11.2011
 ---
 
 ## Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа
 
-> *Сноска. Приложение 6 в новой редакции внесенной решением Жамбылского районного маслихата от 05.09.2011 № 44-2 (вводится в действие с 01.01.2011).*
-
-тыс тенге
+> *Сноска. Приложение 6 в новой редакции внесенной решением Жамбылского районного маслихата от 04.11.2011 № 46-2 (вводится в действие с 01.01.2011).тыс тенге*
 
 <table>
 <tr>
@@ -24,15 +22,15 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <tr>
 <td>1</td>
 <td>Ассинский сельский округ</td>
-<td>14254</td>
-<td>1403</td>
+<td>14379</td>
+<td>1346</td>
 <td></td>
-<td>10570</td>
+<td>13373</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Айшабибинский сельский округ</td>
-<td>11421</td>
+<td>11425</td>
 <td>0</td>
 <td></td>
 <td>4650</td>
@@ -40,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <tr>
 <td>3</td>
 <td>Акбастауский аульный округ</td>
-<td>8764</td>
+<td>8229</td>
 <td>0</td>
 <td></td>
 <td>250</td>
@@ -48,34 +46,34 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <tr>
 <td>4</td>
 <td>Акбулымский сельский округ</td>
-<td>9168</td>
+<td>9302</td>
 <td>0</td>
 <td>600</td>
-<td>4720</td>
+<td>4525</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Бесагашский сельский округ</td>
-<td>13132</td>
+<td>13124</td>
 <td>644</td>
 <td></td>
-<td>220</td>
+<td>88</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Гродековский сельский округ</td>
-<td>12338</td>
-<td>700</td>
+<td>12160</td>
+<td>643</td>
 <td></td>
-<td>4650</td>
+<td>4400</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Жамбылский сельский округ</td>
-<td>12266</td>
+<td>12336</td>
 <td>745</td>
 <td></td>
-<td>3450</td>
+<td>3380</td>
 </tr>
 <tr>
 <td>8</td>
@@ -107,12 +105,12 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <td>8778</td>
 <td>0</td>
 <td></td>
-<td>450</td>
+<td>650</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Каракемирский аульный округ</td>
-<td>8312</td>
+<td>8374</td>
 <td>612</td>
 <td></td>
 <td>0</td>
@@ -121,7 +119,7 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <td>13</td>
 <td>Кумшагальский аульный округ</td>
 <td>10650</td>
-<td>690</td>
+<td>630</td>
 <td></td>
 <td>0</td>
 </tr>
@@ -136,15 +134,15 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <tr>
 <td>15</td>
 <td>Урнекский сельский округ</td>
-<td>8577</td>
+<td>8870</td>
 <td>604</td>
 <td></td>
-<td>350</td>
+<td>263</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Пионерский аульный округ</td>
-<td>8537</td>
+<td>8612</td>
 <td>0</td>
 <td></td>
 <td>120</td>
@@ -160,10 +158,10 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <tr>
 <td></td>
 <td>Всего:</td>
-<td>175126</td>
-<td>7439</td>
+<td>175168</td>
+<td>7265</td>
 <td>600</td>
-<td>38265</td>
+<td>40534</td>
 </tr>
 </table>
 
@@ -185,18 +183,18 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <tr>
 <td>1</td>
 <td>Ассинский сельский округ</td>
-<td>550</td>
-<td>4230</td>
+<td>700</td>
+<td>4580</td>
 <td>33465</td>
-<td>6081</td>
+<td>5441</td>
 <td>250</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Айшабибинский сельский округ</td>
 <td>300</td>
-<td>1110</td>
-<td>0</td>
+<td>1106</td>
+<td>4900</td>
 <td>3563</td>
 <td>130</td>
 </tr>
@@ -215,14 +213,14 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <td>0</td>
 <td>446</td>
 <td>0</td>
-<td>992</td>
+<td>1053</td>
 <td>130</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Бесагашский сельский округ</td>
 <td>0</td>
-<td>415</td>
+<td>455</td>
 <td>8168</td>
 <td>0</td>
 <td>130</td>
@@ -230,11 +228,11 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <tr>
 <td>6</td>
 <td>Гродековский сельский округ</td>
-<td>300</td>
-<td>1260</td>
+<td>225</td>
+<td>1230</td>
 <td>0</td>
 <td>0</td>
-<td>130</td>
+<td>98</td>
 </tr>
 <tr>
 <td>7</td>
@@ -251,7 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <td>0</td>
 <td>515</td>
 <td>2082</td>
-<td>3790</td>
+<td>3545</td>
 <td>130</td>
 </tr>
 <tr>
@@ -276,7 +274,7 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <td>11</td>
 <td>Каройский сельский округ</td>
 <td>0</td>
-<td>485</td>
+<td>966</td>
 <td>0</td>
 <td>0</td>
 <td>130</td>
@@ -284,10 +282,10 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <tr>
 <td>12</td>
 <td>Каракемирский аульный округ</td>
-<td>3785</td>
+<td>4004</td>
 <td>565</td>
 <td>2898</td>
-<td>1065</td>
+<td>1003</td>
 <td>108</td>
 </tr>
 <tr>
@@ -296,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <td>0</td>
 <td>415</td>
 <td>0</td>
-<td>2033</td>
+<td>1993</td>
 <td>130</td>
 </tr>
 <tr>
@@ -312,10 +310,10 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <td>15</td>
 <td>Урнекский сельский округ</td>
 <td>0</td>
-<td>495</td>
-<td>3552</td>
+<td>411</td>
+<td>3503</td>
 <td>3613</td>
-<td>130</td>
+<td>129</td>
 </tr>
 <tr>
 <td>16</td>
@@ -332,16 +330,16 @@ source: https://zan.gov.kz/client/#!/doc/56344/rus/05.09.2011
 <td>300</td>
 <td>922</td>
 <td>14282</td>
-<td>0</td>
+<td>60</td>
 <td>130</td>
 </tr>
 <tr>
 <td></td>
 <td>Всего:</td>
-<td>5235</td>
-<td>14108</td>
-<td>64447</td>
-<td>29485</td>
-<td>2298</td>
+<td>5529</td>
+<td>14861</td>
+<td>69298</td>
+<td>28619</td>
+<td>2265</td>
 </tr>
 </table>
