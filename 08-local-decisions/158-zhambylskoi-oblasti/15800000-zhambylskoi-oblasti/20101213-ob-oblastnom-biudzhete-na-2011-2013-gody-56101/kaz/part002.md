@@ -1,9 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
+source: https://zan.gov.kz/client/#!/doc/56101/kaz/14.12.2011
 ---
 
+> *Жамбыл облысы мәслихатының*  
+> *2010 жылғы 13 желтоқсандағы*  
+> *№ 30-3 шешіміне 2-қосымша*
+
 ## 2012 жылға арналған облыстық бюджет
+
+> *Ескерту. 2-қосымшаға өзгерту енгізілді - Жамбыл облыстық мәслихатының 2011.02.21 № 31-2 (2011 жылдың 1 қаңтарынан қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
@@ -21,11 +27,11 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -176,9 +182,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1808,9 +1814,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1856,9 +1862,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1918,9 +1924,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td></td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1954,11 +1960,11 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2002,11 +2008,11 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2035,9 +2041,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 > *2010 жылғы 13 желтоқсандағы*  
 > *№ 30-3 шешіміне 3-қосымша*
 
-> *Ескерту. 3-қосымшаға өзгерту енгізілді - Жамбыл облыстық мәслихатының 2011.02.21 № 31-2(2011 жылдың 1 қаңтарынан қолданысқа енгізіледі) Шешімімен.*
-
 ## 2013 жылға арналған облыстық бюджет
+
+> *Ескерту. 3-қосымшаға өзгерту енгізілді - Жамбыл облыстық мәслихатының 2011.02.21 № 31-2(2011 жылдың 1 қаңтарынан қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -2055,9 +2061,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2208,9 +2214,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3790,9 +3796,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -3838,9 +3844,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3900,9 +3906,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td></td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3936,9 +3942,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -3982,9 +3988,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/kaz/28.10.2011
 <td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>

@@ -1,9 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
+source: https://zan.gov.kz/client/#!/doc/56101/rus/14.12.2011
 ---
 
+> *Приложение – 2*  
+> *к решению Жамбылского*  
+> *областного маслихата*  
+> *№ 30-3 от 13 декабря 2010 года*
+
 ## Областной бюджет на 2012 год
+
+> *Сноска. Приложение 2 с изменениями, внесенными решением Жамбылского областного маслихата от 21.02.2011 № 31-2 (вводится в действие с 01.01.2011).*
 
 <table>
 <tr>
@@ -21,9 +28,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -174,9 +181,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1809,9 +1816,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1860,9 +1867,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1922,9 +1929,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td></td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1960,11 +1967,11 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2008,11 +2015,11 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td colspan="4">Программа</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2038,10 +2045,11 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 </table>
 
 > *Приложение - 3*  
-> *к решению Жамбылского областного маслихата*  
+> *к решению Жамбылского*  
+> *областного маслихата*  
 > *№ 30-3 от 13 декабря 2010 года – 1*
 
-> *Сноска. Приложение 3 с изменениями, внесенными решением Жамбылского областного маслихата от 21.02.2011 № 31-2(вводится в действие с 01.01.2011).*
+> *Сноска. Приложение 3 с изменениями, внесенными решением Жамбылского областного маслихата от 21.02.2011 № 31-2 (вводится в действие с 01.01.2011).*
 
 ## Областной бюджет на 2013 год
 
@@ -2061,11 +2069,11 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2216,9 +2224,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3798,9 +3806,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -3846,9 +3854,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3908,9 +3916,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td></td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3946,9 +3954,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -3978,9 +3986,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td>Используемые остатки бюджетных средств</td>
 <td>0</td>
 </tr>
-<tr>
-<td colspan="5"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td colspan="4">Функциональная группа Наименование</td>
 <td rowspan="3">Сумма, тыс. тенге</td>
@@ -3992,9 +4000,9 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 <td colspan="4">Программа</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -4021,7 +4029,7 @@ source: https://zan.gov.kz/client/#!/doc/56101/rus/28.10.2011
 
 > *Приложение – 4*  
 > *к решению Жамбылского областного*  
-> *маслихата№ 30-3 от 13 декабря 2010 года*
+> *маслихата № 30-3 от 13 декабря 2010 года*
 
 ## Перечень местных бюджетных программ, не подлежащих секвестру в процессе исполнения местных бюджетов на 2011 год
 
