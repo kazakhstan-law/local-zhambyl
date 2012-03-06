@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62139/rus/14.12.2011
+source: https://zan.gov.kz/client/#!/doc/62139/rus/06.03.2012
 ---
 
 ## Бюджет Жамбылского района на 2014 год
