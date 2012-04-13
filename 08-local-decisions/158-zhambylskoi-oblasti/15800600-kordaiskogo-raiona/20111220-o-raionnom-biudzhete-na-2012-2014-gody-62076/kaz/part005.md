@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
+source: https://zan.gov.kz/client/#!/doc/62076/kaz/13.04.2012
 ---
 
 ## 2012-2014 жылдарға арналған аудандық бюджеттен ауылдық округтерге бағдарламалар бойынша бөлінген қаражат көлемдерінің тізбесі
 
-> *Ескерту. 5 - қосымша жаңа редакцияда - Қордай аудандық мәслихатының 2012.03.02 № 3-2 (2012 жылдың 1 қаңтарынан қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 5 - қосымша жаңа редакцияда - Қордай аудандық мәслихатының 2012.04.13 № 4-2 (2012 жылдың 1 қаңтарынан қолданысқа енгізіледі) шешімімен.*
 
 мың теңге
 
@@ -46,7 +46,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Алға ауылдық округінің аппараты</td>
-<td>9909</td>
+<td>9902</td>
 <td>11038</td>
 <td>10038</td>
 <td></td>
@@ -64,7 +64,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Бетқайнар ауылдық округінің аппараты</td>
-<td>11308</td>
+<td>11300</td>
 <td>12325</td>
 <td>12325</td>
 <td></td>
@@ -73,16 +73,16 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Жамбыл ауылдық округінің аппараты</td>
-<td>11567</td>
+<td>11547</td>
 <td>28202</td>
 <td>14714</td>
-<td>2780</td>
+<td>2738</td>
 <td>2280</td>
 <td>150</td>
 </tr>
 <tr>
 <td>Қақпатас ауылдық округінің аппараты</td>
-<td>8315</td>
+<td>8285</td>
 <td>12159</td>
 <td>12159</td>
 <td></td>
@@ -91,16 +91,16 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Қаракемер ауылдық округінің аппараты</td>
-<td>12007</td>
+<td>11959</td>
 <td>10686</td>
 <td>11434</td>
-<td>140</td>
+<td>127</td>
 <td>2150</td>
 <td>150</td>
 </tr>
 <tr>
 <td>Қарасай ауылдық округінің аппараты</td>
-<td>13279</td>
+<td>13179</td>
 <td>16656</td>
 <td>15656</td>
 <td>4440</td>
@@ -109,7 +109,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Қарасу ауылдық округінің аппараты</td>
-<td>13556</td>
+<td>13534</td>
 <td>15378</td>
 <td>13378</td>
 <td></td>
@@ -118,7 +118,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Қасық ауылдық округінің аппараты</td>
-<td>10258</td>
+<td>10237</td>
 <td>12426</td>
 <td>12426</td>
 <td>140</td>
@@ -136,10 +136,10 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Қордай ауылдық округінің аппараты</td>
-<td>24229</td>
+<td>23929</td>
 <td>28317</td>
 <td>28317</td>
-<td>2929</td>
+<td>2781</td>
 <td>3855</td>
 <td></td>
 </tr>
@@ -154,7 +154,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Ноғайбай ауылдық округінің аппараты</td>
-<td>8117</td>
+<td>8110</td>
 <td>11592</td>
 <td>11592</td>
 <td>140</td>
@@ -166,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td>14784</td>
 <td>17819</td>
 <td>17819</td>
-<td>140</td>
+<td>123</td>
 <td></td>
 <td>520</td>
 </tr>
@@ -208,7 +208,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Үлкен-Сұлутөр ауылдық округінің аппараты</td>
-<td>7946</td>
+<td>7942</td>
 <td>10102</td>
 <td>10102</td>
 <td></td>
@@ -217,10 +217,10 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Барлығы:</td>
-<td>234933</td>
+<td>234366</td>
 <td>303072</td>
 <td>279731</td>
-<td>10709</td>
+<td>10489</td>
 <td>11081</td>
 <td>20000</td>
 </tr>
@@ -295,7 +295,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
-<td>3400</td>
+<td>3075</td>
 <td>3400</td>
 <td>3500</td>
 </tr>
@@ -310,10 +310,10 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Қаракемер ауылдық округінің аппараты</td>
-<td>104</td>
+<td>117</td>
 <td>699</td>
 <td>699</td>
-<td>172</td>
+<td>154</td>
 <td></td>
 <td></td>
 </tr>
@@ -349,7 +349,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td>85</td>
 <td>636</td>
 <td>636</td>
-<td>893</td>
+<td>1053</td>
 <td></td>
 <td></td>
 </tr>
@@ -382,10 +382,10 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Отар ауылдық округінің аппараты</td>
-<td>133</td>
+<td>120</td>
 <td>684</td>
 <td>684</td>
-<td>6506</td>
+<td>6276</td>
 <td>1621</td>
 <td>2000</td>
 </tr>
@@ -421,7 +421,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
-<td>1018</td>
+<td>7235</td>
 <td></td>
 <td></td>
 </tr>
@@ -439,7 +439,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td>3032</td>
 <td>18801</td>
 <td>18801</td>
-<td>16634</td>
+<td>22438</td>
 <td>9238</td>
 <td>9238</td>
 </tr>
@@ -527,7 +527,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Қаракемер ауылдық округінің аппараты</td>
-<td>11548</td>
+<td>10954</td>
 <td>1534</td>
 <td>1642</td>
 <td>80</td>
@@ -575,7 +575,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td>7893</td>
 <td>8340</td>
 <td>9000</td>
-<td>421</td>
+<td>290</td>
 <td>700</td>
 <td>749</td>
 </tr>
@@ -620,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td>4194</td>
 <td>2004</td>
 <td>2144</td>
-<td>50</td>
+<td>46</td>
 <td>105</td>
 <td>112</td>
 </tr>
@@ -644,7 +644,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Үлкен-Сұлутөр ауылдық округінің аппараты</td>
-<td>566</td>
+<td>486</td>
 <td>606</td>
 <td>648</td>
 <td>80</td>
@@ -653,10 +653,10 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </tr>
 <tr>
 <td>Барлығы:</td>
-<td>35761</td>
+<td>35087</td>
 <td>77306</td>
 <td>82712</td>
-<td>1831</td>
+<td>1696</td>
 <td>2564</td>
 <td>2743</td>
 </tr>
@@ -688,7 +688,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 </th>
 <th>
 2012
-жыл
+Жыл
 </th>
 <th>
 2013
@@ -713,7 +713,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
-<td>1678</td>
+<td>1661</td>
 <td>670</td>
 <td>670</td>
 </tr>
@@ -722,7 +722,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
-<td>480</td>
+<td>453</td>
 <td>483</td>
 <td>483</td>
 </tr>
@@ -731,7 +731,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
-<td>1619</td>
+<td>1431</td>
 <td>1240</td>
 <td>1240</td>
 </tr>
@@ -749,7 +749,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
-<td>862</td>
+<td>795</td>
 <td>944</td>
 <td>944</td>
 </tr>
@@ -767,7 +767,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
-<td>605</td>
+<td>504</td>
 <td>616</td>
 <td>616</td>
 </tr>
@@ -776,7 +776,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
-<td>1730</td>
+<td>1722</td>
 <td>1158</td>
 <td>1158</td>
 </tr>
@@ -794,7 +794,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td>368</td>
 <td>394</td>
 <td>421</td>
-<td>50061</td>
+<td>48502</td>
 <td>58849</td>
 <td>58849</td>
 </tr>
@@ -803,7 +803,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
-<td>1324</td>
+<td>3474</td>
 <td>590</td>
 <td>590</td>
 </tr>
@@ -821,7 +821,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
-<td>2032</td>
+<td>1480</td>
 <td>1006</td>
 <td>1006</td>
 </tr>
@@ -839,7 +839,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
-<td>780</td>
+<td>702</td>
 <td>680</td>
 <td>680</td>
 </tr>
@@ -866,7 +866,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
-<td>3077</td>
+<td>3033</td>
 <td>1095</td>
 <td>1095</td>
 </tr>
@@ -875,7 +875,7 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td>368</td>
 <td>394</td>
 <td>421</td>
-<td>69845</td>
+<td>69354</td>
 <td>72273</td>
 <td>72273</td>
 </tr>
@@ -884,10 +884,11 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <table>
 <tr>
 <td rowspan="3">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараттарының атауы</td>
-<td colspan="3">Бағдарламалар атауы</td>
+<td colspan="6">Бағдарламалар атауы</td>
 </tr>
 <tr>
 <td colspan="3">005 «Ауылдық (селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру»</td>
+<td colspan="3">040 «Республикалық бюджеттен нысаналы трансферттер ретінде «Өңірлерді дамыту» бағдарламасы шеңберінде өңірлердің экономикалық дамуына жәрдемдесу жөніндегі шараларды іске асыруда ауылдық (селолық) округтарды жайластыру мәселелерін шешу үшін іс-шараларды іске асыру»</td>
 </tr>
 <tr>
 <th>
@@ -902,21 +903,48 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 2014
 жыл
 </th>
+<th>
+2012
+жыл
+</th>
+<th>
+2013
+жыл
+</th>
+<th>
+2014
+жыл
+</th>
 </tr>
 <tr>
-<td>Алға ауылдық округінің аппараты</td>
+<td>
+Алға ауылдық округінің
+аппараты
+</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Ауқатты ауылдық округінің аппараты</td>
+<td>
+Ауқатты ауылдық округінің
+аппараты
+</td>
 <td>799</td>
 <td>855</td>
 <td>915</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Бетқайнар ауылдық округінің аппараты</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -926,21 +954,33 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Қақпатас ауылдық округінің аппараты</td>
-<td>646</td>
+<td>637</td>
 <td>691</td>
 <td>740</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Қаракемер ауылдық округінің аппараты</td>
 <td></td>
 <td></td>
 <td></td>
+<td>1124</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Қарасай ауылдық округінің аппараты</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -950,15 +990,24 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Қасық ауылдық округінің аппараты</td>
 <td>1493</td>
 <td>1598</td>
 <td>1709</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Кенен ауылдық округінің аппараты</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -968,9 +1017,15 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
+<td>10620</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Масаншы ауылдық округінің аппараты</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -980,22 +1035,34 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Отар ауылдық округінің аппараты</td>
 <td>1778</td>
 <td>1902</td>
 <td>2036</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Сарыбұлақ ауылдық округінің аппараты</td>
-<td>112</td>
+<td></td>
 <td>120</td>
 <td>128</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Сортөбе ауылдық округінің аппараты</td>
+<td>Сортөбе ауылдық округінің Аппараты</td>
 <td></td>
+<td></td>
+<td></td>
+<td>5800</td>
 <td></td>
 <td></td>
 </tr>
@@ -1004,9 +1071,15 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td>510</td>
 <td>546</td>
 <td>584</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Сұлутөр ауылдық округінің аппараты</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1016,11 +1089,17 @@ source: https://zan.gov.kz/client/#!/doc/62076/kaz/02.03.2012
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Барлығы:</td>
-<td>5338</td>
+<td>5217</td>
 <td>5712</td>
 <td>6111</td>
+<td>17544</td>
+<td></td>
+<td></td>
 </tr>
 </table>
