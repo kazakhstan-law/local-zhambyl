@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
+source: https://zan.gov.kz/client/#!/doc/61925/kaz/24.08.2012
 ---
 
 ## 2013 жылға арналған облыстық бюджет
@@ -9,7 +9,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <tr>
 <td colspan="3">Санаты</td>
 <td>Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="3">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -21,9 +24,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -1858,7 +1859,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -1941,7 +1945,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <table>
 <tr>
 <td colspan="4">Функционалдық топ Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -1983,7 +1990,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <tr>
 <td colspan="3">Санаты</td>
 <td>Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="3">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -1994,9 +2004,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2033,19 +2041,16 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <table>
 <tr>
 <td colspan="4">Функционалдық топ Атауы</td>
-<td rowspan="2">Сомасы, мың теңге</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td colspan="4">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2083,7 +2088,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <td colspan="2">Санаты</td>
 <td></td>
 <td>Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="3">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -2095,9 +2103,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2239,7 +2245,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -3835,7 +3844,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <tr>
 <td colspan="3">Санаты</td>
 <td>Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="3">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -3876,7 +3888,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -3952,7 +3967,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <table>
 <tr>
 <td colspan="4">Функционалдық топ Атауы</td>
-<td rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -3994,7 +4012,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <tr>
 <td colspan="3">Санаты</td>
 <td>Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td rowspan="3">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -4005,9 +4026,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -4044,19 +4063,19 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/19.07.2012
 <table>
 <tr>
 <td colspan="4">Функционалдық топ Атауы</td>
-<td rowspan="2">Сомасы, мың теңге</td>
+<td rowspan="3">
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td colspan="4">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>

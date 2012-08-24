@@ -1,17 +1,20 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
+source: https://zan.gov.kz/client/#!/doc/61925/rus/24.08.2012
 ---
 
 ## Областной бюджет на 2012 год
 
-> *Сноска. Приложение 1 в новой редакции внесенной решением Жамбылского областного маслихата от 19.07.2012 № 6-2 (вводится в действие с 01.01.2012).*
+> *Сноска. Приложение 1 в редакции внесенной решением Жамбылского областного маслихата от 24.08.2012 № 7-5 (вводится в действие с 01.01.2012).*
 
 <table>
 <tr>
 <td colspan="3">Категория</td>
 <td>Наименование</td>
-<td rowspan="3">Сумма, тыс. тенге</td>
+<td rowspan="3">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -23,9 +26,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -34,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>148 768 849</td>
+<td>148 368 849</td>
 </tr>
 <tr>
 <td>1</td>
@@ -181,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>134 180 336</td>
+<td>133 780 336</td>
 </tr>
 <tr>
 <td></td>
@@ -202,21 +203,24 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>133 701 474</td>
+<td>133 301 474</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Трансферты из республиканского бюджета</td>
-<td>133 701 474</td>
+<td>133 301 474</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td rowspan="4">Сумма, тыс. тенге</td>
+<td rowspan="4">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -243,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>149 497 166</td>
+<td>149 097 166</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2119,7 +2123,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>5 937 649</td>
+<td>5 537 649</td>
 </tr>
 <tr>
 <td></td>
@@ -2231,7 +2235,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <td>281</td>
 <td></td>
 <td>Управление строительства, пассажирского транспорта и автомобильных дорог области</td>
-<td>3 501 989</td>
+<td>3 101 989</td>
 </tr>
 <tr>
 <td></td>
@@ -2252,7 +2256,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <td></td>
 <td>058</td>
 <td>Развитие индустриальной инфраструктуры в рамках программы «Дорожная карта бизнеса - 2020»</td>
-<td>3 319 208</td>
+<td>2 919 208</td>
 </tr>
 <tr>
 <td></td>
@@ -2428,7 +2432,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <tr>
 <td colspan="3">Категория</td>
 <td>Наименование</td>
-<td rowspan="3">Сумма, тыс. тенге</td>
+<td rowspan="3">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -2437,11 +2444,11 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td></td>
+<td>Подкласс</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2472,8 +2479,8 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <tr>
 <td colspan="4">Функциональная группа</td>
 <td rowspan="4">
-Сумма, тыс.
-тенге
+Сумма,
+тыс.тенге
 </td>
 </tr>
 <tr>
@@ -2535,62 +2542,65 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 
 <table>
 <tr>
-<td colspan="4">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тыс. тенге</td>
+<td colspan="4">Функциональная группа</td>
+<td>Наименование</td>
+<td rowspan="3">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Администратор бюджетных программ</td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <th colspan="3">1</th>
-<th>2</th>
+<th colspan="2">2</th>
 <th>3</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>5. Дефицит (профицит) бюджета</td>
+<td colspan="2">5. Дефицит (профицит) бюджета</td>
 <td>- 2 365 344</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>6. Финансирование дефицита (использование профицита) бюджета</td>
+<td colspan="2">6. Финансирование дефицита (использование профицита) бюджета</td>
 <td>2 365 344</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="4">Категория Наименование</td>
-<td rowspan="3">Сумма, тыс. тенге</td>
+<td colspan="3">Категория</td>
+<td>Наименование</td>
+<td rowspan="3">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="3">класс</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">Подкласс</td>
+<td></td>
+<td></td>
+<td></td>
+<td>подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2626,44 +2636,44 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 
 <table>
 <tr>
-<td colspan="4">Функциональная группа Наименование</td>
-<td rowspan="3">Сумма, тыс. тенге</td>
+<td colspan="4">Функциональная группа</td>
+<td>Наименование</td>
+<td rowspan="3">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="2">Администратор бюджетных программ</td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">Программа</td>
+<td colspan="5">Программа</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
+<th colspan="3">1</th>
+<th colspan="2">2</th>
 <th>3</th>
 </tr>
 <tr>
 <td>16</td>
 <td></td>
 <td></td>
-<td>Погашение займов</td>
+<td colspan="2">Погашение займов</td>
 <td>673 900</td>
 </tr>
 <tr>
 <td></td>
 <td>257</td>
 <td></td>
-<td>Управление финансов области</td>
+<td colspan="2">Управление финансов области</td>
 <td>673 900</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>015</td>
-<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
+<td colspan="2">Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
 <td>673 900</td>
 </tr>
 </table>

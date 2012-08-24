@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
+source: https://zan.gov.kz/client/#!/doc/61925/rus/24.08.2012
 ---
 
 ## Областной бюджет на 2013 год
@@ -1944,7 +1944,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <table>
 <tr>
 <td colspan="4">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тыс. тенге</td>
+<td rowspan="4">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -1987,15 +1990,16 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <td></td>
 <td colspan="2">Класс</td>
 <td></td>
-<td rowspan="2"></td>
+<td rowspan="2">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2032,19 +2036,16 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <table>
 <tr>
 <td colspan="4">Функциональная группа Наименование</td>
-<td rowspan="2">Сумма, тыс. тенге</td>
+<td rowspan="3">Сумма, тыс. тенге</td>
 </tr>
 <tr>
 <td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td colspan="4">Программа</td>
-<td></td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2081,7 +2082,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <tr>
 <td colspan="3">Категория</td>
 <td>Наименование</td>
-<td rowspan="3">Сумма, тыс. тенге</td>
+<td rowspan="3">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -2093,9 +2097,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -2237,7 +2239,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td rowspan="4">Сумма, тыс. тенге</td>
+<td rowspan="4">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -3819,7 +3824,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <tr>
 <td colspan="3">Категория</td>
 <td>Наименование</td>
-<td rowspan="3">Сумма, тыс. тенге</td>
+<td rowspan="3">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -3978,7 +3986,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <tr>
 <td colspan="3">Категория</td>
 <td>Наименование</td>
-<td rowspan="3">Сумма, тыс. тенге</td>
+<td rowspan="3">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -3989,9 +4000,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
@@ -4028,19 +4037,19 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/19.07.2012
 <table>
 <tr>
 <td colspan="4">Функциональная группа Наименование</td>
-<td rowspan="2">Сумма, тыс. тенге</td>
+<td rowspan="3">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td colspan="4">Программа</td>
-<td></td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
+<th colspan="3">1</th>
 <th>2</th>
 <th>3</th>
 </tr>
