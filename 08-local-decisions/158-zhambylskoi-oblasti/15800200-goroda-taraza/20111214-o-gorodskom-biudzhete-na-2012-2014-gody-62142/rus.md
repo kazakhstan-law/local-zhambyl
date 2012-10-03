@@ -1,5 +1,5 @@
 ---
-version_id: AI62142_7
+version_id: AI62142_9
 act_code: '62142'
 language: rus
 title: О городском бюджете на 2012 - 2014 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '158002000002'
 approval_date: 2011-12-14
-version_date: 2012-07-27
+version_date: 2012-10-03
 registry_number: '62142'
 caused_by:
-  code: '66978'
+  code: '68043'
   title: О внесении изменений в решение Таразского городского маслихата от 14 декабря 2011 года № 45-3 "О городском бюджете на 2012-2014 годы"
-  link: https://zan.gov.kz/client/#!/doc/66978/rus
-source: https://zan.gov.kz/client/#!/doc/62142/rus/27.07.2012
+  link: https://zan.gov.kz/client/#!/doc/68043/rus
+source: https://zan.gov.kz/client/#!/doc/62142/rus/03.10.2012
 ---
 
 # О городском бюджете на 2012 - 2014 годы
