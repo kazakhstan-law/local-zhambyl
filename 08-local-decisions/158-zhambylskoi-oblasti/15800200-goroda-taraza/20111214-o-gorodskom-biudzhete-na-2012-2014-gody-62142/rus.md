@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62142/rus/27.07.2012
+source: https://zan.gov.kz/client/#!/doc/62142/rus/03.10.2012
 ---
 
 # О городском бюджете на 2012 - 2014 годы
