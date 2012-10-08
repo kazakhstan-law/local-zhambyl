@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62217/rus/31.07.2012
+source: https://zan.gov.kz/client/#!/doc/62217/rus/08.10.2012
 ---
 
 ## Бюджетные программы каждого аульного округа в районном бюджете на 2012 год

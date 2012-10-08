@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62217/kaz/31.07.2012
+source: https://zan.gov.kz/client/#!/doc/62217/kaz/08.10.2012
 ---
 
 ## 2012 жылға арналған әрбір ауылдық округтің бюджеттік бағдарламалары
