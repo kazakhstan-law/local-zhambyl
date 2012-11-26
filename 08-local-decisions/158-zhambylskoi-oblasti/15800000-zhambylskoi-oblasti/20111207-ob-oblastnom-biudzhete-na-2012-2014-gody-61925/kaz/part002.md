@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/61925/kaz/24.08.2012
+source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 ---
 
 ## 2013 жылға арналған облыстық бюджет
@@ -2085,8 +2085,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/24.08.2012
 
 <table>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
+<td colspan="3">Санаты</td>
 <td>Атауы</td>
 <td rowspan="3">
 Сомасы,
