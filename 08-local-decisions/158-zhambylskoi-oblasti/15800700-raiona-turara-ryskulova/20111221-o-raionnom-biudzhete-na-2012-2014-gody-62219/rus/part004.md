@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
+source: https://zan.gov.kz/client/#!/doc/62219/rus/04.12.2012
 ---
 
 ## Перечень бюджетных программ развития, направленных на реализацию инвестиционных проектов предусмотренных в бюджете района на 2012 год
@@ -276,15 +276,15 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 
 ## Бюджетные программы на 2012 год по аульному (сельскому) округу района
 
-> *Сноска. Приложение 7 в редакции решения маслихата района Т.Рыскулова от 15.11.2012 № 7-4 (вводится в действие с 01.01.2012).*
+> *Сноска. Приложение 7 в редакции решения маслихата района Т.Рыскулова от 04.12.2012 № 8-4 (вводится в действие с 01.01.2012).*
 
 <table>
 <tr>
 <td rowspan="2"></td>
-<td colspan="5">Сельский округ</td>
+<td rowspan="2">Сельский округ</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td>001 &quot;Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа&quot;</td>
 <td>022 &quot;Капитальные расходы государственных органов&quot;</td>
 <td>005 &quot;Организация бесплатного подвоза учащихся до школы и обратно в аульной (сельской) местности&quot;</td>
@@ -301,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <tr>
 <td>2</td>
 <td>Луговой</td>
-<td>14 713</td>
+<td>14 553</td>
 <td>142</td>
 <td></td>
 <td></td>
@@ -309,7 +309,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <tr>
 <td>3</td>
 <td>Акбулак</td>
-<td>12 177</td>
+<td>12 096</td>
 <td></td>
 <td>800</td>
 <td></td>
@@ -317,7 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <tr>
 <td>4</td>
 <td>Курагаты</td>
-<td>8 542</td>
+<td>8 510</td>
 <td>147</td>
 <td>637</td>
 <td>14</td>
@@ -325,7 +325,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <tr>
 <td>5</td>
 <td>Абай</td>
-<td>8 735</td>
+<td>8 485</td>
 <td>330</td>
 <td></td>
 <td></td>
@@ -333,7 +333,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <tr>
 <td>6</td>
 <td>Каракыстак</td>
-<td>13 636</td>
+<td>13 639</td>
 <td>560</td>
 <td>2 690</td>
 <td>178</td>
@@ -349,7 +349,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <tr>
 <td>8</td>
 <td>Кокдонен</td>
-<td>9 951</td>
+<td>9 197</td>
 <td>65</td>
 <td></td>
 <td>9</td>
@@ -365,9 +365,9 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <tr>
 <td>10</td>
 <td>Кумарык</td>
-<td>9 150</td>
+<td>9 069</td>
 <td>310</td>
-<td>1380</td>
+<td>1 380</td>
 <td></td>
 </tr>
 <tr>
@@ -389,7 +389,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <tr>
 <td>13</td>
 <td>Орнек</td>
-<td>12 169</td>
+<td>12 110</td>
 <td>34</td>
 <td>900</td>
 <td>44</td>
@@ -397,7 +397,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <tr>
 <td>14</td>
 <td>Теренозек</td>
-<td>9 109</td>
+<td>9 035</td>
 <td>123</td>
 <td>630</td>
 <td></td>
@@ -411,8 +411,9 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <td></td>
 </tr>
 <tr>
-<td colspan="2">Всего</td>
-<td>162 195</td>
+<td></td>
+<td>Всего</td>
+<td>160 707</td>
 <td>2 519</td>
 <td>9 319</td>
 <td>303</td>
@@ -446,11 +447,11 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <tr>
 <td>2</td>
 <td>Луговой</td>
-<td></td>
-<td>1 328</td>
-<td>160</td>
-<td>734</td>
-<td>17 077</td>
+<td>80</td>
+<td>1 885</td>
+<td>180</td>
+<td>754</td>
+<td>17 594</td>
 </tr>
 <tr>
 <td>3</td>
@@ -458,7 +459,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <td></td>
 <td>690</td>
 <td>31</td>
-<td>633</td>
+<td>714</td>
 <td>14 331</td>
 </tr>
 <tr>
@@ -467,7 +468,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <td></td>
 <td>113</td>
 <td>60</td>
-<td>201</td>
+<td>233</td>
 <td>9 714</td>
 </tr>
 <tr>
@@ -476,8 +477,8 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <td></td>
 <td>757</td>
 <td>70</td>
-<td>680</td>
-<td>10 572</td>
+<td>820</td>
+<td>10 462</td>
 </tr>
 <tr>
 <td>6</td>
@@ -485,7 +486,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <td></td>
 <td>1 560</td>
 <td>218</td>
-<td>440</td>
+<td>437</td>
 <td>19 282</td>
 </tr>
 <tr>
@@ -502,8 +503,8 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <td>Кокдонен</td>
 <td></td>
 <td>620</td>
-<td>150</td>
-<td>880</td>
+<td>550</td>
+<td>1 234</td>
 <td>11 675</td>
 </tr>
 <tr>
@@ -519,10 +520,10 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <td>10</td>
 <td>Кумарык</td>
 <td></td>
-<td>936</td>
+<td>951</td>
 <td>47</td>
-<td>453</td>
-<td>12 276</td>
+<td>509</td>
+<td>12 266</td>
 </tr>
 <tr>
 <td>11</td>
@@ -537,7 +538,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <td>12</td>
 <td>Акыртобе</td>
 <td></td>
-<td>1050</td>
+<td>1 050</td>
 <td>100</td>
 <td>300</td>
 <td>10 957</td>
@@ -546,7 +547,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <td>13</td>
 <td>Орнек</td>
 <td>200</td>
-<td>495</td>
+<td>554</td>
 <td>47</td>
 <td>450</td>
 <td>14 339</td>
@@ -557,7 +558,7 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <td></td>
 <td>766</td>
 <td></td>
-<td>201</td>
+<td>275</td>
 <td>10 829</td>
 </tr>
 <tr>
@@ -570,11 +571,12 @@ source: https://zan.gov.kz/client/#!/doc/62219/rus/15.11.2012
 <td>10 801</td>
 </tr>
 <tr>
-<td colspan="2">Всего</td>
-<td>3 195</td>
-<td>18 543</td>
-<td>4 151</td>
-<td>74 784</td>
-<td>275 009</td>
+<td></td>
+<td>Всего</td>
+<td>3 275</td>
+<td>19 174</td>
+<td>4 571</td>
+<td>75 538</td>
+<td>275 406</td>
 </tr>
 </table>
