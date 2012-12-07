@@ -1,7 +1,12 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
+source: https://zan.gov.kz/client/#!/doc/61925/rus/07.12.2012
 ---
+
+> *Приложение - 2*  
+> *к решению Жамбылского*  
+> *областного маслихата*  
+> *№ 41-3 от 7 декабря 2011 года*
 
 ## Областной бюджет на 2013 год
 
@@ -21,11 +26,11 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -186,9 +191,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1831,9 +1836,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1879,9 +1884,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1965,9 +1970,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td></td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1999,9 +2004,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2045,9 +2050,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td colspan="4">Программа</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2073,7 +2078,8 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 </table>
 
 > *Приложение - 3*  
-> *к решению Жамбылского областного маслихата*  
+> *к решению Жамбылского*  
+> *областного маслихата*  
 > *№ 41-3 от 7 декабря 2011 года*
 
 ## Областной бюджет на 2014 год
@@ -2097,9 +2103,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2260,9 +2266,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3838,9 +3844,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -3886,9 +3892,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3962,9 +3968,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td></td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -4000,9 +4006,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4049,9 +4055,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td colspan="4">Программа</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -4077,7 +4083,8 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 </table>
 
 > *Приложение – 4*  
-> *к решению Жамбылского областного маслихата*  
+> *к решению Жамбылского*  
+> *областного маслихата*  
 > *№ 41-3 от 7 декабря 2011 года*
 
 ## Перечень местных бюджетных программ, не подлежащих секвестру в процессе исполнения местных бюджетов на 2012 год

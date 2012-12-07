@@ -1,7 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
+source: https://zan.gov.kz/client/#!/doc/61925/kaz/07.12.2012
 ---
+
+> *Жамбыл облысы мәслихатының*  
+> *2011 жылғы 7 желтоқсандағы*  
+> *№ 41-3 шешіміне 2-қосымша*
 
 ## 2013 жылға арналған облыстық бюджет
 
@@ -24,9 +28,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -184,9 +188,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1816,22 +1820,20 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
-<td>Атауы</td>
+<td colspan="4">Санаты Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1880,9 +1882,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1966,9 +1968,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td></td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1988,8 +1990,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
-<td>Атауы</td>
+<td colspan="4">Санаты Атауы</td>
 <td rowspan="3">
 Сомасы,
 мың теңге
@@ -1997,16 +1998,15 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2050,9 +2050,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2102,9 +2102,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2265,9 +2265,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3857,9 +3857,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -3908,9 +3908,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3987,9 +3987,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td></td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -4025,9 +4025,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4074,9 +4074,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>

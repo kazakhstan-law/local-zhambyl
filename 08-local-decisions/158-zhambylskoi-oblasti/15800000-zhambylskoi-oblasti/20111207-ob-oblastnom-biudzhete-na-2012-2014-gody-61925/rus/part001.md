@@ -1,11 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
+source: https://zan.gov.kz/client/#!/doc/61925/rus/07.12.2012
 ---
 
-## Областной бюджет на 2012 год
+> *Приложение-1*  
+> *к решению Жамбылского*  
+> *областного маслихата*  
+> *№ 41-3 от 7 декабря 2011 года*
 
-> *Сноска. Приложение 1 в редакции внесенной решением Жамбылского областного маслихата от 26.11.2012 № 9-2 (вводится в действие с 01.01.2012).*
+# Областной бюджет на 2012 год
+
+> *Сноска. Приложение 1 - в редакции решения Жамбылского областного маслихата от 07.12.2012 № 10-4 (вводится в действие с 01.01.2012).*
 
 <table>
 <tr>
@@ -22,18 +27,18 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>147 381 981</td>
+<td>147 511 499</td>
 </tr>
 <tr>
 <td>1</td>
@@ -180,7 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>133 375 039</td>
+<td>133 504 557</td>
 </tr>
 <tr>
 <td></td>
@@ -201,21 +206,24 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>132 894 180</td>
+<td>133 023 698</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Трансферты из республиканского бюджета</td>
-<td>132 894 180</td>
+<td>133 023 698</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td rowspan="4">Сумма, тыс. тенге</td>
+<td rowspan="4">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -233,23 +241,23 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>147 954 587</td>
+<td>148 084 105</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>1 857 843</td>
+<td>1 857 803</td>
 </tr>
 <tr>
 <td></td>
@@ -333,7 +341,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td>257</td>
 <td></td>
 <td>Управление финансов области</td>
-<td>789 006</td>
+<td>788 966</td>
 </tr>
 <tr>
 <td></td>
@@ -354,7 +362,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td></td>
 <td>009</td>
 <td>Организация приватизации коммунальной собственности</td>
-<td>2 106</td>
+<td>2 066</td>
 </tr>
 <tr>
 <td></td>
@@ -1768,14 +1776,14 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td></td>
 <td></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>8 367 836</td>
+<td>8 497 354</td>
 </tr>
 <tr>
 <td></td>
 <td>255</td>
 <td></td>
 <td>Управление сельского хозяйства области</td>
-<td>2 669 954</td>
+<td>2 688 656</td>
 </tr>
 <tr>
 <td></td>
@@ -1789,7 +1797,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td></td>
 <td>002</td>
 <td>Поддержка семеноводства</td>
-<td>173 644</td>
+<td>192 346</td>
 </tr>
 <tr>
 <td></td>
@@ -2020,14 +2028,14 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td>255</td>
 <td></td>
 <td>Управление сельского хозяйства области</td>
-<td>2 519 394</td>
+<td>2 630 210</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Управление сельского хозяйства области</td>
-<td>392 160</td>
+<td>502 976</td>
 </tr>
 <tr>
 <td></td>
@@ -2286,21 +2294,21 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td></td>
 <td></td>
 <td>Обслуживание долга</td>
-<td>1 044</td>
+<td>1 084</td>
 </tr>
 <tr>
 <td></td>
 <td>257</td>
 <td></td>
 <td>Управление финансов области</td>
-<td>1 044</td>
+<td>1 084</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>016</td>
 <td>Обслуживание долга местных исполнительных органов по выплате вознаграждений и иных платежей по займам из республиканского бюджета</td>
-<td>1 044</td>
+<td>1 084</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2450,16 +2458,17 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td rowspan="3">Сумма, тыс. тенге</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="4">Класс</td>
+</tr>
+<tr>
 <td colspan="2"></td>
-<td colspan="3">Класс</td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td colspan="5">Подкласс</td>
-</tr>
-<tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2512,9 +2521,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2556,7 +2565,10 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <table>
 <tr>
 <td colspan="4">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тыс. тенге</td>
+<td rowspan="4">
+Сумма,
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -2574,9 +2586,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td></td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2604,14 +2616,15 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td colspan="4">Подкласс</td>
+<td colspan="2"></td>
+<td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2646,21 +2659,20 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <table>
 <tr>
 <td colspan="4">Функциональная группа Наименование</td>
-<td rowspan="2">Сумма, тыс. тенге</td>
+<td rowspan="3">Сумма, тыс. тенге</td>
 </tr>
 <tr>
 <td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td colspan="4">Программа</td>
-<td></td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2691,7 +2703,3 @@ source: https://zan.gov.kz/client/#!/doc/61925/rus/26.11.2012
 <td>3 353</td>
 </tr>
 </table>
-
-> *Приложение - 2*  
-> *к решению Жамбылского областного маслихата*  
-> *№ 41-3 от 7 декабря 2011 года*

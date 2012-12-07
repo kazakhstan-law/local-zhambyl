@@ -1,11 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
+source: https://zan.gov.kz/client/#!/doc/61925/kaz/07.12.2012
 ---
+
+> *Жамбыл облысы мәслихатының*  
+> *2011 жылғы 7 желтоқсандағы*  
+> *№ 41-3 шешіміне 1-қосымша*
 
 ## 2012 жылға арналған облыстық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Жамбыл облыстық мәслихатының 2012.11.26 № 9-2 (2012 жылдың 1 қаңтарынан қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Жамбыл облыстық мәслихатының 2012.12.07 № 10-4 (2012 жылдың 1 қаңтарынан қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -22,18 +26,18 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>1. Кірістер</td>
-<td>147 381 981</td>
+<td>147 511 499</td>
 </tr>
 <tr>
 <td>1</td>
@@ -180,7 +184,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>133 375 039</td>
+<td>133 504 557</td>
 </tr>
 <tr>
 <td></td>
@@ -201,14 +205,14 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>132 894 180</td>
+<td>133 023 698</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Республикалық бюджеттен түсетiн трансферттер</td>
-<td>132 894 180</td>
+<td>133 023 698</td>
 </tr>
 </table>
 
@@ -227,23 +231,23 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>147 954 587</td>
+<td>148 084 105</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>1 857 843</td>
+<td>1 857 803</td>
 </tr>
 <tr>
 <td></td>
@@ -327,7 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td>257</td>
 <td></td>
 <td>Облыстың қаржы басқармасы</td>
-<td>789 006</td>
+<td>788 966</td>
 </tr>
 <tr>
 <td></td>
@@ -348,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td></td>
 <td>009</td>
 <td>Коммуналдық меншікті жекешелендіруді ұйымдастыру</td>
-<td>2 106</td>
+<td>2 066</td>
 </tr>
 <tr>
 <td></td>
@@ -1762,14 +1766,14 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>8 367 836</td>
+<td>8 497 354</td>
 </tr>
 <tr>
 <td></td>
 <td>255</td>
 <td></td>
 <td>Облыстың ауыл шаруашылығы басқармасы</td>
-<td>2 669 954</td>
+<td>2 688 656</td>
 </tr>
 <tr>
 <td></td>
@@ -1783,7 +1787,7 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td></td>
 <td>002</td>
 <td>Тұқым шаруашылығын қолдау</td>
-<td>173 644</td>
+<td>192 346</td>
 </tr>
 <tr>
 <td></td>
@@ -2014,14 +2018,14 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td>255</td>
 <td></td>
 <td>Облыстың ауыл шаруашылығы басқармасы</td>
-<td>2 519 394</td>
+<td>2 630 210</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Мал шаруашылығы өнімдерінің өнімділігін және сапасын арттыруды субсидиялау</td>
-<td>392 160</td>
+<td>502 976</td>
 </tr>
 <tr>
 <td></td>
@@ -2280,21 +2284,21 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td></td>
 <td></td>
 <td>Борышқа қызмет көрсету</td>
-<td>1 044</td>
+<td>1 084</td>
 </tr>
 <tr>
 <td></td>
 <td>257</td>
 <td></td>
 <td>Облыстың қаржы басқармасы</td>
-<td>1 044</td>
+<td>1 084</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>016</td>
 <td>Жергілікті атқарушы органдардың бюджеттен қарыздар бойынша сый-ақылар мен өзге де төлемдерді төлеу бойынша борышына қызмет көрсету</td>
-<td>1 044</td>
+<td>1 084</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2445,16 +2449,15 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2501,9 +2504,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2557,9 +2560,9 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2579,25 +2582,22 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 
 <table>
 <tr>
-<td colspan="2">Санаты</td>
-<td></td>
-<td>Атауы</td>
+<td colspan="4">Санаты Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Сыныбы</td>
-<td></td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2632,21 +2632,20 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <table>
 <tr>
 <td colspan="4">Функционалдық топ Атауы</td>
-<td rowspan="2">Сомасы, мың теңге</td>
+<td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td colspan="4">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2677,7 +2676,3 @@ source: https://zan.gov.kz/client/#!/doc/61925/kaz/26.11.2012
 <td>3 353</td>
 </tr>
 </table>
-
-> *Жамбыл облысы мәслихатының*  
-> *2011 жылғы 7 желтоқсандағы*  
-> *№ 41-3 шешіміне 2-қосымша*
