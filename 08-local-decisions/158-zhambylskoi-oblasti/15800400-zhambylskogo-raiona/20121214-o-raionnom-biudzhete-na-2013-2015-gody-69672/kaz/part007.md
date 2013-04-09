@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69672/kaz/19.02.2013
+source: https://zan.gov.kz/client/#!/doc/69672/kaz/09.04.2013
 ---
 
 ## 2015 жылға арналған Жамбыл ауданының бюджеті
@@ -280,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/69672/kaz/19.02.2013
 <td></td>
 <td colspan="2">2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>6224189</td>
+<td>6 224 189</td>
 </tr>
 </table>
 
