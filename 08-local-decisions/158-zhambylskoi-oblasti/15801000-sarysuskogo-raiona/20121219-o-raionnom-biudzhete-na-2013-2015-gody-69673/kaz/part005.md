@@ -1,9 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
+source: https://zan.gov.kz/client/#!/doc/69673/kaz/10.04.2013
 ---
 
-## 2013 -2015 жылдарға арналған аудандық бюджеттен ауылдық округтер бағдарламалары бойынша бөлінген қаражаттар тізбесі
+## 2013 -2015 жылдарға арналған аудандық бюджеттен ауылдық округтерге бағдарламалар бойынша бөлінген қаражаттар көлемдерінің тізбесі
+
+> *Ескерту. 5-қосымша жаңа редакцияда - Сарысу аудандық мәслихатының 10.04.2013 № 14-2 (2013 жылдың 1 қаңтарынан қолданысқа енгізіледі) шешімімен.*
 
 мың теңге
 
@@ -66,10 +68,10 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 </tr>
 <tr>
 <td>Жаңатас қаласы әкімінің аппараты</td>
-<td>33885</td>
+<td>33457</td>
 <td>31714</td>
 <td>33067</td>
-<td></td>
+<td>428</td>
 <td></td>
 <td></td>
 <td>10000</td>
@@ -90,10 +92,10 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 </tr>
 <tr>
 <td>Жайылма ауылдық округінің аппараты</td>
-<td>10184</td>
+<td>9987</td>
 <td>12686</td>
 <td>13577</td>
-<td>1600</td>
+<td>1797</td>
 <td></td>
 <td></td>
 <td>500</td>
@@ -102,7 +104,7 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 </tr>
 <tr>
 <td>Жаңарық ауылдық округінің аппараты</td>
-<td>8171</td>
+<td>8421</td>
 <td>8456</td>
 <td>8698</td>
 <td>1600</td>
@@ -150,10 +152,10 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 </tr>
 <tr>
 <td>Қамқалы ауылдық округінің аппараты</td>
-<td>9425</td>
+<td>9379</td>
 <td>9089</td>
 <td>9187</td>
-<td>1600</td>
+<td>1646</td>
 <td></td>
 <td></td>
 <td>200</td>
@@ -186,10 +188,10 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 </tr>
 <tr>
 <td>Барлығы:</td>
-<td>128513</td>
+<td>128092</td>
 <td>121705</td>
 <td>125865</td>
-<td>14400</td>
+<td>15071</td>
 <td></td>
 <td></td>
 <td>16525</td>
@@ -202,14 +204,7 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 
 <table>
 <tr>
-<td rowspan="3">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараттарының атауы</td>
-<td colspan="12">Бағдарламалар атауы</td>
-</tr>
-<tr>
-<td colspan="3">
-009
-&quot;Елді мекендердің санитариясын қамтамасыз ету&quot;
-</td>
+<td rowspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараттарының атауы</td>
 <td colspan="3">
 010
 &quot;Жерлеу орындарын күтіп-ұстау және туысы жоқ адамдарды жерлеу&quot;
@@ -224,9 +219,6 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 </td>
 </tr>
 <tr>
-<th>2013 жыл</th>
-<th>2014 жыл</th>
-<th>2015 жыл</th>
 <th>2013 жыл</th>
 <th>2014 жыл</th>
 <th>2015 жыл</th>
@@ -248,9 +240,6 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 </tr>
 <tr>
 <td>Жаңатас қаласы әкімінің аппараты</td>
-<td></td>
-<td></td>
-<td></td>
 <td>1200</td>
 <td>1200</td>
 <td>1200</td>
@@ -263,9 +252,6 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 </tr>
 <tr>
 <td>Байқадам ауылдық округінің аппараты</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>84</td>
 <td>174</td>
@@ -281,9 +267,6 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>159</td>
 <td></td>
 <td></td>
@@ -293,9 +276,6 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 </tr>
 <tr>
 <td>Жаңарық ауылдық округінің аппараты</td>
-<td>250</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -311,9 +291,6 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>183</td>
 <td></td>
 <td></td>
@@ -322,10 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 <td>55761</td>
 </tr>
 <tr>
-<td>Игілік ауылдық округінің аппараты</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Игілік ауылдық округініңаппараты</td>
 <td></td>
 <td></td>
 <td></td>
@@ -338,9 +312,6 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 </tr>
 <tr>
 <td>Тоғызкент ауылдық округінің аппараты</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -361,16 +332,10 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>31266</td>
 </tr>
 <tr>
 <td>Түркістан ауылдық округінің аппараты</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -386,9 +351,6 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>530</td>
 <td>580</td>
 <td>587</td>
@@ -398,9 +360,6 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 </tr>
 <tr>
 <td>Барлығы:</td>
-<td>250</td>
-<td>0</td>
-<td>0</td>
 <td>1200</td>
 <td>1284</td>
 <td>1374</td>
@@ -427,7 +386,7 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 </td>
 <td colspan="3">
 011
-&quot;елді мекендерді абаттандыру мен көгалдандыру&quot;
+&quot;Елді мекендерді абаттандыру мен көгалдандыру&quot;
 </td>
 <td colspan="3">
 040
@@ -486,7 +445,7 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 <td>500</td>
 <td>700</td>
 <td>700</td>
-<td>4561</td>
+<td>4482</td>
 <td></td>
 <td></td>
 </tr>
@@ -546,7 +505,7 @@ source: https://zan.gov.kz/client/#!/doc/69673/kaz/19.12.2012
 <td>500</td>
 <td>500</td>
 <td>500</td>
-<td>1276</td>
+<td>1355</td>
 <td></td>
 <td></td>
 </tr>
