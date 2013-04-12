@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
+source: https://zan.gov.kz/client/#!/doc/69670/kaz/12.04.2013
 ---
 
 ## 2015 жылға арналған аудандық бюджет
@@ -8,7 +8,11 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">2015 жыл сомасы, мың теңге</td>
+<td rowspan="4">
+2015 жыл
+сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -1413,18 +1417,16 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td></td>
+<td rowspan="3"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Сыныбы Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">ішкі сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td>5</td>
@@ -1452,25 +1454,22 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td></td>
+<td rowspan="4"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1491,14 +1490,14 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td>452</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1512,18 +1511,16 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td></td>
+<td rowspan="3"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Сыныбы Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">ішкі сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td>6</td>
@@ -1551,18 +1548,16 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <table>
 <tr>
 <td colspan="4">Функционалдық топ Атауы</td>
-<td></td>
+<td rowspan="3"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1583,18 +1578,16 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td></td>
+<td rowspan="3"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Сыныбы Атауы</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">ішкі сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td>7</td>
@@ -1657,18 +1650,16 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <table>
 <tr>
 <td colspan="4">Функционалдық топ Атауы</td>
-<td></td>
+<td rowspan="3"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -1705,7 +1696,7 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1.</td>
+<td>1</td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
 </tr>
 <tr>
@@ -1730,7 +1721,10 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <td>Сыныбы</td>
 <td>Iшкi сыныбы</td>
 <td>Атауы</td>
-<td>Сомасы, мың теңге</td>
+<td>
+Сомасы,
+мың теңге
+</td>
 </tr>
 <tr>
 <td>333</td>
@@ -1761,50 +1755,32 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 </tr>
 </table>
 
-> *Байзақ аудандық мәслихатының*  
+> *Байзақ аудандық маслихатының*  
 > *2012 жылғы 20 желтоқсандағы*  
 > *№ 12-3 шешіміне 6- қосымша*
 
-## 2013 жылға арналған ауданның ауылдық (селолық) округтерінің бюджеттік бағдарламаларының тізбесі
+## 2013 жылға арналған ауылдық (селолық) округтерінің бюджеттік бағдарламаларының тізбесі
 
-мың теңге
+> *Ескерту. 6-қосымша жаңа редакцияда - Байзақ аудандық мәслихатының 12.04.2013 № 14-2 (2013 жылдың 1 қаңтарынан қолданысқа енгізіледі) шешімімен.*
+
+(мың теңге)
 
 <table>
 <tr>
-<td rowspan="2">№ п/п</td>
-<td rowspan="2">Ауданның ауылдық (селолық) округтері</td>
-<td colspan="5">Бағдарлама атауы</td>
-</tr>
-<tr>
-<th>
-001
-&quot;Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село) ауылдық (селолық) округ әкімінің аппаратының қызметін қамтамасыз ету
-</th>
-<th>
-005
-&quot;Ауылдық(селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру&quot;
-</th>
-<th>
-008
-&quot;Елді мекендерде көшелерді жарықтандыру&quot;
-</th>
-<th>
-009
-&quot;Елді мекендердің санитариясын қамтамасыз ету&quot;
-</th>
-<th>
-010
-&quot;Жерлеу орындарын күтіп ұстау және туысы жоқ адамдарды жерлеу&quot;
-</th>
+<td>№ п/п</td>
+<td>Селолық округтер атауы</td>
+<td>001 &quot;Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село) ауылдық (селолық) округ әкімінің аппаратының қызметін қамтамасыз ету</td>
+<td>005 &quot;Ауылдық(селолық) жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру&quot;</td>
+<td>008 &quot;Елді мекендерде көшелерді жарықтандыру&quot;</td>
+<td>009 &quot;Елді мекендердің санитариясын қамтамасыз ету&quot;</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Жалғызтөбе</td>
 <td>9 135</td>
-<td>190</td>
+<td>340</td>
 <td>0</td>
 <td>135</td>
-<td>0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1812,8 +1788,7 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <td>8 145</td>
 <td>360</td>
 <td>0</td>
-<td>125</td>
-<td>0</td>
+<td>215</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1822,16 +1797,14 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <td>816</td>
 <td>0</td>
 <td>80</td>
-<td>0</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Мырзатай</td>
-<td>9 191</td>
-<td>770</td>
+<td>9 821</td>
+<td>1 390</td>
 <td>270</td>
 <td>200</td>
-<td>0</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1840,7 +1813,6 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <td>0</td>
 <td>0</td>
 <td>150</td>
-<td>0</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1848,26 +1820,23 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <td>12 568</td>
 <td>0</td>
 <td>200</td>
-<td>200</td>
-<td>0</td>
+<td>290</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Жанатұрмыс</td>
+<td>Жаңатұрмыс</td>
 <td>9 731</td>
 <td>728</td>
 <td>0</td>
 <td>135</td>
-<td>0</td>
 </tr>
 <tr>
 <td>8</td>
-<td>Коктал</td>
+<td>Көктал</td>
 <td>10 896</td>
 <td>0</td>
 <td>500</td>
 <td>200</td>
-<td>0</td>
 </tr>
 <tr>
 <td>9</td>
@@ -1875,8 +1844,7 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <td>8 885</td>
 <td>0</td>
 <td>200</td>
-<td>200</td>
-<td>0</td>
+<td>290</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1884,8 +1852,7 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <td>10 042</td>
 <td>169</td>
 <td>0</td>
-<td>250</td>
-<td>0</td>
+<td>340</td>
 </tr>
 <tr>
 <td>11</td>
@@ -1894,16 +1861,14 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <td>0</td>
 <td>550</td>
 <td>320</td>
-<td>0</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Бурыл</td>
 <td>14 750</td>
 <td>0</td>
-<td>900</td>
+<td>1 000</td>
 <td>500</td>
-<td>0</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1911,35 +1876,31 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <td>8 863</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>0</td>
+<td>90</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Үлгілі</td>
-<td>9 253</td>
+<td>9 495</td>
 <td>0</td>
 <td>400</td>
-<td>200</td>
-<td>0</td>
+<td>290</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Сарыкемер</td>
 <td>21 200</td>
 <td>912</td>
-<td>6 000</td>
 <td>8 000</td>
-<td>100</td>
+<td>8 000</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Қызылжұлдыз</td>
-<td>10 466</td>
+<td>10 826</td>
 <td>0</td>
-<td>650</td>
-<td>300</td>
-<td>0</td>
+<td>1 833</td>
+<td>390</td>
 </tr>
 <tr>
 <td>17</td>
@@ -1947,17 +1908,15 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <td>10 940</td>
 <td>643</td>
 <td>0</td>
-<td>300</td>
-<td>0</td>
+<td>390</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Барлығы</td>
-<td>182 130</td>
-<td>4 588</td>
-<td>9 670</td>
-<td>11 295</td>
-<td>100</td>
+<td>183 362</td>
+<td>5 358</td>
+<td>12 953</td>
+<td>12 015</td>
 </tr>
 </table>
 
@@ -1965,27 +1924,17 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 
 <table>
 <tr>
-<td rowspan="2">№ п/п</td>
-<td rowspan="2">Ауданның ауылдық (селолық) округтері</td>
-<td colspan="3">Бағдарлама атауы</td>
-</tr>
-<tr>
-<td>
-011
-&quot;Елді мекендерді абаттандыру мен көгалдандыру&quot;
-</td>
-<td>
-022
-&quot;Мемлекеттік органдардың күрделі шығыстары&quot;
-</td>
-<td>
-040
-Республикалық бюджеттен нысаналы трансферттер ретінде «Өңірлерді дамыту» бағдарламасы шеңберінде өңірлердің экономикалық дамуына жәрдемдесу жөніндегі шараларды іске асыруда ауылдық (селолық) округтарды жайластыру мәселелерін шешу үшін іс-шараларды іс
-</td>
+<td>№ п/п</td>
+<td>Селолық округтер атауы</td>
+<td>010 &quot;Жерлеу орындарын күтіп ұстау және туысы жоқ адамдарды жерлеу&quot;</td>
+<td>011 &quot;Елді мекендерді абаттандыру мен көгалдандыру&quot;</td>
+<td>022 &quot;Мемлекеттік органдардың күрделі шығыстары&quot;</td>
+<td>040 Республикалық бюджеттен нысаналы трансферттер ретінде «Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлердің экономикалық дамуына жәрдемдесу жөніндегі шараларды іске асыруда ауылдық (селолық) округтарды жайластыру мәселелерін шешу үшін іс-шараларды іске асыру</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Жалғызтөбе</td>
+<td>0</td>
 <td>400</td>
 <td>0</td>
 <td>2 792</td>
@@ -1993,6 +1942,7 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <tr>
 <td>2</td>
 <td>Дихан</td>
+<td>0</td>
 <td>400</td>
 <td>0</td>
 <td>2 414</td>
@@ -2000,6 +1950,7 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <tr>
 <td>3</td>
 <td>Сазтерек</td>
+<td>0</td>
 <td>400</td>
 <td>300</td>
 <td>1 374</td>
@@ -2007,13 +1958,15 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <tr>
 <td>4</td>
 <td>Мырзатай</td>
+<td>0</td>
 <td>500</td>
-<td>100</td>
+<td>154</td>
 <td>2 123</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Темірбек</td>
+<td>0</td>
 <td>400</td>
 <td>0</td>
 <td>1 719</td>
@@ -2021,20 +1974,23 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <tr>
 <td>6</td>
 <td>Түймекент</td>
-<td>400</td>
 <td>0</td>
+<td>400</td>
+<td>150</td>
 <td>5 257</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Жанатұрмыс</td>
+<td>Жаңатұрмыс</td>
+<td>0</td>
 <td>400</td>
 <td>0</td>
 <td>2 772</td>
 </tr>
 <tr>
 <td>8</td>
-<td>Коктал</td>
+<td>Көктал</td>
+<td>0</td>
 <td>400</td>
 <td>100</td>
 <td>2 025</td>
@@ -2042,6 +1998,7 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <tr>
 <td>9</td>
 <td>Ынтымақ</td>
+<td>0</td>
 <td>400</td>
 <td>0</td>
 <td>1 516</td>
@@ -2049,6 +2006,7 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <tr>
 <td>10</td>
 <td>Суханбаев</td>
+<td>0</td>
 <td>400</td>
 <td>200</td>
 <td>2 041</td>
@@ -2056,6 +2014,7 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <tr>
 <td>11</td>
 <td>Қостөбе</td>
+<td>0</td>
 <td>400</td>
 <td>100</td>
 <td>5 378</td>
@@ -2063,13 +2022,15 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <tr>
 <td>12</td>
 <td>Бурыл</td>
-<td>1000</td>
+<td>0</td>
+<td>1 800</td>
 <td>0</td>
 <td>9 834</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Көптерек</td>
+<td>0</td>
 <td>400</td>
 <td>0</td>
 <td>1 947</td>
@@ -2077,6 +2038,7 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <tr>
 <td>14</td>
 <td>Үлгілі</td>
+<td>0</td>
 <td>400</td>
 <td>0</td>
 <td>1 573</td>
@@ -2084,13 +2046,15 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <tr>
 <td>15</td>
 <td>Сарыкемер</td>
-<td>7 000</td>
+<td>100</td>
+<td>10 000</td>
 <td>0</td>
 <td>23 491</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Қызылжұлдыз</td>
+<td>0</td>
 <td>400</td>
 <td>0</td>
 <td>4 325</td>
@@ -2098,6 +2062,7 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <tr>
 <td>17</td>
 <td>Ботамойнақ</td>
+<td>0</td>
 <td>400</td>
 <td>200</td>
 <td>4 303</td>
@@ -2105,8 +2070,9 @@ source: https://zan.gov.kz/client/#!/doc/69670/kaz/20.12.2012
 <tr>
 <td>18</td>
 <td>Барлығы</td>
-<td>14 100</td>
-<td>1 000</td>
+<td>100</td>
+<td>17 900</td>
+<td>1 204</td>
 <td>74 884</td>
 </tr>
 </table>
