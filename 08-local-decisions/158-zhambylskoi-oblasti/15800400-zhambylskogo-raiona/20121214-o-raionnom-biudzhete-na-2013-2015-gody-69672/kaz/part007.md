@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69672/kaz/09.04.2013
+source: https://zan.gov.kz/client/#!/doc/69672/kaz/28.05.2013
 ---
 
 ## 2015 жылға арналған Жамбыл ауданының бюджеті
