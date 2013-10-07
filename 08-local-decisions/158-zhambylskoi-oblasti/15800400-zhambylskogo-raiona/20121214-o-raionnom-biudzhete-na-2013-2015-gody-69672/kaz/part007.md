@@ -1,15 +1,13 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69672/kaz/03.09.2013
+source: https://zan.gov.kz/client/#!/doc/69672/kaz/07.10.2013
 ---
 
 ## 2015 жылға арналған Жамбыл ауданының бюджеті
 
 <table>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">АТАУЫ</td>
+<td colspan="5">АТАУЫ</td>
 <td rowspan="4">
 2015 жыл,
 сомасы
