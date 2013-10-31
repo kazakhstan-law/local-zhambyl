@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69279/kaz/27.09.2013
+source: https://zan.gov.kz/client/#!/doc/69279/kaz/31.10.2013
 ---
 
 ## 2014 жылға арналған облыстық бюджет
@@ -1409,7 +1409,7 @@ source: https://zan.gov.kz/client/#!/doc/69279/kaz/27.09.2013
 <td></td>
 <td></td>
 <td>007</td>
-<td>Жылу- энергетикалық жүйесін дамыту</td>
+<td>Жылу-энергетикалық жүйесін дамыту</td>
 <td>308 147</td>
 </tr>
 <tr>
