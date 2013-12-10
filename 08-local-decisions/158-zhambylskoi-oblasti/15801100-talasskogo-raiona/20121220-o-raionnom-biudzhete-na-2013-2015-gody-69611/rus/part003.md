@@ -1,7 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
+source: https://zan.gov.kz/client/#!/doc/69611/rus/10.12.2013
 ---
+
+> *Приложение - 3 к решению*  
+> *Таласского районного маслихата*  
+> *от 20 декабря 2012 года № 12-3*
 
 ## Районный бюджет на 2015 год
 
@@ -20,9 +24,9 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -281,9 +285,9 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1275,9 +1279,9 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1323,9 +1327,9 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1358,9 +1362,9 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1392,9 +1396,9 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1427,9 +1431,9 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1475,9 +1479,9 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -1517,9 +1521,9 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>8</td>
@@ -1576,9 +1580,9 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 <td colspan="2">Специфика</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1620,7 +1624,7 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 
 ## Бюджетные программы каждого аульного округа на 2013 год
 
-> *Сноска. Приложение 6 в редакции решения Таласского районного маслихата от 12.11.2013 № 24-2 (вводится в действие с 01.01.2013).*
+> *Сноска. Приложение 6 - в редакции решения Таласского районного маслихата Жамбылской области от 12.11.2013 № 24-2 (вводится в действие с 01.01.2013).*
 
 <table>
 <tr>
@@ -1640,11 +1644,11 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 </td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1777,12 +1781,12 @@ source: https://zan.gov.kz/client/#!/doc/69611/rus/12.11.2013
 </td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
+<td>1</td>
+<td>2</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
 </tr>
 <tr>
 <td>1</td>
