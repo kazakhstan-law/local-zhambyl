@@ -1,9 +1,13 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69672/rus/12.11.2013
+source: https://zan.gov.kz/client/#!/doc/69672/rus/11.12.2013
 ---
 
-## Бюджет Жамбылского района на 2015 год
+> *Приложение 7 к решению*  
+> *Жамбылского районного маслихата*  
+> *за № 13-3 от 14 декабря 2012 года*
+
+# Бюджет Жамбылского района на 2015 год
 
 <table>
 <tr>
@@ -29,9 +33,9 @@ source: https://zan.gov.kz/client/#!/doc/69672/rus/12.11.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
