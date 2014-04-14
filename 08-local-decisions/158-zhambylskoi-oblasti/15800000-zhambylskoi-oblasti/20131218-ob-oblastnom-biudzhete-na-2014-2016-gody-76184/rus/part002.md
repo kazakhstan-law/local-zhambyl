@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76184/rus/18.12.2013
+source: https://zan.gov.kz/client/#!/doc/76184/rus/14.04.2014
 ---
 
 ## Областной бюджет на 2015 год
