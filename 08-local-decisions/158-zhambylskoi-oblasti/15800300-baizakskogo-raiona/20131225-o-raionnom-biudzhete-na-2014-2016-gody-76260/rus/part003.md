@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
+source: https://zan.gov.kz/client/#!/doc/76260/rus/25.06.2014
 ---
 
 ## Районный бюджет на 2016 год
@@ -912,7 +912,7 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <td>08</td>
 <td>455</td>
 <td>009</td>
-<td>Обеспечение сохранности историко - культурного наследия и доступа к ним</td>
+<td>Обеспечение сохранности историко-культурного наследия и доступа к ним</td>
 <td>8 894</td>
 </tr>
 <tr>
@@ -1403,24 +1403,21 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td></td>
+<td rowspan="4"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>10</td>
@@ -1448,25 +1445,22 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td></td>
+<td rowspan="4"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Класс</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Подкласс</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>5</td>
@@ -1494,24 +1488,21 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td></td>
+<td rowspan="4"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1546,25 +1537,22 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td></td>
+<td rowspan="4"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Класс</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Подкласс</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>6</td>
@@ -1592,25 +1580,22 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td></td>
+<td rowspan="4"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1631,25 +1616,22 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td></td>
+<td rowspan="4"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Класс</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Подкласс</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>7</td>
@@ -1684,25 +1666,22 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td></td>
+<td rowspan="4"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -1812,39 +1791,37 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 
 ## Перечень бюджетных программ на 2014 год по аульным округам Байзакского района
 
-> *Сноска. Приложение 6 в редакции решения Байзакского районного маслихата от 21.04.2014 № 29-2 (вводится в действие с 01.01.2014).*
+> *Сноска. Приложение 6 в редакции решения Байзакского районного маслихата от 25.06.2014 № 31-7 (вводится в действие с 01.01.2014).*
+
+тысяч тенге
 
 <table>
 <tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Наименование сельских (аульных) округов</td>
-<td colspan="4">Наименование программ</td>
+<td colspan="10">Наименование программ</td>
 </tr>
 <tr>
-<td>
-001
-&quot;Аппарат акима района в городе, города районного значения, поселка, аула, аульного округа&quot;
-</td>
-<td>
-005
-&quot;Организация бесплатного подвоза учащихся до школы и обратно в аульной местности&quot;
-</td>
-<td>
-008
-&quot;Освещение улиц населенных пунктов&quot;
-</td>
-<td>
-009
-&quot;Обеспечение санитарии населенных пунктов&quot;
-</td>
+<td>№</td>
+<td>Наименование сельских округов</td>
+<td>001 &quot;Аппарат акима района в городе, города районного значения, поселка, аула, аульного округа&quot;</td>
+<td>005 &quot;Организация бесплатного подвоза учащихся до школы и обратно в аульной местности&quot;</td>
+<td>008 &quot;Освещение улиц населенных пунктов&quot;</td>
+<td>009 &quot;Обеспечение санитарии населенных пунктов&quot;</td>
+<td>010 &quot;Содержание мест захоронений и погребение безродных&quot;</td>
+<td>011 &quot;Благоустройство и озеленение населенных пунктов&quot;</td>
+<td>022 &quot;Капитальные расходы государственных органов&quot;</td>
+<td>040. Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Жалгызтобе</td>
-<td>11492</td>
-<td>630</td>
+<td>12483</td>
+<td>833</td>
 <td>540</td>
 <td>200</td>
+<td>0</td>
+<td>1200</td>
+<td>333</td>
+<td>2750</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1853,182 +1830,6 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <td>450</td>
 <td>308</td>
 <td>125</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Сазтерек</td>
-<td>11048</td>
-<td>810</td>
-<td>250</td>
-<td>80</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Мырзатай</td>
-<td>12057</td>
-<td>2040</td>
-<td>490</td>
-<td>200</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Темирбек</td>
-<td>10661</td>
-<td>0</td>
-<td>0</td>
-<td>150</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Туймекент</td>
-<td>14556</td>
-<td>0</td>
-<td>330</td>
-<td>180</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Жанатурмыс</td>
-<td>13159</td>
-<td>1000</td>
-<td>0</td>
-<td>135</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Коктал</td>
-<td>10630</td>
-<td>0</td>
-<td>600</td>
-<td>200</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Ынтымак</td>
-<td>9389</td>
-<td>0</td>
-<td>200</td>
-<td>100</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Суханбаев</td>
-<td>11521</td>
-<td>211</td>
-<td>400</td>
-<td>50</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Костюбе</td>
-<td>15047</td>
-<td>600</td>
-<td>675</td>
-<td>350</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Бурыл</td>
-<td>21779</td>
-<td>0</td>
-<td>1200</td>
-<td>500</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Коптерек</td>
-<td>11783</td>
-<td>0</td>
-<td>300</td>
-<td>150</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Үлгули</td>
-<td>11103</td>
-<td>0</td>
-<td>500</td>
-<td>100</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Сарыкемер</td>
-<td>20972</td>
-<td>0</td>
-<td>3921</td>
-<td>2000</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Кызылжулдыз</td>
-<td>15758</td>
-<td>0</td>
-<td>1649</td>
-<td>325</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Ботамойнак</td>
-<td>14114</td>
-<td>1089</td>
-<td>200</td>
-<td>600</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Байтерек</td>
-<td>17174</td>
-<td>850</td>
-<td>1921</td>
-<td>4000</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Всего</td>
-<td>246495</td>
-<td>7680</td>
-<td>13484</td>
-<td>9445</td>
-</tr>
-</table>
-
-продолжение таблицы:
-
-<table>
-<tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Наименование сельских (аульных) округов</td>
-<td colspan="4">Наименование программ</td>
-</tr>
-<tr>
-<td>
-010
-&quot;Содержание мест захоронений и погребение безродных&quot;
-</td>
-<td>
-011
-&quot;Благоустройство и озеленение населенных пунктов&quot;
-</td>
-<td>
-022
-&quot;Капитальные расходы государственных органов&quot;
-</td>
-<td>
-040
-Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»
-</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Жалгызтобе</td>
-<td>0</td>
-<td>500</td>
-<td>333</td>
-<td>2750</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Дихан</td>
 <td>0</td>
 <td>400</td>
 <td>400</td>
@@ -2037,6 +1838,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>3</td>
 <td>Сазтерек</td>
+<td>11148</td>
+<td>810</td>
+<td>250</td>
+<td>80</td>
 <td>0</td>
 <td>400</td>
 <td>366</td>
@@ -2045,6 +1850,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>4</td>
 <td>Мырзатай</td>
+<td>11777</td>
+<td>2040</td>
+<td>490</td>
+<td>200</td>
 <td>0</td>
 <td>500</td>
 <td>160</td>
@@ -2053,6 +1862,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>5</td>
 <td>Темирбек</td>
+<td>10661</td>
+<td>0</td>
+<td>0</td>
+<td>150</td>
 <td>0</td>
 <td>500</td>
 <td>383</td>
@@ -2061,6 +1874,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>6</td>
 <td>Туймекент</td>
+<td>14766</td>
+<td>0</td>
+<td>330</td>
+<td>180</td>
 <td>0</td>
 <td>500</td>
 <td>300</td>
@@ -2069,6 +1886,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>7</td>
 <td>Жанатурмыс</td>
+<td>13232</td>
+<td>1000</td>
+<td>336</td>
+<td>135</td>
 <td>0</td>
 <td>500</td>
 <td>366</td>
@@ -2077,6 +1898,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>8</td>
 <td>Коктал</td>
+<td>11330</td>
+<td>0</td>
+<td>600</td>
+<td>200</td>
 <td>0</td>
 <td>400</td>
 <td>360</td>
@@ -2085,6 +1910,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>9</td>
 <td>Ынтымак</td>
+<td>9389</td>
+<td>0</td>
+<td>200</td>
+<td>100</td>
 <td>0</td>
 <td>500</td>
 <td>436</td>
@@ -2093,6 +1922,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>10</td>
 <td>Суханбаев</td>
+<td>12206</td>
+<td>211</td>
+<td>400</td>
+<td>50</td>
 <td>0</td>
 <td>500</td>
 <td>348</td>
@@ -2101,6 +1934,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>11</td>
 <td>Костюбе</td>
+<td>15447</td>
+<td>600</td>
+<td>675</td>
+<td>350</td>
 <td>0</td>
 <td>400</td>
 <td>390</td>
@@ -2109,6 +1946,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>12</td>
 <td>Бурыл</td>
+<td>22359</td>
+<td>0</td>
+<td>1200</td>
+<td>500</td>
 <td>0</td>
 <td>1000</td>
 <td>772</td>
@@ -2117,6 +1958,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>13</td>
 <td>Коптерек</td>
+<td>12083</td>
+<td>0</td>
+<td>300</td>
+<td>150</td>
 <td>0</td>
 <td>500</td>
 <td>245</td>
@@ -2125,6 +1970,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>14</td>
 <td>Үлгули</td>
+<td>11548</td>
+<td>0</td>
+<td>700</td>
+<td>100</td>
 <td>0</td>
 <td>400</td>
 <td>636</td>
@@ -2133,14 +1982,22 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>15</td>
 <td>Сарыкемер</td>
+<td>21157</td>
+<td>0</td>
+<td>3921</td>
+<td>4000</td>
 <td>100</td>
-<td>8000</td>
-<td>1126</td>
+<td>6665</td>
+<td>1276</td>
 <td>14099</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Кызылжулдыз</td>
+<td>16136</td>
+<td>0</td>
+<td>1649</td>
+<td>325</td>
 <td>0</td>
 <td>341</td>
 <td>512</td>
@@ -2149,6 +2006,10 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>17</td>
 <td>Ботамойнак</td>
+<td>14114</td>
+<td>1089</td>
+<td>200</td>
+<td>600</td>
 <td>0</td>
 <td>500</td>
 <td>548</td>
@@ -2157,17 +2018,25 @@ source: https://zan.gov.kz/client/#!/doc/76260/rus/21.04.2014
 <tr>
 <td>18</td>
 <td>Байтерек</td>
+<td>17174</td>
+<td>850</td>
+<td>1921</td>
+<td>4000</td>
 <td>0</td>
-<td>9000</td>
+<td>5000</td>
 <td>1156</td>
 <td>15317</td>
 </tr>
 <tr>
-<td>19</td>
-<td>Всего</td>
+<td></td>
+<td>Итого</td>
+<td>251262</td>
+<td>7883</td>
+<td>14020</td>
+<td>11445</td>
 <td>100</td>
-<td>24841</td>
-<td>8837</td>
+<td>20206</td>
+<td>8987</td>
 <td>90168</td>
 </tr>
 </table>
