@@ -1,14 +1,13 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76184/rus/12.06.2014
+source: https://zan.gov.kz/client/#!/doc/76184/rus/22.08.2014
 ---
 
 ## Областной бюджет на 2015 год
 
 <table>
 <tr>
-<td colspan="3">Категория</td>
-<td>Наименование</td>
+<td colspan="4">Категория Наименование</td>
 <td rowspan="3">Сумма, тыс. тенге</td>
 </tr>
 <tr>
