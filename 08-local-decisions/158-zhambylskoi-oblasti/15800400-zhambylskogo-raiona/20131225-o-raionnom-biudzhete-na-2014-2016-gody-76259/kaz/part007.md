@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76259/kaz/25.06.2014
+source: https://zan.gov.kz/client/#!/doc/76259/kaz/03.09.2014
 ---
 
 ## 2016 жылға арналған Жамбыл ауданының бюджеті
@@ -1406,7 +1406,7 @@ source: https://zan.gov.kz/client/#!/doc/76259/kaz/25.06.2014
 <td></td>
 <td>462</td>
 <td></td>
-<td>Ауданның ( облыстық маңызы бар қаланың) ауыл шаруашылығы бөлімі</td>
+<td>Ауданның (облыстық маңызы бар қаланың) ауыл шаруашылығы бөлімі</td>
 <td>25965</td>
 </tr>
 <tr>
@@ -1420,65 +1420,62 @@ source: https://zan.gov.kz/client/#!/doc/76259/kaz/25.06.2014
 
 <table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
+<td colspan="8">Функционалдық топ</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
 <td></td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4">Бағдарлама</td>
 <td></td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджеттік кредиттерді өтеу</td>
 <td>7054</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="4">Санаты</td>
-<td></td>
+<td colspan="7">Санаты</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
-<td></td>
+<td colspan="6">Сыныбы</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="2">Iшкi сыныбы</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4">Iшкi сыныбы</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>5</td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>7054</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджеттік кредиттерді өтеу</td>
+<td colspan="2">7054</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>7054</td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2">Бюджеттік кредиттерді өтеу</td>
+<td colspan="2">7054</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>1</td>
-<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
-<td>7054</td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td colspan="2">7054</td>
 </tr>
 </table>
 
