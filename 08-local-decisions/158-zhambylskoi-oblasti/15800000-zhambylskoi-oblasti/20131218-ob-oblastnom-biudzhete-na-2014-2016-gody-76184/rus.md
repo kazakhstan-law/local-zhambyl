@@ -1,5 +1,5 @@
 ---
-version_id: AI76184_9
+version_id: '76184_148407'
 act_code: '76184'
 language: rus
 title: Об областном бюджете на 2014-2016 годы
@@ -10,20 +10,16 @@ type_codes:
 approved_by:
 - '158000000002'
 approval_date: 2013-12-18
-version_date: 2014-11-10
+version_date: 2014-11-27
 registry_number: '76184'
 caused_by:
-  code: '84221'
-  title: О внесении изменений и дополнений в решение Жамбылского областного маслихата "Об областном бюджете на 2014-2016 годы" от 18 декабря 2013 года № 20-3
-  link: https://zan.gov.kz/client/#!/doc/84221/rus
-source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
+  code: '84665'
+  title: О внесении изменений в решение Жамбылского областного маслихата "Об областном бюджете на 2014-2016 годы" от 18 декабря 2013 года № 20-3
+  link: https://zan.gov.kz/client/#!/doc/84665/rus
+source: https://zan.gov.kz/client/#!/doc/76184/rus
 ---
 
 # Об областном бюджете на 2014-2016 годы
-
-Примечание РЦПИ.
-
-В тексте документа сохранена пунктуация и орфография оригинала.
 
 В соответствии со статьей 8 Бюджетного кодекса Республики Казахстан от 4 декабря 2008 года и с Законом Республики Казахстан «О республиканском бюджете на 2014-2016 годы» от 3 декабря 2013 года Жамбылский областной маслихат РЕШИЛ:
 
@@ -131,17 +127,19 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 
 11. Настоящее решение вступает в силу со дня государственной регистрации в органах юстиции и вводится в действие с 1 января 2014 года.
 
-Председатель сессии Секретарь
+**Председатель сессии областного маслихата**
 
-областного маслихата областного маслихата
+**М. Сарсенов**
 
-М. Сарсенов Б. Карашолаков
+**Секретарь областного маслихата**
+
+**Б. Карашолаков**
 
 > *Приложение 1 к решению*  
 > *Жамбылского областного маслихата*  
 > *№ 20-3 от 18 декабря 2013 года*
 
-## Областной бюджет на 2014 год
+# Областной бюджет на 2014 год
 
 > *Сноска. Приложение 1 - в редакции решения Жамбылского областного маслихата от 10.11.2014 № 31-2 (вводится в действие с 01.01.2014).*
 
@@ -160,11 +158,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -371,9 +369,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2763,9 +2761,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2818,9 +2816,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2909,9 +2907,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2942,11 +2940,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2990,11 +2988,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Программа</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -3030,7 +3028,7 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 > *Жамбылского областного маслихата*  
 > *№ 20-3 от 18 декабря 2013 года*
 
-## Областной бюджет на 2015 год
+# Областной бюджет на 2015 год
 
 <table>
 <tr>
@@ -3044,11 +3042,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3232,9 +3230,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Программа Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -4924,9 +4922,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4970,9 +4968,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Программа Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5002,9 +5000,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Программа</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5035,11 +5033,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -5084,11 +5082,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -5124,7 +5122,7 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 > *Жамбылского областного маслихата*  
 > *№ 20-3 от 18 декабря 2013 года*
 
-## Областной бюджет на 2016 год
+# Областной бюджет на 2016 год
 
 <table>
 <tr>
@@ -5139,11 +5137,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -5327,9 +5325,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Программа Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -6991,9 +6989,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -7030,9 +7028,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Программа Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -7062,9 +7060,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Программа</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -7095,11 +7093,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -7144,11 +7142,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -7177,7 +7175,7 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 > *Жамбылского областного маслихата*  
 > *№ 20-3 от 18 декабря 2013 года*
 
-## Перечень местных бюджетных программ, не подлежащих секвестру в процессе исполнения местных бюджетов на 2014 год
+# Перечень местных бюджетных программ, не подлежащих секвестру в процессе исполнения местных бюджетов на 2014 год
 
 <table>
 <tr>
