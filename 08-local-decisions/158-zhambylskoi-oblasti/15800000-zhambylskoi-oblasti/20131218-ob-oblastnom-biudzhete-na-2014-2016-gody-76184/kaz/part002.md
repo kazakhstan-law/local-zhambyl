@@ -1,9 +1,13 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
+source: https://zan.gov.kz/client/#!/doc/76184/kaz/27.11.2014
 ---
 
-## 2015 жылға арналған облыстық бюджет
+> *Жамбыл облыстық мәслихатының*  
+> *2013 жылғы 18 желтоқсандағы*  
+> *№ 20-3 шешіміне 2 қосымша*
+
+# 2015 жылға арналған облыстық бюджет
 
 <table>
 <tr>
@@ -18,11 +22,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -206,9 +210,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1901,9 +1905,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1947,9 +1951,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -1979,9 +1983,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2009,11 +2013,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2051,11 +2055,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2091,7 +2095,7 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 > *2013 жылғы 18 желтоқсандағы*  
 > *№ 20-3 шешіміне 3 қосымша*
 
-## 2016 жылға арналған облыстық бюджет
+# 2016 жылға арналған облыстық бюджет
 
 <table>
 <tr>
@@ -2106,11 +2110,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2294,9 +2298,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -3961,9 +3965,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4001,9 +4005,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td></td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -4033,9 +4037,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -4063,11 +4067,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4105,11 +4109,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -4138,7 +4142,7 @@ source: https://zan.gov.kz/client/#!/doc/76184/kaz/10.11.2014
 > *2013 жылғы 18 желтоқсандағы*  
 > *№ 20-3 шешіміне 4 қосымша*
 
-## 2014 жылға арналған жергілікті бюджеттердің орындалу процесінде секвестрлеуге жатпайтын жергілікті бюджеттік бағдарламалардың тізбесі
+# 2014 жылға арналған жергілікті бюджеттердің орындалу процесінде секвестрлеуге жатпайтын жергілікті бюджеттік бағдарламалардың тізбесі
 
 <table>
 <tr>

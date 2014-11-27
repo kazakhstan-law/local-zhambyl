@@ -1,9 +1,13 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
+source: https://zan.gov.kz/client/#!/doc/76184/rus/27.11.2014
 ---
 
-## Областной бюджет на 2014 год
+> *Приложение 1 к решению*  
+> *Жамбылского областного маслихата*  
+> *№ 20-3 от 18 декабря 2013 года*
+
+# Областной бюджет на 2014 год
 
 > *Сноска. Приложение 1 - в редакции решения Жамбылского областного маслихата от 10.11.2014 № 31-2 (вводится в действие с 01.01.2014).*
 
@@ -22,11 +26,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -233,9 +237,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2625,9 +2629,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2680,9 +2684,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2771,9 +2775,9 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th colspan="3">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="3">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
@@ -2804,11 +2808,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Подкласс</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2852,11 +2856,11 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td colspan="4">Программа</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th>2</th>
-<th>3</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2887,7 +2891,3 @@ source: https://zan.gov.kz/client/#!/doc/76184/rus/10.11.2014
 <td>3 607</td>
 </tr>
 </table>
-
-> *Приложение 2 к решению*  
-> *Жамбылского областного маслихата*  
-> *№ 20-3 от 18 декабря 2013 года*
