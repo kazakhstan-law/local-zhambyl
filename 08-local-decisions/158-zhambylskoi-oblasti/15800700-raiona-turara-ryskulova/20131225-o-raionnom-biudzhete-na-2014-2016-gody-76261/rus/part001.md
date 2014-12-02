@@ -1,13 +1,17 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
+source: https://zan.gov.kz/client/#!/doc/76261/rus/02.12.2014
 ---
+
+> *Приложение 1 к решению*  
+> *маслихата района Т.Рыскулова*  
+> *№ 21-4 от 25 декабря 2013 года*
 
 ## Бюджет на 2014 год
 
-> *Сноска. Приложение 1 - в редакции решения маслихата района Т.Рыскулова Жамбылской области от 20.11.2014 № 28-5 (вводится в действие с 01.01.2014).*
+> *Сноска. Приложение 1 - в редакции решения маслихата района Т.Рыскулова Жамбылской области от 02.12.2014 № 29-4 (вводится в действие с 01.01.2014).*
 
-(тысяч тенге)
+> *(тысяч тенге)*
 
 <table>
 <tr>
@@ -17,8 +21,7 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Класс</td>
-<td></td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
@@ -26,18 +29,18 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. ДОХОДЫ</td>
-<td>7370932</td>
+<td>7344932</td>
 </tr>
 <tr>
 <td>1</td>
@@ -296,21 +299,21 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>5242820</td>
+<td>5216820</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>5242820</td>
+<td>5216820</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>5242820</td>
+<td>5216820</td>
 </tr>
 </table>
 
@@ -335,18 +338,18 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>II. ЗАТРАТЫ</td>
-<td>7398415</td>
+<td>7372415</td>
 </tr>
 <tr>
 <td>01</td>
@@ -430,7 +433,7 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики в области исполнения бюджета района (города областного значения) и управления коммунальной собственностью района (города областного значения)</td>
-<td>17304</td>
+<td>17243</td>
 </tr>
 <tr>
 <td></td>
@@ -444,14 +447,14 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td></td>
 <td>010</td>
 <td>Приватизация, управление коммунальным имуществом, постприватизационная деятельность и регулирование споров, связанных с этим</td>
-<td>449</td>
+<td>519</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Учет, хранение, оценка и реализация имущества, поступившего в коммунальную собственность</td>
-<td>212</td>
+<td>203</td>
 </tr>
 <tr>
 <td></td>
@@ -675,14 +678,14 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td></td>
 <td></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>379567</td>
+<td>353567</td>
 </tr>
 <tr>
 <td></td>
 <td>451</td>
 <td></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>273761</td>
+<td>265761</td>
 </tr>
 <tr>
 <td></td>
@@ -703,7 +706,7 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td></td>
 <td>005</td>
 <td>Государственная адресная социальная помощь</td>
-<td>18760</td>
+<td>10760</td>
 </tr>
 <tr>
 <td></td>
@@ -759,7 +762,7 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td>451</td>
 <td></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>104028</td>
+<td>86028</td>
 </tr>
 <tr>
 <td></td>
@@ -787,7 +790,7 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td></td>
 <td>025</td>
 <td>Внедрение обусловленной денежной помощи по проекту Өрлеу</td>
-<td>68734</td>
+<td>50734</td>
 </tr>
 <tr>
 <td></td>
@@ -1242,14 +1245,14 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики в области регулирования земельных отношений на территории района (города областного значения)</td>
-<td>7412</td>
+<td>7846</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>006</td>
 <td>Землеустройство, проводимое при установлении границ районов, городов областного значения, районного значения, сельских округов, поселков, сел</td>
-<td>4086</td>
+<td>3652</td>
 </tr>
 <tr>
 <td></td>
@@ -1575,11 +1578,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1613,11 +1616,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1660,11 +1663,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1698,11 +1701,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1729,16 +1732,9 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 
 <table>
 <tr>
-<td colspan="4">Наименование</td>
-<td rowspan="4">сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Функциональная группа</td>
-</tr>
-<tr>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
+<td rowspan="2">сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1746,11 +1742,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1819,21 +1815,6 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 
 <table>
 <tr>
-<td></td>
-<td>
-Приложение 2 к решению
-маслихата района Т.Рыскулова
-№ 21-4 от 25 декабря 2013 года
-</td>
-</tr>
-</table>
-
-## Бюджет на 2015 год
-
-(тысяч тенге)
-
-<table>
-<tr>
 <td colspan="3">Категория</td>
 <td>Наименование доходов</td>
 <td rowspan="3">сумма</td>
@@ -1849,11 +1830,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2151,11 +2132,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3078,11 +3059,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -3132,11 +3113,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3170,11 +3151,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6</td>
@@ -3222,11 +3203,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td>Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3260,11 +3241,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -3308,11 +3289,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3369,16 +3350,5 @@ source: https://zan.gov.kz/client/#!/doc/76261/rus/20.11.2014
 <td></td>
 <td>Свободные остатки бюджетных средств</td>
 <td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td></td>
-<td>
-Приложение 3 к решению
-маслихата района Т.Рыскулова
-№ 21-4 от 25 декабря 2013 года
-</td>
 </tr>
 </table>

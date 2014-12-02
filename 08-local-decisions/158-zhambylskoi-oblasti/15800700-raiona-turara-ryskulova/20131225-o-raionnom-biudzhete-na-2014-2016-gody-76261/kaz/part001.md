@@ -1,13 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
+source: https://zan.gov.kz/client/#!/doc/76261/kaz/02.12.2014
 ---
+
+> *Т.Рысқұлов аудандық мәслихаттың*  
+> *2013 жылғы 25 желтоқсандағы*  
+> *№ 21-4 шешіміне 1 қосымша*
 
 ## 2014 жылға арналған бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 20.11.2014 № 28-5 шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
-
-(мың теңге)
+> *Ескерту. 1-қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 02.12.2014 № 29-4 шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -26,18 +28,18 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. КІРІСТЕР</td>
-<td>7370932</td>
+<td>7344932</td>
 </tr>
 <tr>
 <td>1</td>
@@ -239,14 +241,14 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td></td>
 <td>06</td>
 <td></td>
-<td>Басқа да салықтық емес түсімдер</td>
+<td>Өзге де салықтық емес түсімдер</td>
 <td>14062</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td>Басқа да салықтық емес түсімдер</td>
+<td>Өзге де салықтық емес түсімдер</td>
 <td>14062</td>
 </tr>
 <tr>
@@ -296,21 +298,21 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>5242820</td>
+<td>5216820</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>5242820</td>
+<td>5216820</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>5242820</td>
+<td>5216820</td>
 </tr>
 </table>
 
@@ -318,7 +320,8 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Шығыстар атауы</td>
+<td></td>
+<td>Шығыстар атауы</td>
 <td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -334,18 +337,18 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>II. ШЫҒЫНДАР</td>
-<td>7398415</td>
+<td>7372415</td>
 </tr>
 <tr>
 <td>01</td>
@@ -429,7 +432,7 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td></td>
 <td>001</td>
 <td>Ауданның (облыстық маңызы бар қаланың) бюджетін орындау және ауданның (облыстық маңызы бар қаланың) коммуналдық меншігін басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>17304</td>
+<td>17243</td>
 </tr>
 <tr>
 <td></td>
@@ -443,14 +446,14 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td></td>
 <td>010</td>
 <td>Жекешелендіру, коммуналдық меншікті басқару, жекешелендіруден кейінгі қызмет және осыған байланысты дауларды реттеу</td>
-<td>449</td>
+<td>519</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Коммуналдық меншікке түскен мүлікті есепке алу, сақтау, бағалау және сату</td>
-<td>212</td>
+<td>203</td>
 </tr>
 <tr>
 <td></td>
@@ -674,14 +677,14 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td></td>
 <td></td>
 <td>Әлеуметтік көмек және әлеуметтік қамсыздандыру</td>
-<td>379567</td>
+<td>353567</td>
 </tr>
 <tr>
 <td></td>
 <td>451</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>273761</td>
+<td>265761</td>
 </tr>
 <tr>
 <td></td>
@@ -702,7 +705,7 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td></td>
 <td>005</td>
 <td>Мемлекеттік атаулы әлеуметтік көмек</td>
-<td>18760</td>
+<td>10760</td>
 </tr>
 <tr>
 <td></td>
@@ -758,7 +761,7 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td>451</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>104028</td>
+<td>86028</td>
 </tr>
 <tr>
 <td></td>
@@ -786,7 +789,7 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td></td>
 <td>025</td>
 <td>Өрлеу жобасы бойынша келісілген қаржылай көмекті енгізу</td>
-<td>68734</td>
+<td>50734</td>
 </tr>
 <tr>
 <td></td>
@@ -1241,14 +1244,14 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td></td>
 <td>001</td>
 <td>Аудан (облыстық манызы бар қала) аумағында жер қатынастарын реттеу саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>7412</td>
+<td>7846</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>006</td>
 <td>Аудандардың, облыстық маңызы бар, аудандық маңызы бар қалалардың, кенттердiң, ауылдардың, ауылдық округтердiң шекарасын белгiлеу кезiнде жүргiзiлетiн жерге орналастыру</td>
-<td>4086</td>
+<td>3652</td>
 </tr>
 <tr>
 <td></td>
@@ -1401,7 +1404,7 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td></td>
 <td></td>
 <td>043</td>
-<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде инженерлік инфрақұрылымын дамыту</td>
+<td>&quot;Өңірлерді дамыту&quot; бағдарламасы шеңберінде инженерлік инфрақұрылымын дамыту</td>
 <td>380793</td>
 </tr>
 <tr>
@@ -1506,25 +1509,26 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
-<td>Атауы</td>
+<td colspan="4">Санаты Атауы</td>
 <td rowspan="3">сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td></td>
+<td colspan="2">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Ішкі сыныбы</td>
+<td></td>
+<td>Ішкі сыныбы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1571,11 +1575,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1609,11 +1613,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1653,11 +1657,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1677,7 +1681,8 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 
 <table>
 <tr>
-<td colspan="3">Санаты</td>
+<td colspan="2">Санаты</td>
+<td></td>
 <td>Атауы</td>
 <td rowspan="3">сомасы, мың теңге</td>
 </tr>
@@ -1691,11 +1696,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1735,11 +1740,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1806,20 +1811,13 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
-Т.Рысқұлов аудандық мәслихаттың
-2013 жылғы 25 желтоқсандағы
-№ 21-4 шешіміне 2 қосымша
-</td>
-</tr>
-</table>
+> *Т.Рысқұлов аудандық мәслихаттың*  
+> *2013 жылғы 25 желтоқсандағы*  
+> *№ 21-4 шешіміне 2 қосымша*
 
 ## 2015 жылға арналған бюджет
 
-(мың теңге)
+> *(мың теңге)*
 
 <table>
 <tr>
@@ -1836,11 +1834,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2148,11 +2146,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td>Бағдарлама</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3069,11 +3067,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -3120,11 +3118,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3158,11 +3156,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6</td>
@@ -3202,25 +3200,25 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>5375</td>
+<td>5 375</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>-5375</td>
+<td>-5 375</td>
 </tr>
 </table>
 
@@ -3240,11 +3238,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td>Ішкі сыныбы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -3272,7 +3270,7 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <table>
 <tr>
 <td colspan="4">Фукционалдық топ Атауы</td>
-<td rowspan="4">сомасы, мың теңге</td>
+<td rowspan="3">сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -3284,17 +3282,11 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3351,16 +3343,5 @@ source: https://zan.gov.kz/client/#!/doc/76261/kaz/20.11.2014
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
 <td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td></td>
-<td>
-Т.Рысқұлов аудандық мәслихаттың
-2013 жылғы 25 желтоқсандағы
-№ 21-4 шешіміне 3 қосымша
-</td>
 </tr>
 </table>
