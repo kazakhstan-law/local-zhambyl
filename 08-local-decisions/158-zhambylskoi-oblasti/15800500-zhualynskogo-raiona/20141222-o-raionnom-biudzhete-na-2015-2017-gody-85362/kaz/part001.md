@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85362/kaz/03.04.2015
+source: https://zan.gov.kz/client/#!/doc/85362/kaz/03.06.2015
 ---
 
 > *Жуалы аудандық мәслихатының 2014 жылғы 22 желтоқсандағы № 39-3 шешіміне 2 қосымша*
