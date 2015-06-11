@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85365/kaz/02.04.2015
+source: https://zan.gov.kz/client/#!/doc/85365/kaz/11.06.2015
 ---
 
 # 2015 - 2017 жылдарға арналған аудандық бюджет туралы
