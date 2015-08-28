@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85375/kaz/08.06.2015
+source: https://zan.gov.kz/client/#!/doc/85375/kaz/28.08.2015
 ---
 
 > *Тараз қалалық мәслихатының 2014 жылғы 24 желтоқсандағы № 37-3 шешіміне 2-қосымша*
