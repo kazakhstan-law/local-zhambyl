@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85365/rus/12.08.2015
+source: https://zan.gov.kz/client/#!/doc/85365/rus/07.09.2015
 ---
 
 > *Приложение 3 к решению Таласского районного маслихата от 24 декабря 2014 года № 40 – 3*
