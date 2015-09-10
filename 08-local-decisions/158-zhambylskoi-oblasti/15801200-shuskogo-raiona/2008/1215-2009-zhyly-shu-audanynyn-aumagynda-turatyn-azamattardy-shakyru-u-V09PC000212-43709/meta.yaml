@@ -20,3 +20,12 @@ version_date:
   kaz: 2008-12-15
 source:
   kaz: https://zan.gov.kz/client/#!/doc/43709/kaz/15.12.2008
+repealed_on: 2016-04-26
+repealed_by:
+  code: '94462'
+  key: G15GK000004
+  requisite: Решение акима Шуского района Жамбылской области от 10 сентября 2015 года № 4
+  title:
+    rus: О признании утратившими силу некоторых решений акима района
+    kaz: Аудан әкімінің кейбір шешімдерінің күшін жою туралы
+  link: https://zan.gov.kz/client/#!/doc/94462/rus
