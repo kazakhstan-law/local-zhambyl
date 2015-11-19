@@ -20,3 +20,12 @@ version_date:
   kaz: 2009-12-28
 source:
   kaz: https://zan.gov.kz/client/#!/doc/50520/kaz/28.12.2009
+repealed_on: 2015-12-29
+repealed_by:
+  code: '96006'
+  key: V15GG000005
+  requisite: Решение акима Мойынкумского района Жамбылской области от 19 ноября 2015 года № 5
+  title:
+    rus: О признании утратившими силу некоторых решений акима  района
+    kaz: Аудан әкімінің кейбір шешімдерінің күшін жою туралы
+  link: https://zan.gov.kz/client/#!/doc/96006/rus
