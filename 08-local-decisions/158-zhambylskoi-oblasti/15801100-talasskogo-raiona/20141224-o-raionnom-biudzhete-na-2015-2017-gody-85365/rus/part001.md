@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85365/rus/07.09.2015
+source: https://zan.gov.kz/client/#!/doc/85365/rus/25.11.2015
 ---
 
 > *Приложение 1 к решению Таласского районного маслихата от 2 апреля 2015 года № 41-11*  

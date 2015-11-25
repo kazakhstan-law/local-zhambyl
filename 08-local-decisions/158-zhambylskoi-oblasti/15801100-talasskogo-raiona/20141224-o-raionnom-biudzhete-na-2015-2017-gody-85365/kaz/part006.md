@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85365/kaz/07.09.2015
+source: https://zan.gov.kz/client/#!/doc/85365/kaz/25.11.2015
 ---
 
 > *Талас аудандық мәслихатының 2015 жылғы 2 сәуірдегі № 41-11 шешіміне 2 қосымша*  
