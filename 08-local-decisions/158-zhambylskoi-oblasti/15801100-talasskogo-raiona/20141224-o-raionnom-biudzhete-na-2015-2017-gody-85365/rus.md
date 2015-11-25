@@ -1,5 +1,5 @@
 ---
-version_id: '85365_141485'
+version_id: '85365_141491'
 act_code: '85365'
 language: rus
 title: О районном бюджете на 2015-2017 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '158011000002'
 approval_date: 2014-12-24
-version_date: 2015-09-07
+version_date: 2015-11-25
 registry_number: '85365'
 caused_by:
-  code: '93808'
+  code: '96022'
   title: О внесении изменений в решение Таласского  районного маслихата от 24 декабря 2014 года № 40 – 3 «О районном бюджете на 2015 – 2017  годы»
-  link: https://zan.gov.kz/client/#!/doc/93808/rus
-source: https://zan.gov.kz/client/#!/doc/85365/rus/07.09.2015
+  link: https://zan.gov.kz/client/#!/doc/96022/rus
+source: https://zan.gov.kz/client/#!/doc/85365/rus/25.11.2015
 ---
 
 # О районном бюджете на 2015-2017 годы
