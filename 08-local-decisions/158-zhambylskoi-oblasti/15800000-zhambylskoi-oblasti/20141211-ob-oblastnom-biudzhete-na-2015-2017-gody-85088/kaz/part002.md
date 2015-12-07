@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85088/kaz/16.11.2015
+source: https://zan.gov.kz/client/#!/doc/85088/kaz/07.12.2015
 ---
 
 > *Жамбыл облыстық мәслихатының 2014 жылғы 11 желтоқсандағы № 33-3 шешіміне 2 қосымша*

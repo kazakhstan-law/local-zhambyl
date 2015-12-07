@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85088/rus/16.11.2015
+source: https://zan.gov.kz/client/#!/doc/85088/rus/07.12.2015
 ---
 
 > *Приложение 2 к решению Жамбылского областного маслихата № 33-3 от 11 декабря 2014 года*
