@@ -1,5 +1,5 @@
 ---
-version_id: '85365_141490'
+version_id: '85365_141498'
 act_code: '85365'
 language: kaz
 title: 2015 - 2017 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '158011000002'
 approval_date: 2014-12-24
-version_date: 2015-11-25
+version_date: 2015-12-10
 registry_number: '85365'
 caused_by:
-  code: '96022'
+  code: '96602'
   title: «2015 – 2017 жылдарға арналған аудандық бюджет туралы»  Талас аудандық мәслихатының 2014 жылғы 24 желтоқсандағы  № 40 – 3 шешіміне өзгерістер  енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/96022/kaz
-source: https://zan.gov.kz/client/#!/doc/85365/kaz/25.11.2015
+  link: https://zan.gov.kz/client/#!/doc/96602/kaz
+source: https://zan.gov.kz/client/#!/doc/85365/kaz
 ---
 
 # 2015 - 2017 жылдарға арналған аудандық бюджет туралы
