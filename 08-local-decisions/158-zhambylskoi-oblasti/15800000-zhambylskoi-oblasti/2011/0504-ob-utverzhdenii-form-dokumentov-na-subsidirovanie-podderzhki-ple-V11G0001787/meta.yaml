@@ -23,3 +23,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/59114/kaz/04.05.2011
   rus: https://zan.gov.kz/client/#!/doc/59114/rus/04.05.2011
+repealed_on: 2016-04-22
+repealed_by:
+  code: '97294'
+  key: G15G000004A
+  requisite: Решение акимата Жамбылской области от 31 декабря 2015 года №4
+  title:
+    rus: О признании утратившими силу некоторых решений акима Жамбылской области
+    kaz: Жамбыл облысы әкімінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/97294/rus
