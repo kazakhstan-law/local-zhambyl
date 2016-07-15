@@ -1,7 +1,99 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97095/rus/07.06.2016
+source: https://zan.gov.kz/client/#!/doc/97095/rus/15.07.2016
 ---
+
+> *Приложение 4 к решению № 39-4 маслихата района Т.Рыскулова от 25 декабря 2015 года*
+
+# Перечень бюджетных программ развития, направленных на реализацию инвестиционных проектов предусмотренных в бюджете района на 2016 год
+
+<table>
+<tr>
+<td colspan="4">Функционалльная группа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">прграмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>наименование</td>
+</tr>
+<tr>
+<td>04</td>
+<td></td>
+<td></td>
+<td>Образование</td>
+</tr>
+<tr>
+<td></td>
+<td>466</td>
+<td></td>
+<td>Отдел архитектуры., градостроительства и строительства района (города областного значения)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>037</td>
+<td>Строительство и реконструкция объектов дошкольного воспитания и обучения</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>021</td>
+<td>Строительство и реконструкция объектов начального, основного среднего и общего среднего образования</td>
+</tr>
+</table>
+
+> *Приложение 5 к решению №39-4 маслихата района Т.Рыскулова от 25 декабря 2015 года*
+
+# Перечень бюджетных программ, не подлежащих секвестрированию в процессе исполнения бюджета района на 2016 год
+
+<table>
+<tr>
+<td colspan="4">Функционалльная группа</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">прграмма</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>наименование</td>
+</tr>
+<tr>
+<td>04</td>
+<td></td>
+<td></td>
+<td>Образование</td>
+</tr>
+<tr>
+<td></td>
+<td>464</td>
+<td></td>
+<td>Отдел образования района (города областного значения)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>003</td>
+<td>Общеобразовательное обучение</td>
+</tr>
+</table>
 
 > *Приложение 6 к решению №39-4 маслихата района Т.Рыскулова от 25 декабря 2015 года*
 
@@ -40,14 +132,14 @@ source: https://zan.gov.kz/client/#!/doc/97095/rus/07.06.2016
 
 # Бюджетные программы на 2016 год по сельским округам района Т.Рыскулова
 
-> *Сноска. Приложение 7 - в редакции решения маслихата района Т.Рыскулова Жамбылской области от 07.06.2016 № 4-4 (вводится в действие с 01.01.2016).*
+> *Сноска. Приложение 7 - в редакции решения маслихата района Т.Рыскулова Жамбылской области от 15.07.2016 № 6-4 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
 <td rowspan="2"></td>
 <td rowspan="2">Сельские округа</td>
-<td colspan="15">Наименование программ</td>
-<td rowspan="2">всего</td>
+<td colspan="13">Наименование программ</td>
+<td colspan="3" rowspan="2">всего</td>
 </tr>
 <tr>
 <td>001 &quot;Аппарат акима района в городе, города районного значения, поселка, села, сельского округа&quot;</td>
@@ -55,35 +147,35 @@ source: https://zan.gov.kz/client/#!/doc/97095/rus/07.06.2016
 <td colspan="2">005 &quot;Организация бесплатного подвоза учащихся до школы и обратно в аульной (сельской) местности&quot;</td>
 <td colspan="2">014 &quot;Организация водоснабжения населенных пунктов&quot;</td>
 <td colspan="2">008 &quot;Освещение улиц населенных пунктов&quot;</td>
-<td colspan="3">009 &quot;Обеспечение санитарии населенных пунктов&quot;</td>
-<td>011 &quot;Благоустройство и озеленение населенных пунктов&quot;</td>
-<td colspan="3">040 &quot;Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов&quot;</td>
+<td colspan="2">009 &quot;Обеспечение санитарии населенных пунктов&quot;</td>
+<td colspan="2">011 &quot;Благоустройство и озеленение населенных пунктов&quot;</td>
+<td>040 &quot;Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов&quot;</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Куланского сельского округа&quot;</td>
-<td>36088</td>
+<td>42001</td>
 <td>150</td>
 <td colspan="2">607</td>
-<td colspan="2">11600</td>
-<td colspan="2">17290</td>
-<td>4390</td>
-<td colspan="3">41460</td>
-<td colspan="3">15675</td>
-<td>127260</td>
+<td colspan="2">14564</td>
+<td colspan="2">16965</td>
+<td colspan="2">4390</td>
+<td colspan="2">38446</td>
+<td>15675</td>
+<td colspan="3">132798</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Луговского сельского округа&quot;</td>
-<td>25259</td>
+<td>25817</td>
 <td>163</td>
 <td colspan="2">0</td>
 <td colspan="2">0</td>
-<td colspan="2">3380</td>
-<td>0</td>
-<td colspan="3">100</td>
-<td colspan="3">9934</td>
-<td>38836</td>
+<td colspan="2">2940</td>
+<td colspan="2">0</td>
+<td colspan="2">100</td>
+<td>9934</td>
+<td colspan="3">38954</td>
 </tr>
 <tr>
 <td>3</td>
@@ -93,10 +185,10 @@ source: https://zan.gov.kz/client/#!/doc/97095/rus/07.06.2016
 <td colspan="2">941</td>
 <td colspan="2">400</td>
 <td colspan="2">1590</td>
-<td>0</td>
-<td colspan="3">0</td>
-<td colspan="3">3279</td>
-<td>24690</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td>3279</td>
+<td colspan="3">24690</td>
 </tr>
 <tr>
 <td>4</td>
@@ -106,10 +198,10 @@ source: https://zan.gov.kz/client/#!/doc/97095/rus/07.06.2016
 <td colspan="2">665</td>
 <td colspan="2">700</td>
 <td colspan="2">232</td>
-<td>60</td>
-<td colspan="3">85</td>
-<td colspan="3">1451</td>
-<td>21555</td>
+<td colspan="2">60</td>
+<td colspan="2">85</td>
+<td>1451</td>
+<td colspan="3">21555</td>
 </tr>
 <tr>
 <td>5</td>
@@ -119,10 +211,10 @@ source: https://zan.gov.kz/client/#!/doc/97095/rus/07.06.2016
 <td colspan="2">0</td>
 <td colspan="2">950</td>
 <td colspan="2">2799</td>
-<td>0</td>
-<td colspan="3">170</td>
-<td colspan="3">1824</td>
-<td>25780</td>
+<td colspan="2">0</td>
+<td colspan="2">170</td>
+<td>1824</td>
+<td colspan="3">25780</td>
 </tr>
 <tr>
 <td>6</td>
@@ -132,10 +224,10 @@ source: https://zan.gov.kz/client/#!/doc/97095/rus/07.06.2016
 <td colspan="2">4133</td>
 <td colspan="2">1100</td>
 <td colspan="2">3830</td>
-<td>0</td>
-<td colspan="3">30</td>
-<td colspan="3">4012</td>
-<td>32946</td>
+<td colspan="2">0</td>
+<td colspan="2">30</td>
+<td>4012</td>
+<td colspan="3">32946</td>
 </tr>
 <tr>
 <td>7</td>
@@ -145,23 +237,23 @@ source: https://zan.gov.kz/client/#!/doc/97095/rus/07.06.2016
 <td colspan="2">0</td>
 <td colspan="2">0</td>
 <td colspan="2">1660</td>
-<td>0</td>
-<td colspan="3">56</td>
-<td colspan="3">2354</td>
-<td>21675</td>
+<td colspan="2">0</td>
+<td colspan="2">56</td>
+<td>2354</td>
+<td colspan="3">21675</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Кокдоненского сельского округа&quot;</td>
-<td>20828</td>
+<td>21058</td>
 <td>150</td>
 <td colspan="2">0</td>
 <td colspan="2">3825</td>
 <td colspan="2">2415</td>
-<td>300</td>
-<td colspan="3">510</td>
-<td colspan="3">3440</td>
-<td>31468</td>
+<td colspan="2">300</td>
+<td colspan="2">510</td>
+<td>3440</td>
+<td colspan="3">31698</td>
 </tr>
 <tr>
 <td>9</td>
@@ -171,62 +263,62 @@ source: https://zan.gov.kz/client/#!/doc/97095/rus/07.06.2016
 <td colspan="2">0</td>
 <td colspan="2">550</td>
 <td colspan="2">1600</td>
-<td>0</td>
-<td colspan="3">43</td>
-<td colspan="3">3271</td>
-<td>23251</td>
+<td colspan="2">0</td>
+<td colspan="2">43</td>
+<td>3271</td>
+<td colspan="3">23251</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Кумарыкского сельского округа&quot;</td>
-<td>14862</td>
-<td>150</td>
+<td>15289</td>
+<td>37150</td>
 <td colspan="2">2700</td>
-<td colspan="2">0</td>
+<td colspan="2">2000</td>
 <td colspan="2">1310</td>
-<td>0</td>
-<td colspan="3">54</td>
-<td colspan="3">3695</td>
-<td>22771</td>
+<td colspan="2">0</td>
+<td colspan="2">54</td>
+<td>3695</td>
+<td colspan="3">62198</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Новосельского сельского округа&quot;</td>
-<td>13431</td>
+<td>14219</td>
 <td>150</td>
 <td colspan="2">1023</td>
 <td colspan="2">300</td>
-<td colspan="2">790</td>
-<td>462</td>
-<td colspan="3">138</td>
-<td colspan="3">1110</td>
-<td>17404</td>
+<td colspan="2">500</td>
+<td colspan="2">264</td>
+<td colspan="2">138</td>
+<td>1110</td>
+<td colspan="3">17704</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Акыртюбинского сельского округа&quot;</td>
-<td>16796</td>
-<td>150</td>
+<td>17028</td>
+<td>213</td>
 <td colspan="2">0</td>
 <td colspan="2">0</td>
 <td colspan="2">2310</td>
-<td>0</td>
-<td colspan="3">30</td>
-<td colspan="3">3210</td>
-<td>22496</td>
+<td colspan="2">0</td>
+<td colspan="2">30</td>
+<td>3210</td>
+<td colspan="3">22791</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Орнекского сельского округа&quot;</td>
-<td>19507</td>
+<td>19527</td>
 <td>150</td>
 <td colspan="2">1125</td>
 <td colspan="2">1090</td>
 <td colspan="2">2114</td>
-<td>0</td>
-<td colspan="3">0</td>
-<td colspan="3">3955</td>
-<td>27941</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td>3955</td>
+<td colspan="3">27961</td>
 </tr>
 <tr>
 <td>14</td>
@@ -236,10 +328,10 @@ source: https://zan.gov.kz/client/#!/doc/97095/rus/07.06.2016
 <td colspan="2">994</td>
 <td colspan="2">640</td>
 <td colspan="2">1559</td>
-<td>350</td>
-<td colspan="3">950</td>
-<td colspan="3">2920</td>
-<td>26659</td>
+<td colspan="2">350</td>
+<td colspan="2">950</td>
+<td>2920</td>
+<td colspan="3">26659</td>
 </tr>
 <tr>
 <td>15</td>
@@ -249,22 +341,22 @@ source: https://zan.gov.kz/client/#!/doc/97095/rus/07.06.2016
 <td colspan="2">1301</td>
 <td colspan="2">0</td>
 <td colspan="2">1140</td>
-<td>320</td>
-<td colspan="3">170</td>
-<td colspan="3">1670</td>
-<td>21820</td>
+<td colspan="2">320</td>
+<td colspan="2">170</td>
+<td>1670</td>
+<td colspan="3">21820</td>
 </tr>
 <tr>
 <td></td>
 <td>Всего</td>
-<td>294103</td>
-<td>2308</td>
+<td>302271</td>
+<td>39371</td>
 <td colspan="2">13489</td>
-<td colspan="2">21155</td>
-<td colspan="2">44019</td>
-<td>5882</td>
-<td colspan="3">43796</td>
-<td colspan="3">61800</td>
-<td>486552</td>
+<td colspan="2">26119</td>
+<td colspan="2">42964</td>
+<td colspan="2">5684</td>
+<td colspan="2">40782</td>
+<td>61800</td>
+<td colspan="3">532480</td>
 </tr>
 </table>
