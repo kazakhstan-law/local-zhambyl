@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97083/kaz/21.07.2016
+source: https://zan.gov.kz/client/#!/doc/97083/kaz/19.08.2016
 ---
 
 # 2016-2018 жылдарға арналған аудандық бюджет туралы
