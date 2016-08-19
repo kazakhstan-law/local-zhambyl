@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/96826/rus/20.07.2016
+source: https://zan.gov.kz/client/#!/doc/96826/rus/19.08.2016
 ---
 
 > *Приложение 5 к решению Жуалынского районного маслихата № 50-3 от 24 декабря 2015 года*
