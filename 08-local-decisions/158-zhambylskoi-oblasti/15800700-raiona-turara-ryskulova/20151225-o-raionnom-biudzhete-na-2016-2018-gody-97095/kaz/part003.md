@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97095/kaz/15.07.2016
+source: https://zan.gov.kz/client/#!/doc/97095/kaz/19.10.2016
 ---
 
 > *Т.Рысқұлов аудандық мәслихаттың 2015 жылғы 25 желтоқсандағы № 39-4 шешіміне 3 қосымша*
@@ -1698,235 +1698,237 @@ source: https://zan.gov.kz/client/#!/doc/97095/kaz/15.07.2016
 </tr>
 </table>
 
-> *Т.Рысқұлов аудандық мәслихаттың 2015 жылғы 25 желтоқсандағы № 39-4 шешіміне 7 қосымша*
+> *Т.Рысқұлов аудандық мәслихаттың*  
+> *2015 жылғы 25 желтоқсандағы*  
+> *№ 39-4 шешіміне 2 қосымша*
 
 # 2016 жылға арналған Т.Рысқұлов ауданның ауылдық округтері бойынша бюджеттік бағдарламалары
 
-> *Ескерту. 7-қосымша жаңа редакцияда- Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 15.07.2016 № 6-4 шешімімен (01.01.2016 қолданысқа енгізіледі).*
+> *Ескерту. 7-қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 19.10.2016 № 8-4 шешімімен (01.01.2016 қолданысқа енгізіледі).*
 
 <table>
 <tr>
-<td rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
 <td rowspan="2">Ауылдық округтер</td>
-<td colspan="9">бюджеттік бағдарламалар</td>
-<td rowspan="2">Барлығы</td>
+<td colspan="14">бюджеттік бағдарламалар</td>
+<td colspan="3" rowspan="2">Барлығы</td>
 </tr>
 <tr>
-<td colspan="2">001 &quot;Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты&quot;</td>
+<td>001 &quot;Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты&quot;</td>
 <td>022 &quot;Мемлекеттік органдардың күрделі шығыстары&quot;</td>
-<td>005 &quot;Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру&quot;</td>
-<td>014 &quot;Елді мекендерді сумен жабдықтауды ұйымдастыру&quot;</td>
-<td>008 &quot;Елді мекендерде көшелерді жарықтандыру&quot;</td>
+<td colspan="2">005 &quot;Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру&quot;</td>
+<td colspan="2">014 &quot;Елді мекендерді сумен жабдықтауды ұйымдастыру&quot;</td>
+<td colspan="2">008 &quot;Елді мекендерде көшелерді жарықтандыру&quot;</td>
 <td>009 &quot;Елді мекендердің санитариясын қамтамасыз ету&quot;</td>
-<td>011 &quot;Елді мекендерді абаттандыру мен көгалдандыру&quot;</td>
-<td>040 &quot;«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру&quot;</td>
+<td colspan="2">011 &quot;Елді мекендерді абаттандыру мен көгалдандыру&quot;</td>
+<td colspan="3">040 &quot;«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру&quot;</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td>&quot;Құлан ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">42001</td>
-<td>150</td>
-<td>607</td>
-<td>14564</td>
-<td>16965</td>
+<td>42692</td>
+<td>340</td>
+<td colspan="2">607</td>
+<td colspan="2">17364</td>
+<td colspan="2">13975</td>
 <td>4390</td>
-<td>38446</td>
-<td>15675</td>
-<td>132798</td>
+<td colspan="2">37755</td>
+<td colspan="3">15675</td>
+<td colspan="3">132798</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">2</td>
 <td>&quot;Луговой ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">25817</td>
+<td>25957</td>
 <td>163</td>
+<td colspan="2">0</td>
+<td colspan="2">360</td>
+<td colspan="2">2440</td>
 <td>0</td>
-<td>0</td>
-<td>2940</td>
-<td>0</td>
-<td>100</td>
-<td>9934</td>
-<td>38954</td>
+<td colspan="2">100</td>
+<td colspan="3">9934</td>
+<td colspan="3">38954</td>
 </tr>
 <tr>
-<td>3</td>
+<td colspan="2">3</td>
 <td>&quot;Ақбұлақ ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">18330</td>
+<td>18351</td>
 <td>150</td>
-<td>941</td>
-<td>400</td>
-<td>1590</td>
+<td colspan="2">941</td>
+<td colspan="2">400</td>
+<td colspan="2">1590</td>
 <td>0</td>
-<td>0</td>
-<td>3279</td>
-<td>24690</td>
+<td colspan="2">0</td>
+<td colspan="3">3279</td>
+<td colspan="3">24711</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">4</td>
 <td>&quot;Қорағаты ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">18212</td>
+<td>16761</td>
 <td>150</td>
-<td>665</td>
-<td>700</td>
-<td>232</td>
+<td colspan="2">645</td>
+<td colspan="2">200</td>
+<td colspan="2">232</td>
 <td>60</td>
-<td>85</td>
-<td>1451</td>
-<td>21555</td>
+<td colspan="2">85</td>
+<td colspan="3">1451</td>
+<td colspan="3">19584</td>
 </tr>
 <tr>
-<td>5</td>
+<td colspan="2">5</td>
 <td>&quot;Абай ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">19887</td>
+<td>19908</td>
 <td>150</td>
+<td colspan="2">0</td>
+<td colspan="2">950</td>
+<td colspan="2">2799</td>
 <td>0</td>
-<td>950</td>
-<td>2799</td>
-<td>0</td>
-<td>170</td>
-<td>1824</td>
-<td>25780</td>
+<td colspan="2">170</td>
+<td colspan="3">1824</td>
+<td colspan="3">25801</td>
 </tr>
 <tr>
-<td>6</td>
+<td colspan="2">6</td>
 <td>&quot;Қарақыстақ ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">19691</td>
+<td>19712</td>
 <td>150</td>
-<td>4133</td>
-<td>1100</td>
-<td>3830</td>
+<td colspan="2">4133</td>
+<td colspan="2">1100</td>
+<td colspan="2">3830</td>
 <td>0</td>
-<td>30</td>
-<td>4012</td>
-<td>32946</td>
+<td colspan="2">30</td>
+<td colspan="3">4012</td>
+<td colspan="3">32967</td>
 </tr>
 <tr>
-<td>7</td>
+<td colspan="2">7</td>
 <td>&quot;Жаңатұрмыс ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">17510</td>
+<td>17531</td>
 <td>95</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">1660</td>
 <td>0</td>
-<td>0</td>
-<td>1660</td>
-<td>0</td>
-<td>56</td>
-<td>2354</td>
-<td>21675</td>
+<td colspan="2">56</td>
+<td colspan="3">2354</td>
+<td colspan="3">21696</td>
 </tr>
 <tr>
-<td>8</td>
+<td colspan="2">8</td>
 <td>&quot;Көкдөнен ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">21058</td>
+<td>21449</td>
 <td>150</td>
-<td>0</td>
-<td>3825</td>
-<td>2415</td>
+<td colspan="2">0</td>
+<td colspan="2">3455</td>
+<td colspan="2">2415</td>
 <td>300</td>
-<td>510</td>
-<td>3440</td>
-<td>31698</td>
+<td colspan="2">510</td>
+<td colspan="3">3440</td>
+<td colspan="3">31719</td>
 </tr>
 <tr>
-<td>9</td>
+<td colspan="2">9</td>
 <td>&quot;Көгершін ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">17637</td>
-<td>150</td>
+<td>17137</td>
+<td>475</td>
+<td colspan="2">0</td>
+<td colspan="2">1296</td>
+<td colspan="2">1050</td>
 <td>0</td>
-<td>550</td>
-<td>1600</td>
-<td>0</td>
-<td>43</td>
-<td>3271</td>
-<td>23251</td>
+<td colspan="2">43</td>
+<td colspan="3">3271</td>
+<td colspan="3">23272</td>
 </tr>
 <tr>
-<td>10</td>
+<td colspan="2">10</td>
 <td>&quot;Құмарық ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">15289</td>
+<td>15310</td>
 <td>37150</td>
-<td>2700</td>
-<td>2000</td>
-<td>1310</td>
+<td colspan="2">2700</td>
+<td colspan="2">2000</td>
+<td colspan="2">1310</td>
 <td>0</td>
-<td>54</td>
-<td>3695</td>
-<td>62198</td>
+<td colspan="2">54</td>
+<td colspan="3">3695</td>
+<td colspan="3">62219</td>
 </tr>
 <tr>
-<td>11</td>
+<td colspan="2">11</td>
 <td>&quot;Новосел ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">14219</td>
+<td>14240</td>
 <td>150</td>
-<td>1023</td>
-<td>300</td>
-<td>500</td>
+<td colspan="2">1023</td>
+<td colspan="2">300</td>
+<td colspan="2">500</td>
 <td>264</td>
-<td>138</td>
-<td>1110</td>
-<td>17704</td>
+<td colspan="2">138</td>
+<td colspan="3">1110</td>
+<td colspan="3">17725</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
 <td>&quot;Ақыртөбе ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">17028</td>
+<td>17049</td>
 <td>213</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">2310</td>
 <td>0</td>
-<td>0</td>
-<td>2310</td>
-<td>0</td>
-<td>30</td>
-<td>3210</td>
-<td>22791</td>
+<td colspan="2">30</td>
+<td colspan="3">3210</td>
+<td colspan="3">22812</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
 <td>&quot;Өрнек ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">19527</td>
+<td>19548</td>
 <td>150</td>
-<td>1125</td>
-<td>1090</td>
-<td>2114</td>
+<td colspan="2">1125</td>
+<td colspan="2">1090</td>
+<td colspan="2">2114</td>
 <td>0</td>
-<td>0</td>
-<td>3955</td>
-<td>27961</td>
+<td colspan="2">0</td>
+<td colspan="3">3955</td>
+<td colspan="3">27982</td>
 </tr>
 <tr>
-<td>14</td>
+<td colspan="2">14</td>
 <td>&quot;Тереңөзек ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">18996</td>
-<td>250</td>
-<td>994</td>
-<td>640</td>
-<td>1559</td>
-<td>350</td>
-<td>950</td>
-<td>2920</td>
-<td>26659</td>
+<td>19039</td>
+<td>460</td>
+<td colspan="2">883</td>
+<td colspan="2">640</td>
+<td colspan="2">1559</td>
+<td>210</td>
+<td colspan="2">885</td>
+<td colspan="3">2920</td>
+<td colspan="3">26596</td>
 </tr>
 <tr>
-<td>15</td>
+<td colspan="2">15</td>
 <td>&quot;Қайыңды ауылдық округі әкімінің аппараты&quot; коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">17069</td>
-<td>150</td>
-<td>1301</td>
-<td>0</td>
-<td>1140</td>
+<td>17312</td>
+<td>172</td>
+<td colspan="2">1079</td>
+<td colspan="2">0</td>
+<td colspan="2">1118</td>
 <td>320</td>
-<td>170</td>
-<td>1670</td>
-<td>21820</td>
+<td colspan="2">170</td>
+<td colspan="3">1670</td>
+<td colspan="3">21841</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>Барлығы</td>
-<td colspan="2">302271</td>
-<td>39371</td>
-<td>13489</td>
-<td>26119</td>
-<td>42964</td>
-<td>5684</td>
-<td>40782</td>
-<td>61800</td>
-<td>532480</td>
+<td>301996</td>
+<td>40118</td>
+<td colspan="2">13136</td>
+<td colspan="2">29155</td>
+<td colspan="2">38902</td>
+<td>5544</td>
+<td colspan="2">40026</td>
+<td colspan="3">61800</td>
+<td colspan="3">530677</td>
 </tr>
 </table>
