@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97093/rus/20.10.2016
+source: https://zan.gov.kz/client/#!/doc/97093/rus/05.12.2016
 ---
 
 > *Приложение - 7 к решению Таласского районного маслихата № 49 – 3 от 22 декабря 2015 года*
