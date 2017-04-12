@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108638/rus/01.03.2017
+source: https://zan.gov.kz/client/#!/doc/108638/rus/12.04.2017
 ---
 
 > *Приложение 3 к решению маслихата района Т.Рыскулова №11-5 от 23 декабря 2016 года*
@@ -1773,216 +1773,233 @@ source: https://zan.gov.kz/client/#!/doc/108638/rus/01.03.2017
 
 > *Приложение 7 к решению маслихата района Т.Рыскулова №11-5 от 23 декабря 2016 года*
 
-# Бюджетные программы на 2017 год по сельским округам района Т.Рыскулова
+## Бюджетные программы на 2017 год по сельским округам района Т.Рыскулова
 
-> *Сноска. Приложение 7 – в редакции решения маслихата района Т.Рыскулова Жамбылской области от 01.03.2017 № 12-4 (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 7 – в редакции решения маслихата района Т.Рыскулова Жамбылской области от 12.04.2017 № 14-4 (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
+<td rowspan="2"></td>
 <td rowspan="2">Сельские округа</td>
-<td colspan="13">Наименование программ</td>
-<td colspan="4" rowspan="2">всего</td>
+<td colspan="15">Наименование программ</td>
+<td rowspan="2">всего</td>
 </tr>
 <tr>
-<td>001 &quot;Аппарат акима района в городе, города районного значения, поселка, села, сельского округа&quot;</td>
-<td>022 &quot;Капи-тальные расходы государственных органов&quot;</td>
-<td colspan="2">005 &quot;Организация бесплатного подвоза учащихся до школы и обратно в аульной (сельской) местности&quot;</td>
+<td colspan="2">001 &quot;Аппарат акима района в городе, города районного значения, поселка, села, сельского округа&quot;</td>
+<td colspan="2">022 &quot;Капи-тальные расходы государственных органов&quot;</td>
+<td>005 &quot;Организация бесплатного подвоза учащихся до школы и обратно в аульной (сельской) местности&quot;</td>
 <td colspan="2">014 &quot;Организация водоснабжения населенных пунктов&quot;</td>
 <td colspan="2">008 &quot;Освещение улиц населенных пунктов&quot;</td>
 <td colspan="2">009 &quot;Обеспечение санитарии населенных пунктов&quot;</td>
-<td>011 &quot;Благоустройство и озеленение населенных пунктов&quot;</td>
+<td colspan="2">011 &quot;Благоустройство и озеленение населенных пунктов&quot;</td>
 <td colspan="2">040 &quot;Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов&quot;</td>
 </tr>
 <tr>
+<td>1</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Куланского сельского округа&quot;</td>
-<td>39174</td>
-<td>111</td>
-<td colspan="2">689</td>
-<td colspan="2">19623</td>
+<td colspan="2">38796</td>
+<td colspan="2">660</td>
+<td>689</td>
+<td colspan="2">6361</td>
 <td colspan="2">24492</td>
 <td colspan="2">0</td>
-<td>31710</td>
+<td colspan="2">31710</td>
 <td colspan="2">14963</td>
-<td colspan="4">130762</td>
+<td>117671</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Луговского сельского округа&quot;</td>
-<td>26903</td>
-<td>425</td>
-<td colspan="2">0</td>
+<td colspan="2">26158</td>
+<td colspan="2">974</td>
+<td>0</td>
 <td colspan="2">0</td>
 <td colspan="2">3026</td>
 <td colspan="2">0</td>
-<td>0</td>
+<td colspan="2">0</td>
 <td colspan="2">9479</td>
-<td colspan="4">39833</td>
+<td>39637</td>
 </tr>
 <tr>
+<td>3</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Акбулакского сельского округа&quot;</td>
-<td>21728</td>
-<td>403</td>
-<td colspan="2">1379</td>
+<td colspan="2">20718</td>
+<td colspan="2">952</td>
+<td>1379</td>
 <td colspan="2">267</td>
 <td colspan="2">1184</td>
 <td colspan="2">0</td>
-<td>8450</td>
+<td colspan="2">8450</td>
 <td colspan="2">3104</td>
-<td colspan="4">36515</td>
+<td>36054</td>
 </tr>
 <tr>
+<td>4</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Курагатинского сельского округа&quot;</td>
-<td>14946</td>
-<td>525</td>
-<td colspan="2">619</td>
+<td colspan="2">15506</td>
+<td colspan="2">1074</td>
+<td>619</td>
 <td colspan="2">500</td>
 <td colspan="2">259</td>
 <td colspan="2">0</td>
-<td>90</td>
+<td colspan="2">90</td>
 <td colspan="2">1343</td>
-<td colspan="4">18282</td>
+<td>19391</td>
 </tr>
 <tr>
+<td>5</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Абайского сельского округа&quot;</td>
-<td>15746</td>
-<td>305</td>
-<td colspan="2">0</td>
+<td colspan="2">16306</td>
+<td colspan="2">854</td>
+<td>0</td>
 <td colspan="2">1260</td>
 <td colspan="2">2059</td>
 <td colspan="2">0</td>
-<td>140</td>
+<td colspan="2">140</td>
 <td colspan="2">1723</td>
-<td colspan="4">21233</td>
+<td>22342</td>
 </tr>
 <tr>
+<td>6</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Каракыстакского сельского округа&quot;</td>
-<td>29981</td>
-<td>0</td>
-<td colspan="2">4103</td>
+<td colspan="2">30541</td>
+<td colspan="2">549</td>
+<td>4103</td>
 <td colspan="2">1155</td>
 <td colspan="2">2398</td>
 <td colspan="2">0</td>
-<td>21771</td>
+<td colspan="2">21771</td>
 <td colspan="2">3797</td>
-<td colspan="4">63205</td>
+<td>64314</td>
 </tr>
 <tr>
+<td>7</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Жанатурмысского сельского округа&quot;</td>
-<td>24934</td>
-<td>379</td>
-<td colspan="2">0</td>
+<td colspan="2">25494</td>
+<td colspan="2">928</td>
+<td>0</td>
 <td colspan="2">0</td>
 <td colspan="2">1455</td>
 <td colspan="2">0</td>
-<td>6905</td>
+<td colspan="2">6905</td>
 <td colspan="2">2234</td>
-<td colspan="4">35907</td>
+<td>37016</td>
 </tr>
 <tr>
+<td>8</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Кокдоненского сельского округа&quot;</td>
-<td>18946</td>
-<td>224</td>
-<td colspan="2">0</td>
+<td colspan="2">19506</td>
+<td colspan="2">773</td>
+<td>0</td>
 <td colspan="2">3121</td>
 <td colspan="2">2304</td>
 <td colspan="2">0</td>
-<td>100</td>
+<td colspan="2">100</td>
 <td colspan="2">3247</td>
-<td colspan="4">27942</td>
+<td>29051</td>
 </tr>
 <tr>
+<td>9</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Когершинского сельского округа&quot;</td>
-<td>18310</td>
-<td>84</td>
-<td colspan="2">0</td>
+<td colspan="2">18870</td>
+<td colspan="2">633</td>
+<td>0</td>
 <td colspan="2">1000</td>
 <td colspan="2">2725</td>
 <td colspan="2">0</td>
-<td>2790</td>
+<td colspan="2">2790</td>
 <td colspan="2">3107</td>
-<td colspan="4">28016</td>
+<td>29125</td>
 </tr>
 <tr>
+<td>10</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Кумарыкского сельского округа&quot;</td>
-<td>15888</td>
-<td>60</td>
-<td colspan="2">2902</td>
+<td colspan="2">16448</td>
+<td colspan="2">609</td>
+<td>2902</td>
 <td colspan="2">1000</td>
 <td colspan="2">1076</td>
 <td colspan="2">0</td>
-<td>54</td>
+<td colspan="2">54</td>
 <td colspan="2">3507</td>
-<td colspan="4">24487</td>
+<td>25596</td>
 </tr>
 <tr>
+<td>11</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Новосельского сельского округа&quot;</td>
-<td>13554</td>
-<td>194</td>
-<td colspan="2">1240</td>
-<td colspan="2">2341</td>
+<td colspan="2">15067</td>
+<td colspan="2">903</td>
+<td>1240</td>
+<td colspan="2">1205</td>
 <td colspan="2">803</td>
 <td colspan="2">0</td>
-<td>7467</td>
+<td colspan="2">7467</td>
 <td colspan="2">1044</td>
-<td colspan="4">26643</td>
+<td>27729</td>
 </tr>
 <tr>
+<td>12</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Акыртюбинского сельского округа&quot;</td>
-<td>18496</td>
-<td>260</td>
-<td colspan="2">0</td>
+<td colspan="2">18240</td>
+<td colspan="2">941</td>
+<td>0</td>
 <td colspan="2">0</td>
 <td colspan="2">2216</td>
 <td colspan="2">0</td>
-<td>0</td>
+<td colspan="2">0</td>
 <td colspan="2">3027</td>
-<td colspan="4">23999</td>
+<td>24424</td>
 </tr>
 <tr>
+<td>13</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Орнекского сельского округа&quot;</td>
-<td>19280</td>
-<td>545</td>
-<td colspan="2">1358</td>
+<td colspan="2">21050</td>
+<td colspan="2">1094</td>
+<td>1358</td>
 <td colspan="2">1260</td>
 <td colspan="2">1191</td>
 <td colspan="2">0</td>
-<td>6905</td>
+<td colspan="2">6905</td>
 <td colspan="2">3738</td>
-<td colspan="4">34277</td>
+<td>36596</td>
 </tr>
 <tr>
+<td>14</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Теренозекского сельского округа&quot;</td>
-<td>20451</td>
-<td>240</td>
-<td colspan="2">1016</td>
+<td colspan="2">21264</td>
+<td colspan="2">789</td>
+<td>1016</td>
 <td colspan="2">4022</td>
 <td colspan="2">1285</td>
 <td colspan="2">0</td>
-<td>55</td>
+<td colspan="2">55</td>
 <td colspan="2">2772</td>
-<td colspan="4">29841</td>
+<td>31203</td>
 </tr>
 <tr>
+<td>15</td>
 <td>Коммунальное государственное учреждение &quot;Аппарат акима Каиндинского сельского округа&quot;</td>
-<td>18375</td>
-<td>408</td>
-<td colspan="2">890</td>
+<td colspan="2">18935</td>
+<td colspan="2">957</td>
+<td>890</td>
 <td colspan="2">0</td>
 <td colspan="2">1113</td>
 <td colspan="2">0</td>
-<td>4900</td>
+<td colspan="2">4900</td>
 <td colspan="2">1571</td>
-<td colspan="4">27257</td>
+<td>28366</td>
 </tr>
 <tr>
+<td></td>
 <td>Всего</td>
-<td>316712</td>
-<td>4163</td>
-<td colspan="2">14196</td>
-<td colspan="2">35549</td>
+<td colspan="2">322899</td>
+<td colspan="2">12690</td>
+<td>14196</td>
+<td colspan="2">21151</td>
 <td colspan="2">47586</td>
 <td colspan="2">0</td>
-<td>91337</td>
+<td colspan="2">91337</td>
 <td colspan="2">58656</td>
-<td colspan="4">568199</td>
+<td>568515</td>
 </tr>
 </table>
