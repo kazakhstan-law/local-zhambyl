@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108545/kaz/26.09.2017
+source: https://zan.gov.kz/client/#!/doc/108545/kaz/18.10.2017
 ---
 
 > *Жуалы аудандық мәслихатының*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/108545/kaz/26.09.2017
 
 ## 2017 жылға әр бір ауылдық округтер бойынша бюджеттік бағдарламалар
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Жамбыл облысы Жуалы аудандық маслихатының 26.09.2017 № 16-3 шешімімен (01.01.2017 қолданысқа енгізіледі).*
+> *Ескерту. 5-қосымша жаңа редакцияда - Жамбыл облысы Жуалы аудандық маслихатының 18.10.2017 № 17-3 шешімімен (01.01.2017 қолданысқа енгізіледі).*
 
 > *мың теңге*
 
@@ -35,42 +35,42 @@ source: https://zan.gov.kz/client/#!/doc/108545/kaz/26.09.2017
 <td colspan="3">11140</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">7750</td>
+<td colspan="2">8046</td>
 <td colspan="2"></td>
 <td>2469</td>
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Ақсай ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
-<td colspan="3">18076</td>
+<td colspan="3">17796</td>
 <td colspan="3"></td>
 <td colspan="3">2430</td>
 <td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="3">210</td>
 <td colspan="2">3622</td>
 <td colspan="2">500</td>
 <td>4221</td>
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Ақтөбе ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
-<td colspan="3">16659</td>
+<td colspan="3">16474</td>
 <td colspan="3">1500</td>
 <td colspan="3">2439</td>
 <td colspan="3">583</td>
 <td colspan="3"></td>
 <td colspan="2">607</td>
 <td colspan="2">500</td>
-<td>4189</td>
+<td>4149</td>
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Боралдай ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
-<td colspan="3">17946</td>
+<td colspan="3">17836</td>
 <td colspan="3"></td>
 <td colspan="3">2065</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">552</td>
 <td colspan="2">500</td>
-<td>8189</td>
+<td>8026</td>
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Нұрлыкент ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
@@ -81,44 +81,44 @@ source: https://zan.gov.kz/client/#!/doc/108545/kaz/26.09.2017
 <td colspan="3">4935</td>
 <td colspan="2">700</td>
 <td colspan="2">700</td>
-<td>4189</td>
+<td>4033</td>
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Шақпақ ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
-<td colspan="3">19359</td>
+<td colspan="3">19219</td>
 <td colspan="3">1620</td>
 <td colspan="3">3220</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">3229</td>
 <td colspan="2">500</td>
-<td>1089</td>
+<td>978</td>
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Қарасаз ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
-<td colspan="3">19591</td>
+<td colspan="3">19381</td>
 <td colspan="3">3195</td>
 <td colspan="3">2409</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">912</td>
 <td colspan="2">500</td>
-<td>1089</td>
+<td>1049</td>
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Қызыларық ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
-<td colspan="3">17132</td>
+<td colspan="3">16992</td>
 <td colspan="3">1600</td>
 <td colspan="3">1834</td>
 <td colspan="3">421</td>
 <td colspan="3"></td>
 <td colspan="2">528</td>
 <td colspan="2">500</td>
-<td>1089</td>
+<td>946</td>
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Жетітөбе ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
-<td colspan="3">19665</td>
+<td colspan="3">19525</td>
 <td colspan="3">1072</td>
 <td colspan="3">1488</td>
 <td colspan="3">1828</td>
@@ -129,69 +129,69 @@ source: https://zan.gov.kz/client/#!/doc/108545/kaz/26.09.2017
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Көкбастау ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
-<td colspan="3">20177</td>
+<td colspan="3">20037</td>
 <td colspan="3">1140</td>
 <td colspan="3">2553</td>
 <td colspan="3">681</td>
 <td colspan="3"></td>
 <td colspan="2">7240</td>
 <td colspan="2">500</td>
-<td>1089</td>
+<td>973</td>
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Күреңбел ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
-<td colspan="3">17786</td>
+<td colspan="3">17716</td>
 <td colspan="3">1355</td>
 <td colspan="3">1704</td>
 <td colspan="3">373</td>
 <td colspan="3"></td>
 <td colspan="2">540</td>
 <td colspan="2">147</td>
-<td>4189</td>
+<td>4273</td>
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Қошқарата ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">15984</td>
+<td colspan="2">15704</td>
 <td colspan="4">1300</td>
 <td colspan="3">1355</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">336</td>
 <td colspan="2">500</td>
-<td>1089</td>
+<td>962</td>
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Мыңбұлақ ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">19508</td>
+<td colspan="2">19228</td>
 <td colspan="4"></td>
 <td colspan="3">3289</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">2461</td>
 <td colspan="2">500</td>
-<td>1089</td>
+<td>984</td>
 </tr>
 <tr>
 <td colspan="3">«Жамбыл облысы Жуалы ауданы Билікөл ауылдық округі әкімінің аппараты» коммуналдық мемлекеттік мекемесі</td>
-<td colspan="2">17822</td>
+<td colspan="2">17662</td>
 <td colspan="4">1600</td>
 <td colspan="3">1621</td>
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2">2723</td>
 <td colspan="2">500</td>
-<td>4189</td>
+<td>4041</td>
 </tr>
 <tr>
 <td colspan="3">Барлығы</td>
-<td colspan="2">283749</td>
+<td colspan="2">281614</td>
 <td colspan="4">14382</td>
 <td colspan="3">41603</td>
 <td colspan="3">3886</td>
-<td colspan="3">4935</td>
-<td colspan="2">31569</td>
+<td colspan="3">5145</td>
+<td colspan="2">31865</td>
 <td colspan="2">6347</td>
-<td>39258</td>
+<td>38193</td>
 </tr>
 </table>
 
