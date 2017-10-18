@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108584/kaz/15.08.2017
+source: https://zan.gov.kz/client/#!/doc/108584/kaz/18.10.2017
 ---
 
 > *Қордай аудандық мәслихатының*  
