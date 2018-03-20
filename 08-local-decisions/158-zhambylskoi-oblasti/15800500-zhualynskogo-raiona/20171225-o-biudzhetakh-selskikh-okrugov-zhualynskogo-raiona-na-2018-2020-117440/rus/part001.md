@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
+source: https://zan.gov.kz/client/#!/doc/117440/rus/20.03.2018
 ---
 
 > *Приложение 1 к решению*  
@@ -8,6 +8,8 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 > *№ 21-3 от 25 декабря 2017 года*
 
 ## Бюджет аппарата акима село Б.Момышулы на 2018 год
+
+> *Сноска. Приложение 1 с изменениями, внесенными решением Жуалынского районного маслихата Жамбылской области от 20.03.2018 № 24-3 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -40,7 +42,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td></td>
 <td></td>
 <td colspan="4">I. ДОХОДЫ</td>
-<td colspan="2">86 070</td>
+<td colspan="2">271 713</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -110,7 +112,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td></td>
 <td></td>
 <td colspan="4">Неналоговые поступления</td>
-<td colspan="2">280</td>
+<td colspan="2">10 433</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -145,35 +147,35 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td>06</td>
 <td></td>
 <td colspan="4">Прочие неналоговые поступления</td>
-<td colspan="2">10</td>
+<td colspan="2">10 163</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td colspan="4">Прочие неналоговые поступления</td>
-<td colspan="2">10</td>
+<td colspan="2">10 163</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td colspan="2">44 679</td>
+<td colspan="2">220 169</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">44 679</td>
+<td colspan="2">220 169</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="4">Трансферты районов (городов областного значения)</td>
-<td colspan="2">44 679</td>
+<td colspan="2">220 169</td>
 </tr>
 </table>
 
@@ -205,49 +207,77 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>II. ЗАТРАТЫ</td>
-<td>86 070</td>
+<td>271 713</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>28 763</td>
+<td>30 872</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>28 763</td>
+<td>30 872</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>28 383</td>
+<td>29 430</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>380</td>
+<td>1 442</td>
 </tr>
 <tr>
-<td>07</td>
+<td>04</td>
 <td colspan="2"></td>
 <td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>45 307</td>
+<td>Образование</td>
+<td>175 741</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>45 307</td>
+<td>175 741</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>004</td>
+<td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
+<td>175 741</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="2"></td>
+<td></td>
+<td>Жилищно-коммунальное хозяйство</td>
+<td>53 100</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>53 100</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>008</td>
+<td>Освещение улиц в населенных пунктах</td>
+<td>2 648</td>
 </tr>
 <tr>
 <td></td>
@@ -261,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td colspan="2"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>31 307</td>
+<td>36 452</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1081,6 +1111,8 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 
 ## Бюджет Актюбинского сельского округа на 2018 год
 
+> *Сноска. Приложение 2 с изменениями, внесенными решением Жуалынского районного маслихата Жамбылской области от 20.03.2018 № 24-3 (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
 <td colspan="8">Категория</td>
@@ -1112,14 +1144,14 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td></td>
 <td></td>
 <td colspan="4">I. ДОХОДЫ</td>
-<td colspan="2">24 807</td>
+<td colspan="2">58 348</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td></td>
 <td></td>
 <td colspan="4">Налоговые поступления</td>
-<td colspan="2">2 255</td>
+<td colspan="2">3 082</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1140,7 +1172,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td>04</td>
 <td></td>
 <td colspan="4">Hалоги на собственность</td>
-<td colspan="2">1 320</td>
+<td colspan="2">2 147</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1161,14 +1193,14 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td></td>
 <td>4</td>
 <td colspan="4">Налог на транспортные средства</td>
-<td colspan="2">1 087</td>
+<td colspan="2">1 914</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td></td>
 <td></td>
 <td colspan="4">Неналоговые поступления</td>
-<td colspan="2">46</td>
+<td colspan="2">216</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1203,35 +1235,35 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td>06</td>
 <td></td>
 <td colspan="4">Прочие неналоговые поступления</td>
-<td colspan="2">2</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td colspan="4">Прочие неналоговые поступления</td>
-<td colspan="2">2</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td colspan="2">22 506</td>
+<td colspan="2">55 050</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">22 506</td>
+<td colspan="2">55 050</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="4">Трансферты районов (городов областного значения)</td>
-<td colspan="2">22 506</td>
+<td colspan="2">55 050</td>
 </tr>
 </table>
 
@@ -1263,28 +1295,28 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>II. ЗАТРАТЫ</td>
-<td>24 807</td>
+<td>58 348</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>17 595</td>
+<td>17 689</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17 595</td>
+<td>17 689</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>17 215</td>
+<td>17 309</td>
 </tr>
 <tr>
 <td></td>
@@ -1298,19 +1330,26 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>Образование</td>
-<td>2 801</td>
+<td>36 248</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>2 801</td>
+<td>36 248</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td>008</td>
+<td>004</td>
+<td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
+<td>33 447</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>005</td>
 <td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
 <td>2 801</td>
 </tr>
@@ -2188,6 +2227,8 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 
 ## Бюджет Аксайского сельского округа на 2018 год
 
+> *Сноска. Приложение 3 с изменениями, внесенными решением Жуалынского районного маслихата Жамбылской области от 20.03.2018 № 24-3 (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
 <td colspan="8">Категория</td>
@@ -2219,35 +2260,35 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td></td>
 <td></td>
 <td colspan="4">I. ДОХОДЫ</td>
-<td colspan="2">27 538</td>
+<td colspan="2">86 675</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td></td>
 <td></td>
 <td colspan="4">Налоговые поступления</td>
-<td colspan="2">3 637</td>
+<td colspan="2">4 653</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td colspan="4">Подоходный налог</td>
-<td colspan="2">881</td>
+<td colspan="2">1 450</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>2</td>
 <td colspan="4">Индивидуальный подоходный налог</td>
-<td colspan="2">881</td>
+<td colspan="2">1 450</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>04</td>
 <td></td>
 <td colspan="4">Hалоги на собственность</td>
-<td colspan="2">2 756</td>
+<td colspan="2">3 203</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2261,21 +2302,21 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td></td>
 <td>3</td>
 <td colspan="4">Земельный налог</td>
-<td colspan="2">339</td>
+<td colspan="2">544</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>4</td>
 <td colspan="4">Налог на транспортные средства</td>
-<td colspan="2">2 366</td>
+<td colspan="2">2 608</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td></td>
 <td></td>
 <td colspan="4">Неналоговые поступления</td>
-<td colspan="2">46</td>
+<td colspan="2">2 489</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2310,35 +2351,35 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td>06</td>
 <td></td>
 <td colspan="4">Прочие неналоговые поступления</td>
-<td colspan="2">2</td>
+<td colspan="2">2 445</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td colspan="4">Прочие неналоговые поступления</td>
-<td colspan="2">2</td>
+<td colspan="2">2 445</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td colspan="2">23 855</td>
+<td colspan="2">79 533</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">23 855</td>
+<td colspan="2">79 533</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="4">Трансферты районов (городов областного значения)</td>
-<td colspan="2">23 855</td>
+<td colspan="2">79 533</td>
 </tr>
 </table>
 
@@ -2370,28 +2411,28 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>II. ЗАТРАТЫ</td>
-<td>27 538</td>
+<td>86 675</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>17 962</td>
+<td>19 909</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17 962</td>
+<td>19 909</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>17 582</td>
+<td>19 529</td>
 </tr>
 <tr>
 <td></td>
@@ -2401,25 +2442,46 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td>380</td>
 </tr>
 <tr>
+<td>04</td>
+<td colspan="2"></td>
+<td></td>
+<td>Образование</td>
+<td>55 297</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>55 297</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>004</td>
+<td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
+<td>55 297</td>
+</tr>
+<tr>
 <td>07</td>
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>6 846</td>
+<td>7 599</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6 846</td>
+<td>7 599</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>380</td>
+<td>683</td>
 </tr>
 <tr>
 <td></td>
@@ -2433,7 +2495,28 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td colspan="2"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>3 966</td>
+<td>4 416</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2"></td>
+<td></td>
+<td>Транспорт и коммуникации</td>
+<td>1 140</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>1 140</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>013</td>
+<td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>1 140</td>
 </tr>
 <tr>
 <td>13</td>
@@ -3239,6 +3322,8 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 
 ## Бюджет Боралдайского сельского округа на 2018 год
 
+> *Сноска. Приложение 4 с изменениями, внесенными решением Жуалынского районного маслихата Жамбылской области от 20.03.2018 № 24-3 (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
 <td colspan="8">Категория</td>
@@ -3270,14 +3355,14 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td></td>
 <td></td>
 <td colspan="4">I. ДОХОДЫ</td>
-<td colspan="2">39 465</td>
+<td colspan="2">73 665</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td></td>
 <td></td>
 <td colspan="4">Налоговые поступления</td>
-<td colspan="2">2 026</td>
+<td colspan="2">3 228</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3298,7 +3383,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td>04</td>
 <td></td>
 <td colspan="4">Hалоги на собственность</td>
-<td colspan="2">1 552</td>
+<td colspan="2">2 754</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3319,14 +3404,14 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td></td>
 <td>4</td>
 <td colspan="4">Налог на транспортные средства</td>
-<td colspan="2">1 242</td>
+<td colspan="2">2 444</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td></td>
 <td></td>
 <td colspan="4">Неналоговые поступления</td>
-<td colspan="2">46</td>
+<td colspan="2">2 029</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3361,35 +3446,35 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td>06</td>
 <td></td>
 <td colspan="4">Прочие неналоговые поступления</td>
-<td colspan="2">2</td>
+<td colspan="2">1 985</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td colspan="4">Прочие неналоговые поступления</td>
-<td colspan="2">2</td>
+<td colspan="2">1 985</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td></td>
 <td></td>
 <td colspan="4">Поступления трансфертов</td>
-<td colspan="2">37 393</td>
+<td colspan="2">68 408</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">37 393</td>
+<td colspan="2">68 408</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="4">Трансферты районов (городов областного значения)</td>
-<td colspan="2">37 393</td>
+<td colspan="2">68 408</td>
 </tr>
 </table>
 
@@ -3421,28 +3506,28 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>II. ЗАТРАТЫ</td>
-<td>39 465</td>
+<td>73 665</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>30 089</td>
+<td>30 582</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>30 089</td>
+<td>30 582</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>29 709</td>
+<td>30 202</td>
 </tr>
 <tr>
 <td></td>
@@ -3452,18 +3537,46 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td>380</td>
 </tr>
 <tr>
+<td>04</td>
+<td colspan="2"></td>
+<td></td>
+<td>Образование</td>
+<td>32 274</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>32 274</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>004</td>
+<td>Дошкольное воспитание и обучение и организация медицинского обслуживания в организациях дошкольного воспитания и обучения</td>
+<td>32 274</td>
+</tr>
+<tr>
 <td>07</td>
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>7 200</td>
+<td>5 157</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>7 200</td>
+<td>5 157</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>014</td>
+<td>Организация водоснабжения населенных пунктов</td>
+<td>1 180</td>
 </tr>
 <tr>
 <td></td>
@@ -3477,14 +3590,35 @@ source: https://zan.gov.kz/client/#!/doc/117440/rus/25.12.2017
 <td colspan="2"></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>6 240</td>
+<td>2 764</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>580</td>
+<td>833</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2"></td>
+<td></td>
+<td>Транспорт и коммуникации</td>
+<td>3 476</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>3 476</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>013</td>
+<td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>3 476</td>
 </tr>
 <tr>
 <td>13</td>

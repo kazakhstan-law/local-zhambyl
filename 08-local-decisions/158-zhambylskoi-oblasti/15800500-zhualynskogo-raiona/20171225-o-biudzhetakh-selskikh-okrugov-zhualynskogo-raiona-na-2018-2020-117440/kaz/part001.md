@@ -1,13 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
+source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
 ---
 
 > *Жуалы аудандық мәслихатының*  
 > *2017 жылғы 25 желтоқсандағы*  
 > *№ 21-3 шешіміне 1 қосымша*
 
-## Б. Момышұлы ауылы әкімі аппаратының 2018 жылға арналған бюджеті
+## Б. Момышұлы ауылы әкімінің 2018 жылға арналған бюджеті
+
+> *Ескерту. 1 – қосымшаға өзгерістер енгізілді - Жамбыл облысы Жуалы аудандық мәслихатының 20.03.2018 № 24-3 (01.01.2018 қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -40,7 +42,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td></td>
 <td></td>
 <td colspan="4">I. КІРІСТЕР</td>
-<td colspan="2">86 070</td>
+<td colspan="2">271 713</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -110,7 +112,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td></td>
 <td></td>
 <td colspan="4">Салықтық емес түсiмдер</td>
-<td colspan="2">280</td>
+<td colspan="2">10 433</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -145,35 +147,35 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td>06</td>
 <td></td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">10</td>
+<td colspan="2">10163</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">10</td>
+<td colspan="2">10163</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td colspan="2">44 679</td>
+<td colspan="2">220 169</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="2">44 679</td>
+<td colspan="2">220 169</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="4">Аудандардан (облыстық маңызы бар қала) трансферттер</td>
-<td colspan="2">44 679</td>
+<td colspan="2">220 169</td>
 </tr>
 </table>
 
@@ -205,49 +207,77 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>II. ШЫҒЫНДАР</td>
-<td>86 070</td>
+<td>271 713</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="2"></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>28 763</td>
+<td>30 872</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>28 763</td>
+<td>30 872</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>28 383</td>
+<td>29 430</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>380</td>
+<td>1 442</td>
 </tr>
 <tr>
-<td>07</td>
+<td>04</td>
 <td colspan="2"></td>
 <td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>45 307</td>
+<td>Білім беру</td>
+<td>175 741</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>45 307</td>
+<td>175 741</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>004</td>
+<td>Мектепке дейінгі тәрбие және оқыту, оның ішінде мектепке дейінгі тәрбие және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
+<td>175 741</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="2"></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>53 100</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>53 100</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>008</td>
+<td>Елді мекендердегі көшелерді жарықтандыру</td>
+<td>2 648</td>
 </tr>
 <tr>
 <td></td>
@@ -261,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td colspan="2"></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td>31 307</td>
+<td>36 452</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1081,6 +1111,8 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 
 ## Ақтөбе ауылдық округі 2018 жылға арналған бюджеті
 
+> *Ескерту. 2 – қосымшаға өзгерістер енгізілді - Жамбыл облысы Жуалы аудандық мәслихатының 20.03.2018 № 24-3 (01.01.2018 қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="8">Санаты</td>
@@ -1112,14 +1144,14 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td></td>
 <td></td>
 <td colspan="4">I. КІРІСТЕР</td>
-<td colspan="2">24 807</td>
+<td colspan="2">58 348</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td></td>
 <td></td>
 <td colspan="4">Салықтық түсімдер</td>
-<td colspan="2">2 255</td>
+<td colspan="2">3 082</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1140,7 +1172,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td>04</td>
 <td></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
-<td colspan="2">1 320</td>
+<td colspan="2">2 147</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1161,14 +1193,14 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td></td>
 <td>4</td>
 <td colspan="4">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">1 087</td>
+<td colspan="2">1 914</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td></td>
 <td></td>
 <td colspan="4">Салықтық емес түсiмдер</td>
-<td colspan="2">46</td>
+<td colspan="2">216</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1203,35 +1235,35 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td>06</td>
 <td></td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">2</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">2</td>
+<td colspan="2">172</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td colspan="2">22 506</td>
+<td colspan="2">55 050</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="2">22 506</td>
+<td colspan="2">55 050</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="4">Аудандардан (облыстық маңызы бар қала) трансферттер</td>
-<td colspan="2">22 506</td>
+<td colspan="2">55 050</td>
 </tr>
 </table>
 
@@ -1263,28 +1295,28 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>II. ШЫҒЫНДАР</td>
-<td>24 807</td>
+<td>58 348</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="2"></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>17 595</td>
+<td>17 689</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>17 595</td>
+<td>17 689</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>17 215</td>
+<td>17 309</td>
 </tr>
 <tr>
 <td></td>
@@ -1298,19 +1330,26 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>2 801</td>
+<td>36 248</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2 801</td>
+<td>36 248</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td>008</td>
+<td>004</td>
+<td>Мектепке дейінгі тәрбие және оқыту, оның ішінде мектепке дейінгі тәрбие және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
+<td>33 447</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>005</td>
 <td>Ауылдық жерлерде оқушыларды жақын мектепке дейін тегін алып баруды және қайта алып келуді ұйымдастыру</td>
 <td>2 801</td>
 </tr>
@@ -2195,6 +2234,8 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 
 ## Ақсай ауылдық округі 2018 жылға арналған бюджеті
 
+> *Ескерту. 3 – қосымшаға өзгерістер енгізілді - Жамбыл облысы Жуалы аудандық мәслихатының 20.03.2018 № 24-3 (01.01.2018 қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="8">Санаты</td>
@@ -2226,35 +2267,35 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td></td>
 <td></td>
 <td colspan="4">I. КІРІСТЕР</td>
-<td colspan="2">27 538</td>
+<td colspan="2">86 675</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td></td>
 <td></td>
 <td colspan="4">Салықтық түсімдер</td>
-<td colspan="2">3 637</td>
+<td colspan="2">4 653</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td colspan="4">Жеке табыс салығы</td>
-<td colspan="2">881</td>
+<td colspan="2">1 450</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>2</td>
 <td colspan="4">Жеке табыс салығы</td>
-<td colspan="2">881</td>
+<td colspan="2">1 450</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>04</td>
 <td></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
-<td colspan="2">2 756</td>
+<td colspan="2">3 203</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2268,21 +2309,21 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td></td>
 <td>3</td>
 <td colspan="4">Жер салығы</td>
-<td colspan="2">339</td>
+<td colspan="2">544</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>4</td>
 <td colspan="4">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">2 366</td>
+<td colspan="2">2 608</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td></td>
 <td></td>
 <td colspan="4">Салықтық емес түсiмдер</td>
-<td colspan="2">46</td>
+<td colspan="2">2 489</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2317,35 +2358,35 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td>06</td>
 <td></td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">2</td>
+<td colspan="2">2 445</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">2</td>
+<td colspan="2">2 445</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td colspan="2">23 855</td>
+<td colspan="2">79 533</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="2">23 855</td>
+<td colspan="2">79 533</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="4">Аудандардан (облыстық маңызы бар қала) трансферттер</td>
-<td colspan="2">23 855</td>
+<td colspan="2">79 533</td>
 </tr>
 </table>
 
@@ -2377,28 +2418,28 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>II. ШЫҒЫНДАР</td>
-<td>27 538</td>
+<td>86 675</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="2"></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>17 962</td>
+<td>19 909</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>17 962</td>
+<td>19 909</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>17 582</td>
+<td>19 529</td>
 </tr>
 <tr>
 <td></td>
@@ -2408,25 +2449,46 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td>380</td>
 </tr>
 <tr>
-<td>07</td>
+<td>04</td>
 <td colspan="2"></td>
 <td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>6 846</td>
+<td>Білім беру</td>
+<td>55 297</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>6 846</td>
+<td>55 297</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>004</td>
+<td>Мектепке дейінгі тәрбие және оқыту, оның ішінде мектепке дейінгі тәрбие және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
+<td>55 297</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="2"></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>7 599</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>7 599</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>380</td>
+<td>683</td>
 </tr>
 <tr>
 <td></td>
@@ -2440,7 +2502,28 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td colspan="2"></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td>3 966</td>
+<td>4 416</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2"></td>
+<td></td>
+<td>Көлiк және коммуникация</td>
+<td>1 140</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>1 140</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>013</td>
+<td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>1 140</td>
 </tr>
 <tr>
 <td>13</td>
@@ -3246,6 +3329,8 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 
 ## Боралдай ауылдық округі 2018 жылға арналған бюджеті
 
+> *Ескерту. 4 – қосымшаға өзгерістер енгізілді - Жамбыл облысы Жуалы аудандық мәслихатының 20.03.2018 № 24-3 (01.01.2018 қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="8">Санаты</td>
@@ -3277,14 +3362,14 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td></td>
 <td></td>
 <td colspan="4">I. КІРІСТЕР</td>
-<td colspan="2">39 465</td>
+<td colspan="2">73 665</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td></td>
 <td></td>
 <td colspan="4">Салықтық түсімдер</td>
-<td colspan="2">2 026</td>
+<td colspan="2">3 228</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3305,7 +3390,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td>04</td>
 <td></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
-<td colspan="2">1 552</td>
+<td colspan="2">2 754</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3326,14 +3411,14 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td></td>
 <td>4</td>
 <td colspan="4">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">1 242</td>
+<td colspan="2">2 444</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td></td>
 <td></td>
 <td colspan="4">Салықтық емес түсiмдер</td>
-<td colspan="2">46</td>
+<td colspan="2">2 029</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3368,35 +3453,35 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td>06</td>
 <td></td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">2</td>
+<td colspan="2">1 985</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">2</td>
+<td colspan="2">1 985</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
 <td></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td colspan="2">37 393</td>
+<td colspan="2">68 408</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="2">37 393</td>
+<td colspan="2">68 408</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="4">Аудандардан (облыстық маңызы бар қала) трансферттер</td>
-<td colspan="2">37 393</td>
+<td colspan="2">68 408</td>
 </tr>
 </table>
 
@@ -3428,28 +3513,28 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td colspan="2"></td>
 <td></td>
 <td>II. ШЫҒЫНДАР</td>
-<td>39 465</td>
+<td>73 665</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="2"></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>30 089</td>
+<td>30 582</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>30 089</td>
+<td>30 582</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>29 709</td>
+<td>30 202</td>
 </tr>
 <tr>
 <td></td>
@@ -3459,18 +3544,46 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td>380</td>
 </tr>
 <tr>
-<td>07</td>
+<td>04</td>
 <td colspan="2"></td>
 <td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>7 200</td>
+<td>Білім беру</td>
+<td>32 274</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>7 200</td>
+<td>32 274</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>004</td>
+<td>Мектепке дейінгі тәрбие және оқыту, оның ішінде мектепке дейінгі тәрбие және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
+<td>32 274</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="2"></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>5 157</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>5 157</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>014</td>
+<td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
+<td>1 180</td>
 </tr>
 <tr>
 <td></td>
@@ -3484,14 +3597,35 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.12.2017
 <td colspan="2"></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>6 240</td>
+<td>2 764</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td>580</td>
+<td>833</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2"></td>
+<td></td>
+<td>Көлiк және коммуникация</td>
+<td>3 476</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>3 476</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>013</td>
+<td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>3 476</td>
 </tr>
 <tr>
 <td>13</td>
