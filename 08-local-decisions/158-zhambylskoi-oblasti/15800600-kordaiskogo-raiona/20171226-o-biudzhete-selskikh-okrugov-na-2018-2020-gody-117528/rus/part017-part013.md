@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117528/rus/26.12.2017
+source: https://zan.gov.kz/client/#!/doc/117528/rus/26.03.2018
 ---
 
 ## О бюджете Отарского сельского округа на 2019 год
