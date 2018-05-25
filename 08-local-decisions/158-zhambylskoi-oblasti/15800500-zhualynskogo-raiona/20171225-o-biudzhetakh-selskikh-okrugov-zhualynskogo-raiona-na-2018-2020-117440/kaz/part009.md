@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
+source: https://zan.gov.kz/client/#!/doc/117440/kaz/25.05.2018
 ---
 
 > *Жуалы аудандық мәслихатының*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
 
 ## Қызыларық ауылдық округі 2018 жылға арналған бюджеті
 
-> *Ескерту. 9 – қосымшаға өзгерістер енгізілді - Жамбыл облысы Жуалы аудандық мәслихатының 20.03.2018 № 24-3 (01.01.2018 қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 9 – қосымшаға өзгерістер енгізілді – Жамбыл облысы Жуалы аудандық мәслихатының 20.03.2018 № 24-3 (01.01.2018 қолданысқа енгізіледі); 25.05.2018 № 28-3 (01.01.2018 қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -200,21 +200,21 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
 <td colspan="2"></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>20 274</td>
+<td>20 919</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>20 274</td>
+<td>20 919</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>19 894</td>
+<td>20 539</td>
 </tr>
 <tr>
 <td></td>
@@ -256,14 +256,14 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
 <td colspan="2"></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>6 504</td>
+<td>5 859</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>6 504</td>
+<td>5 859</td>
 </tr>
 <tr>
 <td></td>
@@ -277,7 +277,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
 <td colspan="2"></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>4 996</td>
+<td>4 351</td>
 </tr>
 <tr>
 <td></td>
@@ -1153,380 +1153,380 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
 
 ## Мыңбұлақ ауылдық округі 2018 жылға арналған бюджеті
 
-> *Ескерту. 10 – қосымшаға өзгерістер енгізілді - Жамбыл облысы Жуалы аудандық мәслихатының 20.03.2018 № 24-3 (01.01.2018 қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 10 – қосымшаға өзгерістер енгізілді – Жамбыл облысы Жуалы аудандық мәслихатының 20.03.2018 № 24-3 (01.01.2018 қолданысқа енгізіледі); 25.05.2018 № 28-3 (01.01.2018 қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="10">Санаты</td>
-<td colspan="3">Сомасы (мың теңге)</td>
+<td colspan="8">Санаты</td>
+<td colspan="2">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="3"></td>
-<td colspan="7">Сыныбы</td>
-<td colspan="3"></td>
-</tr>
-<tr>
+<td colspan="2" rowspan="3"></td>
+<td colspan="6">Сыныбы</td>
 <td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
 <td colspan="5">Ішкі сыныбы</td>
-<td colspan="3"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="4"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="6">1</td>
-<td colspan="4">2</td>
-<td colspan="3">3</td>
-</tr>
-<tr>
-<td colspan="3"></td>
 <td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td colspan="4">2</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="4">I. КІРІСТЕР</td>
-<td colspan="3">52 329</td>
+<td colspan="2">52 106</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2"></td>
+<td colspan="2">1</td>
+<td></td>
 <td></td>
 <td colspan="4">Салықтық түсімдер</td>
-<td colspan="3">4 572</td>
+<td colspan="2">4 572</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>01</td>
 <td></td>
 <td colspan="4">Жеке табыс салығы</td>
-<td colspan="3">1 793</td>
+<td colspan="2">1 793</td>
 </tr>
 <tr>
-<td colspan="3"></td>
 <td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td colspan="4">Жеке табыс салығы</td>
-<td colspan="3">1 793</td>
+<td colspan="2">1 793</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="2">04</td>
+<td colspan="2"></td>
+<td>04</td>
 <td></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
-<td colspan="3">2 779</td>
+<td colspan="2">2 779</td>
 </tr>
 <tr>
-<td colspan="3"></td>
 <td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td colspan="4">Мүлiкке салынатын салықтар</td>
-<td colspan="3">53</td>
+<td colspan="2">53</td>
 </tr>
 <tr>
-<td colspan="3"></td>
 <td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td colspan="4">Жер салығы</td>
-<td colspan="3">350</td>
+<td colspan="2">350</td>
 </tr>
 <tr>
-<td colspan="3"></td>
 <td colspan="2"></td>
+<td></td>
 <td>4</td>
 <td colspan="4">Көлiк құралдарына салынатын салық</td>
-<td colspan="3">2 376</td>
+<td colspan="2">2 376</td>
 </tr>
 <tr>
-<td colspan="3">2</td>
-<td colspan="2"></td>
+<td colspan="2">2</td>
+<td></td>
 <td></td>
 <td colspan="4">Салықтық емес түсiмдер</td>
-<td colspan="3">1 157</td>
+<td colspan="2">1 157</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>01</td>
 <td></td>
 <td colspan="4">Мемлекеттік меншіктен түсетін кірістер</td>
-<td colspan="3">24</td>
+<td colspan="2">24</td>
 </tr>
 <tr>
-<td colspan="3"></td>
 <td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td colspan="4">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td colspan="3">24</td>
+<td colspan="2">24</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="2">04</td>
+<td colspan="2"></td>
+<td>04</td>
 <td></td>
 <td colspan="4">Мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
-<td colspan="3">20</td>
+<td colspan="2">20</td>
 </tr>
 <tr>
-<td colspan="3"></td>
 <td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td colspan="4">Мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
-<td colspan="3">20</td>
+<td colspan="2">20</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="2">06</td>
+<td colspan="2"></td>
+<td>06</td>
 <td></td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
-<td colspan="3">1 113</td>
+<td colspan="2">1 113</td>
 </tr>
 <tr>
-<td colspan="3"></td>
 <td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
-<td colspan="3">1 113</td>
+<td colspan="2">1 113</td>
 </tr>
 <tr>
-<td colspan="3">4</td>
-<td colspan="2"></td>
+<td colspan="2">4</td>
+<td></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td colspan="3">46 600</td>
+<td colspan="2">46 377</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="2">02</td>
+<td colspan="2"></td>
+<td>02</td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="3">46 600</td>
+<td colspan="2">46 377</td>
 </tr>
 <tr>
-<td colspan="3"></td>
 <td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td colspan="4">Аудандардан (облыстық маңызы бар қала) трансферттер</td>
-<td colspan="3">46 600</td>
+<td colspan="2">46 377</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="11">Функционалдық тобы</td>
-<td colspan="2" rowspan="3">Сомасы (мың теңге)</td>
+<td colspan="5">Функционалдық тобы</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="5" rowspan="3"></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="2" rowspan="3"></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="5">Бағдарлама</td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Атауы</td>
+<td>Атауы</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="7">1</td>
-<td colspan="4">2</td>
-<td colspan="2">3</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4">II. ШЫҒЫНДАР</td>
-<td colspan="2">52 329</td>
+<td>II. ШЫҒЫНДАР</td>
+<td>52 106</td>
 </tr>
 <tr>
-<td colspan="3">01</td>
-<td colspan="3"></td>
+<td>01</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="4">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">21 123</td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>21 123</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3">124</td>
 <td></td>
-<td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">21 123</td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>21 123</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td>001</td>
-<td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">20 743</td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>20 743</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td>022</td>
-<td colspan="4">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">380</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td>380</td>
 </tr>
 <tr>
-<td colspan="3">04</td>
-<td colspan="3"></td>
+<td>04</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="4">Бiлiм беру</td>
-<td colspan="2">13 174</td>
+<td>Бiлiм беру</td>
+<td>13 174</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3">124</td>
 <td></td>
-<td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">13 174</td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>13 174</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td>004</td>
-<td colspan="4">Мектепке дейінгі тәрбие және оқыту, оның ішінде мектепке дейінгі тәрбие және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td colspan="2">13 174</td>
+<td>Мектепке дейінгі тәрбие және оқыту, оның ішінде мектепке дейінгі тәрбие және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
+<td>13 174</td>
 </tr>
 <tr>
-<td colspan="3">07</td>
-<td colspan="3"></td>
+<td>07</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">14 037</td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>13 814</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3">124</td>
 <td></td>
-<td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">14 037</td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>13 814</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td>014</td>
-<td colspan="4">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td colspan="2">45</td>
+<td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
+<td>45</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td>008</td>
-<td colspan="4">Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">500</td>
+<td>Елді мекендердегі көшелерді жарықтандыру</td>
+<td>500</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td>009</td>
-<td colspan="4">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="2">7 785</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>7 785</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td>011</td>
-<td colspan="4">Елді мекендерді абаттандыру және көгалдандыру</td>
-<td colspan="2">5 707</td>
+<td>Елді мекендерді абаттандыру және көгалдандыру</td>
+<td>5 484</td>
 </tr>
 <tr>
-<td colspan="3">13</td>
-<td colspan="3"></td>
+<td>13</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="4">Басқалар</td>
-<td colspan="2">3 995</td>
+<td>Басқалар</td>
+<td>3 995</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3">124</td>
 <td></td>
-<td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">3 995</td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>3 995</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
 <td>040</td>
-<td colspan="4">Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
-<td colspan="2">3 995</td>
+<td>Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
+<td>3 995</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4">IІІ. Таза бюджеттік кредит беру</td>
-<td colspan="2">0</td>
+<td colspan="2"></td>
+<td></td>
+<td>IІІ. Таза бюджеттік кредит беру</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4">Бюджеттік кредиттер</td>
-<td colspan="2">0</td>
+<td colspan="2"></td>
+<td></td>
+<td>Бюджеттік кредиттер</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3">5</td>
-<td colspan="3"></td>
+<td>5</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="4">Бюджеттік кредиттерді өтеу</td>
-<td colspan="2">0</td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td colspan="2">0</td>
+<td colspan="2"></td>
+<td></td>
+<td>IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4">Қаржы активтерді сатып алу</td>
-<td colspan="2">0</td>
+<td colspan="2"></td>
+<td></td>
+<td>Қаржы активтерді сатып алу</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4">Мемлекеттік қаржы активтерін сатудан түсетін түсімдер</td>
-<td colspan="2">0</td>
+<td colspan="2"></td>
+<td></td>
+<td>Мемлекеттік қаржы активтерін сатудан түсетін түсімдер</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4">V. Бюджет тапшылығы (профициті)</td>
-<td colspan="2">0</td>
+<td colspan="2"></td>
+<td></td>
+<td>V. Бюджет тапшылығы (профициті)</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4">VI. Бюджет тапшылығын қаржыландыру (прорфицитін пайдалану):</td>
-<td colspan="2">0</td>
+<td colspan="2"></td>
+<td></td>
+<td>VI. Бюджет тапшылығын қаржыландыру (прорфицитін пайдалану):</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3">7</td>
-<td colspan="3"></td>
+<td>7</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="4">Қарыздар түсімі</td>
-<td colspan="2">0</td>
+<td>Қарыздар түсімі</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4">Қарыздарды өтеу</td>
-<td colspan="2">0</td>
+<td colspan="2"></td>
+<td></td>
+<td>Қарыздарды өтеу</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td colspan="2">0</td>
+<td colspan="2"></td>
+<td></td>
+<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td>0</td>
 </tr>
 </table>
 
@@ -3343,7 +3343,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
 
 ## Шақпақ ауылдық округі 2018 жылға арналған бюджеті
 
-> *Ескерту. 12 – қосымшаға өзгерістер енгізілді - Жамбыл облысы Жуалы аудандық мәслихатының 20.03.2018 № 24-3 (01.01.2018 қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 12 – қосымшаға өзгерістер енгізілді – Жамбыл облысы Жуалы аудандық мәслихатының 20.03.2018 № 24-3 (01.01.2018 қолданысқа енгізіледі); 25.05.2018 № 28-3 (01.01.2018 қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -3376,7 +3376,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
 <td></td>
 <td></td>
 <td colspan="4">I. КІРІСТЕР</td>
-<td colspan="2">80 092</td>
+<td colspan="2">77 391</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -3481,21 +3481,21 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
 <td></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td colspan="2">73 994</td>
+<td colspan="2">71 293</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>02</td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="2">73 994</td>
+<td colspan="2">71 293</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td>3</td>
 <td colspan="4">Аудандардан (облыстық маңызы бар қала) трансферттер</td>
-<td colspan="2">73 994</td>
+<td colspan="2">71 293</td>
 </tr>
 </table>
 
@@ -3527,7 +3527,7 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
 <td colspan="3"></td>
 <td></td>
 <td>II. ШЫҒЫНДАР</td>
-<td>80 092</td>
+<td>77 391</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3590,14 +3590,14 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
 <td colspan="3"></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>7 020</td>
+<td>4 319</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>7 020</td>
+<td>4 319</td>
 </tr>
 <tr>
 <td></td>
@@ -3611,14 +3611,14 @@ source: https://zan.gov.kz/client/#!/doc/117440/kaz/20.03.2018
 <td colspan="3"></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>2 700</td>
+<td>1 373</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру және көгалдандыру</td>
-<td>3 940</td>
+<td>2 566</td>
 </tr>
 <tr>
 <td>13</td>
