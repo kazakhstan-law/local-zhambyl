@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/117148/kaz/18.05.2018
+source: https://zan.gov.kz/client/#!/doc/117148/kaz/20.07.2018
 ---
 
 # 2018 - 2020 жылдарға арналған аудандық бюджет туралы
