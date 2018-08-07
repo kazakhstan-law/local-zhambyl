@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/117389/rus/24.05.2018
+source: https://zan.gov.kz/client/#!/doc/117389/rus/07.08.2018
 ---
 
 # О районном бюджете на 2018-2020 годы
@@ -95,5 +95,5 @@ source: https://zan.gov.kz/client/#!/doc/117389/rus/24.05.2018
 
 | Часть | Название |
 |---|---|
-| [`part001`](rus/part001.md) | Районный бюджет на 2018 год |
+| [`part001`](rus/part001.md) | Районный бюджет на 2019 год |
 | [`part003`](rus/part003.md) | Районный бюджет на 2020 год |
