@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
+source: https://zan.gov.kz/client/#!/doc/117492/rus/12.09.2018
 ---
 
 > *Приложение 7 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 
 ## Районный бюджет на 2018 год Кокдоненского сельского округа
 
-> *Сноска. Приложение 7 с изменениями, внесенными решениями маслихата района Т. Рыскулова Жамбылской области от 14.03.2018 № 24-4 (вводится в действие c 01.01.2018); от 31.05.2018 № 27-4 (вводится в действие c 01.01.2018).*
+> *Сноска. Приложение 7 с изменениями, внесенными решениями маслихата района Т. Рыскулова Жамбылской области от 14.03.2018 № 24-4 (вводится в действие c 01.01.2018); от 31.05.2018 № 27-4 (вводится в действие c 01.01.2018); от 12.09.2018 № 31-4 (вводится в действие c 01.01.2018).*
 
 <table>
 <tr>
@@ -39,14 +39,14 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td>I. ДОХОДЫ</td>
-<td>81469</td>
+<td>81569</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>3908</td>
+<td>4708</td>
 </tr>
 <tr>
 <td></td>
@@ -67,7 +67,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td>04</td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>3032</td>
+<td>3832</td>
 </tr>
 <tr>
 <td></td>
@@ -88,7 +88,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td>4</td>
 <td>Налог на транспортные средства</td>
-<td>2542</td>
+<td>3342</td>
 </tr>
 <tr>
 <td>2</td>
@@ -130,21 +130,21 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>76494</td>
+<td>75794</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>76494</td>
+<td>75794</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из областного бюджета</td>
-<td>76494</td>
+<td>75794</td>
 </tr>
 </table>
 
@@ -181,28 +181,28 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td>II. ЗАТРАТЫ</td>
-<td>81469</td>
+<td>81569</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>20446</td>
+<td>20546</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>20446</td>
+<td>20546</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>20121</td>
+<td>20221</td>
 </tr>
 <tr>
 <td></td>
@@ -402,7 +402,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td></td>
-<td>ІV. Сальдо по операциям с финансовыми активами</td>
+<td>ІV.Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
 </tr>
 <tr>
@@ -618,11 +618,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -802,11 +802,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1008,11 +1008,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1045,11 +1045,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1083,11 +1083,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1127,11 +1127,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1165,11 +1165,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1209,11 +1209,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1271,11 +1271,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1661,11 +1661,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1698,11 +1698,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1736,11 +1736,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1780,11 +1780,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1820,11 +1820,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1911,9 +1911,9 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 > *маслихата района Т.Рыскулова*  
 > *№ 22-4 от 22 декабря 2017 года*
 
-## Районный бюджет на 2018 год Көгершинского сельского округа
+## Районный бюджет на 2018 год Когершинского сельского округа
 
-> *Сноска. Приложение 8 с изменениями, внесенными решениями маслихата района Т. Рыскулова Жамбылской области от 14.03.2018 № 24-4 (вводится в действие c 01.01.2018); от 31.05.2018 № 27-4 (вводится в действие c 01.01.2018).*
+> *Сноска. Приложение 8 с изменениями, внесенными решениями маслихата района Т. Рыскулова Жамбылской области от 14.03.2018 № 24-4 (вводится в действие c 01.01.2018); от 31.05.2018 № 27-4 (вводится в действие c 01.01.2018); от 12.09.2018 № 31-4 (вводится в действие c 01.01.2018).*
 
 <table>
 <tr>
@@ -1943,14 +1943,14 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td>I. ДОХОДЫ</td>
-<td>92307</td>
+<td>87155</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>6651</td>
+<td>7394</td>
 </tr>
 <tr>
 <td></td>
@@ -1971,7 +1971,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td>04</td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>4575</td>
+<td>5318</td>
 </tr>
 <tr>
 <td></td>
@@ -1992,7 +1992,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td>4</td>
 <td>Налог на транспортные средства</td>
-<td>4121</td>
+<td>4864</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2034,21 +2034,21 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>82272</td>
+<td>76377</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>82272</td>
+<td>76377</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из областного бюджета</td>
-<td>82272</td>
+<td>76377</td>
 </tr>
 </table>
 
@@ -2085,28 +2085,28 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td>II. ЗАТРАТЫ</td>
-<td>92307</td>
+<td>87155</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>45043</td>
+<td>39656</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>45043</td>
+<td>39656</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>44398</td>
+<td>39011</td>
 </tr>
 <tr>
 <td></td>
@@ -2141,7 +2141,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>5160</td>
+<td>5395</td>
 </tr>
 <tr>
 <td></td>
@@ -2162,7 +2162,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>3460</td>
+<td>3695</td>
 </tr>
 <tr>
 <td></td>
@@ -2183,7 +2183,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>753</td>
+<td>988</td>
 </tr>
 <tr>
 <td>08</td>
@@ -2522,11 +2522,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2706,11 +2706,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2919,11 +2919,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2956,11 +2956,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2991,11 +2991,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6</td>
@@ -3035,11 +3035,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3073,11 +3073,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -3117,11 +3117,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3179,11 +3179,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3370,11 +3370,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3583,11 +3583,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -3620,11 +3620,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3658,11 +3658,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6</td>
@@ -3702,11 +3702,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3740,11 +3740,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -3784,11 +3784,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3833,7 +3833,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 
 ## Районный бюджет на 2018 год Кумарыкского сельского округа
 
-> *Сноска. Приложение 9 с изменениями, внесенными решениями маслихата района Т. Рыскулова Жамбылской области от 14.03.2018 № 24-4 (вводится в действие c 01.01.2018); от 31.05.2018 № 27-4 (вводится в действие c 01.01.2018).*
+> *Сноска. Приложение 9 с изменениями, внесенными решениями маслихата района Т. Рыскулова Жамбылской области от 14.03.2018 № 24-4 (вводится в действие c 01.01.2018); от 31.05.2018 № 27-4 (вводится в действие c 01.01.2018); от 12.09.2018 № 31-4 (вводится в действие c 01.01.2018).*
 
 <table>
 <tr>
@@ -3863,14 +3863,14 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td>I. ДОХОДЫ</td>
-<td>56602</td>
+<td>57302</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>5562</td>
+<td>6262</td>
 </tr>
 <tr>
 <td></td>
@@ -3891,7 +3891,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td>04</td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>4203</td>
+<td>4903</td>
 </tr>
 <tr>
 <td></td>
@@ -3912,7 +3912,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td>4</td>
 <td>Налог на транспортные средства</td>
-<td>3458</td>
+<td>4158</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4005,28 +4005,28 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td>II. ЗАТРАТЫ</td>
-<td>56602</td>
+<td>57302</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>17511</td>
+<td>18121</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17511</td>
+<td>18121</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>17016</td>
+<td>17626</td>
 </tr>
 <tr>
 <td></td>
@@ -4040,7 +4040,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>23444</td>
+<td>21429</td>
 </tr>
 <tr>
 <td></td>
@@ -4061,42 +4061,42 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5894</td>
+<td>3879</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>005</td>
 <td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
-<td>5894</td>
+<td>3879</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>4454</td>
+<td>1922</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>992</td>
+<td>340</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
-<td>992</td>
+<td>340</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>3462</td>
+<td>1582</td>
 </tr>
 <tr>
 <td></td>
@@ -4110,35 +4110,35 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>300</td>
+<td>240</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>2104</td>
+<td>284</td>
 </tr>
 <tr>
 <td>08</td>
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>6246</td>
+<td>7066</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6246</td>
+<td>7066</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>6246</td>
+<td>7066</td>
 </tr>
 <tr>
 <td>13</td>
@@ -4166,21 +4166,21 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>1440</td>
+<td>5257</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1440</td>
+<td>5257</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>051</td>
-<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
-<td>1440</td>
+<td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
+<td>5257</td>
 </tr>
 </table>
 
@@ -4261,7 +4261,7 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td></td>
 <td></td>
 <td></td>
-<td>ІV. Сальдо по операциям с финансовыми активами</td>
+<td>ІV.Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
 </tr>
 <tr>
@@ -4477,11 +4477,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -4661,11 +4661,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -4881,11 +4881,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4920,11 +4920,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -4958,11 +4958,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6</td>
@@ -5002,11 +5002,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -5040,11 +5040,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -5084,11 +5084,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -5146,11 +5146,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -5330,11 +5330,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -5550,11 +5550,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -5587,11 +5587,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -5669,11 +5669,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -5707,11 +5707,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -5751,11 +5751,11 @@ source: https://zan.gov.kz/client/#!/doc/117492/rus/31.05.2018
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
