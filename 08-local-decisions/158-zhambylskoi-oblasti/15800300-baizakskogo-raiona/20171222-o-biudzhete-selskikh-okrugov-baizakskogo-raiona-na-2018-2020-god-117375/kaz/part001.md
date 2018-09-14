@@ -1,18 +1,18 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
+source: https://zan.gov.kz/client/#!/doc/117375/kaz/14.09.2018
 ---
 
 > *Байзақ аудандық мәслихатының*  
 > *2017 жылғы 22 желтоқсандағы*  
 > *№23-7 шешіміне 1 қосымша*
 
-> *Ескерту. 1 - қосымша жаңа редакцияда - Жамбыл облысы Байзақ аудандық мәслихатының 01.06.2018 № 30-2 (01.01.2018 бастап қолданыска енгізіледі) шешімімен.*
+> *Ескерту. 1 - қосымша жаңа редакцияда - Жамбыл облысы Байзақ аудандық мәслихатының 14.09.2018 № 34-2 (01.01.2018 бастап қолданыска енгізіледі) шешімімен.*
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
-<td rowspan="5">сомасы, мың теңге</td>
+<td colspan="6">Санаты</td>
+<td colspan="3" rowspan="5">сомасы, мың теңге</td>
 <td rowspan="5">Жалғызтөбе ауылдық округі</td>
 <td rowspan="5">Дихан ауылдық округі</td>
 <td rowspan="5">Мырзатай ауылдық округі</td>
@@ -20,98 +20,98 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="5">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Ішкі сыныбы</td>
+<td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>Ерекшелігі</td>
+<td colspan="2"></td>
+<td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Атауы</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>Атауы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>I. Кірістер</td>
-<td>1727609</td>
-<td>71196</td>
-<td>91470</td>
+<td colspan="2"></td>
+<td colspan="2">I. Кірістер</td>
+<td colspan="3">1758450</td>
+<td>71346</td>
+<td>92853</td>
 <td>101831</td>
-<td>40494</td>
+<td>40998</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
-<td></td>
-<td>Салықтық түсімдер</td>
-<td>163035</td>
-<td>4588</td>
-<td>3202</td>
-<td>5010</td>
-<td>1792</td>
+<td colspan="2"></td>
+<td colspan="2">Салықтық түсімдер</td>
+<td colspan="3">187562</td>
+<td>4762</td>
+<td>4103</td>
+<td>5032</td>
+<td>1809</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
-<td></td>
-<td>Табыс салығы</td>
-<td>27675</td>
-<td>525</td>
-<td>200</td>
-<td>1567</td>
+<td colspan="2"></td>
+<td colspan="2">Табыс салығы</td>
+<td colspan="3">52309</td>
+<td>955</td>
+<td>694</td>
+<td>1589</td>
 <td>40</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>2</td>
-<td>Жеке табыс салығы</td>
-<td>27675</td>
-<td>525</td>
-<td>200</td>
-<td>1567</td>
+<td colspan="2">2</td>
+<td colspan="2">Жеке табыс салығы</td>
+<td colspan="3">52309</td>
+<td>955</td>
+<td>694</td>
+<td>1589</td>
 <td>40</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
-<td></td>
-<td>Меншiкке салынатын салықтар</td>
-<td>135360</td>
-<td>4063</td>
-<td>3002</td>
+<td colspan="2"></td>
+<td colspan="2">Меншiкке салынатын салықтар</td>
+<td colspan="3">135253</td>
+<td>3807</td>
+<td>3409</td>
 <td>3443</td>
-<td>1752</td>
+<td>1769</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>1</td>
-<td>Мүлiкке салынатын салықтар</td>
-<td>3342</td>
-<td>312</td>
+<td colspan="2">1</td>
+<td colspan="2">Мүлiкке салынатын салықтар</td>
+<td colspan="3">2916</td>
+<td>86</td>
 <td>57</td>
 <td>114</td>
 <td>22</td>
@@ -119,9 +119,9 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <tr>
 <td></td>
 <td></td>
-<td>3</td>
-<td>Жер салығы</td>
-<td>8572</td>
+<td colspan="2">3</td>
+<td colspan="2">Жер салығы</td>
+<td colspan="3">8404</td>
 <td>386</td>
 <td>312</td>
 <td>399</td>
@@ -130,75 +130,75 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <tr>
 <td></td>
 <td></td>
-<td>4</td>
-<td>Көлiк құралдарына салынатын салық</td>
-<td>123446</td>
-<td>3365</td>
-<td>2633</td>
+<td colspan="2">4</td>
+<td colspan="2">Көлiк құралдарына салынатын салық</td>
+<td colspan="3">123933</td>
+<td>3335</td>
+<td>3040</td>
 <td>2930</td>
-<td>1500</td>
+<td>1517</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
-<td></td>
-<td>Салықтық емес түсiмдер</td>
-<td>23388</td>
-<td>2598</td>
-<td>515</td>
-<td>1488</td>
-<td>26</td>
+<td colspan="2"></td>
+<td colspan="2">Салықтық емес түсiмдер</td>
+<td colspan="3">23166</td>
+<td>2574</td>
+<td>497</td>
+<td>1466</td>
+<td>9</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
-<td></td>
-<td>Мемлекеттік меншіктен түсетін кірістер</td>
-<td>430</td>
-<td>18</td>
-<td>12</td>
-<td>16</td>
-<td>11</td>
+<td colspan="2"></td>
+<td colspan="2">Мемлекеттік меншіктен түсетін кірістер</td>
+<td colspan="3">238</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>5</td>
-<td>Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td>430</td>
-<td>18</td>
-<td>12</td>
-<td>16</td>
-<td>11</td>
+<td colspan="2">5</td>
+<td colspan="2">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
+<td colspan="3">238</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
-<td></td>
-<td>Мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) қамтылатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
-<td>100</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
+<td colspan="2"></td>
+<td colspan="2">Мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) қамтылатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
+<td colspan="3">71</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>1</td>
-<td>Мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
-<td>100</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
+<td colspan="2">1</td>
+<td colspan="2">Мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
+<td colspan="3">71</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td>06</td>
-<td></td>
-<td>Басқа да салықтық емес түсiмдер</td>
-<td>22858</td>
+<td colspan="2"></td>
+<td colspan="2">Басқа да салықтық емес түсiмдер</td>
+<td colspan="3">22857</td>
 <td>2574</td>
 <td>497</td>
 <td>1466</td>
@@ -207,9 +207,9 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <tr>
 <td></td>
 <td></td>
-<td>1</td>
-<td>Басқа да салықтық емес түсiмдер</td>
-<td>22858</td>
+<td colspan="2">1</td>
+<td colspan="2">Басқа да салықтық емес түсiмдер</td>
+<td colspan="3">22857</td>
 <td>2574</td>
 <td>497</td>
 <td>1466</td>
@@ -218,35 +218,167 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <tr>
 <td>4</td>
 <td></td>
-<td></td>
-<td>Трансферттердің түсімдері</td>
-<td>1541186</td>
+<td colspan="2"></td>
+<td colspan="2">Трансферттердің түсімдері</td>
+<td colspan="3">1547722</td>
 <td>64010</td>
-<td>87753</td>
+<td>88253</td>
 <td>95333</td>
-<td>38676</td>
+<td>39180</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
-<td></td>
-<td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>1541186</td>
+<td colspan="2"></td>
+<td colspan="2">
+Мемлекеттiк басқарудың жоғары тұрған органдары
+нан түсетiн трансферттер
+</td>
+<td colspan="3">1547722</td>
 <td>64010</td>
-<td>87753</td>
+<td>88253</td>
 <td>95333</td>
-<td>38676</td>
+<td>39180</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>3</td>
-<td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>1541186</td>
+<td colspan="2">3</td>
+<td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
+<td colspan="3">1547722</td>
 <td>64010</td>
-<td>87753</td>
+<td>88253</td>
 <td>95333</td>
-<td>38676</td>
+<td>39180</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="3" rowspan="5">Түймекент ауылдық округі</td>
+<td colspan="2" rowspan="5">Жаңатүрмыс ауылдық округі</td>
+<td colspan="2" rowspan="5">Көктал ауылдық округі</td>
+<td rowspan="5">Ынтымақ ауылдық округі</td>
+</tr>
+<tr>
+<th></th>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">106340</td>
+<td colspan="2">59632</td>
+<td colspan="2">77332</td>
+<td>45005</td>
+</tr>
+<tr>
+<td colspan="3">10873</td>
+<td colspan="2">2961</td>
+<td colspan="2">8528</td>
+<td>2372</td>
+</tr>
+<tr>
+<td colspan="3">2200</td>
+<td colspan="2">759</td>
+<td colspan="2">1849</td>
+<td>135</td>
+</tr>
+<tr>
+<td colspan="3">2200</td>
+<td colspan="2">759</td>
+<td colspan="2">1849</td>
+<td>135</td>
+</tr>
+<tr>
+<td colspan="3">8673</td>
+<td colspan="2">2202</td>
+<td colspan="2">6679</td>
+<td>2237</td>
+</tr>
+<tr>
+<td colspan="3">450</td>
+<td colspan="2">38</td>
+<td colspan="2">100</td>
+<td>36</td>
+</tr>
+<tr>
+<td colspan="3">1134</td>
+<td colspan="2">264</td>
+<td colspan="2">200</td>
+<td>163</td>
+</tr>
+<tr>
+<td colspan="3">7089</td>
+<td colspan="2">1900</td>
+<td colspan="2">6379</td>
+<td>2038</td>
+</tr>
+<tr>
+<td colspan="3">98</td>
+<td colspan="2">622</td>
+<td colspan="2">658</td>
+<td>11</td>
+</tr>
+<tr>
+<td colspan="3">0</td>
+<td colspan="2">12</td>
+<td colspan="2">16</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">0</td>
+<td colspan="2">12</td>
+<td colspan="2">16</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">0</td>
+<td colspan="2">6</td>
+<td colspan="2">6</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">0</td>
+<td colspan="2">6</td>
+<td colspan="2">6</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">98</td>
+<td colspan="2">604</td>
+<td colspan="2">636</td>
+<td>11</td>
+</tr>
+<tr>
+<td colspan="3">98</td>
+<td colspan="2">604</td>
+<td colspan="2">636</td>
+<td>11</td>
+</tr>
+<tr>
+<td colspan="3">95369</td>
+<td colspan="2">56049</td>
+<td colspan="2">68146</td>
+<td>42622</td>
+</tr>
+<tr>
+<td colspan="3">95369</td>
+<td colspan="2">56049</td>
+<td colspan="2">68146</td>
+<td>42622</td>
+</tr>
+<tr>
+<td colspan="3">95369</td>
+<td colspan="2">56049</td>
+<td colspan="2">68146</td>
+<td>42622</td>
 </tr>
 </table>
 
@@ -256,150 +388,130 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td>Жаңатүрмыс ауылдық округі</td>
 <td>Көктал ауылдық округі</td>
 <td>Ынтымақ ауылдық округі</td>
-<td>Суханбаев ауылдық округі</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
-<td>103140</td>
-<td>58432</td>
-<td>73968</td>
+<td>106340</td>
+<td>59632</td>
+<td>77332</td>
 <td>45005</td>
-<td>48200</td>
 </tr>
 <tr>
-<td>7850</td>
+<td>10873</td>
 <td>2961</td>
-<td>5164</td>
-<td>2350</td>
-<td>2386</td>
+<td>8528</td>
+<td>2372</td>
 </tr>
 <tr>
-<td>1500</td>
+<td>2200</td>
 <td>759</td>
-<td>892</td>
-<td>113</td>
-<td>100</td>
+<td>1849</td>
+<td>135</td>
 </tr>
 <tr>
-<td>1500</td>
+<td>2200</td>
 <td>759</td>
-<td>892</td>
-<td>113</td>
-<td>100</td>
+<td>1849</td>
+<td>135</td>
 </tr>
 <tr>
-<td>6350</td>
+<td>8673</td>
 <td>2202</td>
-<td>4272</td>
+<td>6679</td>
 <td>2237</td>
-<td>2286</td>
 </tr>
 <tr>
-<td>250</td>
+<td>450</td>
 <td>38</td>
-<td>200</td>
-<td>36</td>
+<td>100</td>
 <td>36</td>
 </tr>
 <tr>
-<td>600</td>
+<td>1134</td>
 <td>264</td>
 <td>200</td>
 <td>163</td>
-<td>300</td>
 </tr>
 <tr>
-<td>5500</td>
+<td>7089</td>
 <td>1900</td>
-<td>3872</td>
+<td>6379</td>
 <td>2038</td>
-<td>1950</td>
 </tr>
 <tr>
-<td>121</td>
+<td>98</td>
 <td>622</td>
 <td>658</td>
-<td>33</td>
-<td>27</td>
+<td>11</td>
 </tr>
 <tr>
-<td>17</td>
+<td>0</td>
 <td>12</td>
 <td>16</td>
-<td>16</td>
-<td>17</td>
+<td>0</td>
 </tr>
 <tr>
-<td>17</td>
+<td>0</td>
 <td>12</td>
 <td>16</td>
-<td>16</td>
-<td>17</td>
+<td>0</td>
 </tr>
 <tr>
+<td>0</td>
 <td>6</td>
 <td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
+<td>0</td>
 </tr>
 <tr>
+<td>0</td>
 <td>6</td>
 <td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
+<td>0</td>
 </tr>
 <tr>
 <td>98</td>
 <td>604</td>
 <td>636</td>
 <td>11</td>
-<td>4</td>
 </tr>
 <tr>
 <td>98</td>
 <td>604</td>
 <td>636</td>
 <td>11</td>
-<td>4</td>
 </tr>
 <tr>
-<td>95169</td>
-<td>54849</td>
+<td>95369</td>
+<td>56049</td>
 <td>68146</td>
 <td>42622</td>
-<td>45787</td>
 </tr>
 <tr>
-<td>95169</td>
-<td>54849</td>
+<td>95369</td>
+<td>56049</td>
 <td>68146</td>
 <td>42622</td>
-<td>45787</td>
 </tr>
 <tr>
-<td>95169</td>
-<td>54849</td>
+<td>95369</td>
+<td>56049</td>
 <td>68146</td>
 <td>42622</td>
-<td>45787</td>
 </tr>
 </table>
 
 <table>
 <tr>
+<td>Суханбаев ауылдық округі</td>
 <td>Қостөбе ауылдық округі</td>
 <td>Бурыл ауылдық округі</td>
 <td>Көптерек ауылдық округі</td>
 <td>Улгілі ауылдық округі</td>
-<td>Сарыкемер ауылдық округі</td>
 </tr>
 <tr>
 <td></td>
@@ -409,135 +521,136 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td></td>
 </tr>
 <tr>
-<td>96197</td>
-<td>193798</td>
-<td>46641</td>
-<td>50005</td>
-<td>197213</td>
+<td>48200</td>
+<td>98199</td>
+<td>196630</td>
+<td>47242</td>
+<td>50505</td>
 </tr>
 <tr>
-<td>10230</td>
-<td>29813</td>
-<td>1874</td>
-<td>2855</td>
-<td>29816</td>
+<td>2403</td>
+<td>11238</td>
+<td>29829</td>
+<td>2505</td>
+<td>3355</td>
 </tr>
 <tr>
-<td>1600</td>
-<td>3200</td>
-<td>148</td>
-<td>327</td>
-<td>5964</td>
+<td>100</td>
+<td>2100</td>
+<td>5816</td>
+<td>248</td>
+<td>827</td>
 </tr>
 <tr>
-<td>1600</td>
-<td>3200</td>
-<td>148</td>
-<td>327</td>
-<td>5964</td>
+<td>100</td>
+<td>2100</td>
+<td>5816</td>
+<td>248</td>
+<td>827</td>
 </tr>
 <tr>
-<td>8630</td>
-<td>26613</td>
-<td>1726</td>
+<td>2303</td>
+<td>9138</td>
+<td>24013</td>
+<td>2257</td>
 <td>2528</td>
-<td>23852</td>
 </tr>
 <tr>
+<td>36</td>
 <td>255</td>
 <td>550</td>
 <td>29</td>
 <td>43</td>
-<td>579</td>
 </tr>
 <tr>
+<td>300</td>
 <td>875</td>
 <td>1053</td>
 <td>267</td>
 <td>568</td>
-<td>1098</td>
 </tr>
 <tr>
-<td>7500</td>
-<td>25010</td>
-<td>1430</td>
+<td>1967</td>
+<td>8008</td>
+<td>22410</td>
+<td>1961</td>
 <td>1917</td>
-<td>22175</td>
 </tr>
 <tr>
-<td>4949</td>
-<td>428</td>
-<td>32</td>
+<td>10</td>
+<td>4943</td>
+<td>412</td>
+<td>2</td>
 <td>157</td>
-<td>6132</td>
 </tr>
 <tr>
-<td>91</td>
-<td>16</td>
-<td>24</td>
 <td>0</td>
-<td>14</td>
-</tr>
-<tr>
-<td>91</td>
-<td>16</td>
-<td>24</td>
+<td>92</td>
 <td>0</td>
-<td>14</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>92</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
 <td>6</td>
+<td>0</td>
 <td>6</td>
-<td>6</td>
+<td>0</td>
 <td>5</td>
-<td>6</td>
 </tr>
 <tr>
 <td>6</td>
+<td>0</td>
 <td>6</td>
-<td>6</td>
+<td>0</td>
 <td>5</td>
-<td>6</td>
 </tr>
 <tr>
-<td>4852</td>
+<td>4</td>
+<td>4851</td>
 <td>406</td>
 <td>2</td>
 <td>152</td>
-<td>6112</td>
 </tr>
 <tr>
-<td>4852</td>
+<td>4</td>
+<td>4851</td>
 <td>406</td>
 <td>2</td>
 <td>152</td>
-<td>6112</td>
 </tr>
 <tr>
-<td>81018</td>
-<td>163557</td>
+<td>45787</td>
+<td>82018</td>
+<td>166389</td>
 <td>44735</td>
 <td>46993</td>
-<td>161265</td>
 </tr>
 <tr>
-<td>81018</td>
-<td>163557</td>
+<td>45787</td>
+<td>82018</td>
+<td>166389</td>
 <td>44735</td>
 <td>46993</td>
-<td>161265</td>
 </tr>
 <tr>
-<td>81018</td>
-<td>163557</td>
+<td>45787</td>
+<td>82018</td>
+<td>166389</td>
 <td>44735</td>
 <td>46993</td>
-<td>161265</td>
 </tr>
 </table>
 
 <table>
 <tr>
+<td>Сарыкемер ауылдық округі</td>
 <td>Қызыл жүлдыз ауылдық округі</td>
 <td>Ботамойнақ ауылдық округі</td>
 <td>Байтерек ауылдық округі</td>
@@ -546,95 +659,114 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>107964</td>
-<td>78917</td>
+<td>202218</td>
+<td>117764</td>
+<td>79217</td>
 <td>323138</td>
 </tr>
 <tr>
-<td>12120</td>
+<td>34816</td>
+<td>21920</td>
 <td>10365</td>
-<td>30659</td>
+<td>30691</td>
 </tr>
 <tr>
-<td>3556</td>
+<td>11425</td>
+<td>13356</td>
 <td>1300</td>
-<td>5884</td>
+<td>8916</td>
 </tr>
 <tr>
-<td>3556</td>
+<td>11425</td>
+<td>13356</td>
 <td>1300</td>
-<td>5884</td>
+<td>8916</td>
 </tr>
 <tr>
+<td>23391</td>
 <td>8564</td>
 <td>9065</td>
-<td>24775</td>
+<td>21775</td>
 </tr>
 <tr>
+<td>279</td>
 <td>209</td>
 <td>112</td>
 <td>500</td>
 </tr>
 <tr>
+<td>396</td>
 <td>224</td>
 <td>822</td>
 <td>811</td>
 </tr>
 <tr>
+<td>22716</td>
 <td>8131</td>
 <td>8131</td>
-<td>23464</td>
+<td>20464</td>
 </tr>
 <tr>
+<td>6137</td>
 <td>2013</td>
 <td>1840</td>
-<td>1749</td>
+<td>1717</td>
 </tr>
 <tr>
+<td>0</td>
 <td>118</td>
 <td>0</td>
-<td>32</td>
+<td>0</td>
 </tr>
 <tr>
+<td>0</td>
 <td>118</td>
 <td>0</td>
-<td>32</td>
+<td>0</td>
 </tr>
 <tr>
+<td>25</td>
 <td>6</td>
 <td>6</td>
 <td>5</td>
 </tr>
 <tr>
+<td>25</td>
 <td>6</td>
 <td>6</td>
 <td>5</td>
 </tr>
 <tr>
+<td>6112</td>
 <td>1889</td>
 <td>1834</td>
 <td>1712</td>
 </tr>
 <tr>
+<td>6112</td>
 <td>1889</td>
 <td>1834</td>
 <td>1712</td>
 </tr>
 <tr>
+<td>161265</td>
 <td>93831</td>
-<td>66712</td>
+<td>67012</td>
 <td>290730</td>
 </tr>
 <tr>
+<td>161265</td>
 <td>93831</td>
-<td>66712</td>
+<td>67012</td>
 <td>290730</td>
 </tr>
 <tr>
+<td>161265</td>
 <td>93831</td>
-<td>66712</td>
+<td>67012</td>
 <td>290730</td>
 </tr>
 </table>
@@ -653,7 +785,7 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td colspan="3">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшілері 1236620</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшілері</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -671,96 +803,96 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td></td>
 <td></td>
 <td>2. Шығыстар</td>
-<td>1727609</td>
-<td>71196</td>
-<td>91470</td>
+<td>1758450</td>
+<td>71346</td>
+<td>92853</td>
 <td>101831</td>
-<td>40494</td>
+<td>40998</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>403970</td>
-<td>23466</td>
-<td>18445</td>
+<td>415884</td>
+<td>23616</td>
+<td>19449</td>
 <td>17418</td>
-<td>17715</td>
+<td>18402</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>403970</td>
-<td>23466</td>
-<td>18445</td>
+<td>415884</td>
+<td>23616</td>
+<td>19449</td>
 <td>17418</td>
-<td>17715</td>
+<td>18402</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>387122</td>
-<td>22725</td>
-<td>18128</td>
+<td>398798</td>
+<td>22875</td>
+<td>19132</td>
 <td>17311</td>
-<td>16757</td>
+<td>17456</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>16848</td>
+<td>17086</td>
 <td>741</td>
 <td>317</td>
 <td>107</td>
-<td>958</td>
+<td>946</td>
 </tr>
 <tr>
 <td>04</td>
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>983089</td>
-<td>38841</td>
-<td>46029</td>
+<td>983007</td>
+<td>38716</td>
+<td>46179</td>
 <td>51017</td>
-<td>7118</td>
+<td>6931</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>983089</td>
-<td>38841</td>
-<td>46029</td>
+<td>983007</td>
+<td>38716</td>
+<td>46179</td>
 <td>51017</td>
-<td>7118</td>
+<td>6931</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>969679</td>
+<td>969722</td>
 <td>37545</td>
-<td>45013</td>
+<td>45163</td>
 <td>46981</td>
-<td>7118</td>
+<td>6931</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>005</td>
 <td>Ауылдық жерлерде оқушыларды жақын жердегі мектепке дейін тегін алып баруды және одан алып қайтуды ұйымдастыру</td>
-<td>13410</td>
-<td>1296</td>
+<td>13285</td>
+<td>1171</td>
 <td>1016</td>
 <td>4036</td>
 <td>0</td>
@@ -770,41 +902,41 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>189466</td>
-<td>6298</td>
-<td>1315</td>
+<td>206383</td>
+<td>6423</td>
+<td>1544</td>
 <td>5483</td>
-<td>1369</td>
+<td>1373</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>189466</td>
-<td>6298</td>
-<td>1315</td>
+<td>206383</td>
+<td>6423</td>
+<td>1544</td>
 <td>5483</td>
-<td>1369</td>
+<td>1373</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>42372</td>
-<td>1919</td>
+<td>44355</td>
+<td>1719</td>
 <td>886</td>
 <td>1878</td>
-<td>842</td>
+<td>776</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>13677</td>
-<td>425</td>
+<td>14167</td>
+<td>750</td>
 <td>125</td>
 <td>240</td>
 <td>137</td>
@@ -814,18 +946,18 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>133417</td>
+<td>147861</td>
 <td>3954</td>
-<td>304</td>
+<td>533</td>
 <td>3365</td>
-<td>390</td>
+<td>460</td>
 </tr>
 <tr>
 <td>13</td>
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>91084</td>
+<td>90604</td>
 <td>2591</td>
 <td>2781</td>
 <td>3113</td>
@@ -836,7 +968,7 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>91084</td>
+<td>90604</td>
 <td>2591</td>
 <td>2781</td>
 <td>3113</td>
@@ -847,7 +979,7 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td></td>
 <td>040</td>
 <td>Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td>91084</td>
+<td>90604</td>
 <td>2591</td>
 <td>2781</td>
 <td>3113</td>
@@ -858,7 +990,7 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>60000</td>
+<td>62572</td>
 <td>0</td>
 <td>22900</td>
 <td>24800</td>
@@ -869,11 +1001,22 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>60000</td>
+<td>62572</td>
 <td>0</td>
 <td>22900</td>
 <td>24800</td>
 <td>12300</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>048</td>
+<td>'Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>2572</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -949,136 +1092,110 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td>Жаңатүрмыс ауылдық округі</td>
 <td>Көктал ауылдық округі</td>
 <td>Ынтымақ ауылдық округі</td>
-<td>Суханбаев ауылдық округі</td>
 </tr>
 <tr>
-<td>103140</td>
-<td>58432</td>
-<td>73968</td>
+<td>106340</td>
+<td>59632</td>
+<td>77332</td>
 <td>45005</td>
-<td>48200</td>
 </tr>
 <tr>
-<td>23392</td>
-<td>23227</td>
-<td>19517</td>
+<td>26535</td>
+<td>24427</td>
+<td>20324</td>
 <td>17949</td>
-<td>20739</td>
 </tr>
 <tr>
-<td>23392</td>
-<td>23227</td>
-<td>19517</td>
-<td>1949</td>
-<td>20739</td>
+<td>26535</td>
+<td>24427</td>
+<td>20324</td>
+<td>17949</td>
 </tr>
 <tr>
-<td>22577</td>
-<td>22820</td>
-<td>18960</td>
+<td>25720</td>
+<td>24020</td>
+<td>19767</td>
 <td>16859</td>
-<td>20301</td>
 </tr>
 <tr>
 <td>815</td>
 <td>407</td>
 <td>557</td>
 <td>1090</td>
-<td>738</td>
 </tr>
 <tr>
 <td>70353</td>
 <td>23262</td>
-<td>48984</td>
+<td>49434</td>
 <td>22759</td>
-<td>22662</td>
 </tr>
 <tr>
 <td>70353</td>
 <td>23262</td>
-<td>48984</td>
+<td>49434</td>
 <td>22759</td>
-<td>22662</td>
 </tr>
 <tr>
 <td>70353</td>
 <td>22023</td>
-<td>48984</td>
+<td>49434</td>
 <td>22759</td>
-<td>22662</td>
 </tr>
 <tr>
 <td>0</td>
 <td>1239</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
 </tr>
 <tr>
-<td>2268</td>
+<td>2325</td>
 <td>7927</td>
-<td>2586</td>
+<td>4693</td>
 <td>2074</td>
-<td>1850</td>
 </tr>
 <tr>
-<td>2268</td>
+<td>2325</td>
 <td>7927</td>
-<td>2586</td>
+<td>4693</td>
 <td>2074</td>
-<td>1850</td>
 </tr>
 <tr>
 <td>846</td>
 <td>3103</td>
-<td>1636</td>
+<td>2086</td>
 <td>1176</td>
-<td>1100</td>
 </tr>
 <tr>
-<td>500</td>
+<td>365</td>
 <td>600</td>
 <td>350</td>
 <td>100</td>
-<td>150</td>
 </tr>
 <tr>
-<td>922</td>
+<td>1114</td>
 <td>4224</td>
-<td>600</td>
+<td>2257</td>
 <td>798</td>
-<td>600</td>
 </tr>
 <tr>
 <td>7127</td>
 <td>4016</td>
 <td>2881</td>
 <td>2223</td>
-<td>2949</td>
 </tr>
 <tr>
 <td>7127</td>
 <td>4016</td>
 <td>2881</td>
 <td>2223</td>
-<td>2949</td>
 </tr>
 <tr>
 <td>7127</td>
 <td>4016</td>
 <td>2881</td>
 <td>2223</td>
-<td>2949</td>
 </tr>
 <tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -1089,17 +1206,8 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
 </tr>
 <tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -1110,6 +1218,11 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td>0</td>
 <td>0</td>
 <td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1117,10 +1230,20 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td>0</td>
 <td>0</td>
 <td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -1130,6 +1253,7 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 
 <table>
 <tr>
+<td>Суханбаев ауылдық округі</td>
 <td>Қостөбе ауылдық округі</td>
 <td>
 Бурыл
@@ -1137,63 +1261,62 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 </td>
 <td>Көптерек ауылдық округі</td>
 <td>Улгілі ауылдық округі</td>
-<td>Сарыкемер ауылдық округі</td>
 </tr>
 <tr>
-<td>96197</td>
-<td>193798</td>
-<td>46641</td>
-<td>50005</td>
-<td>197213</td>
+<td>48200</td>
+<td>98199</td>
+<td>196630</td>
+<td>47242</td>
+<td>50505</td>
 </tr>
 <tr>
-<td>24138</td>
-<td>45546</td>
-<td>17781</td>
+<td>20589</td>
+<td>25641</td>
+<td>47226</td>
+<td>18309</td>
 <td>17634</td>
-<td>34807</td>
 </tr>
 <tr>
-<td>24138</td>
-<td>45546</td>
-<td>17781</td>
+<td>20589</td>
+<td>25641</td>
+<td>47226</td>
+<td>18309</td>
 <td>17634</td>
-<td>34807</td>
 </tr>
 <tr>
-<td>23431</td>
-<td>41883</td>
-<td>16708</td>
+<td>20301</td>
+<td>24934</td>
+<td>43163</td>
+<td>17236</td>
 <td>17261</td>
-<td>33285</td>
 </tr>
 <tr>
+<td>288</td>
 <td>707</td>
-<td>3663</td>
+<td>4063</td>
 <td>1073</td>
 <td>373</td>
-<td>1522</td>
 </tr>
 <tr>
+<td>22662</td>
 <td>58546</td>
 <td>129241</td>
 <td>24654</td>
 <td>26946</td>
-<td>89075</td>
 </tr>
 <tr>
+<td>22662</td>
 <td>58546</td>
 <td>129241</td>
 <td>24654</td>
 <td>26946</td>
-<td>89076</td>
 </tr>
 <tr>
+<td>22662</td>
 <td>58546</td>
 <td>129241</td>
 <td>24654</td>
 <td>26946</td>
-<td>89075</td>
 </tr>
 <tr>
 <td>0</td>
@@ -1203,60 +1326,67 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td>0</td>
 </tr>
 <tr>
-<td>7614</td>
-<td>7606</td>
-<td>2111</td>
-<td>3571</td>
-<td>59660</td>
+<td>2000</td>
+<td>8113</td>
+<td>8758</td>
+<td>2184</td>
+<td>4071</td>
 </tr>
 <tr>
-<td>7614</td>
-<td>7606</td>
-<td>2111</td>
-<td>3571</td>
-<td>59660</td>
+<td>2000</td>
+<td>8113</td>
+<td>8758</td>
+<td>2184</td>
+<td>4071</td>
 </tr>
 <tr>
-<td>4530</td>
+<td>1100</td>
+<td>4529</td>
 <td>4200</td>
 <td>1486</td>
-<td>1371</td>
-<td>7665</td>
+<td>1671</td>
 </tr>
 <tr>
+<td>150</td>
 <td>125</td>
 <td>1200</td>
 <td>125</td>
 <td>200</td>
-<td>4000</td>
 </tr>
 <tr>
-<td>2959</td>
-<td>2206</td>
-<td>500</td>
-<td>2000</td>
-<td>47995</td>
+<td>750</td>
+<td>3459</td>
+<td>3358</td>
+<td>573</td>
+<td>2200</td>
 </tr>
 <tr>
+<td>2949</td>
 <td>5899</td>
 <td>11405</td>
 <td>2095</td>
 <td>1854</td>
-<td>13671</td>
 </tr>
 <tr>
+<td>2949</td>
 <td>5899</td>
 <td>11405</td>
 <td>2095</td>
 <td>1854</td>
-<td>13671</td>
 </tr>
 <tr>
+<td>2949</td>
 <td>5899</td>
 <td>11405</td>
 <td>2095</td>
 <td>1854</td>
-<td>13671</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
 <td>0</td>
@@ -1318,92 +1448,110 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 
 <table>
 <tr>
+<td>Сарыкемер ауылдық округі</td>
 <td>Қызыл жүлдыз ауылдық округі</td>
 <td>Ботамойнақ ауылдық округі</td>
 <td>Байтерек ауылдық округі</td>
 </tr>
 <tr>
-<td>107964</td>
-<td>78917</td>
+<td>202218</td>
+<td>117764</td>
+<td>79217</td>
 <td>323138</td>
 </tr>
 <tr>
-<td>22563</td>
+<td>34807</td>
+<td>24043</td>
 <td>24884</td>
-<td>35119</td>
+<td>34631</td>
 </tr>
 <tr>
-<td>22563</td>
+<td>34807</td>
+<td>24043</td>
 <td>24884</td>
-<td>35119</td>
+<td>34631</td>
 </tr>
 <tr>
-<td>22163</td>
+<td>33285</td>
+<td>23643</td>
 <td>23152</td>
-<td>33171</td>
+<td>32683</td>
 </tr>
 <tr>
+<td>1522</td>
 <td>400</td>
 <td>1732</td>
 <td>1948</td>
 </tr>
 <tr>
+<td>89075</td>
 <td>75407</td>
 <td>41485</td>
 <td>206340</td>
 </tr>
 <tr>
+<td>89075</td>
 <td>75407</td>
 <td>41485</td>
 <td>206340</td>
 </tr>
 <tr>
+<td>89075</td>
 <td>75407</td>
 <td>36616</td>
 <td>205386</td>
 </tr>
 <tr>
 <td>0</td>
+<td>0</td>
 <td>4869</td>
 <td>954</td>
 </tr>
 <tr>
-<td>4500</td>
-<td>7434</td>
-<td>65800</td>
+<td>64665</td>
+<td>13300</td>
+<td>7734</td>
+<td>63716</td>
 </tr>
 <tr>
-<td>4500</td>
-<td>7434</td>
-<td>65800</td>
+<td>64665</td>
+<td>13000</td>
+<td>7734</td>
+<td>63716</td>
 </tr>
 <tr>
+<td>9165</td>
 <td>2700</td>
 <td>2034</td>
 <td>5000</td>
 </tr>
 <tr>
+<td>4000</td>
 <td>400</td>
-<td>1000</td>
+<td>1300</td>
 <td>4000</td>
 </tr>
 <tr>
-<td>1400</td>
+<td>51500</td>
+<td>10200</td>
 <td>4400</td>
-<td>56800</td>
+<td>54716</td>
 </tr>
 <tr>
-<td>5494</td>
+<td>13671</td>
+<td>5014</td>
 <td>5114</td>
 <td>15879</td>
 </tr>
 <tr>
-<td>5494</td>
+<td>13671</td>
+<td>5014</td>
 <td>5114</td>
 <td>15879</td>
 </tr>
 <tr>
-<td>5494</td>
+<td>13671</td>
+<td>5014</td>
 <td>5114</td>
 <td>15879</td>
 </tr>
@@ -1411,28 +1559,22 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>2572</td>
 </tr>
 <tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>2572</td>
 </tr>
 <tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>2572</td>
 </tr>
 <tr>
 <td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -1441,8 +1583,28 @@ source: https://zan.gov.kz/client/#!/doc/117375/kaz/01.06.2018
 <td>0</td>
 <td>0</td>
 <td>0</td>
+<td>0</td>
 </tr>
 <tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
