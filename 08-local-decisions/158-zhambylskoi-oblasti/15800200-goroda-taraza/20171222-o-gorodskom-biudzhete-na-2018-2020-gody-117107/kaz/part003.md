@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117107/kaz/05.10.2018
+source: https://zan.gov.kz/client/#!/doc/117107/kaz/23.11.2018
 ---
 
 > *Тараз қалалық мәслихатының*  
