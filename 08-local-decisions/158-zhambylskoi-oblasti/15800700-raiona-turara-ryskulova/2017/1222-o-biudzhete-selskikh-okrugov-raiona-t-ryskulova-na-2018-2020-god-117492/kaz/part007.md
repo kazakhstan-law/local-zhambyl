@@ -6,7 +6,7 @@
 
 ## Көкдөнен ауылдық округінің 2018 жылға арналған аудандық бюджеті
 
-> *Ескерту. 7 - қосымшаға өзгерістер енгізілді - Жамбыл облысы Т. Рысқұлов аудандық мәслихатының 14.03.2018 № 24-4 (01.01.2018 қолданысқа енгізіледі); 31.05.2018 № 27-4 (01.01.2018 қолданысқа енгізіледі); 12.09.2018 № 31-4 (01.01.2018 қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 7 - қосымшаға өзгерістер енгізілді - Жамбыл облысы Т. Рысқұлов аудандық мәслихатының 14.03.2018 № 24-4 (01.01.2018 қолданысқа енгізіледі); 31.05.2018 № 27-4 (01.01.2018 қолданысқа енгізіледі); 05.12.2018 № 33-4 (01.01.2018 қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -41,112 +41,126 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">I. КІРІСТЕР</td>
-<td colspan="2">81569</td>
+<td colspan="2">87066</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td colspan="2">4708</td>
+<td colspan="2">7779</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="3">Табыс салығы</td>
-<td colspan="2">876</td>
+<td colspan="2">2915</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Жеке табыс салығы</td>
-<td colspan="2">876</td>
+<td colspan="2">2915</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="3">Меншікке салынатын салықтар</td>
-<td colspan="2">3832</td>
+<td colspan="2">4864</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Мүлікке салынатын салықтар</td>
-<td colspan="2">70</td>
+<td colspan="2">73</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="3">Жер салығы</td>
-<td colspan="2">420</td>
+<td colspan="2">441</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="3">Көлік құралдарына салынатын салық</td>
-<td colspan="2">3342</td>
+<td colspan="2">4350</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық емес түсімдер</td>
-<td colspan="2">1067</td>
+<td colspan="2">1072</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="3">Мемлекеттік меншіктен түсетін кірістер</td>
+<td colspan="2">38</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="3">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
+<td colspan="2">38</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
-<td colspan="2">32</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
-<td colspan="2">32</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">06</td>
 <td colspan="2"></td>
 <td colspan="3">Басқа да салықтық емес түсімдер</td>
-<td colspan="2">1035</td>
+<td colspan="2">1034</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Өзге де салықтық емес түсімдер</td>
-<td colspan="2">1035</td>
+<td colspan="2">1034</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td colspan="2">75794</td>
+<td colspan="2">78215</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">75794</td>
+<td colspan="2">78215</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">75794</td>
+<td colspan="2">78215</td>
 </tr>
 </table>
 
@@ -183,77 +197,77 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">II. ШЫҒЫНДАР</td>
-<td colspan="2">81569</td>
+<td colspan="2">87066</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">20546</td>
+<td colspan="2">21136</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">20546</td>
+<td colspan="2">21136</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">20221</td>
+<td colspan="2">20541</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">022</td>
 <td colspan="3">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">325</td>
+<td colspan="2">595</td>
 </tr>
 <tr>
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Білім беру</td>
-<td colspan="2">41970</td>
+<td colspan="2">46470</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">41970</td>
+<td colspan="2">46470</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td colspan="3">Мектепке дейінгі тәрбие мен оқыту және мектерке дейін тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td colspan="2">41970</td>
+<td colspan="2">46470</td>
 </tr>
 <tr>
 <td>07</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">9798</td>
+<td colspan="2">10805</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">4603</td>
+<td colspan="2">5610</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">014</td>
 <td colspan="3">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td colspan="2">4603</td>
+<td colspan="2">5610</td>
 </tr>
 <tr>
 <td></td>
@@ -288,21 +302,21 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Мәдениет, спорт, туризм және ақпараттық кеңістік</td>
-<td colspan="2">6008</td>
+<td colspan="2">5408</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">6008</td>
+<td colspan="2">5408</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td colspan="3">Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
-<td colspan="2">6008</td>
+<td colspan="2">5408</td>
 </tr>
 <tr>
 <td>13</td>
@@ -407,7 +421,7 @@
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">ІV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td colspan="3">ІV.Қаржы активтерімен операциялар бойынша сальдо</td>
 <td colspan="2">0</td>
 </tr>
 <tr>
