@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117390/rus/26.11.2018
+source: https://zan.gov.kz/client/#!/doc/117390/rus/10.12.2018
 ---
 
 > *Приложение 1 к решению маслихата*  
@@ -9,15 +9,12 @@ source: https://zan.gov.kz/client/#!/doc/117390/rus/26.11.2018
 
 ## Районный бюджет на 2018 год
 
-> *Сноска. Приложение 1 – в редакции решения Сарысуского районного маслихата Жамбылской области от 26.11.2018 № 40-7 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 1 – в редакции решения Сарысуского районного маслихата Жамбылской области от 10.12.2018 № 42-2 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
 <td colspan="7">Категория</td>
-<td rowspan="3">
-Cумма
-(тысяч тенге)
-</td>
+<td rowspan="3">Cумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -40,7 +37,7 @@ Cумма
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>9611183</td>
+<td>9629876</td>
 </tr>
 <tr>
 <td>1</td>
@@ -298,28 +295,31 @@ Cумма
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>8559250</td>
+<td>8577943</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>8559250</td>
+<td>8577943</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="3">Трансферты из областного бюджета</td>
-<td>8559250</td>
+<td>8577943</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="6">Функциональная группа</td>
-<td colspan="2" rowspan="3">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="3">
+Сумма
+(тысяч тенге)
+</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -342,14 +342,14 @@ Cумма
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td colspan="2">9638607</td>
+<td colspan="2">9657300</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">377187</td>
+<td colspan="2">376170</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -377,14 +377,14 @@ Cумма
 <td>122</td>
 <td colspan="2"></td>
 <td>Аппарат акима района (города областного значения)</td>
-<td colspan="2">124437</td>
+<td colspan="2">123420</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима района (города областного значения)</td>
-<td colspan="2">103030</td>
+<td colspan="2">102013</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -545,21 +545,21 @@ Cумма
 <td></td>
 <td colspan="2"></td>
 <td>Оборона</td>
-<td colspan="2">44091</td>
+<td colspan="2">43728</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>122</td>
 <td colspan="2"></td>
 <td>Аппарат акима района (города областного значения)</td>
-<td colspan="2">12642</td>
+<td colspan="2">12279</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">005</td>
 <td>Мероприятия в рамках исполнения всеобщей воинской обязанности</td>
-<td colspan="2">12642</td>
+<td colspan="2">12279</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -622,7 +622,7 @@ Cумма
 <td></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td colspan="2">5256254</td>
+<td colspan="2">5258449</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -657,14 +657,14 @@ Cумма
 <td>464</td>
 <td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td colspan="2">3954307</td>
+<td colspan="2">3956502</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">003</td>
 <td>Общеобразовательное обучение</td>
-<td colspan="2">3508255</td>
+<td colspan="2">3510450</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -762,14 +762,14 @@ Cумма
 <td></td>
 <td colspan="2"></td>
 <td>Социальная помошь и социальное обеспечение</td>
-<td colspan="2">694751</td>
+<td colspan="2">694550</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>451</td>
 <td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td colspan="2">254296</td>
+<td colspan="2">254095</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -783,7 +783,7 @@ Cумма
 <td></td>
 <td colspan="2">057</td>
 <td>Обеспечение физических лиц, являющихся получателями государственной адресной социальной помощи, телевизионными абонентскими приставками</td>
-<td colspan="2">980</td>
+<td colspan="2">779</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -930,7 +930,7 @@ Cумма
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">1802352</td>
+<td colspan="2">1818691</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1021,7 +1021,7 @@ Cумма
 <td>466</td>
 <td colspan="2"></td>
 <td>Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td colspan="2">843711</td>
+<td colspan="2">860050</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1035,14 +1035,14 @@ Cумма
 <td></td>
 <td colspan="2">006</td>
 <td>Развитие системы водоснабжения и водоотведения</td>
-<td colspan="2">603119</td>
+<td colspan="2">600765</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">058</td>
 <td>Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td colspan="2">240351</td>
+<td colspan="2">259044</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1070,21 +1070,21 @@ Cумма
 <td></td>
 <td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td colspan="2">482663</td>
+<td colspan="2">484403</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>455</td>
 <td colspan="2"></td>
 <td>Отдел культуры и развития языков района (города областного значения)</td>
-<td colspan="2">209469</td>
+<td colspan="2">210969</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">003</td>
 <td>Поддержка культурно-досуговой работы</td>
-<td colspan="2">209469</td>
+<td colspan="2">210969</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1161,14 +1161,14 @@ Cумма
 <td>456</td>
 <td colspan="2"></td>
 <td>Отдел внутренней политики района (города областного значения)</td>
-<td colspan="2">27624</td>
+<td colspan="2">27864</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">002</td>
 <td>Услуги по проведению государственной информационной политики</td>
-<td colspan="2">27624</td>
+<td colspan="2">27864</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1623,7 +1623,7 @@ Cумма
 <td></td>
 <td colspan="2"></td>
 <td>ІІІ. ЧИСТОЕ БЮДЖЕТНОЕ КРЕДИТОВАНИЕ</td>
-<td colspan="2">64070</td>
+<td colspan="2">114070</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1658,21 +1658,21 @@ Cумма
 <td></td>
 <td colspan="2"></td>
 <td>Погашение бюджетных кредитов</td>
-<td colspan="2">77968</td>
+<td colspan="2">27968</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>1</td>
 <td colspan="2"></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td colspan="2">77968</td>
+<td colspan="2">27968</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">13</td>
 <td>Погашение бюджетных кредитов, выданных из местного бюджета физическим лицам</td>
-<td colspan="2">77968</td>
+<td colspan="2">27968</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1700,14 +1700,14 @@ Cумма
 <td></td>
 <td colspan="2"></td>
 <td>V.ДЕФИЦИТ (ПРОФИЦИТ) БЮДЖЕТА</td>
-<td colspan="2">-91494</td>
+<td colspan="2">-141494</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td>VІ. ФИНАНСИРОВАНИЕ ДЕФИЦИТА (ИСПОЛЬЗОВАНИЕ ПРОФИЦИТА) БЮДЖЕТА</td>
-<td colspan="2">91494</td>
+<td colspan="2">141494</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -1735,21 +1735,21 @@ Cумма
 <td></td>
 <td colspan="2"></td>
 <td>Погашение займов</td>
-<td colspan="2">77968</td>
+<td colspan="2">27968</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>452</td>
 <td colspan="2"></td>
 <td>Отдел финансов района (города областного значения)</td>
-<td colspan="2">77968</td>
+<td colspan="2">27968</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">008</td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td colspan="2">77968</td>
+<td colspan="2">27968</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
