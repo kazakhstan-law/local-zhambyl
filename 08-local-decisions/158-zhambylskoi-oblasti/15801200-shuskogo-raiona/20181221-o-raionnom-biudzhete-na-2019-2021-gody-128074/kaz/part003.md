@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128074/kaz/08.05.2019
+source: https://zan.gov.kz/client/#!/doc/128074/kaz/23.07.2019
 ---
 
 > *Шу аудандық мәслихатының 2018 жылғы*  
