@@ -1,15 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
+source: https://zan.gov.kz/client/#!/doc/128305/kaz/29.07.2019
 ---
 
 > *Т.Рысқұлов аудандық мәслихаттың*  
-> *2019 жылғы 27желтоқсандағы*  
+> *2019 жылғы 27 желтоқсандағы*  
 > *№35-4 шешіміне 10 қосымша*
 
 ## Ақыртөбе ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 10 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 21.05.2019 № 42-4 (01.01.2019 қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 10 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 29.07.2019 № 45-4 (01.01.2019 қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">I. КІРІСТЕР</td>
-<td>80355</td>
+<td>80854</td>
 </tr>
 <tr>
 <td>1</td>
@@ -95,25 +95,25 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>75849</td>
+<td>76348</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>75849</td>
+<td>76348</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>75849</td>
+<td>76348</td>
 </tr>
-<tr>
-<td colspan="8"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td></td>
 <td></td>
@@ -146,7 +146,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">II.ШЫҒЫНДАР</td>
-<td>82124</td>
+<td>82623</td>
 </tr>
 <tr>
 <td>01</td>
@@ -181,28 +181,28 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Білім беру</td>
-<td>40160</td>
+<td>41315</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>40160</td>
+<td>41315</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">004</td>
 <td colspan="3">Мектепке дейінгі тәрбие мен оқыту және мектерке дейін тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>40160</td>
+<td>41315</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>14169</td>
+<td>13513</td>
 </tr>
 <tr>
 <td></td>
@@ -223,7 +223,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>13447</td>
+<td>12791</td>
 </tr>
 <tr>
 <td></td>
@@ -244,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td></td>
 <td colspan="2">011</td>
 <td colspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>8375</td>
+<td>7719</td>
 </tr>
 <tr>
 <td>08</td>
@@ -309,9 +309,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td colspan="3">Заңнаманы өзгертуге байланысты жоғары тұрған бюджеттің шығындарын өтеуге төменгі тұрған бюджеттен ағымдағы нысаналы трансферттер</td>
 <td>1398</td>
 </tr>
-<tr>
-<td colspan="8"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td colspan="2">Санаты</td>
 <td colspan="2"></td>
@@ -601,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 
 ## Өрнек ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 11 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 21.05.2019 № 42-4 (01.01.2019 қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 11 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 29.07.2019 № 45-4 (01.01.2019 қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -619,7 +619,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td></td>
 <td colspan="3"></td>
 <td colspan="6">Ішкі сыныбы</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>1</td>
@@ -633,7 +633,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="4">I. КІРІСТЕР</td>
-<td colspan="2">69024</td>
+<td colspan="2">69060</td>
 </tr>
 <tr>
 <td>1</td>
@@ -668,7 +668,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="4">Мүлікке салынатын салықтар</td>
-<td colspan="2">83</td>
+<td>83</td>
 </tr>
 <tr>
 <td></td>
@@ -689,21 +689,21 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td colspan="2">63707</td>
+<td colspan="2">63743</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="4">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">63707</td>
+<td colspan="2">63743</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>63707</td>
+<td>63743</td>
 </tr>
 </table>
 
@@ -716,7 +716,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 </tr>
 <tr>
 <td colspan="9">Функционалдық топ</td>
-<td rowspan="3">сомасы, мың теңге</td>
+<td colspan="2" rowspan="3">сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -739,91 +739,91 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">II.ШЫҒЫНДАР</td>
-<td colspan="2">70349</td>
+<td colspan="2">70385</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">26586</td>
+<td colspan="2">27141</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="4">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">26586</td>
+<td colspan="2">27141</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">25586</td>
+<td colspan="2">26686</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">022</td>
 <td colspan="4">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">1000</td>
+<td colspan="2">455</td>
 </tr>
 <tr>
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Білім беру</td>
-<td colspan="2">25762</td>
+<td colspan="2">25538</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="4">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">24533</td>
+<td colspan="2">24378</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td colspan="4">Мектепке дейінгі тәрбие мен оқыту және мектерке дейін тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td colspan="2">24533</td>
+<td colspan="2">24378</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="4">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">1229</td>
+<td colspan="2">1160</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
 <td colspan="4">Ауылдық жерлерде оқушыларды жақын жердегі мектепке дейін тегін алып баруды және одан алып кайтуды ұйымдастыру</td>
-<td colspan="2">1229</td>
+<td colspan="2">1160</td>
 </tr>
 <tr>
 <td>07</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">12091</td>
+<td colspan="2">11796</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="4">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">2727</td>
+<td colspan="2">2432</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">014</td>
 <td colspan="4">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td colspan="2">2727</td>
+<td colspan="2">2432</td>
 </tr>
 <tr>
 <td></td>
@@ -858,7 +858,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="4">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>6673</td>
+<td colspan="2">6673</td>
 </tr>
 <tr>
 <td>08</td>
@@ -992,7 +992,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5">Бағдарлама</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -1112,7 +1112,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td colspan="2"></td>
 <td colspan="3">Сыныбы</td>
 <td colspan="4"></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1204,17 +1204,17 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td colspan="2"></td>
 <td>1</td>
 <td colspan="4">Бюджет қаражатының бос қалдықтары</td>
-<td>1325</td>
+<td colspan="2">1325</td>
 </tr>
 </table>
 
 > *Т.Рысқұлов аудандық мәслихаттың*  
-> *2019 жылғы 27желтоқсандағы*  
+> *2019 жылғы 27 желтоқсандағы*  
 > *№35-4 шешіміне 12 қосымша*
 
 ## Тереңөзек ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 12 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 21.05.2019 № 42-4 (01.01.2019 қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 12 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 29.07.2019 № 45-4 (01.01.2019 қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -1245,7 +1245,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td></td>
 <td></td>
 <td colspan="4">I. КІРІСТЕР</td>
-<td>82200</td>
+<td>83505</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1301,21 +1301,21 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td>80514</td>
+<td>81819</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="4">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>80514</td>
+<td>81819</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>80514</td>
+<td>81819</td>
 </tr>
 </table>
 
@@ -1352,21 +1352,21 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">II.ШЫҒЫНДАР</td>
-<td>82979</td>
+<td>84284</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>30963</td>
+<td>30373</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>30963</td>
+<td>30373</td>
 </tr>
 <tr>
 <td></td>
@@ -1380,42 +1380,42 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/21.05.2019
 <td></td>
 <td colspan="2">022</td>
 <td colspan="3">Мемлекеттік органның күрделі шығыстары</td>
-<td>1000</td>
+<td>410</td>
 </tr>
 <tr>
 <td>04</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Білім беру</td>
-<td>26652</td>
+<td>28547</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>24587</td>
+<td>26502</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">004</td>
 <td colspan="3">Мектепке дейінгі тәрбие мен оқыту және мектерке дейін тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>24587</td>
+<td>26502</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>2065</td>
+<td>2045</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">005</td>
 <td colspan="3">Ауылдық жерлерде оқушыларды жақын жердегі мектепке дейін тегін алып баруды және одан алып кайтуды ұйымдастыру</td>
-<td>2065</td>
+<td>2045</td>
 </tr>
 <tr>
 <td>07</td>
