@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
+source: https://zan.gov.kz/client/#!/doc/128305/kaz/25.11.2019
 ---
 
 > *Т.Рысқұлов аудандық мәслихаттың*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 
 ## Құлан ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 1 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 30.10.2019 № 47-4 (01.01.2019 бастап қолданылады) шешімімен.*
+> *Ескерту. 1 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 25.11.2019 № 49-4 (01.01.2019 бастап қолданылады) шешімімен.*
 
 <table>
 <tr>
@@ -39,14 +39,14 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">I. КІРІСТЕР</td>
-<td>627851</td>
+<td>627604</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Салықтық түсімдер</td>
-<td>88875</td>
+<td>86301</td>
 </tr>
 <tr>
 <td></td>
@@ -67,88 +67,88 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="4">Меншікке салынатын салықтар</td>
-<td>55718</td>
+<td>53133</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="4">Мүлікке салынатын салықтар</td>
-<td>807</td>
+<td>885</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="4">Жер салығы</td>
-<td>1258</td>
+<td>1341</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">4</td>
 <td colspan="4">Көлік құралдарына салынатын салық</td>
-<td>53653</td>
+<td>50907</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td colspan="2"></td>
 <td colspan="4">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td>112</td>
+<td>123</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">4</td>
 <td colspan="4">Кәсіпкерлік және кәсіби қызметті жүргізгені үшін алынатын алымдар</td>
-<td>112</td>
+<td>123</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Салықтық емес түсімдер</td>
-<td>33</td>
+<td>46</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="4">Мемлекеттік меншіктен түсетін кірістер</td>
-<td>33</td>
+<td>46</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">5</td>
 <td colspan="4">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td>33</td>
+<td>46</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td>538943</td>
+<td>541257</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td colspan="2"></td>
 <td colspan="4">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>538943</td>
+<td>541257</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>538943</td>
+<td>541257</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="9"></td>
+</tr>
 <tr>
 <td></td>
 <td></td>
@@ -181,28 +181,28 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">II.ШЫҒЫНДАР</td>
-<td>630171</td>
+<td>629924</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>45268</td>
+<td>46361</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="4">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>45268</td>
+<td>46361</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">001</td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>45188</td>
+<td>46281</td>
 </tr>
 <tr>
 <td></td>
@@ -251,49 +251,49 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>124494</td>
+<td>123154</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="4">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>57037</td>
+<td>52697</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">014</td>
 <td colspan="4">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td>57037</td>
+<td>52697</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="4">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>67457</td>
+<td>70457</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">008</td>
 <td colspan="4">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>31722</td>
+<td>33474</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">009</td>
 <td colspan="4">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>6151</td>
+<td>5945</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">011</td>
 <td colspan="4">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>29584</td>
+<td>31038</td>
 </tr>
 <tr>
 <td>08</td>
@@ -358,9 +358,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="4">Заңнаманы өзгертуге байланысты жоғары тұрған бюджеттің шығындарын өтеуге төменгі тұрған бюджеттен ағымдағы нысаналы трансферттер</td>
 <td>752</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="9"></td>
+</tr>
 <tr>
 <td colspan="2">Санаты</td>
 <td colspan="2"></td>
@@ -412,9 +412,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3">Пайдаланылмаған бюджеттік кредиттердің сомаларын қайтару</td>
 <td colspan="2">0</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="9"></td>
+</tr>
 <tr>
 <td colspan="7">Фукционалдық топ Атауы</td>
 <td colspan="2" rowspan="2">сомасы, мың теңге</td>
@@ -450,9 +450,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="4">Қаржы активтерін сатып алу</td>
 <td colspan="2">0</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="9"></td>
+</tr>
 <tr>
 <td colspan="2">Санаты</td>
 <td></td>
@@ -463,7 +463,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td colspan="2">Сыныбы</td>
 <td colspan="4"></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -483,7 +483,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="4">Мемлекеттік қаржы активтерін сатудан түсетін түсімдер</td>
-<td colspan="2">0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -548,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <tr>
 <td></td>
 <td colspan="6">Сыныбы</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -582,7 +582,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td>2</td>
 <td colspan="4">Қарыз алу келісім-шарттары</td>
-<td colspan="2">0</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -650,7 +650,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 
 ## Луговой ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 2 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 30.10.2019 № 47-4 (01.01.2019 бастап қолданылады) шешімімен.*
+> *Ескерту. 2 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 25.11.2019 № 49-4 (01.01.2019 бастап қолданылады) шешімімен.*
 
 <table>
 <tr>
@@ -680,7 +680,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="4">I. КІРІСТЕР</td>
-<td>269025</td>
+<td>264272</td>
 </tr>
 <tr>
 <td>1</td>
@@ -771,25 +771,25 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td>248608</td>
+<td>243855</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="4">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>248608</td>
+<td>243855</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="4">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>248608</td>
+<td>243855</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="8"></td>
+</tr>
 <tr>
 <td></td>
 <td></td>
@@ -822,28 +822,28 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="4">II.ШЫҒЫНДАР</td>
-<td>271355</td>
+<td>266602</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td colspan="4">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>43818</td>
+<td>44815</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>43818</td>
+<td>44815</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td colspan="4">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>43454</td>
+<td>44451</td>
 </tr>
 <tr>
 <td></td>
@@ -857,42 +857,42 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="4">Білім беру</td>
-<td>181723</td>
+<td>179723</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>181723</td>
+<td>179723</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>004</td>
 <td colspan="4">Мектепке дейінгі тәрбие мен оқыту және мектерке дейін тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>181723</td>
+<td>179723</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>35087</td>
+<td>31337</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td colspan="4">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>13247</td>
+<td>9497</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>014</td>
 <td colspan="4">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td>13247</td>
+<td>9497</td>
 </tr>
 <tr>
 <td></td>
@@ -985,9 +985,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="4">Заңнаманы өзгертуге байланысты жоғары тұрған бюджеттің шығындарын өтеуге төменгі тұрған бюджеттен ағымдағы нысаналы трансферттер</td>
 <td>1248</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="8"></td>
+</tr>
 <tr>
 <td colspan="2">Санаты</td>
 <td></td>
@@ -1039,9 +1039,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="4">Пайдаланылмаған бюджеттік кредиттердің сомаларын қайтару</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="8"></td>
+</tr>
 <tr>
 <td colspan="7">Фукционалдық топ Атауы</td>
 <td rowspan="3">сомасы, мың теңге</td>
@@ -1076,9 +1076,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="4">Қаржы активтерін сатып алу</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="8"></td>
+</tr>
 <tr>
 <td colspan="2">Санаты</td>
 <td></td>
@@ -1123,9 +1123,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="4">Қаржы активтерін ел ішінде сатудан түсетін түсімдер</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="8"></td>
+</tr>
 <tr>
 <td colspan="7">Фукционалдық топ Атауы</td>
 <td rowspan="3">сомасы, мың теңге</td>
@@ -1160,9 +1160,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="4">VI.Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>2330</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="8"></td>
+</tr>
 <tr>
 <td colspan="2">Санаты</td>
 <td></td>
@@ -1209,9 +1209,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="4">Қарыз алу келісім-шарттары</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="8"></td>
+</tr>
 <tr>
 <td colspan="7">Фукционалдық топ Атауы</td>
 <td rowspan="3">сомасы, мың теңге</td>
@@ -1270,12 +1270,12 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 </table>
 
 > *Т.Рысқұлов аудандық мәслихаттың*  
-> *2019 жылғы 27желтоқсандағы*  
+> *2019 жылғы 27 желтоқсандағы*  
 > *№35-4 шешіміне 3 қосымша*
 
 ## Ақбұлақ ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 3 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 30.10.2019 № 47-4 (01.01.2019 бастап қолданылады) шешімімен.*
+> *Ескерту. 3 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 25.11.2019 № 49-4 (01.01.2019 бастап қолданылады) шешімімен.*
 
 <table>
 <tr>
@@ -1305,7 +1305,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="3">I. КІРІСТЕР</td>
-<td>82500</td>
+<td>84500</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1382,25 +1382,25 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>77274</td>
+<td>79274</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>77274</td>
+<td>79274</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>77274</td>
+<td>79274</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="7"></td>
+</tr>
 <tr>
 <td></td>
 <td></td>
@@ -1433,7 +1433,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="3">II.ШЫҒЫНДАР</td>
-<td>84684</td>
+<td>86684</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1468,21 +1468,21 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="3">Білім беру</td>
-<td>45535</td>
+<td>47535</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>42235</td>
+<td>44235</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>004</td>
 <td colspan="3">Мектепке дейінгі тәрбие мен оқыту және мектерке дейін тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>42235</td>
+<td>44235</td>
 </tr>
 <tr>
 <td></td>
@@ -1610,9 +1610,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3">Заңнаманы өзгертуге байланысты жоғары тұрған бюджеттің шығындарын өтеуге төменгі тұрған бюджеттен ағымдағы нысаналы трансферттер</td>
 <td>2518</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="7"></td>
+</tr>
 <tr>
 <td colspan="2">Санаты</td>
 <td></td>
@@ -1664,9 +1664,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3">Пайдаланылмаған бюджеттік кредиттердің сомаларын қайтару</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="7"></td>
+</tr>
 <tr>
 <td colspan="6">Фукционалдық топ Атауы</td>
 <td rowspan="3">сомасы, мың теңге</td>
@@ -1701,9 +1701,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3">Қаржы активтерін сатып алу</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="7"></td>
+</tr>
 <tr>
 <td colspan="2">Санаты</td>
 <td></td>
@@ -1748,9 +1748,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3">Қаржы активтерін ел ішінде сатудан түсетін түсімдер</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="7"></td>
+</tr>
 <tr>
 <td colspan="6">Фукционалдық топ Атауы</td>
 <td rowspan="3">сомасы, мың теңге</td>
@@ -1785,9 +1785,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3">VI.Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>2184</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="7"></td>
+</tr>
 <tr>
 <td colspan="2">Санаты</td>
 <td></td>
@@ -1834,9 +1834,9 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3">Қарыз алу келісім-шарттары</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="7"></td>
+</tr>
 <tr>
 <td colspan="6">Фукционалдық топ Атауы</td>
 <td rowspan="3">сомасы, мың теңге</td>
@@ -1900,7 +1900,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 
 ## Абай ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 4 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 30.10.2019 № 47-4 (01.01.2019 бастап қолданылады) шешімімен.*
+> *Ескерту. 4 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 25.11.2019 № 49-4 (01.01.2019 бастап қолданылады) шешімімен.*
 
 <table>
 <tr>
@@ -2473,7 +2473,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 
 ## Қарақыстақ ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 5 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 30.10.2019 № 47-4 (01.01.2019 бастап қолданылады) шешімімен.*
+> *Ескерту. 5 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 25.11.2019 № 49-4 (01.01.2019 бастап қолданылады) шешімімен.*
 
 <table>
 <tr>
@@ -2504,35 +2504,35 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">I. КІРІСТЕР</td>
-<td>145182</td>
+<td>159496</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td>5619</td>
+<td>5693</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">01</td>
 <td></td>
 <td colspan="3">Табыс салығы</td>
-<td>349</td>
+<td>361</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td>2</td>
 <td colspan="3">Жеке табыс салығы</td>
-<td>349</td>
+<td>361</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">04</td>
 <td></td>
 <td colspan="3">Меншікке салынатын салықтар</td>
-<td>5270</td>
+<td>5332</td>
 </tr>
 <tr>
 <td></td>
@@ -2546,7 +2546,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3"></td>
 <td>3</td>
 <td colspan="3">Жер салығы</td>
-<td>545</td>
+<td>607</td>
 </tr>
 <tr>
 <td></td>
@@ -2581,21 +2581,21 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>139520</td>
+<td>153760</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>139520</td>
+<td>153760</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td>3</td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>139520</td>
+<td>153760</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -2632,7 +2632,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">II.ШЫҒЫНДАР</td>
-<td>147126</td>
+<td>161440</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2667,21 +2667,21 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Білім беру</td>
-<td>85326</td>
+<td>84106</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">124</td>
 <td></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>78826</td>
+<td>77606</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td>004</td>
 <td colspan="3">Мектепке дейінгі тәрбие мен оқыту және мектерке дейін тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>78826</td>
+<td>77606</td>
 </tr>
 <tr>
 <td></td>
@@ -2702,7 +2702,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>16465</td>
+<td>31999</td>
 </tr>
 <tr>
 <td></td>
@@ -2723,14 +2723,14 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3">124</td>
 <td></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>11503</td>
+<td>27037</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td>008</td>
 <td colspan="3">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>9570</td>
+<td>17680</td>
 </tr>
 <tr>
 <td></td>
@@ -2744,7 +2744,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3"></td>
 <td>011</td>
 <td colspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>700</td>
+<td>8124</td>
 </tr>
 <tr>
 <td>08</td>
@@ -3099,7 +3099,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 
 ## Жаңатұрмыс ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 6 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 30.10.2019 № 47-4 (01.01.2019 бастап қолданылады) шешімімен.*
+> *Ескерту. 6 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 25.11.2019 № 49-4 (01.01.2019 бастап қолданылады) шешімімен.*
 
 <table>
 <tr>
@@ -3131,35 +3131,35 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">I. КІРІСТЕР</td>
-<td>81470</td>
+<td>91226</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td>3049</td>
+<td>3480</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="3">Табыс салығы</td>
-<td>208</td>
+<td>228</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="3">Жеке табыс салығы</td>
-<td>208</td>
+<td>228</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="3">Меншікке салынатын салықтар</td>
-<td>2841</td>
+<td>3252</td>
 </tr>
 <tr>
 <td></td>
@@ -3173,35 +3173,35 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="3">Жер салығы</td>
-<td>288</td>
+<td>299</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="3">Көлік құралдарына салынатын салық</td>
-<td>2500</td>
+<td>2900</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>78421</td>
+<td>87746</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>78421</td>
+<td>87746</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>78421</td>
+<td>87746</td>
 </tr>
 <tr>
 <td colspan="10"></td>
@@ -3238,28 +3238,28 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">II.ШЫҒЫНДАР</td>
-<td>82755</td>
+<td>92511</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>23103</td>
+<td>23303</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>23103</td>
+<td>23303</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>22966</td>
+<td>23166</td>
 </tr>
 <tr>
 <td></td>
@@ -3294,7 +3294,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>7850</td>
+<td>17406</td>
 </tr>
 <tr>
 <td></td>
@@ -3315,14 +3315,14 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>5333</td>
+<td>14889</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">008</td>
 <td colspan="3">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>4988</td>
+<td>8497</td>
 </tr>
 <tr>
 <td></td>
@@ -3336,7 +3336,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="3"></td>
 <td colspan="2">011</td>
 <td colspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>145</td>
+<td>6192</td>
 </tr>
 <tr>
 <td>08</td>
@@ -3691,7 +3691,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 
 ## Көкдөнен ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 7 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 30.10.2019 № 47-4 (01.01.2019 бастап қолданылады) шешімімен.*
+> *Ескерту. 7 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 25.11.2019 № 49-4 (01.01.2019 бастап қолданылады) шешімімен.*
 
 <table>
 <tr>
@@ -3726,14 +3726,14 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">I. КІРІСТЕР</td>
-<td colspan="2">108022</td>
+<td colspan="2">117565</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td colspan="2">6062</td>
+<td colspan="2">6787</td>
 </tr>
 <tr>
 <td></td>
@@ -3754,14 +3754,14 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="3">Меншікке салынатын салықтар</td>
-<td colspan="2">4712</td>
+<td colspan="2">5437</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Мүлікке салынатын салықтар</td>
-<td colspan="2">75</td>
+<td colspan="2">95</td>
 </tr>
 <tr>
 <td></td>
@@ -3775,7 +3775,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="3">Көлік құралдарына салынатын салық</td>
-<td colspan="2">4192</td>
+<td colspan="2">4897</td>
 </tr>
 <tr>
 <td>2</td>
@@ -3803,21 +3803,21 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td colspan="2">101922</td>
+<td colspan="2">110740</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">101922</td>
+<td colspan="2">110740</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">101922</td>
+<td colspan="2">110740</td>
 </tr>
 <tr>
 <td colspan="10"></td>
@@ -3854,28 +3854,28 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">II.ШЫҒЫНДАР</td>
-<td colspan="2">110330</td>
+<td colspan="2">119873</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">28206</td>
+<td colspan="2">28313</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">28206</td>
+<td colspan="2">28313</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>28069</td>
+<td colspan="2">28176</td>
 </tr>
 <tr>
 <td></td>
@@ -3889,56 +3889,56 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Білім беру</td>
-<td colspan="2">49486</td>
+<td colspan="2">50406</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">49486</td>
+<td colspan="2">50406</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td colspan="3">Мектепке дейінгі тәрбие мен оқыту және мектерке дейін тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td colspan="2">49486</td>
+<td colspan="2">50406</td>
 </tr>
 <tr>
 <td>07</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">28266</td>
+<td colspan="2">36782</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">17073</td>
+<td colspan="2">19229</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">014</td>
 <td colspan="3">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td colspan="2">17073</td>
+<td colspan="2">19229</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">11193</td>
+<td colspan="2">17553</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td colspan="3">Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">3484</td>
+<td colspan="2">9844</td>
 </tr>
 <tr>
 <td></td>
@@ -4172,7 +4172,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Бағдарлама</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>1</td>
@@ -4309,7 +4309,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 
 ## Көгершін ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 8 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 30.10.2019 № 47-4 (01.01.2019 бастап қолданылады) шешімімен.*
+> *Ескерту. 8 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 25.11.2019 № 49-4 (01.01.2019 бастап қолданылады) шешімімен.*
 
 <table>
 <tr>
@@ -4341,28 +4341,28 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">I. КІРІСТЕР</td>
-<td>87250</td>
+<td>86816</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td>10645</td>
+<td>10579</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="3">Табыс салығы</td>
-<td>4825</td>
+<td>4759</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="3">Жеке табыс салығы</td>
-<td>4825</td>
+<td>4759</td>
 </tr>
 <tr>
 <td></td>
@@ -4418,21 +4418,21 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>76605</td>
+<td>76237</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>76605</td>
+<td>76237</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>76605</td>
+<td>76237</td>
 </tr>
 <tr>
 <td colspan="8"></td>
@@ -4469,28 +4469,28 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">II.ШЫҒЫНДАР</td>
-<td>89359</td>
+<td>88925</td>
 </tr>
 <tr>
 <td>01</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>29015</td>
+<td>28581</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">124</td>
 <td></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>29015</td>
+<td>28581</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>28883</td>
+<td>28449</td>
 </tr>
 <tr>
 <td></td>
@@ -4922,7 +4922,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 
 ## Құмарық ауылдық округінің 2019 жылға арналған бюджеті
 
-> *Ескерту. 9 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 30.10.2019 № 47-4 (01.01.2019 бастап қолданылады) шешімімен.*
+> *Ескерту. 9 – қосымша жаңа редакцияда - Жамбыл облысы Т.Рысқұлов аудандық мәслихатының 25.11.2019 № 49-4 (01.01.2019 бастап қолданылады) шешімімен.*
 
 <table>
 <tr>
@@ -4947,21 +4947,21 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td>2</td>
 <td>3</td>
 <td colspan="3">4</td>
-<td>5</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">I. КІРІСТЕР</td>
-<td colspan="2">71536</td>
+<td colspan="2">66943</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td colspan="2">5803</td>
+<td colspan="2">6322</td>
 </tr>
 <tr>
 <td></td>
@@ -4975,56 +4975,56 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td>2</td>
 <td colspan="3">Жеке табыс салығы</td>
-<td colspan="2">900</td>
+<td>900</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="3">Меншікке салынатын салықтар</td>
-<td colspan="2">4903</td>
+<td colspan="2">5422</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="3">Мүлікке салынатын салықтар</td>
-<td colspan="2">72</td>
+<td colspan="2">76</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="3">Жер салығы</td>
-<td colspan="2">673</td>
+<td colspan="2">718</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="3">Көлік құралдарына салынатын салық</td>
-<td colspan="2">4158</td>
+<td colspan="2">4628</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td colspan="2">65733</td>
+<td colspan="2">60621</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">65733</td>
+<td colspan="2">60621</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="3">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">65733</td>
+<td colspan="2">60621</td>
 </tr>
 <tr>
 <td colspan="7"></td>
@@ -5061,28 +5061,28 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="3">II.ШЫҒЫНДАР</td>
-<td colspan="2">74189</td>
+<td colspan="2">69596</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td colspan="3">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">27272</td>
+<td colspan="2">25760</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">27272</td>
+<td colspan="2">25760</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td colspan="3">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">27137</td>
+<td colspan="2">25625</td>
 </tr>
 <tr>
 <td></td>
@@ -5096,21 +5096,21 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="3">Білім беру</td>
-<td colspan="2">19296</td>
+<td colspan="2">19596</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">14900</td>
+<td colspan="2">15200</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>004</td>
 <td colspan="3">Мектепке дейінгі тәрбие мен оқыту және мектерке дейін тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td>14900</td>
+<td colspan="2">15200</td>
 </tr>
 <tr>
 <td></td>
@@ -5131,7 +5131,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">22826</td>
+<td colspan="2">19445</td>
 </tr>
 <tr>
 <td></td>
@@ -5152,7 +5152,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td>124</td>
 <td></td>
 <td colspan="3">Аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">22336</td>
+<td colspan="2">18955</td>
 </tr>
 <tr>
 <td></td>
@@ -5173,7 +5173,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td>011</td>
 <td colspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">19465</td>
+<td colspan="2">16084</td>
 </tr>
 <tr>
 <td>08</td>
@@ -5215,7 +5215,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td>040</td>
 <td colspan="3">Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыруға ауылдық елді мекендерді жайластыруды шешуге арналған іс-шараларды іске асыру</td>
-<td>3507</td>
+<td colspan="2">3507</td>
 </tr>
 <tr>
 <td>15</td>
@@ -5236,7 +5236,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td>051</td>
 <td colspan="3">Заңнаманы өзгертуге байланысты жоғары тұрған бюджеттің шығындарын өтеуге төменгі тұрған бюджеттен ағымдағы нысаналы трансферттер</td>
-<td colspan="2">1288</td>
+<td>1288</td>
 </tr>
 <tr>
 <td colspan="7"></td>
@@ -5250,7 +5250,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <tr>
 <td></td>
 <td colspan="5">Сыныбы</td>
-<td rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5342,13 +5342,13 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <tr>
 <td></td>
 <td colspan="5">Сыныбы</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="4">Ішкі сыныбы</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>1</td>
@@ -5478,7 +5478,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="4">Бағдарлама</td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>1</td>
@@ -5499,7 +5499,7 @@ source: https://zan.gov.kz/client/#!/doc/128305/kaz/30.10.2019
 <td></td>
 <td></td>
 <td colspan="3">Қарыздарды өтеу</td>
-<td colspan="3">0</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8</td>
