@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128230/kaz/29.10.2019
+source: https://zan.gov.kz/client/#!/doc/128230/kaz/26.11.2019
 ---
 
 ## 2020 жылға арналған Өрнек ауылдық округінің бюджеті

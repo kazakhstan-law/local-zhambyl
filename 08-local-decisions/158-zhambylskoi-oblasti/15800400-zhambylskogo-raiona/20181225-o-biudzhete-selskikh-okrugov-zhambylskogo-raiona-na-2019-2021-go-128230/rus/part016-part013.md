@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128230/rus/29.10.2019
+source: https://zan.gov.kz/client/#!/doc/128230/rus/26.11.2019
 ---
 
 ## Бюджет Орнекского сельского округа на 2020 год
