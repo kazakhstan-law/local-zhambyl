@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/127961/kaz/20.11.2019
+source: https://zan.gov.kz/client/#!/doc/127961/kaz/10.12.2019
 ---
 
 # 2019 - 2021 жылдарға арналған аудандық бюджет туралы

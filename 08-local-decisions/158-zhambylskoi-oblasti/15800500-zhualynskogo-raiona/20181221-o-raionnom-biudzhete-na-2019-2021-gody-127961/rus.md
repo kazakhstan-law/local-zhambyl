@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/127961/rus/20.11.2019
+source: https://zan.gov.kz/client/#!/doc/127961/rus/10.12.2019
 ---
 
 # О районном бюджете на 2019 - 2021 годы
