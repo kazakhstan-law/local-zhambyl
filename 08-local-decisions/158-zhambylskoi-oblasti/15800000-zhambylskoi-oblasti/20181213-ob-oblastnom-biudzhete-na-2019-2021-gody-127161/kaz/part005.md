@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127161/kaz/12.11.2019
+source: https://zan.gov.kz/client/#!/doc/127161/kaz/12.12.2019
 ---
 
 > *Жамбыл облыстық мәслихатының*  
