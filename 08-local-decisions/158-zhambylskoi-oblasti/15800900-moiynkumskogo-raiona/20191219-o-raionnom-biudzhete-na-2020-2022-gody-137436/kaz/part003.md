@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137436/kaz/19.12.2019
+source: https://zan.gov.kz/client/#!/doc/137436/kaz/13.02.2020
 ---
 
 > *Мойынқұм аудандық*  
