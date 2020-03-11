@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137553/kaz/20.12.2019
+source: https://zan.gov.kz/client/#!/doc/137553/kaz/11.03.2020
 ---
 
 > *Жуалы аудандық*  
