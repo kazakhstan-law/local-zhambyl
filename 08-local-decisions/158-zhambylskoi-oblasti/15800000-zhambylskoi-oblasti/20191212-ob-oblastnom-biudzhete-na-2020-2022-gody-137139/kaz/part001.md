@@ -1,20 +1,20 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
+source: https://zan.gov.kz/client/#!/doc/137139/kaz/30.03.2020
 ---
 
 > *Жамбыл облыстық мәслихатының*  
-> *аппараты*  
-> *2019 жылғы 12 желтоқсаны*  
-> *№ 41-3*  
-> *1 қосымша*
+> *2019 жылғы 12 желтоқсандағы*  
+> *№ 41-3 шешіміне 1 қосымша*
 
 ## 2020 жылға арналған облыстық бюджет
 
+> *Ескерту. 1 - қосымша жаңа редакцияда - Жамбыл облыстық мәслихатының 30.03.2020 № 44-2 (01.01.2020 қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
-<td>Санаты</td>
-<td colspan="3"></td>
+<td colspan="3">Санаты</td>
+<td rowspan="3">Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
@@ -22,9 +22,8 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="2">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Ішкі сыныбы</td>
-<td>Атауы</td>
+<td colspan="2"></td>
+<td>Ішкі сыныбы</td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -36,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>305 996 674</td>
+<td>305 467 483</td>
 </tr>
 <tr>
 <td>1</td>
@@ -197,21 +196,35 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>276 141 841</td>
+<td>275 612 650</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Төмен тұрған мемлекеттiк басқару органдарынан трансферттер</td>
+<td>115 540</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Аудандық (облыстық маңызы бар қалалардың) бюджеттерден трансферттер</td>
+<td>115 540</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>276 141 841</td>
+<td>275 497 110</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Республикалық бюджеттен түсетiн трансферттер</td>
-<td>276 141 841</td>
+<td>275 497 110</td>
 </tr>
 </table>
 
@@ -239,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">II. Шығындар</td>
-<td>305 681 902</td>
+<td>311 633 190</td>
 </tr>
 <tr>
 <td colspan="5">01</td>
@@ -512,7 +525,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Бiлiм беру</td>
-<td>45 783 014</td>
+<td>52 836 269</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -540,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3">271</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың құрылыс басқармасы</td>
-<td>205 078</td>
+<td>7 450 933</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -548,6 +561,20 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="2">069</td>
 <td colspan="2">Қосымша білім беру объектілерін салу және реконструкциялау</td>
 <td>205 078</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">079</td>
+<td colspan="2">Аудандық (облыстық маңызы бар қалалардың) бюджеттеріне бастауыш, негізгі орта және жалпы орта білім беру объектілерін салуға және реконструкциялауға берілетін нысаналы даму трансферттерi</td>
+<td>6 798 071</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">086</td>
+<td colspan="2">Бастауыш, негізгі орта және жалпы орта білім беру объектілерін салу және реконструкциялау</td>
+<td>447 784</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -659,7 +686,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3">261</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың білім басқармасы</td>
-<td>30 085 780</td>
+<td>29 893 180</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -722,21 +749,21 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2">067</td>
 <td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td>2 220 414</td>
+<td>2 672 545</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">113</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td>26 689 451</td>
+<td>26 044 720</td>
 </tr>
 <tr>
 <td colspan="5">05</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Денсаулық сақтау</td>
-<td>10 190 005</td>
+<td>11 279 900</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -841,7 +868,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3">253</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың денсаулық сақтау басқармасы</td>
-<td>2 190 205</td>
+<td>3 280 100</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -890,7 +917,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2">033</td>
 <td colspan="2">Медициналық денсаулық сақтау ұйымдарының күрделі шығыстары</td>
-<td>1 495 004</td>
+<td>2 584 899</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -911,7 +938,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3">256</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың жұмыспен қамтуды үйлестіру және әлеуметтік бағдарламалар басқармасы</td>
-<td>2 740 975</td>
+<td>11 475 988</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -919,6 +946,13 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="2">002</td>
 <td colspan="2">Жалпы үлгідегі медициналық-әлеуметтік мекемелерде (ұйымдарда), арнаулы әлеуметтік қызметтер көрсету орталықтарында, әлеуметтік қызмет көрсету орталықтарында қарттар мен мүгедектерге арнаулы әлеуметтік қызметтер көрсету</td>
 <td>885 617</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">005</td>
+<td colspan="2">Мемлекеттік атаулы әлеуметтік көмек</td>
+<td>8 730 254</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -943,6 +977,13 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 </tr>
 <tr>
 <td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">084</td>
+<td colspan="2">Ұлы Отан соғысындағы Жеңістің 75-жылдығына арналған мерекелік іс-шараларды өткізу</td>
+<td>4 759</td>
+</tr>
+<tr>
+<td colspan="5"></td>
 <td colspan="3">261</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың білім басқармасы</td>
@@ -960,28 +1001,28 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3">256</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың жұмыспен қамтуды үйлестіру және әлеуметтік бағдарламалар басқармасы</td>
-<td>317 042</td>
+<td>227 184</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">003</td>
 <td colspan="2">Мүгедектерге әлеуметтік қолдау</td>
-<td>317 042</td>
+<td>227 184</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3">256</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың жұмыспен қамтуды үйлестіру және әлеуметтік бағдарламалар басқармасы</td>
-<td>11 674 577</td>
+<td>3 029 422</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде жұмыспен қамтуды қамтамасыз ету және халық үшін әлеуметтік бағдарламаларды іске асыру саласында мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>97 717</td>
+<td>92 958</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -1016,7 +1057,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2">046</td>
 <td colspan="2">Қазақстан Республикасында мүгедектердің құқықтарын қамтамасыз етуге және өмір сүру сапасын жақсарту</td>
-<td>530 794</td>
+<td>620 652</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -1037,7 +1078,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2">113</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td>10 597 278</td>
+<td>1 867 024</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -1079,14 +1120,35 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>13 023 727</td>
+<td>23 825 642</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3">271</td>
+<td colspan="2"></td>
+<td colspan="2">Облыстың құрылыс басқармасы</td>
+<td>11 008 811</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">014</td>
+<td colspan="2">Аудандық (облыстық маңызы бар қалалардың) бюджеттеріне коммуналдық тұрғын үй қорының тұрғын үйін салуға және (немесе) реконструкциялауға берілетін нысаналы даму трансферттері</td>
+<td>6 113 159</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">027</td>
+<td colspan="2">Аудандық (облыстық маңызы бар қалалардың) бюджеттеріне инженерлік-коммуникациялық инфрақұрылымды дамытуға және (немесе) жайластыруға берілетін нысаналы даму трансферттері</td>
+<td>4 895 652</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3">279</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың энергетика және тұрғын үй-коммуналдық шаруашылық басқармасы</td>
-<td>13 023 727</td>
+<td>12 816 831</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -1100,7 +1162,21 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2">005</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td>139</td>
+<td>79 594</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">010</td>
+<td colspan="2">Аудандық (облыстық маңызы бар қалалардың) бюджеттеріне сумен жабдықтау және су бұру жүйелерін дамытуға берілетін нысаналы даму трансферттері</td>
+<td>1 783 622</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">030</td>
+<td colspan="2">Аудандық (облыстық маңызы бар қалалардың) бюджеттеріне елді мекендерді сумен жабдықтау және су бұру жүйелерін дамытуға берілетін нысаналы даму трансферттері</td>
+<td>8 890 389</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -1114,14 +1190,14 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2">114</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы даму трансферттері</td>
-<td>11 890 459</td>
+<td>930 097</td>
 </tr>
 <tr>
 <td colspan="5">08</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>7 988 943</td>
+<td>9 335 554</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -1170,21 +1246,21 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3">271</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың құрылыс басқармасы</td>
-<td>3 112</td>
+<td>1 148 772</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">017</td>
 <td colspan="2">Cпорт объектілерін дамыту</td>
-<td>3 112</td>
+<td>1 148 772</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3">285</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың дене шынықтыру және спорт басқармасы</td>
-<td>3 670 364</td>
+<td>3 871 315</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -1212,7 +1288,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2">032</td>
 <td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td>40 000</td>
+<td>240 951</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -1772,14 +1848,14 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
-<td>19 084 537</td>
+<td>1 277 655</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3">271</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың құрылыс басқармасы</td>
-<td>18 663 912</td>
+<td>857 030</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -1793,7 +1869,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2">114</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы даму трансферттері</td>
-<td>18 604 420</td>
+<td>797 538</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -1919,7 +1995,7 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Басқалар</td>
-<td>10 725 466</td>
+<td>13 994 102</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -1965,6 +2041,27 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 </tr>
 <tr>
 <td colspan="5"></td>
+<td colspan="3">279</td>
+<td colspan="2"></td>
+<td colspan="2">Облыстың энергетика және тұрғын үй-коммуналдық шаруашылық басқармасы</td>
+<td>644 878</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">024</td>
+<td colspan="2">«Бизнестің жол картасы-2025» бизнесті қолдау мен дамытудың мемлекеттік бағдарламасы шеңберінде индустриялық инфрақұрылымды дамыту</td>
+<td>358 527</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">052</td>
+<td colspan="2">Аудандық (облыстық маңызы бар қалалардың) бюджеттеріне «Бизнестің жол картасы-2020» бизнесті қолдау мен дамытудың мемлекеттік бағдарламасы шеңберінде индустриялық инфрақұрылымды дамытуға берiлетiн нысаналы даму трансферттерi</td>
+<td>286 351</td>
+</tr>
+<tr>
+<td colspan="5"></td>
 <td colspan="3">253</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың денсаулық сақтау басқармасы</td>
@@ -1982,28 +2079,28 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3">257</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың қаржы басқармасы</td>
-<td>597 097</td>
+<td>2 597 097</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">012</td>
 <td colspan="2">Облыстық жергілікті атқарушы органының резервi</td>
-<td>597 097</td>
+<td>2 597 097</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3">258</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың экономика және бюджеттік жоспарлау басқармасы</td>
-<td>8 455 879</td>
+<td>9 079 637</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2">003</td>
 <td colspan="2">Жергілікті бюджеттік инвестициялық жобалардың техникалық-экономикалық негіздемелерін және мемлекеттік-жекешелік әріптестік жобалардың, оның ішінде концессиялық жобалардың конкурстық құжаттамаларын әзірлеу немесе түзету, сондай-ақ қажетті сараптамаларын жүргізу, мемлекеттік-жекешелік әріптестік жобаларды, оның ішінде концессиялық жобаларды консультациялық сүйемелдеу</td>
-<td>8 455 879</td>
+<td>9 079 637</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -2080,14 +2177,14 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер</td>
-<td>127 676 279</td>
+<td>127 874 137</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3">257</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың қаржы басқармасы</td>
-<td>127 676 279</td>
+<td>127 874 137</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -2099,23 +2196,135 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <tr>
 <td colspan="5"></td>
 <td colspan="3"></td>
+<td colspan="2">011</td>
+<td colspan="2">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>71 218</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">049</td>
+<td colspan="2">Бюджет заңнамасымен қарастырылған жағдайларда жалпы сипаттағы трансферттерді қайтару</td>
+<td>22 314</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">053</td>
+<td colspan="2">Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен республикалық бюджеттен бөлінген пайдаланылмаған (түгел пайдаланылмаған) нысаналы трансферттердің сомасын қайтару</td>
+<td>104 326</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">IІІ. Таза бюджеттік кредит беру</td>
-<td>4 645 850</td>
+<td>47 401 447</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттер</td>
-<td>10 267 786</td>
+<td>53 023 383</td>
+</tr>
+<tr>
+<td colspan="5">06</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
+<td>36 755 597</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3">261</td>
+<td colspan="2"></td>
+<td colspan="2">Облыстың білім басқармасы</td>
+<td>3 812 987</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">088</td>
+<td colspan="2">Кредитование районных (городов областного значения) бюджетов для финансирования мер в рамках Дорожной карты занятости</td>
+<td>3 812 987</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3">268</td>
+<td colspan="2"></td>
+<td colspan="2">Облыстың жолаушылар көлігі және автомобиль жолдары басқармасы</td>
+<td>11 088 372</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">088</td>
+<td colspan="2">Кредитование районных (городов областного значения) бюджетов для финансирования мер в рамках Дорожной карты занятости</td>
+<td>11 088 372</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3">271</td>
+<td colspan="2"></td>
+<td colspan="2">Облыстың құрылыс басқармасы</td>
+<td>9 997 688</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">088</td>
+<td colspan="2">Кредитование районных (городов областного значения) бюджетов для финансирования мер в рамках Дорожной карты занятости</td>
+<td>9 997 688</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3">273</td>
+<td colspan="2"></td>
+<td colspan="2">Облыстың мәдениет, архивтер және құжаттама басқармасы</td>
+<td>108 806</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">088</td>
+<td colspan="2">Кредитование районных (городов областного значения) бюджетов для финансирования мер в рамках Дорожной карты занятости</td>
+<td>108 806</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3">279</td>
+<td colspan="2"></td>
+<td colspan="2">Облыстың энергетика және тұрғын үй-коммуналдық шаруашылық басқармасы</td>
+<td>11 747 744</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">088</td>
+<td colspan="2">Кредитование районных (городов областного значения) бюджетов для финансирования мер в рамках Дорожной карты занятости</td>
+<td>11 747 744</td>
 </tr>
 <tr>
 <td colspan="5">07</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>3 378 049</td>
+<td>9 378 049</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3">271</td>
+<td colspan="2"></td>
+<td colspan="2">Облыстың құрылыс басқармасы</td>
+<td>6 000 000</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="2">009</td>
+<td colspan="2">Аудандардың (облыстық маңызы бар қалалардың) бюджеттеріне тұрғын үй жобалауға және салуға кредит беру</td>
+<td>6 000 000</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -2127,8 +2336,8 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <tr>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">003</td>
-<td colspan="2">Коммуналдық шаруашылықты дамыту үшін кредит беру</td>
+<td colspan="2">087</td>
+<td colspan="2">Аудандардың (облыстық маңызы бар қалалардың) бюджеттеріне кондоминиум объектілерінің ортақ мүлкіне күрделі жөндеу жүргізуге кредит беру</td>
 <td>3 378 049</td>
 </tr>
 <tr>
@@ -2239,14 +2448,14 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>-4 331 078</td>
+<td>-53 567 154</td>
 </tr>
 <tr>
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитті пайдалану)</td>
-<td>4 331 078</td>
+<td>53 567 154</td>
 </tr>
 <tr>
 <td colspan="6">Санаты</td>
@@ -2312,14 +2521,14 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздар түсімдері</td>
-<td>9 767 786</td>
+<td>56 297 786</td>
 </tr>
 <tr>
 <td colspan="5"></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттік ішкі қарыздар</td>
-<td>9 767 786</td>
+<td>46 530 000</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -2370,5 +2579,12 @@ source: https://zan.gov.kz/client/#!/doc/137139/kaz/12.12.2019
 <td colspan="2">015</td>
 <td colspan="3">Жергілікті атқарушы органның борышын өтеу</td>
 <td>1 480 146</td>
+</tr>
+<tr>
+<td colspan="3">8</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>2 706 076</td>
 </tr>
 </table>
