@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138377/rus/30.12.2019
+source: https://zan.gov.kz/client/#!/doc/138377/rus/28.04.2020
 ---
 
 > *Приложение 20 к решению маслихата Кордайского района от 30 декабря 2019 года №63-2*
