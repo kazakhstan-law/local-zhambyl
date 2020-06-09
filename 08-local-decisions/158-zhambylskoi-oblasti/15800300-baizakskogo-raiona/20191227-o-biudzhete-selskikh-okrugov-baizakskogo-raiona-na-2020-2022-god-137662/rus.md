@@ -1,5 +1,5 @@
 ---
-version_id: '137662_459707'
+version_id: '137662_465846'
 act_code: '137662'
 language: rus
 title: О бюджете сельских округов Байзакского района на 2020-2022 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '158003000002'
 approval_date: 2019-12-27
-version_date: 2020-04-27
+version_date: 2020-06-09
 registry_number: '137662'
 caused_by:
-  code: '142314'
+  code: '143702'
   title: О внесении изменений в решение Байзакского районного маслихата от 27 декабря 2019 года  № 60-2 «О бюджете сельских округов Байзакского района на 2020-2022 годы»
-  link: https://zan.gov.kz/client/#!/doc/142314/rus
-source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
+  link: https://zan.gov.kz/client/#!/doc/143702/rus
+source: https://zan.gov.kz/client/#!/doc/137662/rus/09.06.2020
 ---
 
 # О бюджете сельских округов Байзакского района на 2020-2022 годы
@@ -655,288 +655,286 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 
 **Н. Тлепов**
 
-> *Приложение 1 к решению Байзакского районного маслихата № 60-2 от 27 декабря 2019 года*
-
-> *Сноска. Приложение 1 в редакции решения Байзакского районного маслихата Жамбылской области от 27.04.2020 № 65-2 (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение в редакции решения Байзакского районного маслихата Жамбылской области от 09.06.2020 № 66-2 (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td rowspan="5">2020 год сумма тыс. тенге</td>
-<td rowspan="5">Жалгызтюбинский сельский округ</td>
-<td rowspan="5">Диханский сельский округ</td>
-<td rowspan="5">Мырзатайский сельский округ</td>
-<td rowspan="5">Темирбекский сельский округ</td>
-<td rowspan="5">Тюймекентский сельский округ</td>
-<td rowspan="5">Жанатурмысский сельский округ</td>
-<td rowspan="5">Кокталский сельский округ</td>
+<td colspan="7">Категория</td>
+<td colspan="2" rowspan="5">2020 год сумма тыс. тенге</td>
+<td colspan="2" rowspan="5">Жалгызтюбинский сельский округ</td>
+<td colspan="2" rowspan="5">Диханский сельский округ</td>
+<td colspan="2" rowspan="5">Мырзатайский сельский округ</td>
+<td colspan="2" rowspan="5">Темирбекский сельский округ</td>
+<td colspan="2" rowspan="5">Тюймекентский сельский округ</td>
+<td colspan="2" rowspan="5">Жанатурмысский сельский округ</td>
+<td colspan="2" rowspan="5">Кокталский сельский округ</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="6">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="2"></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Наименование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3">Наименование</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>1. ДОХОДЫ</td>
-<td>2933122</td>
-<td>94606</td>
-<td>76315</td>
-<td>79774</td>
-<td>21506</td>
-<td>358801</td>
-<td>90776</td>
-<td>116717</td>
+<td colspan="3">1. ДОХОДЫ</td>
+<td colspan="2">2933122</td>
+<td colspan="2">94606</td>
+<td colspan="2">76315</td>
+<td colspan="2">79774</td>
+<td colspan="2">21506</td>
+<td colspan="2">358801</td>
+<td colspan="2">90776</td>
+<td colspan="2">116717</td>
 </tr>
 <tr>
 <td>1</td>
+<td colspan="2"></td>
 <td></td>
+<td colspan="3">Налоговые поступления</td>
+<td colspan="2">228026</td>
+<td colspan="2">5790</td>
+<td colspan="2">5078</td>
+<td colspan="2">6552</td>
+<td colspan="2">2440</td>
+<td colspan="2">13393</td>
+<td colspan="2">9065</td>
+<td colspan="2">10126</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">01</td>
 <td></td>
-<td>Налоговые поступления</td>
-<td>228026</td>
-<td>5790</td>
-<td>5078</td>
-<td>6552</td>
-<td>2440</td>
-<td>13393</td>
-<td>9065</td>
-<td>10126</td>
+<td colspan="3">Подоходный налог</td>
+<td colspan="2">61786</td>
+<td colspan="2">590</td>
+<td colspan="2">554</td>
+<td colspan="2">895</td>
+<td colspan="2">232</td>
+<td colspan="2">2379</td>
+<td colspan="2">4172</td>
+<td colspan="2">1939</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
-<td></td>
-<td>Подоходный налог</td>
-<td>61786</td>
-<td>590</td>
-<td>554</td>
-<td>895</td>
-<td>232</td>
-<td>2379</td>
-<td>4172</td>
-<td>1939</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
-<td>Индивидуальный подоходный налог</td>
-<td>61786</td>
-<td>590</td>
-<td>554</td>
-<td>895</td>
-<td>232</td>
-<td>2379</td>
-<td>4172</td>
-<td>1939</td>
+<td colspan="3">Индивидуальный подоходный налог</td>
+<td colspan="2">61786</td>
+<td colspan="2">590</td>
+<td colspan="2">554</td>
+<td colspan="2">895</td>
+<td colspan="2">232</td>
+<td colspan="2">2379</td>
+<td colspan="2">4172</td>
+<td colspan="2">1939</td>
 </tr>
 <tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Hалоги на собственность</td>
-<td>166240</td>
-<td>5200</td>
-<td>4524</td>
-<td>5657</td>
-<td>2208</td>
-<td>11014</td>
-<td>4893</td>
-<td>8187</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td>1</td>
-<td>Налоги на имущество</td>
-<td>2540</td>
-<td>95</td>
-<td>64</td>
-<td>113</td>
-<td>24</td>
-<td>165</td>
-<td>29</td>
-<td>85</td>
+<td colspan="2">04</td>
+<td></td>
+<td colspan="3">Hалоги на собственность</td>
+<td colspan="2">166240</td>
+<td colspan="2">5200</td>
+<td colspan="2">4524</td>
+<td colspan="2">5657</td>
+<td colspan="2">2208</td>
+<td colspan="2">11014</td>
+<td colspan="2">4893</td>
+<td colspan="2">8187</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>1</td>
+<td colspan="2">04</td>
+<td>1</td>
+<td colspan="3">Налоги на имущество</td>
+<td colspan="2">2540</td>
+<td colspan="2">95</td>
+<td colspan="2">64</td>
+<td colspan="2">113</td>
+<td colspan="2">24</td>
+<td colspan="2">165</td>
+<td colspan="2">29</td>
+<td colspan="2">85</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">04</td>
 <td>3</td>
-<td>Земельный налог</td>
-<td>8316</td>
-<td>404</td>
-<td>335</td>
-<td>284</td>
-<td>275</td>
-<td>538</td>
-<td>420</td>
-<td>161</td>
+<td colspan="3">Земельный налог</td>
+<td colspan="2">8316</td>
+<td colspan="2">404</td>
+<td colspan="2">335</td>
+<td colspan="2">284</td>
+<td colspan="2">275</td>
+<td colspan="2">538</td>
+<td colspan="2">420</td>
+<td colspan="2">161</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>1</td>
+<td colspan="2">04</td>
 <td>4</td>
-<td>Hалог на транспортные средства</td>
-<td>155384</td>
-<td>4701</td>
-<td>4125</td>
-<td>5260</td>
-<td>1909</td>
-<td>10311</td>
-<td>4444</td>
-<td>7941</td>
+<td colspan="3">Hалог на транспортные средства</td>
+<td colspan="2">155384</td>
+<td colspan="2">4701</td>
+<td colspan="2">4125</td>
+<td colspan="2">5260</td>
+<td colspan="2">1909</td>
+<td colspan="2">10311</td>
+<td colspan="2">4444</td>
+<td colspan="2">7941</td>
 </tr>
 <tr>
 <td>2</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Неналоговые поступления</td>
-<td>4885</td>
-<td>278</td>
-<td>252</td>
-<td>252</td>
-<td>202</td>
-<td>404</td>
-<td>245</td>
-<td>315</td>
+<td colspan="3">Неналоговые поступления</td>
+<td colspan="2">4885</td>
+<td colspan="2">278</td>
+<td colspan="2">252</td>
+<td colspan="2">252</td>
+<td colspan="2">202</td>
+<td colspan="2">404</td>
+<td colspan="2">245</td>
+<td colspan="2">315</td>
 </tr>
 <tr>
+<td>2</td>
+<td colspan="2">01</td>
 <td></td>
-<td>01</td>
-<td></td>
-<td>Доходы от государственной собственности</td>
-<td>343</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>31</td>
-<td>113</td>
+<td colspan="3">Доходы от государственной собственности</td>
+<td colspan="2">343</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">31</td>
+<td colspan="2">113</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>2</td>
+<td colspan="2">01</td>
 <td>5</td>
-<td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>343</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>31</td>
-<td>113</td>
+<td colspan="3">Доходы от аренды имущества, находящегося в государственной собственности</td>
+<td colspan="2">343</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">0</td>
+<td colspan="2">31</td>
+<td colspan="2">113</td>
 </tr>
 <tr>
+<td>2</td>
+<td colspan="2">04</td>
 <td></td>
-<td>04</td>
-<td></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td>4542</td>
-<td>278</td>
-<td>252</td>
-<td>252</td>
-<td>202</td>
-<td>404</td>
-<td>214</td>
-<td>202</td>
+<td colspan="3">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td colspan="2">4542</td>
+<td colspan="2">278</td>
+<td colspan="2">252</td>
+<td colspan="2">252</td>
+<td colspan="2">202</td>
+<td colspan="2">404</td>
+<td colspan="2">214</td>
+<td colspan="2">202</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>2</td>
+<td colspan="2">04</td>
 <td>1</td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td>4542</td>
-<td>278</td>
-<td>252</td>
-<td>252</td>
-<td>202</td>
-<td>404</td>
-<td>214</td>
-<td>202</td>
+<td colspan="3">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td colspan="2">4542</td>
+<td colspan="2">278</td>
+<td colspan="2">252</td>
+<td colspan="2">252</td>
+<td colspan="2">202</td>
+<td colspan="2">404</td>
+<td colspan="2">214</td>
+<td colspan="2">202</td>
 </tr>
 <tr>
 <td>4</td>
+<td colspan="2"></td>
 <td></td>
-<td></td>
-<td>Поступления трансфертов</td>
-<td>2700211</td>
-<td>88538</td>
-<td>70985</td>
-<td>72970</td>
-<td>18864</td>
-<td>345004</td>
-<td>81466</td>
-<td>106276</td>
+<td colspan="3">Поступления трансфертов</td>
+<td colspan="2">2700211</td>
+<td colspan="2">88538</td>
+<td colspan="2">70985</td>
+<td colspan="2">72970</td>
+<td colspan="2">18864</td>
+<td colspan="2">345004</td>
+<td colspan="2">81466</td>
+<td colspan="2">106276</td>
 </tr>
 <tr>
+<td>4</td>
+<td colspan="2">02</td>
 <td></td>
-<td>02</td>
-<td></td>
-<td>Трансферты из вышестоящих органов государственного управления</td>
-<td>2700211</td>
-<td>88538</td>
-<td>70985</td>
-<td>72970</td>
-<td>18864</td>
-<td>345004</td>
-<td>81466</td>
-<td>106276</td>
+<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="2">2700211</td>
+<td colspan="2">88538</td>
+<td colspan="2">70985</td>
+<td colspan="2">72970</td>
+<td colspan="2">18864</td>
+<td colspan="2">345004</td>
+<td colspan="2">81466</td>
+<td colspan="2">106276</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>4</td>
+<td colspan="2"></td>
 <td>3</td>
-<td>Трансферты из районного (города областного значения) бюджета</td>
-<td>2700211</td>
-<td>88538</td>
-<td>70985</td>
-<td>72970</td>
-<td>18864</td>
-<td>345004</td>
-<td>81466</td>
-<td>106276</td>
+<td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
+<td colspan="2">2700211</td>
+<td colspan="2">88538</td>
+<td colspan="2">70985</td>
+<td colspan="2">72970</td>
+<td colspan="2">18864</td>
+<td colspan="2">345004</td>
+<td colspan="2">81466</td>
+<td colspan="2">106276</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td>Ынтымакский сельский округ</td>
-<td>Суханбаевский сельский округ</td>
-<td colspan="2">Костюбинский сельский округ</td>
+<td colspan="2">Ынтымакский сельский округ</td>
+<td colspan="3">Суханбаевский сельский округ</td>
+<td>Костюбинский сельский округ</td>
 <td colspan="2">Бурылский сельский округ</td>
 <td colspan="2">Коптерекский сельский округ</td>
 <td colspan="2">Улгулинский сельский округ</td>
@@ -947,9 +945,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">Сазтерекский сельский округ</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -960,9 +958,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>58350</td>
-<td>56601</td>
-<td colspan="2">165287</td>
+<td colspan="2">58350</td>
+<td colspan="3">56601</td>
+<td>165287</td>
 <td colspan="2">275741</td>
 <td colspan="2">73532</td>
 <td colspan="2">85659</td>
@@ -973,9 +971,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">73460</td>
 </tr>
 <tr>
-<td>3166</td>
-<td>3856</td>
-<td colspan="2">14696</td>
+<td colspan="2">3166</td>
+<td colspan="3">3856</td>
+<td>14696</td>
 <td colspan="2">26968</td>
 <td colspan="2">2683</td>
 <td colspan="2">5156</td>
@@ -986,9 +984,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">2279</td>
 </tr>
 <tr>
-<td>272</td>
-<td>108</td>
-<td colspan="2">3413</td>
+<td colspan="2">272</td>
+<td colspan="3">108</td>
+<td>3413</td>
 <td colspan="2">7696</td>
 <td colspan="2">267</td>
 <td colspan="2">1415</td>
@@ -999,9 +997,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">181</td>
 </tr>
 <tr>
-<td>272</td>
-<td>108</td>
-<td colspan="2">3413</td>
+<td colspan="2">272</td>
+<td colspan="3">108</td>
+<td>3413</td>
 <td colspan="2">7696</td>
 <td colspan="2">267</td>
 <td colspan="2">1415</td>
@@ -1012,9 +1010,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">181</td>
 </tr>
 <tr>
-<td>2894</td>
-<td>3748</td>
-<td colspan="2">11283</td>
+<td colspan="2">2894</td>
+<td colspan="3">3748</td>
+<td>11283</td>
 <td colspan="2">19272</td>
 <td colspan="2">2416</td>
 <td colspan="2">3741</td>
@@ -1025,9 +1023,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">2098</td>
 </tr>
 <tr>
-<td>37</td>
-<td>36</td>
-<td colspan="2">288</td>
+<td colspan="2">37</td>
+<td colspan="3">36</td>
+<td>288</td>
 <td colspan="2">361</td>
 <td colspan="2">29</td>
 <td colspan="2">46</td>
@@ -1038,9 +1036,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">19</td>
 </tr>
 <tr>
-<td>148</td>
-<td>309</td>
-<td colspan="2">812</td>
+<td colspan="2">148</td>
+<td colspan="3">309</td>
+<td>812</td>
 <td colspan="2">997</td>
 <td colspan="2">157</td>
 <td colspan="2">452</td>
@@ -1051,9 +1049,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">189</td>
 </tr>
 <tr>
-<td>2709</td>
-<td>3403</td>
-<td colspan="2">10183</td>
+<td colspan="2">2709</td>
+<td colspan="3">3403</td>
+<td>10183</td>
 <td colspan="2">17914</td>
 <td colspan="2">2230</td>
 <td colspan="2">3243</td>
@@ -1064,9 +1062,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">1890</td>
 </tr>
 <tr>
-<td>189</td>
-<td>214</td>
-<td colspan="2">436</td>
+<td colspan="2">189</td>
+<td colspan="3">214</td>
+<td>436</td>
 <td colspan="2">416</td>
 <td colspan="2">189</td>
 <td colspan="2">252</td>
@@ -1077,9 +1075,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td>0</td>
-<td>0</td>
-<td colspan="2">96</td>
+<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td>96</td>
 <td colspan="2">0</td>
 <td colspan="2">0</td>
 <td colspan="2">0</td>
@@ -1090,9 +1088,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td>0</td>
-<td>0</td>
-<td colspan="2">96</td>
+<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td>96</td>
 <td colspan="2">0</td>
 <td colspan="2">0</td>
 <td colspan="2">0</td>
@@ -1103,9 +1101,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td>189</td>
-<td>214</td>
-<td colspan="2">340</td>
+<td colspan="2">189</td>
+<td colspan="3">214</td>
+<td>340</td>
 <td colspan="2">416</td>
 <td colspan="2">189</td>
 <td colspan="2">252</td>
@@ -1116,9 +1114,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td>189</td>
-<td>214</td>
-<td colspan="2">340</td>
+<td colspan="2">189</td>
+<td colspan="3">214</td>
+<td>340</td>
 <td colspan="2">416</td>
 <td colspan="2">189</td>
 <td colspan="2">252</td>
@@ -1129,9 +1127,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">0</td>
 </tr>
 <tr>
-<td>54995</td>
-<td>52531</td>
-<td colspan="2">150155</td>
+<td colspan="2">54995</td>
+<td colspan="3">52531</td>
+<td>150155</td>
 <td colspan="2">248357</td>
 <td colspan="2">70660</td>
 <td colspan="2">80251</td>
@@ -1142,9 +1140,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">71181</td>
 </tr>
 <tr>
-<td>54995</td>
-<td>52531</td>
-<td colspan="2">150155</td>
+<td colspan="2">54995</td>
+<td colspan="3">52531</td>
+<td>150155</td>
 <td colspan="2">248357</td>
 <td colspan="2">70660</td>
 <td colspan="2">80251</td>
@@ -1155,9 +1153,9 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">71181</td>
 </tr>
 <tr>
-<td>54995</td>
-<td>52531</td>
-<td colspan="2">150155</td>
+<td colspan="2">54995</td>
+<td colspan="3">52531</td>
+<td>150155</td>
 <td colspan="2">248357</td>
 <td colspan="2">70660</td>
 <td colspan="2">80251</td>
@@ -1166,454 +1164,6 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td colspan="2">83511</td>
 <td colspan="2">395130</td>
 <td colspan="2">71181</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>Ынтымакский сельский округ</td>
-<td colspan="2">Суханбаевский сельский округ</td>
-<td colspan="2">Костюбинский сельский округ</td>
-<td colspan="2">Бурылский сельский округ</td>
-<td colspan="2">Коптерекский сельский округ</td>
-<td colspan="2">Улгулинский сельский округ</td>
-<td colspan="2">Сарыкемерский сельский округ</td>
-<td colspan="2">Кызыл жулдызский сельский округ</td>
-<td colspan="2">Ботамойнакский сельский округ</td>
-<td colspan="2">Байтерекский сельский округ</td>
-<td colspan="2">Сазтерекский сельский округ</td>
-</tr>
-<tr>
-<td>119301</td>
-<td colspan="2">120733</td>
-<td colspan="2">452235</td>
-<td colspan="2">859592</td>
-<td colspan="2">95116</td>
-<td colspan="2">213434</td>
-<td colspan="2">1125485</td>
-<td colspan="2">163052</td>
-<td colspan="2">511264</td>
-<td colspan="2">588650</td>
-<td colspan="2">156825</td>
-</tr>
-<tr>
-<td>32268</td>
-<td colspan="2">28780</td>
-<td colspan="2">27343</td>
-<td colspan="2">49051</td>
-<td colspan="2">31607</td>
-<td colspan="2">21607</td>
-<td colspan="2">117889</td>
-<td colspan="2">32249</td>
-<td colspan="2">30792</td>
-<td colspan="2">42828</td>
-<td colspan="2">25450</td>
-</tr>
-<tr>
-<td>32268</td>
-<td colspan="2">28780</td>
-<td colspan="2">27343</td>
-<td colspan="2">49051</td>
-<td colspan="2">31607</td>
-<td colspan="2">21607</td>
-<td colspan="2">117889</td>
-<td colspan="2">32249</td>
-<td colspan="2">30792</td>
-<td colspan="2">42828</td>
-<td colspan="2">25450</td>
-</tr>
-<tr>
-<td>31848</td>
-<td colspan="2">28360</td>
-<td colspan="2">26713</td>
-<td colspan="2">48191</td>
-<td colspan="2">30696</td>
-<td colspan="2">21387</td>
-<td colspan="2">41312</td>
-<td colspan="2">32219</td>
-<td colspan="2">30362</td>
-<td colspan="2">37060</td>
-<td colspan="2">25450</td>
-</tr>
-<tr>
-<td>420</td>
-<td colspan="2">420</td>
-<td colspan="2">630</td>
-<td colspan="2">860</td>
-<td colspan="2">911</td>
-<td colspan="2">220</td>
-<td colspan="2">76577</td>
-<td colspan="2">30</td>
-<td colspan="2">430</td>
-<td colspan="2">5768</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>34934</td>
-<td colspan="2">33387</td>
-<td colspan="2">91148</td>
-<td colspan="2">217042</td>
-<td colspan="2">50323</td>
-<td colspan="2">61677</td>
-<td colspan="2">181467</td>
-<td colspan="2">113307</td>
-<td colspan="2">58679</td>
-<td colspan="2">357956</td>
-<td colspan="2">51898</td>
-</tr>
-<tr>
-<td>34934</td>
-<td colspan="2">33387</td>
-<td colspan="2">91148</td>
-<td colspan="2">217042</td>
-<td colspan="2">50323</td>
-<td colspan="2">61677</td>
-<td colspan="2">181467</td>
-<td colspan="2">113307</td>
-<td colspan="2">58679</td>
-<td colspan="2">357956</td>
-<td colspan="2">51898</td>
-</tr>
-<tr>
-<td>34934</td>
-<td colspan="2">33387</td>
-<td colspan="2">90678</td>
-<td colspan="2">217042</td>
-<td colspan="2">50323</td>
-<td colspan="2">61677</td>
-<td colspan="2">181467</td>
-<td colspan="2">113307</td>
-<td colspan="2">57164</td>
-<td colspan="2">356996</td>
-<td colspan="2">49478</td>
-</tr>
-<tr>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">470</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">1515</td>
-<td colspan="2">960</td>
-<td colspan="2">2420</td>
-</tr>
-<tr>
-<td>26173</td>
-<td colspan="2">27965</td>
-<td colspan="2">49055</td>
-<td colspan="2">310578</td>
-<td colspan="2">6348</td>
-<td colspan="2">30475</td>
-<td colspan="2">372449</td>
-<td colspan="2">2400</td>
-<td colspan="2">204154</td>
-<td colspan="2">83849</td>
-<td colspan="2">2100</td>
-</tr>
-<tr>
-<td>26173</td>
-<td colspan="2">27965</td>
-<td colspan="2">49055</td>
-<td colspan="2">310578</td>
-<td colspan="2">6348</td>
-<td colspan="2">30475</td>
-<td colspan="2">372449</td>
-<td colspan="2">2400</td>
-<td colspan="2">204154</td>
-<td colspan="2">83849</td>
-<td colspan="2">2100</td>
-</tr>
-<tr>
-<td>7277</td>
-<td colspan="2">4416</td>
-<td colspan="2">28182</td>
-<td colspan="2">101212</td>
-<td colspan="2">4681</td>
-<td colspan="2">18829</td>
-<td colspan="2">10586</td>
-<td colspan="2">1550</td>
-<td colspan="2">51181</td>
-<td colspan="2">29876</td>
-<td colspan="2">1400</td>
-</tr>
-<tr>
-<td>350</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">2600</td>
-<td colspan="2">700</td>
-<td colspan="2">0</td>
-<td colspan="2">3000</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">3000</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>18546</td>
-<td colspan="2">23549</td>
-<td colspan="2">20873</td>
-<td colspan="2">206766</td>
-<td colspan="2">967</td>
-<td colspan="2">11646</td>
-<td colspan="2">358863</td>
-<td colspan="2">850</td>
-<td colspan="2">152973</td>
-<td colspan="2">50973</td>
-<td colspan="2">700</td>
-</tr>
-<tr>
-<td>925</td>
-<td colspan="2">0</td>
-<td colspan="2">360</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>925</td>
-<td colspan="2">0</td>
-<td colspan="2">360</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>925</td>
-<td colspan="2">0</td>
-<td colspan="2">360</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>25000</td>
-<td colspan="2">30600</td>
-<td colspan="2">242266</td>
-<td colspan="2">282921</td>
-<td colspan="2">6838</td>
-<td colspan="2">99675</td>
-<td colspan="2">100054</td>
-<td colspan="2">15096</td>
-<td colspan="2">217639</td>
-<td colspan="2">99449</td>
-<td colspan="2">77377</td>
-</tr>
-<tr>
-<td>25000</td>
-<td colspan="2">30600</td>
-<td colspan="2">242266</td>
-<td colspan="2">282921</td>
-<td colspan="2">6838</td>
-<td colspan="2">99675</td>
-<td colspan="2">100054</td>
-<td colspan="2">15096</td>
-<td colspan="2">217639</td>
-<td colspan="2">99449</td>
-<td colspan="2">77377</td>
-</tr>
-<tr>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">140068</td>
-<td colspan="2">0</td>
-<td colspan="2">6645</td>
-<td colspan="2">0</td>
-<td colspan="2">15096</td>
-<td colspan="2">0</td>
-<td colspan="2">90411</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>25000</td>
-<td colspan="2">30600</td>
-<td colspan="2">242266</td>
-<td colspan="2">142853</td>
-<td colspan="2">6838</td>
-<td colspan="2">93030</td>
-<td colspan="2">100054</td>
-<td colspan="2">0</td>
-<td colspan="2">217639</td>
-<td colspan="2">9038</td>
-<td colspan="2">77377</td>
-</tr>
-<tr>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">42063</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">353618</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">42063</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">353618</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">42063</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">353618</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">8</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">4568</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">8</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">4568</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="2">1</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">8</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">4568</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td>-60951</td>
-<td colspan="2">-64132</td>
-<td colspan="2">-286948</td>
-<td colspan="2">-583851</td>
-<td colspan="2">-21548</td>
-<td colspan="2">-127775</td>
-<td colspan="2">-484091</td>
-<td colspan="2">-22091</td>
-<td colspan="2">-416114</td>
-<td colspan="2">-159958</td>
-<td colspan="2">
-
--83365
-</td>
-</tr>
-<tr>
-<td>60951</td>
-<td colspan="2">64132</td>
-<td colspan="2">286948</td>
-<td colspan="2">583851</td>
-<td colspan="2">21548</td>
-<td colspan="2">127775</td>
-<td colspan="2">484091</td>
-<td colspan="2">22091</td>
-<td colspan="2">416314</td>
-<td colspan="2">159958</td>
-<td colspan="2">83365</td>
-</tr>
-<tr>
-<td>60353</td>
-<td colspan="2">63041</td>
-<td colspan="2">283758</td>
-<td colspan="2">580896</td>
-<td colspan="2">20909</td>
-<td colspan="2">126129</td>
-<td colspan="2">475557</td>
-<td colspan="2">19303</td>
-<td colspan="2">411946</td>
-<td colspan="2">154003</td>
-<td colspan="2">83365</td>
-</tr>
-<tr>
-<td>60353</td>
-<td colspan="2">63041</td>
-<td colspan="2">283758</td>
-<td colspan="2">580896</td>
-<td colspan="2">20909</td>
-<td colspan="2">126129</td>
-<td colspan="2">475557</td>
-<td colspan="2">19303</td>
-<td colspan="2">411946</td>
-<td colspan="2">154003</td>
-<td colspan="2">83365</td>
-</tr>
-<tr>
-<td>60353</td>
-<td colspan="2">63041</td>
-<td colspan="2">283758</td>
-<td colspan="2">580896</td>
-<td colspan="2">20909</td>
-<td colspan="2">126129</td>
-<td colspan="2">475557</td>
-<td colspan="2">19303</td>
-<td colspan="2">411946</td>
-<td colspan="2">154003</td>
-<td colspan="2">83365</td>
-</tr>
-<tr>
-<td>598</td>
-<td colspan="2">1091</td>
-<td colspan="2">3190</td>
-<td colspan="2">2955</td>
-<td colspan="2">675</td>
-<td colspan="2">1646</td>
-<td colspan="2">8534</td>
-<td colspan="2">2788</td>
-<td colspan="2">4368</td>
-<td colspan="2">5955</td>
-<td colspan="2">0</td>
 </tr>
 </table>
 
@@ -1666,11 +1216,11 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>609706</td>
+<td>607794</td>
 <td>23443</td>
-<td>20944</td>
+<td>19016</td>
 <td>20517</td>
-<td>19156</td>
+<td>19608</td>
 <td>28575</td>
 <td>33851</td>
 <td>23356</td>
@@ -1680,11 +1230,11 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>609706</td>
+<td>607794</td>
 <td>23443</td>
-<td>20944</td>
+<td>19016</td>
 <td>20517</td>
-<td>19156</td>
+<td>19608</td>
 <td>28575</td>
 <td>33851</td>
 <td>23356</td>
@@ -1694,11 +1244,11 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>521149</td>
+<td>519337</td>
 <td>23213</td>
-<td>20524</td>
+<td>18596</td>
 <td>20427</td>
-<td>18936</td>
+<td>19488</td>
 <td>28155</td>
 <td>33273</td>
 <td>23023</td>
@@ -1708,11 +1258,11 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>88557</td>
+<td>88457</td>
 <td>230</td>
 <td>420</td>
 <td>90</td>
-<td>220</td>
+<td>120</td>
 <td>420</td>
 <td>578</td>
 <td>333</td>
@@ -1722,7 +1272,7 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>1886566</td>
+<td>1886028</td>
 <td>59878</td>
 <td>44271</td>
 <td>55808</td>
@@ -1736,7 +1286,7 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1886566</td>
+<td>1886028</td>
 <td>59878</td>
 <td>44271</td>
 <td>55808</td>
@@ -1764,7 +1314,7 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td></td>
 <td>005</td>
 <td>Организация бесплатного подвоза учащихся до ближайшей школы и обратно в сельской местности</td>
-<td>14540</td>
+<td>14002</td>
 <td>1296</td>
 <td>1143</td>
 <td>5083</td>
@@ -1778,12 +1328,12 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1345385</td>
+<td>1342627</td>
 <td>9190</td>
 <td>26224</td>
 <td>50261</td>
-<td>4693</td>
-<td>45317</td>
+<td>4241</td>
+<td>43011</td>
 <td>48846</td>
 <td>45308</td>
 </tr>
@@ -1792,12 +1342,12 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1345385</td>
+<td>1342627</td>
 <td>9190</td>
 <td>26224</td>
 <td>50261</td>
-<td>4693</td>
-<td>45317</td>
+<td>4241</td>
+<td>43011</td>
 <td>48846</td>
 <td>45308</td>
 </tr>
@@ -1806,8 +1356,8 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>342560</td>
-<td>6145</td>
+<td>342580</td>
+<td>6345</td>
 <td>2130</td>
 <td>34932</td>
 <td>3122</td>
@@ -1820,7 +1370,7 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>10450</td>
+<td>10630</td>
 <td>0</td>
 <td>300</td>
 <td>500</td>
@@ -1834,12 +1384,12 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>992375</td>
-<td>3045</td>
+<td>989417</td>
+<td>2845</td>
 <td>23794</td>
 <td>14829</td>
-<td>1571</td>
-<td>38192</td>
+<td>1119</td>
+<td>35886</td>
 <td>32915</td>
 <td>31323</td>
 </tr>
@@ -1890,12 +1440,12 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>1426614</td>
+<td>1431822</td>
 <td>56951</td>
-<td>44200</td>
+<td>46128</td>
 <td>28416</td>
 <td>0</td>
-<td>60002</td>
+<td>62308</td>
 <td>17500</td>
 <td>22630</td>
 </tr>
@@ -1904,12 +1454,12 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1426614</td>
+<td>1431822</td>
 <td>56951</td>
-<td>44200</td>
+<td>46128</td>
 <td>28416</td>
 <td>0</td>
-<td>60002</td>
+<td>62308</td>
 <td>17500</td>
 <td>22630</td>
 </tr>
@@ -1918,7 +1468,7 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
-<td>277990</td>
+<td>283198</td>
 <td>3140</td>
 <td>0</td>
 <td>0</td>
@@ -1934,10 +1484,10 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
 <td>1148624</td>
 <td>53811</td>
-<td>44200</td>
+<td>46128</td>
 <td>28416</td>
 <td>0</td>
-<td>60002</td>
+<td>62308</td>
 <td>17500</td>
 <td>0</td>
 </tr>
@@ -2108,6 +1658,451 @@ source: https://zan.gov.kz/client/#!/doc/137662/rus/27.04.2020
 <td>935</td>
 <td>1610</td>
 <td>1035</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Ынтымакский сельский округ</td>
+<td>Суханбаевский сельский округ</td>
+<td>Костюбинский сельский округ</td>
+<td>Бурылский сельский округ</td>
+<td>Коптерекский сельский округ</td>
+<td>Улгулинский сельский округ</td>
+<td>Сарыкемерский сельский округ</td>
+<td>Кызыл жулдызский сельский округ</td>
+<td>Ботамойнакский сельский округ</td>
+<td>Байтерекский сельский округ</td>
+<td>Сазтерекский сельский округ</td>
+</tr>
+<tr>
+<td>119301</td>
+<td>120733</td>
+<td>452235</td>
+<td>859592</td>
+<td>95116</td>
+<td>213434</td>
+<td>1125485</td>
+<td>163052</td>
+<td>511264</td>
+<td>588650</td>
+<td>156825</td>
+</tr>
+<tr>
+<td>31294</td>
+<td>28780</td>
+<td>27343</td>
+<td>49051</td>
+<td>31607</td>
+<td>21607</td>
+<td>117889</td>
+<td>32249</td>
+<td>30792</td>
+<td>42828</td>
+<td>25988</td>
+</tr>
+<tr>
+<td>31294</td>
+<td>28780</td>
+<td>27343</td>
+<td>49051</td>
+<td>31607</td>
+<td>21607</td>
+<td>117889</td>
+<td>32249</td>
+<td>30792</td>
+<td>42828</td>
+<td>25988</td>
+</tr>
+<tr>
+<td>30874</td>
+<td>28360</td>
+<td>26713</td>
+<td>48191</td>
+<td>30696</td>
+<td>21387</td>
+<td>41312</td>
+<td>32219</td>
+<td>30362</td>
+<td>37060</td>
+<td>25988</td>
+</tr>
+<tr>
+<td>420</td>
+<td>420</td>
+<td>630</td>
+<td>860</td>
+<td>911</td>
+<td>220</td>
+<td>76577</td>
+<td>30</td>
+<td>430</td>
+<td>5768</td>
+<td>0</td>
+</tr>
+<tr>
+<td>34934</td>
+<td>33387</td>
+<td>91148</td>
+<td>217042</td>
+<td>50323</td>
+<td>61677</td>
+<td>181467</td>
+<td>113307</td>
+<td>58679</td>
+<td>357956</td>
+<td>51360</td>
+</tr>
+<tr>
+<td>34934</td>
+<td>33387</td>
+<td>91148</td>
+<td>217042</td>
+<td>50323</td>
+<td>61677</td>
+<td>181467</td>
+<td>113307</td>
+<td>58679</td>
+<td>357956</td>
+<td>51360</td>
+</tr>
+<tr>
+<td>34934</td>
+<td>33387</td>
+<td>90678</td>
+<td>217042</td>
+<td>50323</td>
+<td>61677</td>
+<td>181467</td>
+<td>113307</td>
+<td>57164</td>
+<td>356996</td>
+<td>49478</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>470</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1515</td>
+<td>960</td>
+<td>1882</td>
+</tr>
+<tr>
+<td>26173</td>
+<td>27965</td>
+<td>49055</td>
+<td>310578</td>
+<td>6348</td>
+<td>30475</td>
+<td>372449</td>
+<td>2400</td>
+<td>204154</td>
+<td>83849</td>
+<td>2100</td>
+</tr>
+<tr>
+<td>26173</td>
+<td>27965</td>
+<td>49055</td>
+<td>310578</td>
+<td>6348</td>
+<td>30475</td>
+<td>372449</td>
+<td>2400</td>
+<td>204154</td>
+<td>83849</td>
+<td>2100</td>
+</tr>
+<tr>
+<td>7277</td>
+<td>4416</td>
+<td>28182</td>
+<td>101212</td>
+<td>4681</td>
+<td>18829</td>
+<td>10586</td>
+<td>1550</td>
+<td>51181</td>
+<td>29876</td>
+<td>1220</td>
+</tr>
+<tr>
+<td>350</td>
+<td>0</td>
+<td>0</td>
+<td>2600</td>
+<td>700</td>
+<td>0</td>
+<td>3000</td>
+<td>0</td>
+<td>0</td>
+<td>3000</td>
+<td>180</td>
+</tr>
+<tr>
+<td>18546</td>
+<td>23549</td>
+<td>20873</td>
+<td>206766</td>
+<td>967</td>
+<td>11646</td>
+<td>358863</td>
+<td>850</td>
+<td>152973</td>
+<td>50973</td>
+<td>700</td>
+</tr>
+<tr>
+<td>925</td>
+<td>0</td>
+<td>360</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>925</td>
+<td>0</td>
+<td>360</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>925</td>
+<td>0</td>
+<td>360</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>25974</td>
+<td>30600</td>
+<td>242266</td>
+<td>282921</td>
+<td>6838</td>
+<td>99675</td>
+<td>100054</td>
+<td>15096</td>
+<td>217639</td>
+<td>99449</td>
+<td>77377</td>
+</tr>
+<tr>
+<td>25974</td>
+<td>30600</td>
+<td>242266</td>
+<td>282921</td>
+<td>6838</td>
+<td>99675</td>
+<td>100054</td>
+<td>15096</td>
+<td>217639</td>
+<td>99449</td>
+<td>77377</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>140068</td>
+<td>0</td>
+<td>6645</td>
+<td>0</td>
+<td>15096</td>
+<td>0</td>
+<td>90411</td>
+<td>0</td>
+</tr>
+<tr>
+<td>25000</td>
+<td>30600</td>
+<td>242266</td>
+<td>142853</td>
+<td>6838</td>
+<td>93030</td>
+<td>100054</td>
+<td>0</td>
+<td>217639</td>
+<td>9038</td>
+<td>77377</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>42063</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>353618</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>42063</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>353618</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>42063</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>353618</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td>4568</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td>4568</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td>4568</td>
+<td>0</td>
+</tr>
+<tr>
+<td>-60951</td>
+<td>-64132</td>
+<td>-286948</td>
+<td>-583851</td>
+<td>-21548</td>
+<td>-127775</td>
+<td>-484091</td>
+<td>-22091</td>
+<td>-416114</td>
+<td>-159958</td>
+<td>-83365</td>
+</tr>
+<tr>
+<td>60951</td>
+<td>64132</td>
+<td>286948</td>
+<td>583851</td>
+<td>21548</td>
+<td>127775</td>
+<td>484091</td>
+<td>22091</td>
+<td>416314</td>
+<td>159958</td>
+<td>83365</td>
+</tr>
+<tr>
+<td>60353</td>
+<td>63041</td>
+<td>283758</td>
+<td>580896</td>
+<td>20909</td>
+<td>126129</td>
+<td>475557</td>
+<td>19303</td>
+<td>411946</td>
+<td>154003</td>
+<td>83365</td>
+</tr>
+<tr>
+<td>60353</td>
+<td>63041</td>
+<td>283758</td>
+<td>580896</td>
+<td>20909</td>
+<td>126129</td>
+<td>475557</td>
+<td>19303</td>
+<td>411946</td>
+<td>154003</td>
+<td>83365</td>
+</tr>
+<tr>
+<td>60353</td>
+<td>63041</td>
+<td>283758</td>
+<td>580896</td>
+<td>20909</td>
+<td>126129</td>
+<td>475557</td>
+<td>19303</td>
+<td>411946</td>
+<td>154003</td>
+<td>83365</td>
+</tr>
+<tr>
+<td>598</td>
+<td>1091</td>
+<td>3190</td>
+<td>2955</td>
+<td>675</td>
+<td>1646</td>
+<td>8534</td>
+<td>2788</td>
+<td>4368</td>
+<td>5955</td>
+<td>0</td>
 </tr>
 </table>
 
