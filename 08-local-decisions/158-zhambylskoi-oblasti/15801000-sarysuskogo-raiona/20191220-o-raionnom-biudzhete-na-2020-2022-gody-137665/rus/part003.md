@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137665/rus/28.04.2020
+source: https://zan.gov.kz/client/#!/doc/137665/rus/24.06.2020
 ---
 
 > *Приложение 3 к решению Сарысуского районного маслихата от 20 декабря 2019 года № 66-2*
