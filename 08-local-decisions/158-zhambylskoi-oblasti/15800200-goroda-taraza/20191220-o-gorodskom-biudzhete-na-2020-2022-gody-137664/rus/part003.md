@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137664/rus/28.04.2020
+source: https://zan.gov.kz/client/#!/doc/137664/rus/24.06.2020
 ---
 
 ## Бюджет города Тараз на 2022 год
