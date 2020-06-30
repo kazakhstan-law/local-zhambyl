@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
+source: https://zan.gov.kz/client/#!/doc/137623/kaz/30.06.2020
 ---
 
 > *Талас ауданы мәслихатының*  
@@ -9,14 +9,14 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 
 ## 2020 жылға арналған Көктал ауылдық округінің бюджеті
 
-> *Ескерту. 12 - қосымша жаңа редакцияда - Жамбыл облысы Талас аудандық мәслихатының 23.04.2020 № 72-2 (01.01.2020 қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 12-қосымша жаңа редакцияда - Жамбыл облысы Талас аудандық мәслихатының 23.04.2020 № 72-2 (01.01.2020 қолданысқа енгізіледі) шешімімен; жаңа редакцияда - Жамбыл облысы Талас аудандық мәслихатының 30.06.2020 № 75-6 (01.01.2020 қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td colspan="2">Санаты</td>
 <td></td>
 <td></td>
-<td rowspan="4">Соммасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -38,84 +38,91 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3"></td>
 <td>1.КІРІСТЕР</td>
-<td>76 796</td>
+<td>75 956</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>661</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Табыс салығы</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Жеке табыс салығы</td>
-<td>3</td>
+<td>451</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>658</td>
+<td>451</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>14</td>
+<td>8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>26</td>
+<td>20</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>618</td>
+<td>423</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Салықтық емес түсiмдер</td>
+<td>210</td>
+</tr>
+<tr>
+<td></td>
+<td>06</td>
+<td></td>
+<td>Басқа да салықтық емес түсiмдер</td>
+<td>210</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Басқа да салықтық емес түсiмдер</td>
+<td>210</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>76 135</td>
+<td>75 295</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>76 135</td>
+<td>75 295</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандық бюджеттен түсетiн трансферттер</td>
-<td>76 135</td>
+<td>75 295</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td colspan="2" rowspan="6">Соммасы, мың теңге</td>
+<td colspan="2" rowspan="6">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -152,56 +159,56 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td colspan="2">76 796</td>
+<td colspan="2">75 956</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">28 346</td>
+<td colspan="2">28 906</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">28 346</td>
+<td colspan="2">28 906</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">27 948</td>
+<td colspan="2">28 268</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">398</td>
+<td colspan="2">638</td>
 </tr>
 <tr>
 <td>04</td>
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td colspan="2">46 779</td>
+<td colspan="2">45 379</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">46 779</td>
+<td colspan="2">45 379</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>004</td>
 <td>Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td colspan="2">46 779</td>
+<td colspan="2">45 379</td>
 </tr>
 <tr>
 <td>07</td>
@@ -262,7 +269,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -311,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -360,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -445,7 +452,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -494,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -550,7 +557,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -584,14 +591,14 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 
 ## 2020 жылға арналған Қасқабұлақ ауылдық округінің бюджеті
 
-> *Ескерту. 13 - қосымша жаңа редакцияда - Жамбыл облысы Талас аудандық мәслихатының 23.04.2020 № 72-2 (01.01.2020 қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 13-қосымша жаңа редакцияда - Жамбыл облысы Талас аудандық мәслихатының 23.04.2020 № 72-2 (01.01.2020 қолданысқа енгізіледі) шешімімен; жаңа редакцияда - Жамбыл облысы Талас аудандық мәслихатының 30.06.2020 № 75-6 (01.01.2020 қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td colspan="2">Санаты</td>
 <td></td>
 <td></td>
-<td rowspan="4">Соммасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -620,49 +627,56 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
-<td>1 147</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Табыс салығы</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Жеке табыс салығы</td>
-<td>2</td>
+<td>970</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>1 145</td>
+<td>970</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>4</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>14</td>
+<td>10</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>1 127</td>
+<td>957</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Салықтық емес түсiмдер</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td>06</td>
+<td></td>
+<td>Басқа да салықтық емес түсiмдер</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Басқа да салықтық емес түсiмдер</td>
+<td>177</td>
 </tr>
 <tr>
 <td>4</td>
@@ -690,7 +704,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td colspan="2" rowspan="6">Соммасы, мың теңге</td>
+<td colspan="2" rowspan="6">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -816,7 +830,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -865,7 +879,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -914,7 +928,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -949,7 +963,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td></td>
+<td>Сомасы, мың теңге</td>
 <td></td>
 </tr>
 <tr>
@@ -999,7 +1013,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1048,7 +1062,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1104,7 +1118,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1138,14 +1152,14 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 
 ## 2020 жылға арналған Тамды ауылдық округінің бюджеті
 
-> *Ескерту. 14 - қосымша жаңа редакцияда - Жамбыл облысы Талас аудандық мәслихатының 23.04.2020 № 72-2 (01.01.2020 қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 14-қосымша жаңа редакцияда - Жамбыл облысы Талас аудандық мәслихатының 23.04.2020 № 72-2 (01.01.2020 қолданысқа енгізіледі) шешімімен; жаңа редакцияда - Жамбыл облысы Талас аудандық мәслихатының 30.06.2020 № 75-6 (01.01.2020 қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td colspan="2">Санаты</td>
 <td></td>
 <td></td>
-<td rowspan="4">Соммасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1167,7 +1181,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3"></td>
 <td>1.КІРІСТЕР</td>
-<td>91 884</td>
+<td>95 464</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1181,70 +1195,70 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
-<td>7</td>
+<td>180</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
-<td>7</td>
+<td>180</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>1 715</td>
+<td>1 542</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Мүлiкке салынатын салықтар</td>
-<td>11</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
-<td>80</td>
+<td>67</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Көлiк құралдарына салынатын салық</td>
-<td>1 624</td>
+<td>1 469</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>90 162</td>
+<td>93 742</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>90 162</td>
+<td>93 742</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандық бюджеттен түсетiн трансферттер</td>
-<td>90 162</td>
+<td>93 742</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td colspan="2" rowspan="6">Соммасы, мың теңге</td>
+<td colspan="2" rowspan="6">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1281,28 +1295,28 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td colspan="2">125 884</td>
+<td colspan="2">129 464</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">83 992</td>
+<td colspan="2">87 572</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">83 992</td>
+<td colspan="2">87 572</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">83 092</td>
+<td colspan="2">86 672</td>
 </tr>
 <tr>
 <td></td>
@@ -1405,7 +1419,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1454,7 +1468,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1503,7 +1517,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1588,7 +1602,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1637,7 +1651,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 </tr>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -1693,7 +1707,7 @@ source: https://zan.gov.kz/client/#!/doc/137623/kaz/23.04.2020
 <tr>
 <td colspan="3">Санаты</td>
 <td></td>
-<td colspan="2">Соммасы, мың теңге</td>
+<td colspan="2">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
