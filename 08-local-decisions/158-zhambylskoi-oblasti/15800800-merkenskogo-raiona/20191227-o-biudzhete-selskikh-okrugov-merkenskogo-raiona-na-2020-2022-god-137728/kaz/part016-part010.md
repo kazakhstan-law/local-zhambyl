@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137728/kaz/24.04.2020
+source: https://zan.gov.kz/client/#!/doc/137728/kaz/08.07.2020
 ---
 
 ## 2022 жылға арналған Жаңатоған ауылдық округінің бюджеті

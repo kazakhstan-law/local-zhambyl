@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137728/rus/24.04.2020
+source: https://zan.gov.kz/client/#!/doc/137728/rus/08.07.2020
 ---
 
 ## Бюджет Андас батырского сельского округа на 2021 год
