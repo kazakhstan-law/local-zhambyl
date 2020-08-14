@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137463/kaz/19.06.2020
+source: https://zan.gov.kz/client/#!/doc/137463/kaz/14.08.2020
 ---
 
 > *Жамбыл аудандық мәслихатының*  
