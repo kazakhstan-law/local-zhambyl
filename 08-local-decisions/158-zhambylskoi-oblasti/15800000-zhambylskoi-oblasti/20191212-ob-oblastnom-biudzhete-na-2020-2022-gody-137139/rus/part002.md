@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137139/rus/13.08.2020
+source: https://zan.gov.kz/client/#!/doc/137139/rus/15.10.2020
 ---
 
 > *Аппарат*  
