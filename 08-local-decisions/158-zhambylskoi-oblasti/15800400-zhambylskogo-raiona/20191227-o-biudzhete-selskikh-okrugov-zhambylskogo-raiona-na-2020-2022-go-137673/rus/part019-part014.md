@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137673/rus/01.09.2020
+source: https://zan.gov.kz/client/#!/doc/137673/rus/30.10.2020
 ---
 
 ## Бюджет Карасуского сельского округа на 2022 год
