@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138377/kaz/10.09.2020
+source: https://zan.gov.kz/client/#!/doc/138377/kaz/03.11.2020
 ---
 
 ## 2022 жылға арналған Қордай ауылдық округінің бюджеті
