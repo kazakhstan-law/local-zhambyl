@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137998/kaz/04.11.2020
+source: https://zan.gov.kz/client/#!/doc/137998/kaz/10.12.2020
 ---
 
 ## 2021 жылға арналған Тасөткел ауылдық округінің бюджеті
