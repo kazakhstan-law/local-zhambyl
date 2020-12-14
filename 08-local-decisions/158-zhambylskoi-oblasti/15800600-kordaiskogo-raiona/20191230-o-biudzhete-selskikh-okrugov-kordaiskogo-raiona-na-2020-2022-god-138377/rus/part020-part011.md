@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/138377/rus/03.11.2020
+source: https://zan.gov.kz/client/#!/doc/138377/rus/14.12.2020
 ---
 
 ## О бюджете Кордайского сельского округа на 2021 год
