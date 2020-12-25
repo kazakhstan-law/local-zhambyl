@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137139/kaz/30.11.2020
+source: https://zan.gov.kz/client/#!/doc/137139/kaz/25.12.2020
 ---
 
 > *Жамбыл облыстық мәслихатының аппараты*  
