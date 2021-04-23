@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151458/kaz/28.12.2020
+source: https://zan.gov.kz/client/#!/doc/151458/kaz/23.04.2021
 ---
 
 ## 2022 жылға арналған Тамды ауылдық округінің бюджеті
