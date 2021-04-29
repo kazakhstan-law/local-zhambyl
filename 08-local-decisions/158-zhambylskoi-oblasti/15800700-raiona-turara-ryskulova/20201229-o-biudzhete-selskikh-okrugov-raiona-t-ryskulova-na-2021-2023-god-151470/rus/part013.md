@@ -3,13 +3,19 @@ part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 ---
 
-## Бюджет сельского округа Кайынды на 2022 год
+> *Приложение 13 к решению*  
+> *маслихата района Т.Рыскулова*  
+> *№65-4 от 29 декабря 2020 года*
+
+## Бюджет сельского округа Кайынды на 2021 год
+
+> *Сноска. Приложение 13 в редакции решения маслихата района Т. Рыскулова Жамбылской области от 29.04.2021 № 5-4 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
 <td colspan="3">Категория</td>
 <td></td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -19,7 +25,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td>Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -30,77 +43,77 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <tr>
 <td colspan="3"></td>
 <td>1.Доходы</td>
-<td>29842</td>
+<td>50358</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>1880</td>
+<td>1777</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>16</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>16</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>1864</td>
+<td>1777</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Hалоги на имущество</td>
-<td>43</td>
+<td>45</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Земельный налог</td>
-<td>180</td>
+<td>191</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Hалог на транспортные средства</td>
-<td>1641</td>
+<td>1541</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>27962</td>
+<td>48581</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>27962</td>
+<td>48581</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>27962</td>
+<td>48581</td>
 </tr>
 </table>
 
@@ -144,70 +157,77 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="2">2. Расходы</td>
-<td>29842</td>
+<td>50654</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>23808</td>
+<td>22947</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>23808</td>
+<td>22947</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>23808</td>
+<td>22767</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>022</td>
+<td colspan="2">Капитальные затраты государственного органа</td>
+<td>180</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>4463</td>
+<td>26136</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>4463</td>
+<td>26136</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
-<td>2981</td>
+<td>1864</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>009</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>600</td>
+<td>200</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>454</td>
+<td>23645</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>014</td>
 <td colspan="2">Организация водоснабжения населенных пунктов</td>
-<td>428</td>
+<td>427</td>
 </tr>
 <tr>
 <td>13</td>
@@ -232,6 +252,12 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td></td>
 <td colspan="4">Администратор бюджетных программ</td>
 <td></td>
 </tr>
@@ -239,13 +265,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="3">Программа</td>
-<td rowspan="2">Сумма тысяч тенге</td>
+<td>Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Наименование</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -267,6 +294,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td>0</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
 <td colspan="5">Категория</td>
 <td></td>
 </tr>
@@ -274,12 +308,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td colspan="2">Класс</td>
 <td colspan="2"></td>
-<td rowspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -295,6 +330,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td colspan="4">Администратор бюджетных программ</td>
 <td></td>
 </tr>
@@ -302,13 +344,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="3">Программа</td>
-<td rowspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Наименование</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -320,14 +363,21 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="2">5. Дефицит бюджета (профицит)</td>
-<td>0</td>
+<td>-296</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">6. Финансирование дефицита бюджета (использование профицита)</td>
-<td>0</td>
+<td>296</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">Категория</td>
@@ -343,7 +393,8 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -373,6 +424,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td colspan="4">Администратор бюджетных программ</td>
 <td></td>
 </tr>
@@ -380,13 +438,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="3">Программа</td>
-<td rowspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Наименование</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -415,6 +474,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td>0</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
 <td colspan="3">Категория</td>
 <td colspan="2"></td>
 <td></td>
@@ -423,12 +489,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td colspan="2">Класс</td>
 <td colspan="2"></td>
-<td rowspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -440,17 +507,23 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>296</td>
 </tr>
 </table>
 
-## Бюджет сельского округа Корагаты на 2022 год
+> *Приложение 14 к решению*  
+> *маслихата района Т.Рыскулова*  
+> *№65-4 от 29 декабря 2020 года*
+
+## Бюджет сельского округа Корагаты на 2021 год
+
+> *Сноска. Приложение 14 в редакции решения маслихата района Т. Рыскулова Жамбылской области от 29.04.2021 № 5-4 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
 <td colspan="3">Категория</td>
 <td></td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -460,7 +533,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td>Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -471,14 +551,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <tr>
 <td colspan="3"></td>
 <td>1.Доходы</td>
-<td>21673</td>
+<td>22096</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>1371</td>
+<td>1169</td>
 </tr>
 <tr>
 <td></td>
@@ -499,7 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td>04</td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>1371</td>
+<td>1169</td>
 </tr>
 <tr>
 <td></td>
@@ -513,35 +593,35 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td>3</td>
 <td>Земельный налог</td>
-<td>153</td>
+<td>134</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Hалог на транспортные средства</td>
-<td>1183</td>
+<td>1000</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>20302</td>
+<td>20927</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>20302</td>
+<td>20927</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>20302</td>
+<td>20927</td>
 </tr>
 </table>
 
@@ -585,49 +665,49 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="2">2. Расходы</td>
-<td>21673</td>
+<td>22349</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>19199</td>
+<td>19066</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>19199</td>
+<td>19066</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>19199</td>
+<td>19066</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>1131</td>
+<td>1940</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>1131</td>
+<td>1940</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
-<td>496</td>
+<td>1541</td>
 </tr>
 <tr>
 <td></td>
@@ -641,7 +721,7 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td>011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>435</td>
+<td>199</td>
 </tr>
 <tr>
 <td></td>
@@ -673,6 +753,12 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td></td>
 <td colspan="4">Администратор бюджетных программ</td>
 <td></td>
 </tr>
@@ -680,13 +766,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="3">Программа</td>
-<td rowspan="2">Сумма тысяч тенге</td>
+<td>Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Наименование</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -708,6 +795,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td>0</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
 <td colspan="5">Категория</td>
 <td></td>
 </tr>
@@ -715,12 +809,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td colspan="2">Класс</td>
 <td colspan="2"></td>
-<td rowspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -736,6 +831,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td colspan="4">Администратор бюджетных программ</td>
 <td></td>
 </tr>
@@ -743,13 +845,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="3">Программа</td>
-<td rowspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Наименование</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -761,14 +864,21 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="2">5. Дефицит бюджета (профицит)</td>
-<td>0</td>
+<td>-253</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">6. Финансирование дефицита бюджета (использование профицита)</td>
-<td>0</td>
+<td>253</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">Категория</td>
@@ -784,7 +894,8 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -814,6 +925,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td colspan="4">Администратор бюджетных программ</td>
 <td></td>
 </tr>
@@ -821,13 +939,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="3">Программа</td>
-<td rowspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Наименование</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -856,6 +975,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td>0</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
 <td colspan="3">Категория</td>
 <td colspan="2"></td>
 <td></td>
@@ -864,12 +990,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td colspan="2">Класс</td>
 <td colspan="2"></td>
-<td rowspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -881,17 +1008,23 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>253</td>
 </tr>
 </table>
 
-## Бюджет сельского округа Акниет на 2022 год
+> *Приложение 15 к решению*  
+> *маслихата района Т.Рыскулова*  
+> *№65-4 от 29 декабря 2020 года*
+
+## Бюджет сельского округа Акниет на 2021 год
+
+> *Сноска. Приложение 15 в редакции решения маслихата района Т. Рыскулова Жамбылской области от 29.04.2021 № 5-4 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
 <td colspan="3">Категория</td>
 <td></td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="5">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -901,7 +1034,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td>Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -912,77 +1052,77 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <tr>
 <td colspan="3"></td>
 <td>1.Доходы</td>
-<td>34132</td>
+<td>22855</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>1912</td>
+<td>1765</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>15</td>
+<td>36</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>15</td>
+<td>36</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Hалоги на собственность</td>
-<td>1897</td>
+<td>1729</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Hалоги на имущество</td>
-<td>26</td>
+<td>29</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Земельный налог</td>
-<td>42</td>
+<td>59</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Hалог на транспортные средства</td>
-<td>1829</td>
+<td>1641</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>32220</td>
+<td>21090</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>32220</td>
+<td>21090</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>32220</td>
+<td>21090</td>
 </tr>
 </table>
 
@@ -1026,63 +1166,63 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="2">2. Расходы</td>
-<td>34132</td>
+<td>22999</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>19341</td>
+<td>19291</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>19341</td>
+<td>19291</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>19341</td>
+<td>19291</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>13747</td>
+<td>2664</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>13747</td>
+<td>2664</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
-<td>4432</td>
+<td>827</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>009</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>200</td>
+<td>132</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>9115</td>
+<td>1705</td>
 </tr>
 <tr>
 <td></td>
@@ -1114,6 +1254,12 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td></td>
 <td colspan="4">Администратор бюджетных программ</td>
 <td></td>
 </tr>
@@ -1121,13 +1267,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="3">Программа</td>
-<td rowspan="2">Сумма тысяч тенге</td>
+<td>Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Наименование</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -1149,6 +1296,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td>0</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
 <td colspan="5">Категория</td>
 <td></td>
 </tr>
@@ -1156,12 +1310,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td colspan="2">Класс</td>
 <td colspan="2"></td>
-<td rowspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -1177,6 +1332,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td colspan="4">Администратор бюджетных программ</td>
 <td></td>
 </tr>
@@ -1184,13 +1346,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="3">Программа</td>
-<td rowspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Наименование</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -1202,14 +1365,21 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="2">5. Дефицит бюджета (профицит)</td>
-<td>0</td>
+<td>-144</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">6. Финансирование дефицита бюджета (использование профицита)</td>
-<td>0</td>
+<td>144</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">Категория</td>
@@ -1225,7 +1395,8 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -1255,6 +1426,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td colspan="4">Администратор бюджетных программ</td>
 <td></td>
 </tr>
@@ -1262,13 +1440,14 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="3">Программа</td>
-<td rowspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Наименование</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -1297,6 +1476,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td>0</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
 <td colspan="3">Категория</td>
 <td colspan="2"></td>
 <td></td>
@@ -1305,12 +1491,13 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td colspan="2">Класс</td>
 <td colspan="2"></td>
-<td rowspan="2">Сумма, тысяч тенге</td>
+<td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="3">1</td>
@@ -1322,6 +1509,6 @@ source: https://zan.gov.kz/client/#!/doc/151470/rus/29.04.2021
 <td></td>
 <td></td>
 <td colspan="2">Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>144</td>
 </tr>
 </table>
