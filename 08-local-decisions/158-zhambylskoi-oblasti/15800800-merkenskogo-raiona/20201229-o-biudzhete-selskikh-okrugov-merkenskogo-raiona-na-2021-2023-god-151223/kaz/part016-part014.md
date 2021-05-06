@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151223/kaz/29.12.2020
+source: https://zan.gov.kz/client/#!/doc/151223/kaz/06.05.2021
 ---
 
 ## 2023 жылға арналған Аспара ауылдық округінің бюджеті
