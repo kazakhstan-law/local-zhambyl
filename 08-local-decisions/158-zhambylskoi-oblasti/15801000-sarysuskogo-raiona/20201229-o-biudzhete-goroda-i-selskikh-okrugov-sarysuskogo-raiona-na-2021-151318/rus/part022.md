@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
+source: https://zan.gov.kz/client/#!/doc/151318/rus/01.07.2021
 ---
 
 > *Приложение 8-1 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 
 ## Бюджет аппарата акима Туркестанского сельского округа на 2021 год
 
-> *Сноска. Приложение 8-1 в редакции решения Сарысуского районного маслихата Жамбылской области от 27.04.2021 № 6-2 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 8-1 в редакции решения Сарысуского районного маслихата Жамбылской области от 27.04.2021 № 6-2 (вводится в действие с 01.01.2021); в редакции решения Сарысуского районного маслихата Жамбылской области от 01.07.2021 № 9-7 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -37,35 +37,21 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>80081</td>
+<td>77188</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Налоговые поступления</td>
-<td>1177</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">01</td>
-<td></td>
-<td colspan="3">Подоходный налог</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td>2</td>
-<td colspan="3">Индивидуальный подоходный налог</td>
-<td>0</td>
+<td>1657</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td></td>
 <td colspan="3">Hалоги на собственность</td>
-<td>1177</td>
+<td>1657</td>
 </tr>
 <tr>
 <td></td>
@@ -86,28 +72,28 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td>1020</td>
+<td>1500</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>78904</td>
+<td>75531</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>78904</td>
+<td>75531</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>78904</td>
+<td>75531</td>
 </tr>
 </table>
 
@@ -137,28 +123,28 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td colspan="2">83051</td>
+<td colspan="2">80158</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">20219</td>
+<td colspan="2">20276</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">20219</td>
+<td colspan="2">20276</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">19469</td>
+<td colspan="2">19526</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -172,21 +158,21 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">32529</td>
+<td colspan="2">29579</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">32529</td>
+<td colspan="2">29579</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">14755</td>
+<td colspan="2">15235</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -200,7 +186,7 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">16324</td>
+<td colspan="2">12894</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -825,7 +811,7 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 
 ## Бюджет аппарата акима Досболского сельского округа на 2021 год
 
-> *Сноска. Приложение 9-1 в редакции решения Сарысуского районного маслихата Жамбылской области от 27.04.2021 № 6-2 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 9-1 в редакции решения Сарысуского районного маслихата Жамбылской области от 27.04.2021 № 6-2 (вводится в действие с 01.01.2021); в редакции решения Сарысуского районного маслихата Жамбылской области от 01.07.2021 № 9-7 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -853,35 +839,21 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>56166</td>
+<td>51932</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Налоговые поступления</td>
-<td>503</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">01</td>
-<td></td>
-<td colspan="3">Подоходный налог</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td>2</td>
-<td colspan="3">Индивидуальный подоходный налог</td>
-<td>0</td>
+<td>593</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td></td>
 <td colspan="3">Hалоги на собственность</td>
-<td>503</td>
+<td>593</td>
 </tr>
 <tr>
 <td></td>
@@ -902,28 +874,28 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td>465</td>
+<td>555</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>55663</td>
+<td>51339</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>55663</td>
+<td>51339</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>55663</td>
+<td>51339</td>
 </tr>
 </table>
 
@@ -953,49 +925,49 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td colspan="2">56857</td>
+<td colspan="2">52623</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">17499</td>
+<td colspan="2">17349</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">17499</td>
+<td colspan="2">17349</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">17499</td>
+<td colspan="2">17349</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">24338</td>
+<td colspan="2">20254</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">24338</td>
+<td colspan="2">20254</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">2208</td>
+<td colspan="2">2298</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1009,7 +981,7 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">20676</td>
+<td colspan="2">16502</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -1662,7 +1634,7 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 
 ## Бюджет аппарата акима Камкалинского сельского округа на 2021 год
 
-> *Сноска. Приложение 10-1 в редакции решения Сарысуского районного маслихата Жамбылской области от 27.04.2021 № 6-2 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 10-1 в редакции решения Сарысуского районного маслихата Жамбылской области от 27.04.2021 № 6-2 (вводится в действие с 01.01.2021); в редакции решения Сарысуского районного маслихата Жамбылской области от 01.07.2021 № 9-7 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -1690,35 +1662,21 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>42674</td>
+<td>40185</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Налоговые поступления</td>
-<td>415</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">01</td>
-<td></td>
-<td colspan="3">Подоходный налог</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td>2</td>
-<td colspan="3">Индивидуальный подоходный налог</td>
-<td>0</td>
+<td>915</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td></td>
 <td colspan="3">Hалоги на собственность</td>
-<td>415</td>
+<td>915</td>
 </tr>
 <tr>
 <td></td>
@@ -1739,28 +1697,28 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td>382</td>
+<td>882</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>42259</td>
+<td>39270</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>42259</td>
+<td>39270</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>42259</td>
+<td>39270</td>
 </tr>
 <tr>
 <td colspan="6"></td>
@@ -1791,28 +1749,28 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td colspan="2">43672</td>
+<td colspan="2">41183</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">17408</td>
+<td colspan="2">17258</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">17408</td>
+<td colspan="2">17258</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">17317</td>
+<td colspan="2">17167</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1826,21 +1784,21 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">26264</td>
+<td colspan="2">23925</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">26264</td>
+<td colspan="2">23925</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">6901</td>
+<td colspan="2">6222</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1854,7 +1812,7 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">17913</td>
+<td colspan="2">16253</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -1945,7 +1903,7 @@ source: https://zan.gov.kz/client/#!/doc/151318/rus/27.04.2021
 <td></td>
 <td colspan="2">01</td>
 <td>Остатки бюджетных средств на конец отчетного периода</td>
-<td>998</td>
+<td colspan="2">998</td>
 </tr>
 </table>
 
