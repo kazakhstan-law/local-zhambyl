@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/150646/kaz/23.04.2021
+source: https://zan.gov.kz/client/#!/doc/150646/kaz/03.07.2021
 ---
 
 ## 2022 жылға арналған Төлеби ауылдық округінің бюджеті
