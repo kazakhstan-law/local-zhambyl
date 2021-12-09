@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151458/rus/12.10.2021
+source: https://zan.gov.kz/client/#!/doc/151458/rus/09.12.2021
 ---
 
 ## Бюджет города Каратау на 2022 год
