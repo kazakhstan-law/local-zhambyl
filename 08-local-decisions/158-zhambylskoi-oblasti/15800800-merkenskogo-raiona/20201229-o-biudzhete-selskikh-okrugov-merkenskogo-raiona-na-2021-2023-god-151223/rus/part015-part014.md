@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151223/rus/18.10.2021
+source: https://zan.gov.kz/client/#!/doc/151223/rus/10.12.2021
 ---
 
 ## Бюджет Аспаринского сельского округа на 2022 год
