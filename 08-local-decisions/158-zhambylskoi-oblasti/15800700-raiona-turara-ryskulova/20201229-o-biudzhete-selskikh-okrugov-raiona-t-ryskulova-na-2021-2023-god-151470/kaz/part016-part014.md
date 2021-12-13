@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151470/kaz/11.10.2021
+source: https://zan.gov.kz/client/#!/doc/151470/kaz/13.12.2021
 ---
 
 ## 2022 жылға арналған Қорағаты ауылдық округінің бюджеті

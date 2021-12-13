@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/151470/rus/11.10.2021
+source: https://zan.gov.kz/client/#!/doc/151470/rus/13.12.2021
 ---
 
 ## Бюджет сельского округа Кайынды на 2022 год
