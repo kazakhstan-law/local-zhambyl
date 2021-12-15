@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/150783/rus/15.10.2021
+source: https://zan.gov.kz/client/#!/doc/150783/rus/15.12.2021
 ---
 
 > *Приложение 35 к решению*  
