@@ -1,0 +1,25 @@
+key: G21GC00142M
+akn: /akn/kz/act/2021-12-31/G21GC00142M
+act_code: '168002'
+requisite: Решение Жамбылского районного маслихата Жамбылской области от 31 декабря 2021 года № 14-2
+title:
+  rus: О бюджете сельских округов Жамбылского района на 2022-2024 годы
+  kaz: 2022-2024 жылдарға арналған Жамбыл ауданы ауылдық округтерінің бюджеттері туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2021-12-31
+in_force_from: 2022-01-01
+approved_by:
+- '158004000002'
+versions:
+- date: 2021-12-31
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2021-12-31
+  rus: 2021-12-31
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/168002/kaz/31.12.2021
+  rus: https://zan.gov.kz/client/#!/doc/168002/rus/31.12.2021
