@@ -1,18 +1,20 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
+source: https://zan.gov.kz/client/#!/doc/163719/kaz/20.04.2022
 ---
 
 > *Мойынқұм аудандық мәслихатының*  
-> *2021 жылғы 28 желтоқсандағы №14-2*  
+> *2021 жылғы 29 желтоқсандағы №14-2*  
 > *шешіміне 22 қосымша*
 
 ## 2022 жылға арналған Жамбыл ауылдық округінің бюджеті
 
+> *Ескерту. 22-қосымша жаңа редакцияда - Жамбыл облысы Мойынқұм аудандық мәслихатының 20.04.2022 № 17-2 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -23,78 +25,78 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Атауы</td>
+<td colspan="2"></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td colspan="2">4</td>
-<td colspan="2">5</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td colspan="2">41894</td>
+<td>40672</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">2198</td>
+<td>2198</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="2">2198</td>
+<td>2198</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td colspan="2">245</td>
+<td>245</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">5</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">1948</td>
+<td>1948</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">39696</td>
+<td>38474</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">39696</td>
+<td>38474</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">39696</td>
+<td>38474</td>
 </tr>
 </table>
 
@@ -130,28 +132,28 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>41894</td>
+<td>42894</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>32052</td>
+<td>33052</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>32052</td>
+<td>33052</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>31516</td>
+<td>32516</td>
 </tr>
 <tr>
 <td></td>
@@ -277,14 +279,14 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-2222</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>2222</td>
 </tr>
 <tr>
 <td></td>
@@ -301,11 +303,25 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>2222</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>2222</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>2222</td>
 </tr>
 </table>
 
@@ -922,15 +938,17 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 </table>
 
 > *Мойынқұм аудандық мәслихатының*  
-> *2021 жылғы 28 желтоқсандағы №14-2*  
+> *2021 жылғы 29 желтоқсандағы №14-2*  
 > *шешіміне 25 қосымша*
 
 ## 2022 жылға арналған Қызылотау ауылдық округінің бюджеті
 
+> *Ескерту. 25-қосымша жаңа редакцияда - Жамбыл облысы Мойынқұм аудандық мәслихатының 20.04.2022 № 17-2 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -941,78 +959,78 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Атауы</td>
+<td colspan="2"></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td colspan="2">4</td>
-<td colspan="2">5</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td colspan="2">45526</td>
+<td>45645</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">783</td>
+<td>783</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="2">783</td>
+<td>783</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td colspan="2">107</td>
+<td>107</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">3</td>
+<td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">673</td>
+<td>673</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">44743</td>
+<td>44862</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">44743</td>
+<td>44862</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">44743</td>
+<td>44862</td>
 </tr>
 </table>
 
@@ -1048,7 +1066,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>45526</td>
+<td>45966</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1083,7 +1101,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>5792</td>
+<td>6232</td>
 </tr>
 <tr>
 <td></td>
@@ -1104,7 +1122,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1656</td>
+<td>2096</td>
 </tr>
 <tr>
 <td></td>
@@ -1118,7 +1136,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>250</td>
+<td>690</td>
 </tr>
 <tr>
 <td></td>
@@ -1195,14 +1213,14 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-321</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>321</td>
 </tr>
 <tr>
 <td></td>
@@ -1219,11 +1237,25 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>321</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>321</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>321</td>
 </tr>
 </table>
 
@@ -1840,15 +1872,17 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 </table>
 
 > *Мойынқұм аудандық мәслихатының*  
-> *2021 жылғы 28 желтоқсандағы №14-2*  
+> *2021 жылғы 29 желтоқсандағы №14-2*  
 > *шешіміне 28 қосымша*
 
 ## 2022 жылға арналған Қызылтал ауылдық округінің бюджеті
 
+> *Ескерту. 28-қосымша жаңа редакцияда - Жамбыл облысы Мойынқұм аудандық мәслихатының 20.04.2022 № 17-2 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -1856,81 +1890,81 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="3">Кіші сыныбы</td>
+<td>Кіші сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Атауы</td>
+<td colspan="2"></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td colspan="2">4</td>
-<td colspan="2">5</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td colspan="2">63942</td>
+<td>63164</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">1888</td>
+<td>1888</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="2">1888</td>
+<td>1888</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td colspan="2">180</td>
+<td>180</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">2</td>
+<td>2</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">1706</td>
+<td>1706</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">62054</td>
+<td>61276</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">62054</td>
+<td>61276</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">62054</td>
+<td>61276</td>
 </tr>
 </table>
 
@@ -1966,7 +2000,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>63942</td>
+<td>64409</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2001,7 +2035,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>6808</td>
+<td>7275</td>
 </tr>
 <tr>
 <td></td>
@@ -2022,7 +2056,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2984</td>
+<td>3451</td>
 </tr>
 <tr>
 <td></td>
@@ -2036,7 +2070,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>250</td>
+<td>714</td>
 </tr>
 <tr>
 <td></td>
@@ -2134,14 +2168,14 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-1245</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1245</td>
 </tr>
 <tr>
 <td></td>
@@ -2158,11 +2192,25 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>1245</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>1245</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>1245</td>
 </tr>
 </table>
 
@@ -2779,15 +2827,17 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 </table>
 
 > *Мойынқұм аудандық мәслихатының*  
-> *2021 жылғы 28 желтоқсандағы №14-2*  
+> *2021 жылғы 29 желтоқсандағы №14-2*  
 > *шешіміне 31 қосымша*
 
 ## 2022 жылға арналған Биназар ауылдық округінің бюджеті
 
+> *Ескерту. 31-қосымша жаңа редакцияда - Жамбыл облысы Мойынқұм аудандық мәслихатының 20.04.2022 № 17-2 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -2798,78 +2848,78 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Атауы</td>
+<td colspan="2"></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td colspan="2">4</td>
-<td colspan="2">5</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td colspan="2">57376</td>
+<td>57419</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">2521</td>
+<td>2521</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="2">2521</td>
+<td>2521</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td colspan="2">213</td>
+<td>213</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">4</td>
+<td>4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">2304</td>
+<td>2304</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">54855</td>
+<td>54898</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">54855</td>
+<td>54898</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">54855</td>
+<td>54898</td>
 </tr>
 </table>
 
@@ -2905,28 +2955,28 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>57376</td>
+<td>59062</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>50468</td>
+<td>51468</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>50468</td>
+<td>51468</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>50352</td>
+<td>51352</td>
 </tr>
 <tr>
 <td></td>
@@ -2940,7 +2990,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>5450</td>
+<td>6136</td>
 </tr>
 <tr>
 <td></td>
@@ -2961,7 +3011,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2450</td>
+<td>3136</td>
 </tr>
 <tr>
 <td></td>
@@ -2975,7 +3025,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>250</td>
+<td>936</td>
 </tr>
 <tr>
 <td></td>
@@ -3052,14 +3102,14 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-1643</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1643</td>
 </tr>
 <tr>
 <td></td>
@@ -3076,11 +3126,25 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>1643</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>1643</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>1643</td>
 </tr>
 </table>
 
@@ -3697,15 +3761,17 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 </table>
 
 > *Мойынқұм аудандық мәслихатының*  
-> *2021 жылғы 28 желтоқсандағы №14-2*  
+> *2021 жылғы 29 желтоқсандағы №14-2*  
 > *шешіміне 34 қосымша*
 
 ## 2022 жылға арналған Хантау ауылдық округінің бюджеті
 
+> *Ескерту. 34-қосымша жаңа редакцияда - Жамбыл облысы Мойынқұм аудандық мәслихатының 20.04.2022 № 17-2 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -3713,81 +3779,81 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="3">Кіші сыныбы</td>
+<td>Кіші сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Атауы</td>
+<td colspan="2"></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td colspan="2">4</td>
-<td colspan="2">5</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td colspan="2">53876</td>
+<td>52644</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">1932</td>
+<td>1932</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="2">1932</td>
+<td>1932</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td colspan="2">87</td>
+<td>87</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">5</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">1840</td>
+<td>1840</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">51944</td>
+<td>50712</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">51944</td>
+<td>50712</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">51944</td>
+<td>50712</td>
 </tr>
 </table>
 
@@ -3823,7 +3889,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>53876</td>
+<td>54424</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3858,7 +3924,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>3206</td>
+<td>3754</td>
 </tr>
 <tr>
 <td></td>
@@ -3879,7 +3945,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1706</td>
+<td>2254</td>
 </tr>
 <tr>
 <td></td>
@@ -3893,7 +3959,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>250</td>
+<td>798</td>
 </tr>
 <tr>
 <td></td>
@@ -3949,14 +4015,14 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-1780</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>1780</td>
 </tr>
 <tr>
 <td></td>
@@ -3973,11 +4039,25 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>1780</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>1780</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>1780</td>
 </tr>
 </table>
 
@@ -4552,15 +4632,17 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 </table>
 
 > *Мойынқұм аудандық мәслихатының*  
-> *2021 жылғы 28 желтоқсандағы №14-2*  
+> *2021 жылғы 29 желтоқсандағы №14-2*  
 > *шешіміне 37 қосымша*
 
 ## 2022 жылға арналған Мирный ауылдық округінің бюджеті
 
+> *Ескерту. 37-қосымша жаңа редакцияда - Жамбыл облысы Мойынқұм аудандық мәслихатының 20.04.2022 № 17-2 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -4568,81 +4650,81 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="3">Кіші сыныбы</td>
+<td>Кіші сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Атауы</td>
+<td colspan="2"></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td colspan="2">4</td>
-<td colspan="2">5</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td colspan="2">49527</td>
+<td>50243</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">1539</td>
+<td>1539</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="2">1539</td>
+<td>1539</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td colspan="2">44</td>
+<td>44</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">4</td>
+<td>4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">1491</td>
+<td>1491</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">47988</td>
+<td>48704</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">47988</td>
+<td>48704</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">47988</td>
+<td>48704</td>
 </tr>
 </table>
 
@@ -4678,7 +4760,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>2. ШЫҒЫНДАР</td>
-<td>49527</td>
+<td>50374</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4713,7 +4795,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>8269</td>
+<td>9116</td>
 </tr>
 <tr>
 <td></td>
@@ -4734,7 +4816,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>1919</td>
+<td>2766</td>
 </tr>
 <tr>
 <td></td>
@@ -4748,7 +4830,7 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>250</td>
+<td>1097</td>
 </tr>
 <tr>
 <td></td>
@@ -4804,14 +4886,14 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-131</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>131</td>
 </tr>
 <tr>
 <td></td>
@@ -4828,11 +4910,25 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>131</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>131</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>131</td>
 </tr>
 </table>
 
@@ -5407,15 +5503,17 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 </table>
 
 > *Мойынқұм аудандық мәслихатының*  
-> *2021 жылғы 28 желтоқсандағы №14-2*  
+> *2021 жылғы 29 желтоқсандағы №14-2*  
 > *шешіміне 40 қосымша*
 
 ## 2022 жылға арналған Ақбақай ауылдық округінің бюджеті
 
+> *Ескерту. 40-қосымша жаңа редакцияда - Жамбыл облысы Мойынқұм аудандық мәслихатының 20.04.2022 № 17-2 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
+<td rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -5423,81 +5521,81 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="3">Кіші сыныбы</td>
+<td>Кіші сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Атауы</td>
+<td colspan="2"></td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td colspan="2">4</td>
-<td colspan="2">5</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">1. КІРІСТЕР</td>
-<td colspan="2">26744</td>
+<td>25953</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">1265</td>
+<td>1265</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="2">1265</td>
+<td>1265</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Мүлiкке салынатын салықтар</td>
-<td colspan="2">62</td>
+<td>62</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">2</td>
+<td>2</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">1201</td>
+<td>1201</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">25479</td>
+<td>24688</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">25479</td>
+<td>24688</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">25479</td>
+<td>24688</td>
 </tr>
 </table>
 
@@ -5631,14 +5729,14 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
+<td>-791</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
+<td>791</td>
 </tr>
 <tr>
 <td></td>
@@ -5655,11 +5753,25 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
+<td>791</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>791</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>791</td>
 </tr>
 </table>
 
@@ -5833,256 +5945,6 @@ source: https://zan.gov.kz/client/#!/doc/163719/kaz/28.12.2021
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
 <td>735</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>3. Таза бюджеттік кредиттеу</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттер</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджеттік кредиттерді өтеу</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>4. Қаржы активтерімен жасалынған операциялар бойынша сальдо</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Қаржы активтерін сатып алу</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>5. Бюджет тапшылығы (профициті)</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарыздар түсімі</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарыздарды өтеу</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0</td>
-</tr>
-</table>
-
-> *Мойынқұм аудандық мәслихатының*  
-> *2021 жылғы 28 желтоқсандағы №14-2*  
-> *шешіміне 42 қосымша*
-
-## 2024 жылға арналған Ақбақай ауылдық округінің бюджеті
-
-<table>
-<tr>
-<td colspan="5">Санаты</td>
-<td colspan="2" rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="4">Сыныбы</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Кіші сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Атауы</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">1. КІРІСТЕР</td>
-<td colspan="2">25320</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">1394</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="2">1394</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td colspan="2">Мүлiкке салынатын салықтар</td>
-<td colspan="2">68</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td colspan="2">Жер салығы</td>
-<td colspan="2">2</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">1324</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">23926</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td colspan="2">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">23926</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td colspan="2">23926</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Функционалдық топ</td>
-<td rowspan="4">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>2. ШЫҒЫНДАР</td>
-<td>25320</td>
-</tr>
-<tr>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>24548</td>
-</tr>
-<tr>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>24548</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>001</td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>24548</td>
-</tr>
-<tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>772</td>
-</tr>
-<tr>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>772</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>008</td>
-<td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>772</td>
 </tr>
 <tr>
 <td></td>
