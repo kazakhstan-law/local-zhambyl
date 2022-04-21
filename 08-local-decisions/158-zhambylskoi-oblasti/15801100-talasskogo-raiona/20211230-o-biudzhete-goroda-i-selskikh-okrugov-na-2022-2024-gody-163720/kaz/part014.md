@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163720/kaz/30.12.2021
+source: https://zan.gov.kz/client/#!/doc/163720/kaz/21.04.2022
 ---
 
 > *Талас аудандық мәслихатының*  
@@ -8,6 +8,8 @@ source: https://zan.gov.kz/client/#!/doc/163720/kaz/30.12.2021
 > *№19-2- шешіміне 14-қосымша*
 
 ## 2022 жылға арналған Тамды ауылдық округінің бюджеті
+
+> *Ескерту. 14-қосымша жаңа редакцияда - Жамбыл облысы Талас аудандық мәслихатының 21.04.2022 № 24-2 (01.01.2022 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -36,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/163720/kaz/30.12.2021
 <tr>
 <td colspan="3"></td>
 <td>1.КІРІСТЕР</td>
-<td>49 987</td>
+<td>62 159</td>
 </tr>
 <tr>
 <td>1</td>
@@ -71,21 +73,21 @@ source: https://zan.gov.kz/client/#!/doc/163720/kaz/30.12.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>48 196</td>
+<td>60 368</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>48 196</td>
+<td>60 368</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандық бюджеттен түсетiн трансферттер</td>
-<td>48 196</td>
+<td>60 368</td>
 </tr>
 </table>
 
@@ -129,28 +131,28 @@ source: https://zan.gov.kz/client/#!/doc/163720/kaz/30.12.2021
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td colspan="2">49 987</td>
+<td colspan="2">64 161</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">45 206</td>
+<td colspan="2">47 208</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">45 206</td>
+<td colspan="2">47 208</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">38 134</td>
+<td colspan="2">40 136</td>
 </tr>
 <tr>
 <td></td>
@@ -164,14 +166,14 @@ source: https://zan.gov.kz/client/#!/doc/163720/kaz/30.12.2021
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">4 781</td>
+<td colspan="2">16 953</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">4 781</td>
+<td colspan="2">16 953</td>
 </tr>
 <tr>
 <td></td>
@@ -185,7 +187,7 @@ source: https://zan.gov.kz/client/#!/doc/163720/kaz/30.12.2021
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">3 290</td>
+<td colspan="2">15 462</td>
 </tr>
 <tr>
 <td></td>
@@ -360,14 +362,14 @@ source: https://zan.gov.kz/client/#!/doc/163720/kaz/30.12.2021
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td colspan="2">0</td>
+<td colspan="2">2 002</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td colspan="2">0</td>
+<td colspan="2">2 002</td>
 </tr>
 <tr>
 <td></td>
@@ -508,6 +510,6 @@ source: https://zan.gov.kz/client/#!/doc/163720/kaz/30.12.2021
 <td></td>
 <td></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td colspan="2">0</td>
+<td colspan="2">2 002</td>
 </tr>
 </table>
