@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/164088/rus/30.12.2021
+source: https://zan.gov.kz/client/#!/doc/164088/rus/28.04.2022
 ---
 
 ## Бюджет сельского округа Кайынды на 2023 год

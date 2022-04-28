@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/164088/kaz/30.12.2021
+source: https://zan.gov.kz/client/#!/doc/164088/kaz/28.04.2022
 ---
 
 ## 2024 жылға арналған Қайыңды ауылдық округінің бюджеті
