@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/161857/kaz/22.06.2022
+source: https://zan.gov.kz/client/#!/doc/161857/kaz/29.07.2022
 ---
 
 # 2022-2024 жылдарға арналған облыстық бюджет туралы

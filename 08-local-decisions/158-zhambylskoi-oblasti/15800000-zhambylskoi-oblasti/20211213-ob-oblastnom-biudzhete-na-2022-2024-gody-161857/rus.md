@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/161857/rus/22.06.2022
+source: https://zan.gov.kz/client/#!/doc/161857/rus/29.07.2022
 ---
 
 # Об областном бюджете на 2022-2024 годы
