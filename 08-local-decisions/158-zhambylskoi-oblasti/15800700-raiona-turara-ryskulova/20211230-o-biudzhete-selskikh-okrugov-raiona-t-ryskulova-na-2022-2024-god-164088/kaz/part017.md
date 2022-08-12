@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/164088/kaz/13.07.2022
+source: https://zan.gov.kz/client/#!/doc/164088/kaz/12.08.2022
 ---
 
 > *Т.Рысқұлов аудандық мәслихаттың*  
