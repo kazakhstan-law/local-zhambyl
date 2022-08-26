@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/163248/kaz/15.07.2022
+source: https://zan.gov.kz/client/#!/doc/163248/kaz/26.08.2022
 ---
 
 > *Меркі аудандық мәслихатының*  
