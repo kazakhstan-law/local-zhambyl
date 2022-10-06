@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/163057/rus/11.07.2022
+source: https://zan.gov.kz/client/#!/doc/163057/rus/06.10.2022
 ---
 
 > *Приложение 45 к решению*  
