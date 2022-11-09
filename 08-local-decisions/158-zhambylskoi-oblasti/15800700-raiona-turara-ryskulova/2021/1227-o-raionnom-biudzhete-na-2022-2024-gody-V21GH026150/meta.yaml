@@ -45,17 +45,24 @@ versions:
   cause:
     code: '172501'
     key: G22GH00254M
+- date: 2022-11-09
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '173953'
+    key: G22GH00275M
 version_date:
-  kaz: 2022-09-22
-  rus: 2022-09-22
+  kaz: 2022-11-09
+  rus: 2022-11-09
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/162391/kaz/22.09.2022
-  rus: https://zan.gov.kz/client/#!/doc/162391/rus/22.09.2022
+  kaz: https://zan.gov.kz/client/#!/doc/162391/kaz/09.11.2022
+  rus: https://zan.gov.kz/client/#!/doc/162391/rus/09.11.2022
 caused_by:
-  code: '172501'
-  key: G22GH00254M
-  requisite: Решение маслихата района Т. Рыскулова Жамбылской области от 22 сентября 2022 года № 25-4
+  code: '173953'
+  key: G22GH00275M
+  requisite: Решение маслихата района Т.Рыскулова Жамбылской области от 9 ноября 2022 года № 27-5
   title:
     rus: О внесении изменений в решение маслихата района Т.Рыскулова от 27 декабря 2021 года №13-4 «О районном бюджете на 2022-2024 годы»
     kaz: Т.Рысқұлов аудандық мәслихатының 2021 жылдың 27 желтоқсандағы №13-4 «2022-2024 жылдарға арналған аудандық бюджет туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/172501/rus
+  link: https://zan.gov.kz/client/#!/doc/173953/rus
