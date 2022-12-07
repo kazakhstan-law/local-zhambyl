@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/170048/kaz/23.09.2022
+source: https://zan.gov.kz/client/#!/doc/170048/kaz/07.12.2022
 ---
 
 ## 2024 жылға арналған Өндіріс ауылдық округінің бюджеті
