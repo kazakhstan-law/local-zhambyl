@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/168002/kaz/12.10.2022
+source: https://zan.gov.kz/client/#!/doc/168002/kaz/09.12.2022
 ---
 
 ## 2024 жылға арналған Полатқосшы ауылдық округінің бюджеті
