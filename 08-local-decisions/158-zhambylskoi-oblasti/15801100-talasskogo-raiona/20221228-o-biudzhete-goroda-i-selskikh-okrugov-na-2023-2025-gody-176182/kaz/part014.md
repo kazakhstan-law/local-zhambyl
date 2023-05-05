@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176182/kaz/28.12.2022
+source: https://zan.gov.kz/client/#!/doc/176182/kaz/05.05.2023
 ---
 
 > *Талас аудандық мәслихатының*  
@@ -8,6 +8,8 @@ source: https://zan.gov.kz/client/#!/doc/176182/kaz/28.12.2022
 > *№38-2 шешіміне 14-қосымша*
 
 ## 2023 жылға арналған Тамды ауылдық округінің бюджеті
+
+> *Ескерту. 14-қосымша жаңа редакцияда - Жамбыл облысы Талас аудандық мәслихатының 05.05.2023 № 3-2 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -36,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/176182/kaz/28.12.2022
 <tr>
 <td colspan="3"></td>
 <td>1.КІРІСТЕР</td>
-<td>46 236</td>
+<td>51 736</td>
 </tr>
 <tr>
 <td>1</td>
@@ -71,21 +73,21 @@ source: https://zan.gov.kz/client/#!/doc/176182/kaz/28.12.2022
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>44 136</td>
+<td>49 636</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>44 136</td>
+<td>49 636</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандық бюджеттен түсетiн трансферттер</td>
-<td>44 136</td>
+<td>49 636</td>
 </tr>
 </table>
 
@@ -129,28 +131,28 @@ source: https://zan.gov.kz/client/#!/doc/176182/kaz/28.12.2022
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td colspan="2">46 236</td>
+<td colspan="2">52 278</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">39 580</td>
+<td colspan="2">42 622</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">39 580</td>
+<td colspan="2">42 622</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">38 412</td>
+<td colspan="2">41 254</td>
 </tr>
 <tr>
 <td></td>
@@ -164,14 +166,14 @@ source: https://zan.gov.kz/client/#!/doc/176182/kaz/28.12.2022
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">6 656</td>
+<td colspan="2">9 656</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">6 656</td>
+<td colspan="2">9 656</td>
 </tr>
 <tr>
 <td></td>
@@ -185,7 +187,7 @@ source: https://zan.gov.kz/client/#!/doc/176182/kaz/28.12.2022
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">550</td>
+<td colspan="2">3 550</td>
 </tr>
 <tr>
 <td></td>
@@ -361,14 +363,14 @@ source: https://zan.gov.kz/client/#!/doc/176182/kaz/28.12.2022
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td colspan="2">0</td>
+<td colspan="2">542</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td colspan="2">0</td>
+<td colspan="2">542</td>
 </tr>
 <tr>
 <td></td>
@@ -510,5 +512,191 @@ source: https://zan.gov.kz/client/#!/doc/176182/kaz/28.12.2022
 <td></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
 <td colspan="2">0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="4">Функционалдық топ</td>
+<td>Сомасы, мың теңге</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>5. Бюджет тапшылығы (профициті)</td>
+<td colspan="2">542</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td colspan="2">542</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Санаты</td>
+<td></td>
+<td colspan="2">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Сыныбы</td>
+<td>Атауы</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Ішкі сыныбы</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td></td>
+<td>Қарыздар түсімі</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Мемлекеттік ішкі қарыздар</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Қарыз алу келісім-шарттары</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4">Функционалдық топ</td>
+<td colspan="2">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td>16</td>
+<td></td>
+<td></td>
+<td>Қарыздарды өтеу</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td>452</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>008</td>
+<td>Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
+<td colspan="2">0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">Санаты</td>
+<td></td>
+<td colspan="2">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Сыныбы</td>
+<td>Атауы</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Ішкі сыныбы</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="3">1</td>
+<td>2</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td colspan="2">542</td>
 </tr>
 </table>

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/176182/rus/28.12.2022
+source: https://zan.gov.kz/client/#!/doc/176182/rus/05.05.2023
 ---
 
 ## Бюджет cельского округа Тамды на 2024 год
