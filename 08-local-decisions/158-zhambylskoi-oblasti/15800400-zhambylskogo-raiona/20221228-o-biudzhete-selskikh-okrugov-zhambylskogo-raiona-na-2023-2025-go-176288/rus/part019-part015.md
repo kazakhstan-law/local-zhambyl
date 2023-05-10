@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/176288/rus/28.12.2022
+source: https://zan.gov.kz/client/#!/doc/176288/rus/10.05.2023
 ---
 
 ## Бюджет Полаткощинского сельского округа на 2025 год
