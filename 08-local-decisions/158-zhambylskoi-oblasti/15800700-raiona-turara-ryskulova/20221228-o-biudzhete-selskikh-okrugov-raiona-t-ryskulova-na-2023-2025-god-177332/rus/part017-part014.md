@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/177332/rus/28.12.2022
+source: https://zan.gov.kz/client/#!/doc/177332/rus/12.05.2023
 ---
 
 ## Бюджет сельского округа Корагаты на 2025 год
