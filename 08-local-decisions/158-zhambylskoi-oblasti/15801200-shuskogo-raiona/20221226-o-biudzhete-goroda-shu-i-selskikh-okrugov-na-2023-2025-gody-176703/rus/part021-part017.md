@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/176703/rus/10.05.2023
+source: https://zan.gov.kz/client/#!/doc/176703/rus/16.08.2023
 ---
 
 ## Бюджет Ондирисского сельского округа на 2025 год
