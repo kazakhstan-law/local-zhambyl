@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176405/kaz/14.07.2023
+source: https://zan.gov.kz/client/#!/doc/176405/kaz/21.08.2023
 ---
 
 > *Қосымша 30*

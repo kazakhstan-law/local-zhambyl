@@ -3,13 +3,9 @@ part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/176405/rus/21.08.2023
 ---
 
-> *Приложение 1 к решению*  
-> *Кордайского районного маслихата*  
-> *от 29 декабря 2022 года № 34-2*
+> *Приложение 30*
 
-## Бюджет Алгинского сельского округа на 2023 год
-
-> *Сноска. Приложение 1 в редакции Кордайского районного маслихата Жамбылской области от 17.05.2023 № 3-4 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 14.07.2023 № 6-2 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 21.08.2023 № 8-2 (вводится в действие с 01.01.2023).*
+## О бюджете Кордайского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -42,119 +38,4328 @@ source: https://zan.gov.kz/client/#!/doc/176405/rus/21.08.2023
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>77375</td>
+<td>340286</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>4197</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Подоходный налог</td>
-<td>650</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Индивидуальный подоходный налог</td>
-<td>650</td>
+<td>226099</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Налоги на собственность</td>
-<td>3527</td>
+<td>110158</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Налоги на имущество</td>
-<td>212</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Земельный налог</td>
-<td>3</td>
+<td>110158</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Налог на транспортные средства</td>
-<td>3312</td>
+<td>6935</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td></td>
-<td>Внутренние налоги на товары, работы и услуги</td>
-<td>20</td>
+<td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
+<td>2500</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>3</td>
-<td>Поступления за использование природных и других ресурсов</td>
-<td>20</td>
+<td>4</td>
+<td>Плата за размещение наружной рекламы</td>
+<td>2500</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Неналоговые поступления</td>
-<td>60</td>
+<td>367</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td>60</td>
+<td>367</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>1</td>
+<td></td>
 <td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td>60</td>
+<td>367</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
-<td>73118</td>
+<td>113820</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>73118</td>
+<td>113820</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районных (городов областного значения) бюджетов</td>
-<td>73118</td>
+<td>113820</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="8">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="8">Программа</td>
+</tr>
+<tr>
+<td colspan="8">Наименование</td>
+</tr>
+<tr>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2. Затраты</td>
+<td>340286</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>76317</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>76317</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
+<td>73653</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">022</td>
+<td colspan="2">Капитальные расходы государственного органа</td>
+<td>2264</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>250809</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>250809</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">008</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td>30000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">009</td>
+<td colspan="2">Обеспечение санитарии населенных пунктов</td>
+<td>37350</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">010</td>
+<td colspan="2">Содержание мест захоронений погребение безродных</td>
+<td>400</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>181003</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">014</td>
+<td colspan="2">Организация водоснабжения населенных пунктов</td>
+<td>2056</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Транспорт и коммуникации</td>
+<td>13160</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>13160</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">013</td>
+<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>3000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">045</td>
+<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>10160</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">III. Чистое бюджетное кредитование</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджетные кредиты</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="7">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Погашение бюджетных кредитов ,выданных из государственного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Приобретение финансовых активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Поступления от продажи финансовых активов внутри страны</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступление займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Внутренние государственные займы</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td>Договоры займа</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
+<td>Отдел финансов района (города областного значения)</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+</table>
+
+> *Приложение 31*
+
+## О бюджете Масанчинского сельского округа на 2024 год
+
+<table>
+<tr>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1. Доходы</td>
+<td>142510</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Налоговые поступления</td>
+<td>75289</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Подоходный налог</td>
+<td>30939</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Индивидуальный подоходный налог</td>
+<td>30939</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Налоги на собственность</td>
+<td>44350</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Налоги на имущество</td>
+<td>2350</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Налог на транспортные средства</td>
+<td>42000</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Неналоговые поступления</td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td>100</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
+<td>67121</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td>67121</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Трансферты из районных (городов областного значения) бюджетов</td>
+<td>67121</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="8">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="8">Программа</td>
+</tr>
+<tr>
+<td colspan="8">Наименование</td>
+</tr>
+<tr>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2. Затраты</td>
+<td>142510</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>53327</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>53327</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
+<td>52119</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">022</td>
+<td colspan="2">Капитальные расходы государственного органа</td>
+<td>1128</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>38421</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>38421</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">008</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td>29604</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">009</td>
+<td colspan="2">Обеспечение санитарии населенных пунктов</td>
+<td>102</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>8715</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Транспорт и коммуникации</td>
+<td>50762</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>50762</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">013</td>
+<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>13279</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">045</td>
+<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>37483</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">III. Чистое бюджетное кредитование</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджетные кредиты</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="7">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Погашение бюджетных кредитов ,выданных из государственного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Приобретение финансовых активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Поступления от продажи финансовых активов внутри страны</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступление займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Внутренние государственные займы</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td>Договоры займа</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
+<td>Отдел финансов района (города областного значения)</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+</table>
+
+> *Приложение 32*
+
+## О бюджете Ногайбайского сельского округа на 2024 год
+
+<table>
+<tr>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1. Доходы</td>
+<td>45509</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Налоговые поступления</td>
+<td>8018</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Подоходный налог</td>
+<td>1315</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Индивидуальный подоходный налог</td>
+<td>1315</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Налоги на собственность</td>
+<td>6703</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Налоги на имущество</td>
+<td>406</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Налог на транспортные средства</td>
+<td>6297</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Неналоговые поступления</td>
+<td>50</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>50</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td>50</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
+<td>37441</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td>37441</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Трансферты из районных (городов областного значения) бюджетов</td>
+<td>37441</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="8">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="8">Программа</td>
+</tr>
+<tr>
+<td colspan="8">Наименование</td>
+</tr>
+<tr>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2. Затраты</td>
+<td>45509</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>30855</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>30855</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
+<td>28980</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">022</td>
+<td colspan="2">Капитальные расходы государственного органа</td>
+<td>1875</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>1820</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>1820</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">008</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td>1510</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">009</td>
+<td colspan="2">Обеспечение санитарии населенных пунктов</td>
+<td>90</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>220</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Транспорт и коммуникации</td>
+<td>12834</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>12834</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">013</td>
+<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>250</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">045</td>
+<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>12584</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">III. Чистое бюджетное кредитование</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджетные кредиты</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="7">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Погашение бюджетных кредитов ,выданных из государственного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Приобретение финансовых активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Поступления от продажи финансовых активов внутри страны</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступление займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Внутренние государственные займы</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td>Договоры займа</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
+<td>Отдел финансов района (города областного значения)</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+</table>
+
+> *Приложение 33*
+
+## О бюджете Отарского сельского округа на 2024 год
+
+<table>
+<tr>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1. Доходы</td>
+<td>203800</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Налоговые поступления</td>
+<td>30301</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Подоходный налог</td>
+<td>9720</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Индивидуальный подоходный налог</td>
+<td>9720</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Налоги на собственность</td>
+<td>20581</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Налоги на имущество</td>
+<td>1312</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Налог на транспортные средства</td>
+<td>19269</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Неналоговые поступления</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td>200</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
+<td>173299</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td>173299</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Трансферты из районных (городов областного значения) бюджетов</td>
+<td>173299</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="8">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="8">Программа</td>
+</tr>
+<tr>
+<td colspan="8">Наименование</td>
+</tr>
+<tr>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2. Затраты</td>
+<td>203800</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>48900</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>48900</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
+<td>45750</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">022</td>
+<td colspan="2">Капитальные расходы государственного органа</td>
+<td>3150</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>13186</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>13186</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">008</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td>8256</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">009</td>
+<td colspan="2">Обеспечение санитарии населенных пунктов</td>
+<td>93</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>1075</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">014</td>
+<td colspan="2">Организация водоснабжения населенных пунктов</td>
+<td>3762</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Транспорт и коммуникации</td>
+<td>141714</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>141714</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">013</td>
+<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>370</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">045</td>
+<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>141344</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">III. Чистое бюджетное кредитование</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджетные кредиты</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="7">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Погашение бюджетных кредитов ,выданных из государственного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Приобретение финансовых активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Поступления от продажи финансовых активов внутри страны</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступление займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Внутренние государственные займы</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td>Договоры займа</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
+<td>Отдел финансов района (города областного значения)</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+</table>
+
+> *Приложение 34*
+
+## О бюджете Сарыбулакского сельского округа на 2024 год
+
+<table>
+<tr>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1. Доходы</td>
+<td>75298</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Налоговые поступления</td>
+<td>12215</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Подоходный налог</td>
+<td>26</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Индивидуальный подоходный налог</td>
+<td>26</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Налоги на собственность</td>
+<td>12189</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Налоги на имущество</td>
+<td>189</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Налог на транспортные средства</td>
+<td>12000</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Неналоговые поступления</td>
+<td>62</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>62</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td>62</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
+<td>63021</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td>63021</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Трансферты из районных (городов областного значения) бюджетов</td>
+<td>63021</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="8">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="8">Программа</td>
+</tr>
+<tr>
+<td colspan="8">Наименование</td>
+</tr>
+<tr>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2. Затраты</td>
+<td>75298</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>44049</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>44049</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
+<td>44049</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>5201</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>5201</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">008</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td>4400</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">009</td>
+<td colspan="2">Обеспечение санитарии населенных пунктов</td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>701</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Транспорт и коммуникации</td>
+<td>26048</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>26048</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">013</td>
+<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>584</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">045</td>
+<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>25464</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">III. Чистое бюджетное кредитование</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджетные кредиты</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="7">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Погашение бюджетных кредитов ,выданных из государственного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Приобретение финансовых активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Поступления от продажи финансовых активов внутри страны</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступление займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Внутренние государственные займы</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td>Договоры займа</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
+<td>Отдел финансов района (города областного значения)</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+</table>
+
+> *Приложение 35*
+
+## О бюджете Сортобинского сельского округа на 2024 год
+
+<table>
+<tr>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1. Доходы</td>
+<td>152374</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Налоговые поступления</td>
+<td>48600</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Подоходный налог</td>
+<td>1500</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Индивидуальный подоходный налог</td>
+<td>1500</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Налоги на собственность</td>
+<td>47110</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Налоги на имущество</td>
+<td>2100</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Налог на транспортные средства</td>
+<td>45000</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Неналоговые поступления</td>
+<td>150</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>150</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td>150</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
+<td>103624</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td>103624</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Трансферты из районных (городов областного значения) бюджетов</td>
+<td>103624</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="8">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="8">Программа</td>
+</tr>
+<tr>
+<td colspan="8">Наименование</td>
+</tr>
+<tr>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2. Затраты</td>
+<td>152374</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>62918</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>62198</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
+<td>62198</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>10420</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>10420</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">008</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td>10000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">009</td>
+<td colspan="2">Обеспечение санитарии населенных пунктов</td>
+<td>130</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>290</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Транспорт и коммуникации</td>
+<td>79036</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>79036</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">013</td>
+<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>300</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">045</td>
+<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>78736</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">III. Чистое бюджетное кредитование</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджетные кредиты</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="7">Класс</td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td colspan="3">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Погашение бюджетных кредитов ,выданных из государственного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Приобретение финансовых активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Поступления от продажи финансовых активов внутри страны</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступление займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Внутренние государственные займы</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td>Договоры займа</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
+<td>Отдел финансов района (города областного значения)</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+</table>
+
+> *Приложение 36*
+
+## О бюджете Степновского сельского округа на 2024 год
+
+<table>
+<tr>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1. Доходы</td>
+<td>72208</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Налоговые поступления</td>
+<td>10495</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Подоходный налог</td>
+<td>850</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Индивидуальный подоходный налог</td>
+<td>850</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Налоги на собственность</td>
+<td>9645</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Налоги на имущество</td>
+<td>525</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Налог на транспортные средства</td>
+<td>9120</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Неналоговые поступления</td>
+<td>55</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>55</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td>55</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
+<td>61568</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td>61568</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Трансферты из районных (городов областного значения) бюджетов</td>
+<td>61568</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="8">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="8">Программа</td>
+</tr>
+<tr>
+<td colspan="8">Наименование</td>
+</tr>
+<tr>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2. Затраты</td>
+<td>72208</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>43075</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>43075</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
+<td>41915</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">022</td>
+<td colspan="2">Капитальные расходы государственного органа</td>
+<td>1160</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>2509</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>2509</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">008</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td>1820</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">009</td>
+<td colspan="2">Обеспечение санитарии населенных пунктов</td>
+<td>86</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>603</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Транспорт и коммуникации</td>
+<td>26624</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>26624</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">013</td>
+<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>500</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">045</td>
+<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>26124</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">III. Чистое бюджетное кредитование</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджетные кредиты</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="7">Класс</td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td colspan="3">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Погашение бюджетных кредитов ,выданных из государственного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Приобретение финансовых активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Поступления от продажи финансовых активов внутри страны</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступление займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Внутренние государственные займы</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td>Договоры займа</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
+<td>Отдел финансов района (города областного значения)</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+</table>
+
+> *Приложение 37*
+
+## О бюджете Сулуторского сельского округа на 2024 год
+
+<table>
+<tr>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1. Доходы</td>
+<td>32463</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Налоговые поступления</td>
+<td>2867</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Налоги на собственность</td>
+<td>2867</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Налоги на имущество</td>
+<td>167</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Налог на транспортные средства</td>
+<td>2700</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Неналоговые поступления</td>
+<td>50</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>50</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td>50</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
+<td>29546</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td>29546</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Трансферты из районных (городов областного значения) бюджетов</td>
+<td>29546</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="8">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="8">Программа</td>
+</tr>
+<tr>
+<td colspan="8">Наименование</td>
+</tr>
+<tr>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2. Затраты</td>
+<td>32463</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>24858</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>24858</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
+<td>24858</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>7255</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>7255</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">008</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td>968</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">009</td>
+<td colspan="2">Обеспечение санитарии населенных пунктов</td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>380</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">014</td>
+<td colspan="2">Организация водоснабжения населенных пунктов</td>
+<td>5807</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Транспорт и коммуникации</td>
+<td>350</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>350</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">013</td>
+<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>350</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">III. Чистое бюджетное кредитование</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджетные кредиты</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="7">Класс</td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td colspan="3">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Погашение бюджетных кредитов ,выданных из государственного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Приобретение финансовых активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Поступления от продажи финансовых активов внутри страны</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступление займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Внутренние государственные займы</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td>Договоры займа</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
+<td>Отдел финансов района (города областного значения)</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+</table>
+
+> *Приложение 38*
+
+## О бюджете Улкен Сулуторского сельского округа на 2024 год
+
+<table>
+<tr>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1. Доходы</td>
+<td>60663</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Налоговые поступления</td>
+<td>3185</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Подоходный налог</td>
+<td>190</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Индивидуальный подоходный налог</td>
+<td>190</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Налоги на собственность</td>
+<td>2995</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Налоги на имущество</td>
+<td>222</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Налог на транспортные средства</td>
+<td>2773</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Неналоговые поступления</td>
+<td>50</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>50</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td>50</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
+<td>57428</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td>57428</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Трансферты из районных (городов областного значения) бюджетов</td>
+<td>57428</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td rowspan="4">Сумма тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="8">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="8">Программа</td>
+</tr>
+<tr>
+<td colspan="8">Наименование</td>
+</tr>
+<tr>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2. Затраты</td>
+<td>60663</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>26415</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>26415</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
+<td>26165</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">022</td>
+<td colspan="2">Капитальные расходы государственного органа</td>
+<td>250</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>8782</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>8782</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">008</td>
+<td colspan="2">Освещение улиц в населенных пунктах</td>
+<td>1300</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>360</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">014</td>
+<td colspan="2">Организация водоснабжения населенных пунктов</td>
+<td>7122</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Транспорт и коммуникации</td>
+<td>25466</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">124</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
+<td>25466</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">013</td>
+<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>350</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">045</td>
+<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>25116</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">III. Чистое бюджетное кредитование</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджетные кредиты</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="6">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="7">Класс</td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td colspan="3">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Погашение бюджетных кредитов ,выданных из государственного бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Приобретение финансовых активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Поступления от продажи финансовых активов государства</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td>Поступления от продажи финансовых активов внутри страны</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Функциональная группа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>V. Дефицит (профицит) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Категория</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Подкласс</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Поступление займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td>Внутренние государственные займы</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td>Договоры займа</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">16</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Погашение займов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
+<td>Отдел финансов района (города областного значения)</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Используемые остатки бюджетных средств</td>
+<td>0</td>
+</tr>
+</table>
+
+> *Приложение 39*
+
+## О бюджете Алгинского сельского округа на 2025 год
+
+<table>
+<tr>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1. Доходы</td>
+<td>49256</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Налоговые поступления</td>
+<td>2884</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Подоходный налог</td>
+<td>25</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Индивидуальный подоходный налог</td>
+<td>25</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Налоги на собственность</td>
+<td>2859</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Налоги на имущество</td>
+<td>189</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>Налог на транспортные средства</td>
+<td>2670</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Неналоговые поступления</td>
+<td>62</td>
+</tr>
+<tr>
+<td></td>
+<td>04</td>
+<td></td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>62</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td>62</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
+<td>46310</td>
+</tr>
+<tr>
+<td></td>
+<td>02</td>
+<td></td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td>46310</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>Трансферты из районных (городов областного значения) бюджетов</td>
+<td>46310</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td rowspan="4">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="4">Администратор бюджетных программ</td>
@@ -175,91 +4380,84 @@ source: https://zan.gov.kz/client/#!/doc/176405/rus/21.08.2023
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>77486</td>
+<td>49256</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>34708</td>
+<td>30279</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>34708</td>
+<td>30279</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
-<td>33926</td>
+<td>29897</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>782</td>
+<td>382</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>18711</td>
+<td>8288</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>18711</td>
+<td>8288</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>1541</td>
+<td>1254</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>50</td>
+<td>87</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>8144</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>014</td>
-<td>Водоснабжение населенных пунктов</td>
-<td>8976</td>
+<td>6947</td>
 </tr>
 <tr>
 <td>12</td>
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>24058</td>
+<td>10689</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>24058</td>
+<td>10689</td>
 </tr>
 <tr>
 <td></td>
@@ -273,35 +4471,7 @@ source: https://zan.gov.kz/client/#!/doc/176405/rus/21.08.2023
 <td></td>
 <td>045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>23858</td>
-</tr>
-<tr>
-<td>15</td>
-<td></td>
-<td></td>
-<td>Трансферты</td>
-<td>9</td>
-</tr>
-<tr>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>9</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>044</td>
-<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>048</td>
-<td>Возврат неипользованных (недоиспользованных) целевых трансфертов</td>
-<td>8</td>
+<td>10489</td>
 </tr>
 <tr>
 <td></td>
@@ -460,14 +4630,14 @@ source: https://zan.gov.kz/client/#!/doc/176405/rus/21.08.2023
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-111</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>111</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="4">Категория</td>
@@ -531,15 +4701,13 @@ source: https://zan.gov.kz/client/#!/doc/176405/rus/21.08.2023
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>111</td>
+<td>0</td>
 </tr>
 </table>
 
-> *Приложение 2*
+> *Приложение 40*
 
-## Бюджет Аухаттинского сельского округа на 2023 год
-
-> *Сноска. Приложение 2 в редакции Кордайского районного маслихата Жамбылской области от 17.05.2023 № 3-4 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 14.07.2023 № 6-2 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 21.08.2023 № 8-2 (вводится в действие с 01.01.2023).*
+## О бюджете Аухаттинского сельского округа на 2025 год
 
 <table>
 <tr>
@@ -572,77 +4740,56 @@ source: https://zan.gov.kz/client/#!/doc/176405/rus/21.08.2023
 <td></td>
 <td></td>
 <td>1. Доходы</td>
-<td>94167</td>
+<td>97214</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>27385</td>
+<td>24519</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>5100</td>
+<td>1000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>5100</td>
+<td>1000</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Налоги на собственность</td>
-<td>22223</td>
+<td>23519</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Налоги на имущество</td>
-<td>1500</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Земельный налог</td>
-<td>696</td>
+<td>1275</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Налог на транспортные средства</td>
-<td>20027</td>
-</tr>
-<tr>
-<td></td>
-<td>05</td>
-<td></td>
-<td>Внутренние налоги на товары, работы и услуги</td>
-<td>62</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Поступления за использование природных и других ресурсов</td>
-<td>62</td>
+<td>22244</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Неналоговые поступления</td>
-<td>155</td>
+<td>150</td>
 </tr>
 <tr>
 <td></td>
@@ -659,67 +4806,32 @@ source: https://zan.gov.kz/client/#!/doc/176405/rus/21.08.2023
 <td>150</td>
 </tr>
 <tr>
-<td></td>
-<td>06</td>
-<td></td>
-<td>Прочие неналоговые поступления</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>01</td>
-<td>Другие неналоговые поступления в местный бюджет</td>
-<td>5</td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Поступления от продажи основного капитала</td>
-<td>172</td>
-</tr>
-<tr>
-<td></td>
-<td>03</td>
-<td></td>
-<td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
-<td>172</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Продажа земли и нематериальных активов</td>
-<td>172</td>
-</tr>
-<tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
-<td>66455</td>
+<td>72545</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>66455</td>
+<td>72545</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районных (городов областного значения) бюджетов</td>
-<td>66455</td>
+<td>72545</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td rowspan="4">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="4">Администратор бюджетных программ</td>
@@ -740,126 +4852,84 @@ source: https://zan.gov.kz/client/#!/doc/176405/rus/21.08.2023
 <td></td>
 <td></td>
 <td>2. Затраты</td>
-<td>96004</td>
+<td>97214</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>45258</td>
+<td>39183</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>45258</td>
+<td>39183</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
-<td>45208</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>022</td>
-<td>Капитальные расходы государственного органа</td>
-<td>50</td>
+<td>39183</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>43992</td>
+<td>57031</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>43992</td>
+<td>57031</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>24488</td>
+<td>21689</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>70</td>
+<td>136</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>17751</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>014</td>
-<td>Водоснабжение населенных пунктов</td>
-<td>1683</td>
+<td>35206</td>
 </tr>
 <tr>
 <td>12</td>
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>6749</td>
+<td>1000</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>6749</td>
+<td>1000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>6300</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>045</td>
-<td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>449</td>
-</tr>
-<tr>
-<td>15</td>
-<td></td>
-<td></td>
-<td>Трансферты</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td>124</td>
-<td></td>
-<td>Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>048</td>
-<td>Возврат неипользованных (недоиспользованных) целевых трансфертов</td>
-<td>5</td>
+<td>1000</td>
 </tr>
 <tr>
 <td></td>
@@ -1018,14 +5088,14 @@ source: https://zan.gov.kz/client/#!/doc/176405/rus/21.08.2023
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-1837</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>1837</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="4">Категория</td>
@@ -1089,3809 +5159,6 @@ source: https://zan.gov.kz/client/#!/doc/176405/rus/21.08.2023
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>1837</td>
-</tr>
-</table>
-
-> *Приложение 3*
-
-## Бюджет Беткайнарского сельского округа на 2023 год
-
-> *Сноска. Приложение 3 в редакции Кордайского районного маслихата Жамбылской области от 17.05.2023 № 3-4 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 14.07.2023 № 6-2 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 21.08.2023 № 8-2 (вводится в действие с 01.01.2023).*
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>1. Доходы</td>
-<td>169479</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Налоговые поступления</td>
-<td>21050</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Подоходный налог</td>
-<td>3322</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Индивидуальный подоходный налог</td>
-<td>3322</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Налоги на собственность</td>
-<td>17549</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Налоги на имущество</td>
-<td>1300</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Земельный налог</td>
-<td>88</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td>Налог на транспортные средства</td>
-<td>16051</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td>Единый земельный налог</td>
-<td>110</td>
-</tr>
-<tr>
-<td></td>
-<td>05</td>
-<td></td>
-<td>Внутренние налоги на товары, работы и услуги</td>
-<td>179</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Поступления за использование природных и других ресурсов</td>
-<td>179</td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Неналоговые поступления</td>
-<td>50</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td>50</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td>50</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
-<td>148379</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td>Трансферты из вышестоящих органов государственного управления</td>
-<td>148379</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Трансферты из районных (городов областного значения) бюджетов</td>
-<td>148379</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="7">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td colspan="7">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="7">Программа</td>
-</tr>
-<tr>
-<td colspan="7">Наименование</td>
-</tr>
-<tr>
-<td colspan="5">1</td>
-<td colspan="2">2</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">2. Затраты</td>
-<td>170995</td>
-</tr>
-<tr>
-<td>01</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">Государственные услуги общего характера</td>
-<td>41857</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>41857</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
-<td>40337</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>022</td>
-<td colspan="2">Капитальные расходы государственного органа</td>
-<td>1400</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>053</td>
-<td colspan="2">Управление коммунальным имуществом города,районного значения,села,поселка,сельского округа</td>
-<td>120</td>
-</tr>
-<tr>
-<td>07</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>14142</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>14142</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>008</td>
-<td colspan="2">Освещение улиц в населенных пунктах</td>
-<td>3495</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>009</td>
-<td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>94</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>011</td>
-<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>8870</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>014</td>
-<td colspan="2">Водоснабжение населенных пунктов</td>
-<td>1683</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">Транспорт и коммуникации</td>
-<td>35339</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>35339</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>013</td>
-<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>500</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>045</td>
-<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>34839</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">Прочие</td>
-<td>79653</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>79653</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>057</td>
-<td colspan="2">Реализациямероприятийпосоциальнойиинженерной инфроструктур сельских населенныхпунктах в рамкахпроекта «Ауыл-ел бесегі»</td>
-<td>79653</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">Трансферты</td>
-<td>4</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>4</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>044</td>
-<td colspan="2">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td>048</td>
-<td colspan="2">Возврат неипользованных (недоиспользованных) целевых трансфертов</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">III. Чистое бюджетное кредитование</td>
 <td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">Бюджетные кредиты</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="5">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="6">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">5</td>
-<td></td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td>01</td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">1</td>
-<td>Погашение бюджетных кредитов,выданных из государственного бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="4">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td>Приобретение финансовых активов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="4">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">6</td>
-<td></td>
-<td colspan="2"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td>01</td>
-<td colspan="2"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">1</td>
-<td>Поступления от продажи финансовых активов внутри страны</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="4">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td>V. Дефицит (профицит) бюджета</td>
-<td>-1516</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>1516</td>
-</tr>
-<tr>
-<td colspan="7">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="4">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">7</td>
-<td></td>
-<td colspan="2"></td>
-<td>Поступление займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td>01</td>
-<td colspan="2"></td>
-<td>Внутренние государственные займы</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">2</td>
-<td>Договоры займа</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3">16</td>
-<td></td>
-<td colspan="2"></td>
-<td>Погашение займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td>452</td>
-<td colspan="2"></td>
-<td>Отдел финансов района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">008</td>
-<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3">8</td>
-<td></td>
-<td colspan="2"></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>1516</td>
-</tr>
-</table>
-
-> *Приложение 4*
-
-## Бюджет Жамбылского сельского округа на 2023 год
-
-> *Сноска. Приложение 4 в редакции Кордайского районного маслихата Жамбылской области от 17.05.2023 № 3-4 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 14.07.2023 № 6-2 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 21.08.2023 № 8-2 (вводится в действие с 01.01.2023).*
-
-<table>
-<tr>
-<td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td colspan="2">3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td>1. Доходы</td>
-<td>381717</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td colspan="2"></td>
-<td>Налоговые поступления</td>
-<td>15630</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td colspan="2"></td>
-<td>Подоходный налог</td>
-<td>2788</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">2</td>
-<td>Индивидуальный подоходный налог</td>
-<td>2788</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td colspan="2"></td>
-<td>Налоги на собственность</td>
-<td>12766</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">1</td>
-<td>Налоги на имущество</td>
-<td>700</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td colspan="2">Земельный налог</td>
-<td>213</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">4</td>
-<td>Налог на транспортные средства</td>
-<td>11850</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">5</td>
-<td>Единый земельный налог</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td>05</td>
-<td colspan="2"></td>
-<td>Внутренние налоги на товары, работы и услуги</td>
-<td>76</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">3</td>
-<td>Поступления за использование природных и других ресурсов</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">4</td>
-<td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>6</td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td colspan="2"></td>
-<td>Неналоговые поступления</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td colspan="2"></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">1</td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td>100</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td colspan="2"></td>
-<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
-<td>365987</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td colspan="2"></td>
-<td>Трансферты из вышестоящих органов государственного управления</td>
-<td>365987</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">3</td>
-<td>Трансферты из районных (городов областного значения) бюджетов</td>
-<td>365987</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td colspan="8">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="8">Программа</td>
-</tr>
-<tr>
-<td colspan="8">Наименование</td>
-</tr>
-<tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">2. Затраты</td>
-<td>381885</td>
-</tr>
-<tr>
-<td>01</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Государственные услуги общего характера</td>
-<td>49641</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>49641</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
-<td>49641</td>
-</tr>
-<tr>
-<td>07</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>42656</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>42656</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">008</td>
-<td colspan="2">Освещение улиц в населенных пунктах</td>
-<td>13124</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">009</td>
-<td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>138</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">011</td>
-<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>13411</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">014</td>
-<td colspan="2">Водоснабжение населенных пунктов</td>
-<td>15983</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Транспорт и коммуникации</td>
-<td>10472</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>10472</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">013</td>
-<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>8360</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">045</td>
-<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>2112</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Прочие</td>
-<td>279096</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>279096</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">057</td>
-<td colspan="2">Реализация мероприятий посоциальной иинженерной инфроструктур сельских населенных пунктах в рамках проекта «Ауыл-ел бесегі»</td>
-<td>279096</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Трансферты</td>
-<td>20</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>20</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">044</td>
-<td colspan="2">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
-<td>15</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3">048</td>
-<td colspan="2">Возврат неипользованных (недоиспользованных) целевых трансфертов</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">III. Чистое бюджетное кредитование</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Бюджетные кредиты</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="6">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3">Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="4">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">01</td>
-<td colspan="3"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td>Погашение бюджетных кредитов,выданных из государственного бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="4">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>Приобретение финансовых активов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="4">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">01</td>
-<td colspan="3"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td>Поступления от продажи финансовых активов внутри страны</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="4">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>V. Дефицит (профицит) бюджета</td>
-<td>-168</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>168</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="4">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>Поступление займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">01</td>
-<td colspan="3"></td>
-<td>Внутренние государственные займы</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3">2</td>
-<td>Договоры займа</td>
-<td>0</td>
-</tr>
-<tr>
-<td>16</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>Погашение займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">452</td>
-<td colspan="3"></td>
-<td>Отдел финансов района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3">008</td>
-<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>0</td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>168</td>
-</tr>
-</table>
-
-> *Приложение 5*
-
-## Бюджет Какпатасского сельского округа на 2023 год
-
-> *Сноска. Приложение 5 в редакции Кордайского районного маслихата Жамбылской области от 17.05.2023 № 3-4 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 14.07.2023 № 6-2 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 21.08.2023 № 8-2 (вводится в действие с 01.01.2023).*
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>1. Доходы</td>
-<td>273825</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Налоговые поступления</td>
-<td>14052</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Подоходный налог</td>
-<td>2200</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Индивидуальный подоходный налог</td>
-<td>2200</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Налоги на собственность</td>
-<td>11722</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Налоги на имущество</td>
-<td>371</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Земельный налог</td>
-<td>15</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td>Налог на транспортные средства</td>
-<td>11336</td>
-</tr>
-<tr>
-<td></td>
-<td>05</td>
-<td></td>
-<td>Внутренние налоги на товары, работы и услуги</td>
-<td>130</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Поступления за использование природных и других ресурсов</td>
-<td>130</td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Неналоговые поступления</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td>100</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
-<td>259673</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td>Трансферты из вышестоящих органов государственного управления</td>
-<td>259673</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Трансферты из районных (городов областного значения) бюджетов</td>
-<td>259673</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="9">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td colspan="9">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="9">Программа</td>
-</tr>
-<tr>
-<td colspan="9">Наименование</td>
-</tr>
-<tr>
-<td colspan="7">1</td>
-<td colspan="2">2</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">2. Затраты</td>
-<td>276278</td>
-</tr>
-<tr>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Государственные услуги общего характера</td>
-<td>43902</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>43902</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
-<td>41166</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">022</td>
-<td colspan="2">Капитальные расходы государственного органа</td>
-<td>2736</td>
-</tr>
-<tr>
-<td colspan="2">07</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>20911</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>20911</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">008</td>
-<td colspan="2">Освещение улиц в населенных пунктах</td>
-<td>2560</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">009</td>
-<td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>93</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">011</td>
-<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>16912</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">014</td>
-<td colspan="2">Водоснабжение населенных пунктов</td>
-<td>1346</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Транспорт и коммуникации</td>
-<td>5243</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>5243</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">013</td>
-<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>311</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">045</td>
-<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>4932</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Прочие</td>
-<td>206211</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">057</td>
-<td colspan="2">Реализациямероприятийпосоциальнойиинженерной инфроструктур сельских населенныхпунктах в рамкахпроекта «Ауыл-ел бесегі»</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Трансферты</td>
-<td>11</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">124</td>
-<td colspan="3"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>11</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">044</td>
-<td colspan="2">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">048</td>
-<td colspan="2">Возврат неипользованных (недоиспользованных) целевых трансфертов</td>
-<td>9</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">III. Чистое бюджетное кредитование</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">Бюджетные кредиты</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="9">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="7">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="6">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="3">Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="9">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="8">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">01</td>
-<td colspan="3"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td>Погашение бюджетных кредитов,выданных из государственного бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="9">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="7">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>Приобретение финансовых активов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="9">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="7">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">01</td>
-<td colspan="3"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">1</td>
-<td>Поступления от продажи финансовых активов внутри страны</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="9">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="7">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>V. Дефицит (профицит) бюджета</td>
-<td>-2453</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>2453</td>
-</tr>
-<tr>
-<td colspan="9">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="7">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>Поступление займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">01</td>
-<td colspan="3"></td>
-<td>Внутренние государственные займы</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">2</td>
-<td>Договоры займа</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>Погашение займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">452</td>
-<td colspan="3"></td>
-<td>Отдел финансов района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">008</td>
-<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>2453</td>
-</tr>
-</table>
-
-> *Приложение 6*
-
-## Бюджет Каракемерского сельского округа на 2023 год
-
-> *Сноска. Приложение 6 в редакции Кордайского районного маслихата Жамбылской области от 17.05.2023 № 3-4 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 14.07.2023 № 6-2 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 21.08.2023 № 8-2 (вводится в действие с 01.01.2023).*
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>1. Доходы</td>
-<td>87063</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Налоговые поступления</td>
-<td>14400</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Подоходный налог</td>
-<td>735</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Индивидуальный подоходный налог</td>
-<td>735</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Налоги на собственность</td>
-<td>13651</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Налог на имущество</td>
-<td>651</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td>Налог на транспортные средства</td>
-<td>13000</td>
-</tr>
-<tr>
-<td></td>
-<td>05</td>
-<td></td>
-<td>Внутренние налоги на товары, работы и услуги</td>
-<td>14</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Поступления за использование природных и других ресурсов</td>
-<td>14</td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Неналоговые поступления</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td>100</td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Поступления от продажи основного капитала</td>
-<td>875</td>
-</tr>
-<tr>
-<td></td>
-<td>03</td>
-<td></td>
-<td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
-<td>875</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Продажа земли и нематериальных активов</td>
-<td>875</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
-<td>71688</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td>Трансферты из вышестоящих органов государственного управления</td>
-<td>71688</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Трансферты из районных (городов областного значения) бюджетов</td>
-<td>71688</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td colspan="8">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="8">Программа</td>
-</tr>
-<tr>
-<td colspan="8">Наименование</td>
-</tr>
-<tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">2. Затраты</td>
-<td>87801</td>
-</tr>
-<tr>
-<td>01</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Государственные услуги общего характера</td>
-<td>42638</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>42638</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
-<td>41318</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">022</td>
-<td colspan="2">Капитальные расходы государственного органа</td>
-<td>1320</td>
-</tr>
-<tr>
-<td>07</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>14436</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>14436</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">008</td>
-<td colspan="2">Освещение улиц в населенных пунктах</td>
-<td>5351</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">009</td>
-<td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>101</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">011</td>
-<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>7301</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">014</td>
-<td colspan="2">Водоснабжение населенных пунктов</td>
-<td>1683</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Транспорт и коммуникации</td>
-<td>30721</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>30721</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">013</td>
-<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>500</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">045</td>
-<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районногоз начения, селах, поселках, сельских округах</td>
-<td>30221</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Трансферты</td>
-<td>6</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>6</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">048</td>
-<td colspan="2">Возврат неипользованных (недоиспользованных) целевых трансфертов</td>
-<td>6</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">III. Чистое бюджетное кредитование</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджетные кредиты</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="6">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Категория</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="6">Класс</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">5</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td>Погашение бюджетных кредитов,выданных из государственного бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Приобретение финансовых активов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">6</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td>Поступления от продажи финансовых активов внутри страны</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Программа</td>
-<td>-738</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>V. Дефицит (профицит) бюджета</td>
-<td>738</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">7</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Поступление займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Внутренние государственные займы</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td>Договоры займа</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3">16</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Погашение займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">452</td>
-<td colspan="2"></td>
-<td>Отдел финансов района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">008</td>
-<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3">8</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>738</td>
-</tr>
-</table>
-
-> *Приложение 7*
-
-## Бюджет Карасайского сельского округа на 2023 год
-
-> *Сноска. Приложение 7 в редакции Кордайского районного маслихата Жамбылской области от 17.05.2023 № 3-4 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 14.07.2023 № 6-2 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 21.08.2023 № 8-2 (вводится в действие с 01.01.2023).*
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>1. Доходы</td>
-<td>67113</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Налоговые поступления</td>
-<td>7154</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Подоходный налог</td>
-<td>750</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Индивидуальный подоходный налог</td>
-<td>750</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Налоги на собственность</td>
-<td>6391</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Налоги на имущество</td>
-<td>535</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Земельный налог</td>
-<td>20</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td>Налог на транспортные средства</td>
-<td>5836</td>
-</tr>
-<tr>
-<td></td>
-<td>05</td>
-<td></td>
-<td>Внутренние налоги на товары, работы и услуги</td>
-<td>13</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Поступления за использование природных и других ресурсов</td>
-<td>7</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>6</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
-<td>59959</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td>Трансферты из вышестоящих органов государственного управления</td>
-<td>59959</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Трансферты из районных (городов областного значения) бюджетов</td>
-<td>59959</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td colspan="8">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="8">Программа</td>
-</tr>
-<tr>
-<td colspan="8">Наименование</td>
-</tr>
-<tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">2. Затраты</td>
-<td>67295</td>
-</tr>
-<tr>
-<td>01</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Государственные услуги общего характера</td>
-<td>49019</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>49019</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
-<td>49019</td>
-</tr>
-<tr>
-<td>07</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>14845</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>14845</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">008</td>
-<td colspan="2">Освещение улиц в населенных пунктах</td>
-<td>2956</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">009</td>
-<td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>96</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">011</td>
-<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>11793</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Транспорт и коммуникации</td>
-<td>3428</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>3428</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">013</td>
-<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>3428</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Трансферты</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">048</td>
-<td colspan="2">Возврат неипользованных (недоиспользованных) целевых трансфертов</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">III. Чистое бюджетное кредитование</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджетные кредиты</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="6">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">5</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td>Погашение бюджетных кредитов,выданных из государственного бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Приобретение финансовых активов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">6</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td>Поступления от продажи финансовых активов внутри страны</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>V. Дефицит (профицит) бюджета</td>
-<td>-182</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>182</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">7</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Поступление займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Внутренние государственные займы</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td>Договоры займа</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3">16</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Погашение займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">452</td>
-<td colspan="2"></td>
-<td>Отдел финансов района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">008</td>
-<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3">8</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>182</td>
-</tr>
-</table>
-
-> *Приложение 8*
-
-## Бюджет Карасуского сельского округа на 2023 год
-
-> *Сноска. Приложение 8 в редакции Кордайского районного маслихата Жамбылской области от 17.05.2023 № 3-4 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 14.07.2023 № 6-2 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 21.08.2023 № 8-2 (вводится в действие с 01.01.2023).*
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>1. Доходы</td>
-<td>195944</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Налоговые поступления</td>
-<td>16653</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Подоходный налог</td>
-<td>2901</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Индивидуальный подоходный налог</td>
-<td>2901</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Налоги на собственность</td>
-<td>13613</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Налоги на имущество</td>
-<td>1500</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Земельный налог</td>
-<td>113</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td>Налог на транспортные средства</td>
-<td>12000</td>
-</tr>
-<tr>
-<td></td>
-<td>05</td>
-<td></td>
-<td>Внутренние налоги на товары, работы и услуги</td>
-<td>139</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Поступления за использование природных и других ресурсов</td>
-<td>139</td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Неналоговые поступления</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td>100</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
-<td>179191</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td>Трансферты из вышестоящих органов государственного управления</td>
-<td>179191</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Трансферты из районных (городов областного значения) бюджетов</td>
-<td>179191</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td colspan="8">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="8">Программа</td>
-</tr>
-<tr>
-<td colspan="8">Наименование</td>
-</tr>
-<tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">2. Затраты</td>
-<td>199305</td>
-</tr>
-<tr>
-<td>01</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Государственные услуги общего характера</td>
-<td>44269</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>44269</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
-<td>44169</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">022</td>
-<td colspan="2">Капитальные расходы государственного органа</td>
-<td>100</td>
-</tr>
-<tr>
-<td>07</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>9658</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>9658</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">008</td>
-<td colspan="2">Освещение улиц в населенных пунктах</td>
-<td>7000</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">009</td>
-<td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">011</td>
-<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>2558</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Транспорт и коммуникации</td>
-<td>108916</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>108916</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">013</td>
-<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>2187</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">045</td>
-<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках ,сельских округах</td>
-<td>106729</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Прочие</td>
-<td>36451</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>36451</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">057</td>
-<td colspan="2">Реализациямероприятийпосоциальнойиинженерной инфроструктур сельских населенныхпунктах в рамкахпроекта «Ауыл-ел бесегі»</td>
-<td>36451</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Трансферты</td>
-<td>11</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>11</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">044</td>
-<td colspan="2">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
-<td>7</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">048</td>
-<td colspan="2">Возврат неипользованных (недоиспользованных) целевых трансфертов</td>
-<td>4</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">III. Чистое бюджетное кредитование</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджетные кредиты</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="6">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">5</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td>Погашение бюджетных кредитов,выданных из государственного бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Приобретение финансовых активов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">6</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td>Поступления от продажи финансовых активов внутри страны</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>V. Дефицит (профицит) бюджета</td>
-<td>-3361</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>3361</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">7</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Поступление займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Внутренние государственные займы</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td>Договоры займа</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3">16</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Погашение займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">452</td>
-<td colspan="2"></td>
-<td>Отдел финансов района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">008</td>
-<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3">8</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>3361</td>
-</tr>
-</table>
-
-> *Приложение 9*
-
-## Бюджет Касыкского сельского округа на 2023 год
-
-> *Сноска. Приложение 9 в редакции Кордайского районного маслихата Жамбылской области от 17.05.2023 № 3-4 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 14.07.2023 № 6-2 (вводится в действие с 01.01.2023); в редакции Кордайского районного маслихата Жамбылской области от 21.08.2023 № 8-2 (вводится в действие с 01.01.2023).*
-
-<table>
-<tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>1. Доходы</td>
-<td>144497</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Налоговые поступления</td>
-<td>17278</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Подоходный налог</td>
-<td>4800</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Индивидуальный подоходный налог</td>
-<td>4800</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Налоги на собственность</td>
-<td>12436</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Налоги на имущество</td>
-<td>800</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Земельный налог</td>
-<td>46</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td>Налог на транспортные средства</td>
-<td>11588</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td>Единый земельный налог</td>
-<td>2</td>
-</tr>
-<tr>
-<td></td>
-<td>05</td>
-<td></td>
-<td>Внутренние налоги на товары, работы и услуги</td>
-<td>42</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Поступления за использование природных и других ресурсов</td>
-<td>42</td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Неналоговые поступления</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
-<td>100</td>
-</tr>
-<tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
-<td>127119</td>
-</tr>
-<tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td>Трансферты из вышестоящих органов государственного управления</td>
-<td>127119</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Трансферты из районных (городов областного значения) бюджетов</td>
-<td>127119</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td colspan="8">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="8">Программа</td>
-</tr>
-<tr>
-<td colspan="8">Наименование</td>
-</tr>
-<tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">2. Затраты</td>
-<td>146071</td>
-</tr>
-<tr>
-<td>01</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Государственные услуги общего характера</td>
-<td>44904</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>44904</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">001</td>
-<td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка,сельского округа</td>
-<td>43934</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">022</td>
-<td colspan="2">Капитальные расходы государственного органа</td>
-<td>970</td>
-</tr>
-<tr>
-<td>07</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>14380</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>14380</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">008</td>
-<td colspan="2">Освещение улиц в населенных пунктах</td>
-<td>7775</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">009</td>
-<td colspan="2">Обеспечение санитарии населенных пунктов</td>
-<td>100</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">011</td>
-<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>3140</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">014</td>
-<td colspan="2">Водоснабжение населенных пунктов</td>
-<td>3365</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Транспорт и коммуникации</td>
-<td>7332</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>7332</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">013</td>
-<td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>5744</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">045</td>
-<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках ,сельских округах</td>
-<td>1588</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Прочие</td>
-<td>79445</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>79445</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">057</td>
-<td colspan="2">Реализациямероприятийпосоциальнойиинженерной инфроструктур сельских населенныхпунктах в рамкахпроекта «Ауыл-ел бесегі»</td>
-<td>79445</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Трансферты</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">124</td>
-<td colspan="2"></td>
-<td colspan="2">Аппарат акима города районного значения, села,поселка, сельского округа</td>
-<td>10</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">044</td>
-<td colspan="2">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
-<td>7</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">048</td>
-<td colspan="2">Возврат неипользованных (недоиспользованных) целевых трансфертов</td>
-<td>3</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">III. Чистое бюджетное кредитование</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">Бюджетные кредиты</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="6">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="7">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">5</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td>Погашение бюджетных кредитов,выданных из государственного бюджета</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Приобретение финансовых активов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">6</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Поступления от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td>Поступления от продажи финансовых активов внутри страны</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="8">Функциональная группа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Администратор бюджетных программ</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Программа</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>V. Дефицит (профицит) бюджета</td>
-<td>-1574</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>1574</td>
-</tr>
-<tr>
-<td colspan="8">Категория</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3">7</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Поступление займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td>Внутренние государственные займы</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td>Договоры займа</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3">16</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Погашение займов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2">452</td>
-<td colspan="2"></td>
-<td>Отдел финансов района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">008</td>
-<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3">8</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>1574</td>
 </tr>
 </table>
