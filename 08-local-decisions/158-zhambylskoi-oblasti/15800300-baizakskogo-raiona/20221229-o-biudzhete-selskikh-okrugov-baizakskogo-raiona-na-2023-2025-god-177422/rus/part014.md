@@ -1,11 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
+source: https://zan.gov.kz/client/#!/doc/177422/rus/23.08.2023
 ---
 
 > *Приложение 1-13 к решению*  
 > *Байзакского районного маслихата*  
-> *29 декабря 2022 года №38-2*
+> *декабря 2022 года №*
 
 ## Бюджет аппарата акима Улгулинского сельского округа на 2023 год
 
@@ -28,28 +28,28 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>145855</td>
+<td>148981</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Налоговые поступления</td>
-<td>8782</td>
+<td>8415</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="3">Подоходный налог</td>
-<td>1120</td>
+<td>753</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="3">Индивидуальный подоходный налог</td>
-<td>1120</td>
+<td>753</td>
 </tr>
 <tr>
 <td></td>
@@ -112,42 +112,42 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления от продажи основного капитала</td>
-<td>400</td>
+<td>767</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">03</td>
 <td></td>
 <td colspan="3">Продажа земли и нематериальных активов</td>
-<td>400</td>
+<td>767</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>1</td>
 <td colspan="3">Продажа земли</td>
-<td>400</td>
+<td>767</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>136603</td>
+<td>139729</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>136603</td>
+<td>139729</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>136603</td>
+<td>139729</td>
 </tr>
 </table>
 
@@ -170,49 +170,49 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td colspan="2">146480</td>
+<td colspan="2">149606</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">33844</td>
+<td colspan="2">36748</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">33844</td>
+<td colspan="2">36748</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">33444</td>
+<td colspan="2">35548</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td colspan="2">400</td>
+<td colspan="2">1200</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">38771</td>
+<td colspan="2">37971</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">38771</td>
+<td colspan="2">37971</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -233,7 +233,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">11215</td>
+<td colspan="2">10415</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -261,21 +261,21 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2"></td>
 <td>Другие</td>
-<td colspan="2">73640</td>
+<td colspan="2">74662</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">73640</td>
+<td colspan="2">74662</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">057</td>
 <td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта &quot; Ауыл-Ел бесігі»</td>
-<td colspan="2">73640</td>
+<td colspan="2">74662</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -370,7 +370,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 
 > *Приложение 1-14 к решению*  
 > *Байзакского районного маслихата*  
-> *29 декабря 2022 года №38-2*
+> *декабря 2022 года №*
 
 ## Бюджет аппарата акима Сарыкемерского сельского округа на 2023 год
 
@@ -393,7 +393,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>515691</td>
+<td>523047</td>
 </tr>
 <tr>
 <td>1</td>
@@ -519,21 +519,21 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>406647</td>
+<td>414003</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>406647</td>
+<td>414003</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>406647</td>
+<td>414003</td>
 </tr>
 </table>
 
@@ -556,28 +556,28 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td colspan="2">519122</td>
+<td colspan="2">526478</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">89271</td>
+<td colspan="2">95265</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">89271</td>
+<td colspan="2">95265</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">88868</td>
+<td colspan="2">94862</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -626,21 +626,21 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникация</td>
-<td colspan="2">318922</td>
+<td colspan="2">320284</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">318922</td>
+<td colspan="2">320284</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td colspan="2">12245</td>
+<td colspan="2">13607</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -763,7 +763,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 
 > *Приложение 1-15 к решению*  
 > *Байзакского районного маслихата*  
-> *29 декабря 2022 года №38-2*
+> *декабря 2022 года №*
 
 ## Бюджет аппарата акима Кызыл жулдызского сельского округа на 2023 год
 
@@ -786,7 +786,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>69954</td>
+<td>88504</td>
 </tr>
 <tr>
 <td>1</td>
@@ -863,21 +863,21 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>49604</td>
+<td>68154</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>49604</td>
+<td>68154</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>49604</td>
+<td>68154</td>
 </tr>
 </table>
 
@@ -900,28 +900,28 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td colspan="2">70621</td>
+<td colspan="2">89171</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">46595</td>
+<td colspan="2">50145</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">46595</td>
+<td colspan="2">50145</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">45428</td>
+<td colspan="2">48978</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -935,14 +935,14 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">23526</td>
+<td colspan="2">38526</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">23526</td>
+<td colspan="2">38526</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -963,7 +963,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">1800</td>
+<td colspan="2">16800</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -1079,7 +1079,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 
 > *Приложение 1-16 к решению*  
 > *Байзакского районного маслихата*  
-> *29 декабря 2022 года №38-2*
+> *декабря 2022 года №*
 
 ## Бюджет аппарата акима Ботамойнакского сельского округа на 2023 год
 
@@ -1102,35 +1102,35 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>173346</td>
+<td>193289</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Налоговые поступления</td>
-<td>18767</td>
+<td>20767</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="3">Подоходный налог</td>
-<td>1056</td>
+<td>2056</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="3">Индивидуальный подоходный налог</td>
-<td>1056</td>
+<td>2056</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td></td>
 <td colspan="3">Hалоги на собственность</td>
-<td>17711</td>
+<td>18711</td>
 </tr>
 <tr>
 <td></td>
@@ -1151,7 +1151,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="3">Hалог на транспортные средства</td>
-<td>16109</td>
+<td>17109</td>
 </tr>
 <tr>
 <td></td>
@@ -1207,21 +1207,21 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>153239</td>
+<td>171182</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>153239</td>
+<td>171182</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>153239</td>
+<td>171182</td>
 </tr>
 </table>
 
@@ -1244,56 +1244,56 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td colspan="2">175360</td>
+<td colspan="2">195303</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">54058</td>
+<td colspan="2">60193</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">54058</td>
+<td colspan="2">60193</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">53358</td>
+<td colspan="2">58693</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td colspan="2">700</td>
+<td colspan="2">1500</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">40325</td>
+<td colspan="2">58630</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">40325</td>
+<td colspan="2">58630</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">28496</td>
+<td colspan="2">47901</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1307,7 +1307,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">11529</td>
+<td colspan="2">10429</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -1335,21 +1335,21 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td colspan="2">67077</td>
+<td colspan="2">62580</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">67077</td>
+<td colspan="2">62580</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">057</td>
 <td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта» Ауыл-Ел бесігі</td>
-<td colspan="2">67077</td>
+<td colspan="2">62580</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
@@ -1465,7 +1465,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 
 > *Приложение 1-17 к решению*  
 > *Байзакского районного маслихата*  
-> *29 декабря 2022 года №38-2*
+> *декабря 2022 года №*
 
 ## Бюджет аппарата акима Байтерекского сельского округа на 2023 год
 
@@ -1488,14 +1488,14 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>66618</td>
+<td>68630</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Налоговые поступления</td>
-<td>9464</td>
+<td>9937</td>
 </tr>
 <tr>
 <td></td>
@@ -1516,21 +1516,21 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2">04</td>
 <td></td>
 <td colspan="3">Hалоги на собственность</td>
-<td>8864</td>
+<td>9337</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>1</td>
 <td colspan="3">Hалоги на имущество</td>
-<td>207</td>
+<td>488</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Земельный налог</td>
-<td>99</td>
+<td>291</td>
 </tr>
 <tr>
 <td></td>
@@ -1593,21 +1593,21 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>56834</td>
+<td>58373</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>56834</td>
+<td>58373</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>56834</td>
+<td>58373</td>
 </tr>
 </table>
 
@@ -1630,49 +1630,49 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td colspan="2">66975</td>
+<td colspan="2">68987</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">34189</td>
+<td colspan="2">38757</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">34189</td>
+<td colspan="2">38757</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">33332</td>
+<td colspan="2">37427</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td colspan="2">857</td>
+<td colspan="2">1330</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">32486</td>
+<td colspan="2">29930</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">32486</td>
+<td colspan="2">29930</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1693,7 +1693,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">14300</td>
+<td colspan="2">11744</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -1809,7 +1809,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 
 > *Приложение 1-18 к решению*  
 > *Байзакского районного маслихата*  
-> *29 декабря 2022 года №38-2*
+> *декабря 2022 года №*
 
 ## Бюджет аппарата акима Сазтерекского сельского округа на 2023 год
 
@@ -1832,7 +1832,7 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>42914</td>
+<td>44905</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1937,21 +1937,21 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>37307</td>
+<td>39298</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>37307</td>
+<td>39298</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>37307</td>
+<td>39298</td>
 </tr>
 </table>
 
@@ -1974,28 +1974,28 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td colspan="2">42915</td>
+<td colspan="2">45041</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">31619</td>
+<td colspan="2">33745</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">31619</td>
+<td colspan="2">33745</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">31219</td>
+<td colspan="2">33345</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2100,14 +2100,14 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2"></td>
 <td>V.ДЕФИЦИТ (ПРОФИЦИТ) БЮДЖЕТА</td>
-<td colspan="2">-1</td>
+<td colspan="2">-136</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td>VІ. ФИНАНСИРОВАНИЕ ДЕФИЦИТА (ИСПОЛЬЗОВАНИЕ ПРОФИЦИТА) БЮДЖЕТА</td>
-<td colspan="2">1</td>
+<td colspan="2">136</td>
 </tr>
 <tr>
 <td colspan="8">Категория</td>
@@ -2154,21 +2154,21 @@ source: https://zan.gov.kz/client/#!/doc/177422/rus/10.05.2023
 <td></td>
 <td colspan="2"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td colspan="2">1</td>
+<td colspan="2">136</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>01</td>
 <td colspan="2"></td>
 <td>Остатки бюджетных средств</td>
-<td colspan="2">1</td>
+<td colspan="2">136</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">1</td>
 <td>Остатки бюджетных средств</td>
-<td colspan="2">1</td>
+<td colspan="2">136</td>
 </tr>
 </table>
 
