@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/176288/kaz/28.08.2023
+source: https://zan.gov.kz/client/#!/doc/176288/kaz/08.11.2023
 ---
 
 ## 2023 жылға арналған Қарасу ауылдық округінің бюджеті
