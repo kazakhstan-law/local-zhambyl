@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/176288/rus/08.11.2023
+source: https://zan.gov.kz/client/#!/doc/176288/rus/08.12.2023
 ---
 
 > *Приложение 19 к решению №29-2*  
