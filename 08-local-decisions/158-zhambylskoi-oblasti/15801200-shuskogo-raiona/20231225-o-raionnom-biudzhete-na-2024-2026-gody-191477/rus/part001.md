@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
+source: https://zan.gov.kz/client/#!/doc/191477/rus/04.05.2024
 ---
 
 > *Приложение 1 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 
 ## Районный бюджет на 2024 год
 
-> *Сноска. Приложение 1 в редакции решения Шуского районного маслихата Жамбылской области от 18.03.2024 № 18-2 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 в редакции решения Шуского районного маслихата Жамбылской области от 18.03.2024 № 18-2 (вводится в действие с 01.01.2024); в редакции решения Шуского районного маслихата Жамбылской области от 04.05.2024 № 21-2 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -42,7 +42,7 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <td></td>
 <td></td>
 <td>1. ДОХОДЫ</td>
-<td>13745478</td>
+<td>13784878</td>
 </tr>
 <tr>
 <td>1</td>
@@ -259,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <td></td>
 <td></td>
 <td>ПОСТУПЛЕНИЯ ТРАНСФЕРТОВ</td>
-<td>8887722</td>
+<td>8927122</td>
 </tr>
 <tr>
 <td></td>
@@ -280,14 +280,14 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>8875765</td>
+<td>8915165</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>8875765</td>
+<td>8915165</td>
 </tr>
 </table>
 
@@ -315,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">2. ЗАТРАТЫ</td>
-<td>13495576</td>
+<td>13534976</td>
 </tr>
 <tr>
 <td colspan="3">01</td>
@@ -628,13 +628,6 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="3">021</td>
-<td colspan="2">Капитальные расходы государственного органа</td>
-<td>14064</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td colspan="3">050</td>
 <td colspan="2">Обеспечение прав и улучшение качества жизни лиц с инвалидностью в Республике Казахстан</td>
 <td>344704</td>
@@ -658,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <td colspan="2">458</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения</td>
-<td>45109</td>
+<td>176109</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -669,10 +662,17 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 </tr>
 <tr>
 <td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">098</td>
+<td colspan="2">Приобретение жилья коммунального жилищного фонда</td>
+<td>131000</td>
+</tr>
+<tr>
+<td colspan="3"></td>
 <td colspan="2">466</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td>1209190</td>
+<td>1078190</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -693,7 +693,7 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <td colspan="2"></td>
 <td colspan="3">098</td>
 <td colspan="2">Приобретение жилья коммунального жилищного фонда</td>
-<td>794051</td>
+<td>663051</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1106,7 +1106,7 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Прочие</td>
-<td>457496</td>
+<td>496896</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1141,14 +1141,14 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <td colspan="2">466</td>
 <td colspan="3"></td>
 <td colspan="2">Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td>320000</td>
+<td>359400</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3">079</td>
 <td colspan="2">Развитие социальной и инженерной инфраструктуры в сельских населенных пунктах в рамках проекта «Ауыл-Ел бесігі»</td>
-<td>320000</td>
+<td>359400</td>
 </tr>
 <tr>
 <td colspan="3">14</td>
@@ -1218,21 +1218,35 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">3. ЧИСТОЕ БЮДЖЕТНОЕ КРЕДИТОВАНИЕ</td>
-<td>518235</td>
+<td>1276194</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бюджетные кредиты</td>
-<td>647591</td>
+<td>1405550</td>
 </tr>
 <tr>
 <td colspan="3">07</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>285775</td>
+<td>1043734</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">466</td>
+<td colspan="3"></td>
+<td colspan="2">Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
+<td>757959</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">098</td>
+<td colspan="2">Приобретение жилья коммунального жилищного фонда</td>
+<td>757959</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1290,21 +1304,21 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="4">Погашение бюджетных кредитов</td>
-<td>102845</td>
+<td>129356</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="4">Погашение бюджетных кредитов</td>
-<td>102845</td>
+<td>129356</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="4">Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td>102845</td>
+<td>129356</td>
 </tr>
 <tr>
 <td colspan="10">
@@ -1367,14 +1381,14 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="4">5. ДЕФИЦИТ (ПРОФИЦИТ) БЮДЖЕТА</td>
-<td>-657333</td>
+<td>-1415292</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="4">6. ФИНАНСИРОВАНИЕ ДЕФИЦИТА (ИСПОЛЬЗОВАНИЕ ПРОФИЦИТА) БЮДЖЕТА</td>
-<td>657333</td>
+<td>1415292</td>
 </tr>
 <tr>
 <td colspan="6">
@@ -1397,21 +1411,21 @@ source: https://zan.gov.kz/client/#!/doc/191477/rus/18.03.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="4">Поступления займов</td>
-<td>647591</td>
+<td>1405550</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="4">Внутренние государственные займы</td>
-<td>647591</td>
+<td>1405550</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="4">Договоры займа</td>
-<td>647591</td>
+<td>1405550</td>
 </tr>
 <tr>
 <td colspan="10">
