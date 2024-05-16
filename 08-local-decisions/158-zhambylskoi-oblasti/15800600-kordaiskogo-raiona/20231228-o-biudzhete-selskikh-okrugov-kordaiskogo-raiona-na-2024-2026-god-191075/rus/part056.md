@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191075/rus/20.03.2024
+source: https://zan.gov.kz/client/#!/doc/191075/rus/16.05.2024
 ---
 
 > *Приложение 56*
@@ -27,11 +27,11 @@ source: https://zan.gov.kz/client/#!/doc/191075/rus/20.03.2024
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -141,9 +141,9 @@ source: https://zan.gov.kz/client/#!/doc/191075/rus/20.03.2024
 <td colspan="8">Наименование</td>
 </tr>
 <tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td>3</td>
+<th colspan="6">1</th>
+<th colspan="2">2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -456,11 +456,11 @@ source: https://zan.gov.kz/client/#!/doc/191075/rus/20.03.2024
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -591,9 +591,9 @@ source: https://zan.gov.kz/client/#!/doc/191075/rus/20.03.2024
 <td colspan="8">Наименование</td>
 </tr>
 <tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td>3</td>
+<th colspan="6">1</th>
+<th colspan="2">2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
