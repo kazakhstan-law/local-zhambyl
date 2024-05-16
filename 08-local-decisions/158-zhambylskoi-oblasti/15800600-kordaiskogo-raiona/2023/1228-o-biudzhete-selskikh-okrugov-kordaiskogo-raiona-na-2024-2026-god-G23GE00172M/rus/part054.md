@@ -24,11 +24,11 @@
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -145,9 +145,9 @@
 <td colspan="8">Наименование</td>
 </tr>
 <tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td>3</td>
+<th colspan="6">1</th>
+<th colspan="2">2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -467,11 +467,11 @@
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -588,9 +588,9 @@
 <td colspan="8">Наименование</td>
 </tr>
 <tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td>3</td>
+<th colspan="6">1</th>
+<th colspan="2">2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -903,11 +903,11 @@
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -1017,9 +1017,9 @@
 <td colspan="8">Наименование</td>
 </tr>
 <tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td>3</td>
+<th colspan="6">1</th>
+<th colspan="2">2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
@@ -1332,11 +1332,11 @@
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -1467,9 +1467,9 @@
 <td colspan="8">Наименование</td>
 </tr>
 <tr>
-<td colspan="6">1</td>
-<td colspan="2">2</td>
-<td>3</td>
+<th colspan="6">1</th>
+<th colspan="2">2</th>
+<th>3</th>
 </tr>
 <tr>
 <td></td>
