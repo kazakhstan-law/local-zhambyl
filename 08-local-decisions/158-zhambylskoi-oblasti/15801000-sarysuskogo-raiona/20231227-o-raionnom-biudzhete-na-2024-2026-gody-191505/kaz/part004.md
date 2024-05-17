@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191505/kaz/19.03.2024
+source: https://zan.gov.kz/client/#!/doc/191505/kaz/17.05.2024
 ---
 
 > *Сарысу аудандық мәслихатының*  
