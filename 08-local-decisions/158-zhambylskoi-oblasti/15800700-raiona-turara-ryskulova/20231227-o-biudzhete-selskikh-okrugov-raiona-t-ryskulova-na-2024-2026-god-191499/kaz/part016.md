@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191499/kaz/26.03.2024
+source: https://zan.gov.kz/client/#!/doc/191499/kaz/20.05.2024
 ---
 
 > *16 қосымша*
