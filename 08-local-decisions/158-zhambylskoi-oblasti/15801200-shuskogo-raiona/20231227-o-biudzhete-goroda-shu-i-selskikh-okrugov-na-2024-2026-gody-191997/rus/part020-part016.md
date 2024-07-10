@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191997/rus/20.03.2024
+source: https://zan.gov.kz/client/#!/doc/191997/rus/10.07.2024
 ---
 
 ## Бюджет Толебийского сельского округа на 2025 год
