@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
+source: https://zan.gov.kz/client/#!/doc/192631/rus/14.07.2024
 ---
 
 > *Приложение 1 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 
 ## Бюджет сельских округов Байзакского района на 2024 год
 
-> *Сноска. Приложение 1 в редакции решения Байзакского районного маслихата Жамбылской области от 15.03.2024 № 21-2 (вводится в действие с 01.01.2024); в редакции решения Байзакского районного маслихата Жамбылской области от 03.06.2024 № 25-2 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 в редакции решения Байзакского районного маслихата Жамбылской области от 15.03.2024 № 21-2 (вводится в действие с 01.01.2024); в редакции решения Байзакского районного маслихата Жамбылской области от 03.06.2024 № 25-2 (вводится в действие с 01.01.2024); в редакции решения Байзакского районного маслихата Жамбылской области от 14.07.2024 № 28-2 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -30,84 +30,84 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">І. ДОХОДЫ</td>
-<td>2339341</td>
+<td>2547978</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td>462084</td>
+<td>502513</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td>113589</td>
+<td>122573</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>113589</td>
+<td>122573</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>347340</td>
+<td>378767</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td>10115</td>
+<td>9903</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td>2014</td>
+<td>2226</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>313643</td>
+<td>337588</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td>21568</td>
+<td>29050</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">05</td>
 <td></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td>1155</td>
+<td>1173</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td>265</td>
+<td>266</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>890</td>
+<td>907</td>
 </tr>
 <tr>
 <td>2</td>
@@ -149,46 +149,47 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Поступления от продажи основного капитала</td>
-<td>33511</td>
+<td>41209</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">03</td>
 <td></td>
 <td colspan="2">Продажа земли и нематериальных активов</td>
-<td>33511</td>
+<td>41209</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>1</td>
 <td colspan="2">Продажа земли</td>
-<td>33511</td>
+<td>41209</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>1841041</td>
+<td>2001551</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>1841041</td>
+<td>2001551</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="2">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>1841041</td>
+<td>2001551</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="6"></td>
+<td></td>
+</tr>
 <tr>
 <td colspan="6">Функциональная группа</td>
 <td rowspan="3">Сумма (тысяч тенге)</td>
@@ -207,119 +208,119 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td>2357250</td>
+<td>2565887</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>952690</td>
+<td>975 156</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>952690</td>
+<td>975 156</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>835848</td>
+<td>855 094</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>116842</td>
+<td>120 062</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>400337</td>
+<td>429 516</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>400337</td>
+<td>429 516</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>191412</td>
+<td>201 889</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>32739</td>
+<td>32 628</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>176186</td>
+<td>194 999</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
 <td></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникация</td>
-<td>84057</td>
+<td>94 900</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>84057</td>
+<td>94 900</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>69028</td>
+<td>77 762</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>15029</td>
+<td>17 138</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
 <td></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>920152</td>
+<td>1066301</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>920152</td>
+<td>1066301</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">057</td>
 <td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта» Ауыл-Ел бесігі</td>
-<td>920152</td>
+<td>1066301</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
@@ -437,7 +438,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 > *Байзакского районного маслихата*  
 > *декабря 2023 года №*
 
-## Бюджет аппарата акима Жалгызтюбинского сельского округа на 2024 год
+### Бюджет аппарата акима Жалгызтюбинского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -458,14 +459,14 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">І. ДОХОДЫ</td>
-<td>157317</td>
+<td>153534</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td>8323</td>
+<td>8848</td>
 </tr>
 <tr>
 <td></td>
@@ -486,7 +487,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2">04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>7073</td>
+<td>7598</td>
 </tr>
 <tr>
 <td></td>
@@ -507,7 +508,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>6591</td>
+<td>7116</td>
 </tr>
 <tr>
 <td></td>
@@ -563,25 +564,26 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>147602</td>
+<td>143294</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>147602</td>
+<td>143294</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="2">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>147602</td>
+<td>143294</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="6"></td>
+<td></td>
+</tr>
 <tr>
 <td colspan="6">Функциональная группа</td>
 <td rowspan="3">Сумма (тысяч тенге)</td>
@@ -600,28 +602,28 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td>158 322</td>
+<td>154 539</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>55 613</td>
+<td>56 036</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>55 613</td>
+<td>56 036</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>41 645</td>
+<td>42 068</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -691,21 +693,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>96 028</td>
+<td>91 822</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>96 028</td>
+<td>91 822</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">057</td>
 <td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта» Ауыл-Ел бесігі</td>
-<td>96 028</td>
+<td>91 822</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
@@ -823,7 +825,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 > *Байзакского районного маслихата*  
 > *декабря 2023 года №*
 
-## Бюджет аппарата акима Диханского сельского округа на 2024 год
+### Бюджет аппарата акима Диханского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -844,7 +846,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>51647</td>
+<td>52611</td>
 </tr>
 <tr>
 <td>1</td>
@@ -949,21 +951,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>33101</td>
+<td>34065</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>33101</td>
+<td>34065</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>33101</td>
+<td>34065</td>
 </tr>
 <tr>
 <td colspan="8"></td>
@@ -987,28 +989,28 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">ІІ.РАСХОДЫ</td>
-<td>51 741</td>
+<td>52 705</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td>38 118</td>
+<td>38 505</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>38 118</td>
+<td>38 505</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>37 599</td>
+<td>37 986</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1057,21 +1059,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Транспорт и коммуникация</td>
-<td>786</td>
+<td>1 363</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>786</td>
+<td>1 363</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">013</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>786</td>
+<td>1 363</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1168,7 +1170,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 > *Байзакского районного маслихата*  
 > *декабря 2023 года №*
 
-## Бюджет аппарата акима Мырзатайского сельского округа на 2024 год
+### Бюджет аппарата акима Мырзатайского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -1189,35 +1191,35 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">І. ДОХОДЫ</td>
-<td>57471</td>
+<td>62818</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td>13955</td>
+<td>18282</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td>3050</td>
+<td>4207</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>3050</td>
+<td>4207</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>10882</td>
+<td>14051</td>
 </tr>
 <tr>
 <td></td>
@@ -1238,28 +1240,28 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>9891</td>
+<td>12785</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>5</td>
 <td colspan="2">Единный земельный налог</td>
-<td>378</td>
+<td>653</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">05</td>
 <td></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td>23</td>
+<td>24</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td>23</td>
+<td>24</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1287,21 +1289,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Поступления от продажи основного капитала</td>
-<td>500</td>
+<td>1520</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">03</td>
 <td></td>
 <td colspan="2">Продажа земли и нематериальных активов</td>
-<td>500</td>
+<td>1520</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>1</td>
 <td colspan="2">Продажа земли</td>
-<td>500</td>
+<td>1520</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1346,7 +1348,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td>58 441</td>
+<td>63 788</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1381,14 +1383,14 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>12 754</td>
+<td>18 101</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>12 754</td>
+<td>18 101</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1409,7 +1411,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>5 960</td>
+<td>11 307</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -1548,7 +1550,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 > *Байзакского районного маслихата*  
 > *декабря 2023 года №*
 
-## Бюджет аппарата акима Темирбекского сельского округа на 2024 год
+### Бюджет аппарата акима Темирбекского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -1569,7 +1571,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">І. ДОХОДЫ</td>
-<td>46780</td>
+<td>46430</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1674,21 +1676,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>42522</td>
+<td>42172</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>42522</td>
+<td>42172</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="2">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>42522</td>
+<td>42172</td>
 </tr>
 <tr>
 <td colspan="6"></td>
@@ -1712,28 +1714,28 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td>47 773</td>
+<td>47 423</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>40 964</td>
+<td>40 614</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>40 964</td>
+<td>40 614</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>35 185</td>
+<td>34 835</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1893,7 +1895,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 > *Байзакского районного маслихата*  
 > *декабря 2023 года №*
 
-## Бюджет аппарата акима Туймекентского сельского округа на 2024 год
+### Бюджет аппарата акима Туймекентского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -1914,35 +1916,35 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">І. ДОХОДЫ</td>
-<td>131252</td>
+<td>141521</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td>24901</td>
+<td>34773</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td>4500</td>
+<td>6750</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>4500</td>
+<td>6750</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>20386</td>
+<td>28008</td>
 </tr>
 <tr>
 <td></td>
@@ -1963,14 +1965,14 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>18672</td>
+<td>23947</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>5</td>
 <td colspan="2">Единный земельный налог</td>
-<td>897</td>
+<td>3244</td>
 </tr>
 <tr>
 <td></td>
@@ -2040,26 +2042,25 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>99167</td>
+<td>99564</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>99167</td>
+<td>99564</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="2">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>99167</td>
+<td>99564</td>
 </tr>
-<tr>
-<td colspan="6"></td>
-<td></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td colspan="6">Функциональная группа</td>
 <td rowspan="3">Сумма (тысяч тенге)</td>
@@ -2078,35 +2079,35 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td>131 826</td>
+<td>142 095</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>66 335</td>
+<td>76 677</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>66 335</td>
+<td>76 677</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>50 924</td>
+<td>59 766</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>15 411</td>
+<td>16 911</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -2169,21 +2170,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>Другие</td>
-<td>37 000</td>
+<td>36 927</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>37 000</td>
+<td>36 927</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">057</td>
 <td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта &quot; Ауыл-Ел бесігі»</td>
-<td>37 000</td>
+<td>36 927</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
@@ -2301,7 +2302,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 > *Байзакского районного маслихата*  
 > *декабря 2023 года №*
 
-## Бюджет аппарата акима Жанатурмысского сельского округа на 2024 год
+### Бюджет аппарата акима Жанатурмысского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -2322,7 +2323,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">І. ДОХОДЫ</td>
-<td>60523</td>
+<td>60410</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2448,21 +2449,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>49420</td>
+<td>49307</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>49420</td>
+<td>49307</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="2">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>49420</td>
+<td>49307</td>
 </tr>
 <tr>
 <td colspan="6"></td>
@@ -2486,49 +2487,49 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td>60 823</td>
+<td>60 710</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>43 148</td>
+<td>43 903</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>43 148</td>
+<td>43 903</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>42 159</td>
+<td>42 494</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>989</td>
+<td>1 409</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>16 890</td>
+<td>16 022</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>16 890</td>
+<td>16 022</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2549,7 +2550,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>8 365</td>
+<td>7 497</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -2688,7 +2689,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 > *Байзакского районного маслихата*  
 > *декабря 2023 года №*
 
-## Бюджет аппарата акима Кокталского сельского округа на 2024 год
+### Бюджет аппарата акима Кокталского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -2709,14 +2710,14 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">І. ДОХОДЫ</td>
-<td>56629</td>
+<td>58685</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td>18393</td>
+<td>20393</td>
 </tr>
 <tr>
 <td></td>
@@ -2737,35 +2738,35 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>11293</td>
+<td>13293</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td>388</td>
+<td>256</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Земельный налог</td>
-<td>18</td>
+<td>150</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>10125</td>
+<td>11925</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">5</td>
 <td colspan="2">Единный земельный налог</td>
-<td>762</td>
+<td>962</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2814,21 +2815,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>36144</td>
+<td>36200</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>36144</td>
+<td>36200</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>36144</td>
+<td>36200</td>
 </tr>
 <tr>
 <td colspan="8"></td>
@@ -2852,28 +2853,28 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td>58 358</td>
+<td>60 414</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>48 122</td>
+<td>48 289</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>48 122</td>
+<td>48 289</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>38 359</td>
+<td>38 526</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2887,14 +2888,14 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>9 221</td>
+<td>11 110</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>9 221</td>
+<td>11 110</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2908,14 +2909,14 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td colspan="3">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>2 571</td>
+<td>2 460</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1 800</td>
+<td>3 800</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -3024,7 +3025,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 > *Байзакского районного маслихата*  
 > *декабря 2023 года №*
 
-## Бюджет аппарата акима Ынтымакского сельского округа на 2024 год
+### Бюджет аппарата акима Ынтымакского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -3045,35 +3046,35 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">І. ДОХОДЫ</td>
-<td>133889</td>
+<td>135389</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td>6082</td>
+<td>7082</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td>400</td>
+<td>700</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>400</td>
+<td>700</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>5672</td>
+<td>6372</td>
 </tr>
 <tr>
 <td></td>
@@ -3094,14 +3095,14 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>5135</td>
+<td>5735</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">5</td>
 <td colspan="2">Единный земельный налог</td>
-<td>239</td>
+<td>339</td>
 </tr>
 <tr>
 <td></td>
@@ -3164,21 +3165,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>127515</td>
+<td>128015</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>127515</td>
+<td>128015</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>127515</td>
+<td>128015</td>
 </tr>
 <tr>
 <td colspan="8"></td>
@@ -3202,28 +3203,28 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td>134 266</td>
+<td>135 766</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>50 295</td>
+<td>51 545</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>50 295</td>
+<td>51 545</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>39 117</td>
+<td>40 367</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3237,14 +3238,14 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>4 350</td>
+<td>5 600</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>4 350</td>
+<td>5 600</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3265,7 +3266,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1 500</td>
+<td>2 750</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -3293,21 +3294,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Другие</td>
-<td>79 021</td>
+<td>78 021</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>79 021</td>
+<td>78 021</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">057</td>
 <td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта &quot; Ауыл-Ел бесігі»</td>
-<td>79 021</td>
+<td>78 021</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3395,7 +3396,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 > *Байзакского районного маслихата*  
 > *декабря 2023 года №*
 
-## Бюджет аппарата акима Суханбаевского сельского округа на 2024 год
+### Бюджет аппарата акима Суханбаевского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -3416,35 +3417,35 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">І. ДОХОДЫ</td>
-<td>80677</td>
+<td>83281</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td>7589</td>
+<td>10193</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td>1350</td>
+<td>1635</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>1350</td>
+<td>1635</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3">04</td>
 <td colspan="2"></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>6239</td>
+<td>8558</td>
 </tr>
 <tr>
 <td></td>
@@ -3465,14 +3466,14 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="3"></td>
 <td colspan="2">4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>5565</td>
+<td>7575</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="2">5</td>
 <td colspan="2">Единный земельный налог</td>
-<td>126</td>
+<td>435</td>
 </tr>
 <tr>
 <td>2</td>
@@ -3559,28 +3560,28 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td>80 753</td>
+<td>83 357</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>47 750</td>
+<td>47 954</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>47 750</td>
+<td>47 954</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>35 236</td>
+<td>35 440</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3594,14 +3595,14 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>17 300</td>
+<td>18 700</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>17 300</td>
+<td>18 700</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3622,28 +3623,28 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td colspan="3">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>10 055</td>
+<td>11 455</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Транспорт и коммуникация</td>
-<td>15 703</td>
+<td>16 703</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>15 703</td>
+<td>16 703</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>1 674</td>
+<td>2 674</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3738,7 +3739,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 > *Байзакского районного маслихата*  
 > *декабря 2023 года №*
 
-## Бюджет аппарата акима Костюбинского сельского округа на 2024 год
+### Бюджет аппарата акима Костюбинского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -3759,35 +3760,35 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">І. ДОХОДЫ</td>
-<td>82397</td>
+<td>83664</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td>31329</td>
+<td>32596</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td>5221</td>
+<td>5518</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>5221</td>
+<td>5518</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>25933</td>
+<td>26903</td>
 </tr>
 <tr>
 <td></td>
@@ -3808,14 +3809,14 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>20854</td>
+<td>21574</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>5</td>
 <td colspan="2">Единный земельный налог</td>
-<td>4039</td>
+<td>4289</td>
 </tr>
 <tr>
 <td></td>
@@ -3930,28 +3931,28 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td>83 449</td>
+<td>84 716</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>51 458</td>
+<td>52 725</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>51 458</td>
+<td>52 725</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>50 916</td>
+<td>52 183</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4132,7 +4133,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 > *Байзакского районного маслихата*  
 > *декабря 2023 года №*
 
-## Бюджет аппарата акима Бурылского сельского округа на 2024 год
+### Бюджет аппарата акима Бурылского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -4153,77 +4154,77 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">І. ДОХОДЫ</td>
-<td>122902</td>
+<td>135402</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td>54215</td>
+<td>63215</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td>10855</td>
+<td>12855</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>10855</td>
+<td>12855</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td>43350</td>
+<td>50333</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>1</td>
 <td colspan="2">Hалоги на имущество</td>
-<td>1521</td>
+<td>1443</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td>155</td>
+<td>233</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="2">Hалог на транспортные средства</td>
-<td>36295</td>
+<td>40278</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>5</td>
 <td colspan="2">Единный земельный налог</td>
-<td>5379</td>
+<td>8379</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">05</td>
 <td></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td>10</td>
+<td>27</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="2">Сборы за ведение предпринимательск о й и профессиональной деятельности</td>
-<td>10</td>
+<td>27</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4251,42 +4252,42 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Поступления от продажи основного капитала</td>
-<td>1000</td>
+<td>4000</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">03</td>
 <td></td>
 <td colspan="2">Продажа земли и нематериальных активов</td>
-<td>1000</td>
+<td>4000</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>1</td>
 <td colspan="2">Продажа земли</td>
-<td>1000</td>
+<td>4000</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>67503</td>
+<td>68003</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>67503</td>
+<td>68003</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="2">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>67503</td>
+<td>68003</td>
 </tr>
 <tr>
 <td colspan="6"></td>
@@ -4310,28 +4311,28 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td>125 620</td>
+<td>138 120</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>72 857</td>
+<td>73 357</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>72 857</td>
+<td>73 357</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>71 104</td>
+<td>71 604</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4345,21 +4346,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>49 194</td>
+<td>60 178</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>49 194</td>
+<td>60 178</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>23 654</td>
+<td>30 654</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4373,28 +4374,28 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>16 325</td>
+<td>20 309</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
 <td></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникация</td>
-<td>3 569</td>
+<td>4 585</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>3 569</td>
+<td>4 585</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>3 569</td>
+<td>4 585</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4491,7 +4492,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 > *Байзакского районного маслихата*  
 > *декабря 2023 года №*
 
-## Бюджет аппарата акима Коптерекского сельского округа на 2024 год
+### Бюджет аппарата акима Коптерекского сельского округа на 2024 год
 
 <table>
 <tr>
@@ -4512,7 +4513,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">І. ДОХОДЫ</td>
-<td>404495</td>
+<td>399352</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4617,21 +4618,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>392531</td>
+<td>387388</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>392531</td>
+<td>387388</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="2">Трансферты из районных (городов областного значения) бюджетов</td>
-<td>392531</td>
+<td>387388</td>
 </tr>
 <tr>
 <td colspan="6"></td>
@@ -4655,7 +4656,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td>404 757</td>
+<td>399 614</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -4690,14 +4691,14 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>8 128</td>
+<td>8 628</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>8 128</td>
+<td>8 628</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -4718,7 +4719,7 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>4 500</td>
+<td>5 000</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -4746,21 +4747,21 @@ source: https://zan.gov.kz/client/#!/doc/192631/rus/03.06.2024
 <td></td>
 <td colspan="2"></td>
 <td>Другие</td>
-<td>350700</td>
+<td>345 057</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>127</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>350700</td>
+<td>345 057</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">057</td>
 <td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта &quot; Ауыл-Ел бесігі»</td>
-<td>350700</td>
+<td>345 057</td>
 </tr>
 <tr>
 <td colspan="2"></td>
