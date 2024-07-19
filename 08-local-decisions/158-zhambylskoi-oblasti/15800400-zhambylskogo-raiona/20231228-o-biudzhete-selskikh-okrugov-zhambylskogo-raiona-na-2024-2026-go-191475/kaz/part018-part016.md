@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191475/kaz/17.05.2024
+source: https://zan.gov.kz/client/#!/doc/191475/kaz/19.07.2024
 ---
 
 ## 2025 жылға арналған Ерназар ауылдық округінің бюджеті
