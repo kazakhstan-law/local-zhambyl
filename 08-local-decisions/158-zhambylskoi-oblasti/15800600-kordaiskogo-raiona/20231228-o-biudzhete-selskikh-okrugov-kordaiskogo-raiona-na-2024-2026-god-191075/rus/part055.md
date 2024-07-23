@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191075/rus/01.07.2024
+source: https://zan.gov.kz/client/#!/doc/191075/rus/23.07.2024
 ---
 
 > *Приложение 55*
