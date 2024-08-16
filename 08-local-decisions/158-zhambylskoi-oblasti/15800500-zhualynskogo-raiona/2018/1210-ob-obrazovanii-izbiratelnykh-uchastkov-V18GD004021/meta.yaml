@@ -23,3 +23,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/127315/kaz/10.12.2018
   rus: https://zan.gov.kz/client/#!/doc/127315/rus/10.12.2018
+repealed_on: 2024-08-29
+repealed_by:
+  code: '199814'
+  key: V24GD522608
+  requisite: Решение акима Жуалынского района Жамбылской области от 16 августа 2024 года № 1. Зарегистрировано Департаментом юстиции Жамбылской области от 16 августа 2024 года № 5226-08
+  title:
+    rus: Об образовании избирательных участков
+    kaz: Сайлау учаскелерін құру туралы
+  link: https://zan.gov.kz/client/#!/doc/199814/rus
