@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/191475/rus/19.07.2024
+source: https://zan.gov.kz/client/#!/doc/191475/rus/13.09.2024
 ---
 
 ## Бюджет Ерназарского сельского округа на 2025 год
