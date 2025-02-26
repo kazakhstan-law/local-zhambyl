@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/207724/kaz/26.12.2024
+source: https://zan.gov.kz/client/#!/doc/207724/kaz/26.02.2025
 ---
 
 ## 2026 жылға арналған Төле би ауылдық округінің бюджеті
