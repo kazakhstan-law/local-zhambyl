@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/206375/kaz/30.12.2024
+source: https://zan.gov.kz/client/#!/doc/206375/kaz/17.03.2025
 ---
 
 > *Жуалы аудандық мәслихатының*  
