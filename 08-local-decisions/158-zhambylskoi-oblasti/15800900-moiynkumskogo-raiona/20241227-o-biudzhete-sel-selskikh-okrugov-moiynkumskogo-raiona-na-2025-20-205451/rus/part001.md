@@ -1,18 +1,20 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
+source: https://zan.gov.kz/client/#!/doc/205451/rus/07.04.2025
 ---
 
-> *Приложение 1 к решению*  
+> *Приложение 1к решению*  
 > *Мойынкумского районного маслихата*  
 > *№35-2 от 27 декабря 2024 года*
 
 ## Бюджет Мойынкумского сельского округа на 2025 год
 
+> *Сноска. Приложение 1 в редакции решения Мойынкумского районного маслихата Жамбылской области от 07.04.2025 № 37-2 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td colspan="2" rowspan="2">Сумма, тысяч тенге</td>
+<td colspan="3" rowspan="2">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -20,103 +22,103 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="3">Подкласс</td>
+<td colspan="4">Подкласс</td>
 <td colspan="2" rowspan="2"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>Наименование доходов</td>
+<td colspan="2">Наименование доходов</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td colspan="2">4</td>
-<td colspan="2">5</td>
+<td colspan="3">5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="2">224499</td>
+<td colspan="3">211443</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="2">79624</td>
+<td colspan="3">86647</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="2">31603</td>
+<td colspan="3">40012</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="2">31603</td>
+<td colspan="3">40012</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="2">48021</td>
+<td colspan="3">46635</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Налоги на имущество</td>
-<td colspan="2">1600</td>
+<td colspan="3">1048</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="2">450</td>
+<td colspan="3">339</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Налог на транспортные средства</td>
-<td colspan="2">44785</td>
+<td colspan="3">43965</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="2">1186</td>
+<td colspan="3">1283</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступление трансфертов</td>
-<td colspan="2">144875</td>
+<td colspan="3">124796</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестояших органов государственного управления</td>
-<td colspan="2">144875</td>
+<td colspan="3">124796</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">144875</td>
+<td colspan="3">124796</td>
 </tr>
 </table>
 
@@ -152,35 +154,35 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>2. РАСХОДЫ</td>
-<td>224499</td>
+<td>229500</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>115678</td>
+<td>120679</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>115678</td>
+<td>120679</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>106428</td>
+<td>109080</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>9250</td>
+<td>11599</td>
 </tr>
 <tr>
 <td>07</td>
@@ -285,14 +287,14 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-18057</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>18057</td>
 </tr>
 <tr>
 <td></td>
@@ -309,11 +311,25 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>18057</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>18057</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td>18057</td>
 </tr>
 </table>
 
@@ -951,10 +967,12 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 
 ## Бюджет Берликского сельского округа на 2025 год
 
+> *Сноска. Приложение 4 в редакции решения Мойынкумского районного маслихата Жамбылской области от 07.04.2025 № 37-2 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td colspan="4" rowspan="2">Сумма, тысяч тенге</td>
+<td colspan="3" rowspan="2">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -962,103 +980,103 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="4">Подкласс</td>
+<td colspan="3">Подкласс</td>
 <td colspan="3" rowspan="2"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">Наименование доходов</td>
+<td>Наименование доходов</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
 <td colspan="2">4</td>
-<td colspan="4">5</td>
+<td colspan="3">5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="4">98193</td>
+<td colspan="3">160838</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="4">20233</td>
+<td colspan="3">22640</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="4">6973</td>
+<td colspan="3">9175</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="4">6973</td>
+<td colspan="3">9175</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="4">13260</td>
+<td colspan="3">13465</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Налоги на имущество</td>
-<td colspan="4">330</td>
+<td colspan="3">311</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="4">80</td>
+<td colspan="3">52</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Налог на транспортные средства</td>
-<td colspan="4">12000</td>
+<td colspan="3">12000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="4">850</td>
+<td colspan="3">1102</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступление трансфертов</td>
-<td colspan="4">77960</td>
+<td colspan="3">138198</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестояших органов государственного управления</td>
-<td colspan="4">77960</td>
+<td colspan="3">138198</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="4">77960</td>
+<td colspan="3">138198</td>
 </tr>
 </table>
 
@@ -1094,28 +1112,28 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>2. РАСХОДЫ</td>
-<td>98193</td>
+<td>163877</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>78971</td>
+<td>67789</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>78971</td>
+<td>67789</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>78471</td>
+<td>67289</td>
 </tr>
 <tr>
 <td></td>
@@ -1129,14 +1147,14 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>19222</td>
+<td>96088</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>19222</td>
+<td>96088</td>
 </tr>
 <tr>
 <td></td>
@@ -1157,7 +1175,7 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>11479</td>
+<td>88345</td>
 </tr>
 <tr>
 <td></td>
@@ -1206,14 +1224,14 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-3039</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>3039</td>
 </tr>
 <tr>
 <td></td>
@@ -1230,11 +1248,25 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>3039</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>3039</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td>3039</td>
 </tr>
 </table>
 
@@ -1830,6 +1862,8 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 
 ## Бюджет Кенесского сельского округа на 2025 год
 
+> *Сноска. Приложение 7 в редакции решения Мойынкумского районного маслихата Жамбылской области от 07.04.2025 № 37-2 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -1860,35 +1894,35 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="4">89744</td>
+<td colspan="4">91650</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="4">10373</td>
+<td colspan="4">11329</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="4">3016</td>
+<td colspan="4">3235</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="4">3016</td>
+<td colspan="4">3235</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="4">7357</td>
+<td colspan="4">8094</td>
 </tr>
 <tr>
 <td></td>
@@ -1902,42 +1936,42 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="4">45</td>
+<td colspan="4">57</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Налог на транспортные средства</td>
-<td colspan="4">6462</td>
+<td colspan="4">6902</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="4">450</td>
+<td colspan="4">735</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступление трансфертов</td>
-<td colspan="4">79371</td>
+<td colspan="4">80321</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестояших органов государственного управления</td>
-<td colspan="4">79371</td>
+<td colspan="4">80321</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="4">79371</td>
+<td colspan="4">80321</td>
 </tr>
 </table>
 
@@ -1973,28 +2007,28 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>2. РАСХОДЫ</td>
-<td>89744</td>
+<td>96096</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>59213</td>
+<td>61330</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>59213</td>
+<td>61330</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>55613</td>
+<td>57730</td>
 </tr>
 <tr>
 <td></td>
@@ -2008,28 +2042,28 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>30531</td>
+<td>34766</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>30531</td>
+<td>34766</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>16723</td>
+<td>19223</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>13808</td>
+<td>15543</td>
 </tr>
 <tr>
 <td></td>
@@ -2078,14 +2112,14 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-4446</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>4446</td>
 </tr>
 <tr>
 <td></td>
@@ -2102,11 +2136,25 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>4446</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>4446</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td>4446</td>
 </tr>
 </table>
 
@@ -2688,6 +2736,8 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 
 ## Бюджет Шыганакского сельского округа на 2025 год
 
+> *Сноска. Приложение 10 в редакции решения Мойынкумского районного маслихата Жамбылской области от 07.04.2025 № 37-2 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -2718,84 +2768,84 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="3">90594</td>
+<td colspan="3">91886</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="3">16934</td>
+<td colspan="3">17481</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="3">8560</td>
+<td colspan="3">8267</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="3">8560</td>
+<td colspan="3">8267</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="3">8374</td>
+<td colspan="3">9214</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Налоги на имущество</td>
-<td colspan="3">203</td>
+<td colspan="3">249</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="3">186</td>
+<td colspan="3">151</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Налог на транспортные средства</td>
-<td colspan="3">7944</td>
+<td colspan="3">8764</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="3">41</td>
+<td colspan="3">50</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступление трансфертов</td>
-<td colspan="3">73660</td>
+<td colspan="3">74405</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестояших органов государственного управления</td>
-<td colspan="3">73660</td>
+<td colspan="3">74405</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="3">73660</td>
+<td colspan="3">74405</td>
 </tr>
 </table>
 
@@ -2831,56 +2881,56 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>2. РАСХОДЫ</td>
-<td>90594</td>
+<td>98529</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>70040</td>
+<td>73523</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>70040</td>
+<td>73523</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>61590</td>
+<td>63733</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>8450</td>
+<td>9790</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>20554</td>
+<td>25006</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>20554</td>
+<td>25006</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>12983</td>
+<td>16506</td>
 </tr>
 <tr>
 <td></td>
@@ -2892,9 +2942,9 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <tr>
 <td></td>
 <td></td>
-<td>011</td>
+<td>009</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>6293</td>
+<td>7222</td>
 </tr>
 <tr>
 <td></td>
@@ -2943,14 +2993,14 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-6643</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>6643</td>
 </tr>
 <tr>
 <td></td>
@@ -2967,11 +3017,25 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>6643</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>6643</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td>6643</td>
 </tr>
 </table>
 
@@ -3567,6 +3631,8 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 
 ## Бюджет Уланбельского сельского округа на 2025 год
 
+> *Сноска. Приложение 13 в редакции решения Мойынкумского районного маслихата Жамбылской области от 07.04.2025 № 37-2 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -3597,98 +3663,98 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="3">49224</td>
+<td colspan="3">39147</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="3">18865</td>
+<td colspan="3">23455</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="3">1114</td>
+<td colspan="3">1633</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="3">1114</td>
+<td colspan="3">1633</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="3">4005</td>
+<td colspan="3">4171</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Налоги на имущество</td>
-<td colspan="3">50</td>
+<td colspan="3">38</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="3">3</td>
+<td colspan="3">1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Налог на транспортные средства</td>
-<td colspan="3">3707</td>
+<td colspan="3">3893</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="3">245</td>
+<td colspan="3">239</td>
 </tr>
 <tr>
 <td></td>
 <td>05</td>
 <td></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="3">13746</td>
+<td colspan="3">17651</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Поступления за использование природных и других ресурсов</td>
-<td colspan="3">13746</td>
+<td colspan="3">17651</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступление трансфертов</td>
-<td colspan="3">30359</td>
+<td colspan="3">15692</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестояших органов государственного управления</td>
-<td colspan="3">30359</td>
+<td colspan="3">15692</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="3">30359</td>
+<td colspan="3">15692</td>
 </tr>
 </table>
 
@@ -3724,56 +3790,56 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>2. РАСХОДЫ</td>
-<td>49224</td>
+<td>57637</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>43218</td>
+<td>45916</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>43218</td>
+<td>45916</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>35568</td>
+<td>36926</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>7650</td>
+<td>8990</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>6006</td>
+<td>11721</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>6006</td>
+<td>11721</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>2241</td>
+<td>7956</td>
 </tr>
 <tr>
 <td></td>
@@ -3829,14 +3895,14 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-18490</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>18490</td>
 </tr>
 <tr>
 <td></td>
@@ -3853,11 +3919,25 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>18490</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>18490</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td>18490</td>
 </tr>
 </table>
 
@@ -4467,6 +4547,8 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 
 ## Бюджет Карабогетского сельского округа на 2025 год
 
+> *Сноска. Приложение 16 в редакции решения Мойынкумского районного маслихата Жамбылской области от 07.04.2025 № 37-2 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -4497,84 +4579,84 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="3">82269</td>
+<td colspan="3">77106</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="3">5688</td>
+<td colspan="3">6516</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td colspan="2">Подоходный налог</td>
-<td colspan="3">1150</td>
+<td colspan="3">1102</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td colspan="3">1150</td>
+<td colspan="3">1102</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="3">4538</td>
+<td colspan="3">5414</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Налоги на имущество</td>
-<td colspan="3">200</td>
+<td colspan="3">187</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Земельный налог</td>
-<td colspan="3">3</td>
+<td colspan="3">1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td colspan="2">Налог на транспортные средства</td>
-<td colspan="3">3955</td>
+<td colspan="3">4801</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>5</td>
 <td colspan="2">Единый земельный налог</td>
-<td colspan="3">380</td>
+<td colspan="3">425</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td></td>
 <td colspan="2">Поступление трансфертов</td>
-<td colspan="3">76581</td>
+<td colspan="3">70590</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестояших органов государственного управления</td>
-<td colspan="3">76581</td>
+<td colspan="3">70590</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="3">76581</td>
+<td colspan="3">70590</td>
 </tr>
 </table>
 
@@ -4610,42 +4692,42 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>2. РАСХОДЫ</td>
-<td>82269</td>
+<td>80665</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>66452</td>
+<td>67330</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>66452</td>
+<td>67330</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>66452</td>
+<td>67330</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>13817</td>
+<td>11335</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>13817</td>
+<td>11335</td>
 </tr>
 <tr>
 <td></td>
@@ -4659,13 +4741,13 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>3426</td>
+<td>944</td>
 </tr>
 <tr>
 <td>12</td>
 <td></td>
 <td></td>
-<td>Транспорт и коммуникации</td>
+<td>Прочие</td>
 <td>2000</td>
 </tr>
 <tr>
@@ -4729,14 +4811,14 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-3559</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>3559</td>
 </tr>
 <tr>
 <td></td>
@@ -4753,11 +4835,25 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>3559</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>3559</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td>3559</td>
 </tr>
 </table>
 
@@ -5367,6 +5463,8 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 
 ## Бюджет Кылышбайского сельского округа на 2025 год
 
+> *Сноска. Приложение 19 в редакции решения Мойынкумского районного маслихата Жамбылской области от 07.04.2025 № 37-2 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="5">Категория</td>
@@ -5397,14 +5495,14 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td colspan="2">1. ДОХОДЫ</td>
-<td colspan="3">103277</td>
+<td colspan="3">111904</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Налоговые поступления</td>
-<td colspan="3">5694</td>
+<td colspan="3">5919</td>
 </tr>
 <tr>
 <td></td>
@@ -5425,14 +5523,14 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td>04</td>
 <td></td>
 <td colspan="2">Hалоги на собственность</td>
-<td colspan="3">4708</td>
+<td colspan="3">4933</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td colspan="2">Налоги на имущество</td>
-<td colspan="3">280</td>
+<td colspan="3">283</td>
 </tr>
 <tr>
 <td></td>
@@ -5446,7 +5544,7 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td>4</td>
 <td colspan="2">Налог на транспортные средства</td>
-<td colspan="3">4109</td>
+<td colspan="3">4331</td>
 </tr>
 <tr>
 <td></td>
@@ -5460,21 +5558,21 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td colspan="2">Поступление трансфертов</td>
-<td colspan="3">97583</td>
+<td colspan="3">105985</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td colspan="2">Трансферты из вышестояших органов государственного управления</td>
-<td colspan="3">97583</td>
+<td colspan="3">105985</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="3">97583</td>
+<td colspan="3">105985</td>
 </tr>
 </table>
 
@@ -5510,28 +5608,28 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>2. РАСХОДЫ</td>
-<td>103277</td>
+<td>112292</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>37956</td>
+<td>49817</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>37956</td>
+<td>49817</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>37556</td>
+<td>49417</td>
 </tr>
 <tr>
 <td></td>
@@ -5545,21 +5643,28 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>55381</td>
+<td>52535</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>55381</td>
+<td>52535</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>7624</td>
+<td>4021</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Обеспечение санитарии населенных пунктов</td>
+<td>757</td>
 </tr>
 <tr>
 <td></td>
@@ -5572,7 +5677,7 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td>12</td>
 <td></td>
 <td></td>
-<td>Транспорт и коммуникации</td>
+<td>Прочие</td>
 <td>9940</td>
 </tr>
 <tr>
@@ -5636,14 +5741,14 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td></td>
 <td></td>
 <td>5. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td>-388</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>6. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<td>388</td>
 </tr>
 <tr>
 <td></td>
@@ -5660,11 +5765,25 @@ source: https://zan.gov.kz/client/#!/doc/205451/rus/27.12.2024
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>388</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Остатки бюджетных средств</td>
+<td>388</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Свободные остатки бюджетных средств</td>
+<td>388</td>
 </tr>
 </table>
 
