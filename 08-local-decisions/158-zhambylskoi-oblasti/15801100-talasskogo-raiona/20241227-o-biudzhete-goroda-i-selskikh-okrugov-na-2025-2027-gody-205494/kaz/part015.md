@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205494/kaz/27.12.2024
+source: https://zan.gov.kz/client/#!/doc/205494/kaz/10.04.2025
 ---
 
 > *Талас аудандық мәслихатының*  
