@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/207724/kaz/04.04.2025
+source: https://zan.gov.kz/client/#!/doc/207724/kaz/19.08.2025
 ---
 
 > *Шу аудандық мәслихатының*  
