@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205487/kaz/11.04.2025
+source: https://zan.gov.kz/client/#!/doc/205487/kaz/20.08.2025
 ---
 
 > *2024 жылғы 27 желтоқсандағы № 31-4*  
