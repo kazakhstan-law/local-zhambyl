@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205463/kaz/08.07.2025
+source: https://zan.gov.kz/client/#!/doc/205463/kaz/21.08.2025
 ---
 
 > *Байзақ аудандық мәслихатының*  
