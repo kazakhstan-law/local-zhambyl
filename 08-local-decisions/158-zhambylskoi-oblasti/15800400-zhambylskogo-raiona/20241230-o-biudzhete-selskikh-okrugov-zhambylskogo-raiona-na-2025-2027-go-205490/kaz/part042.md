@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205490/kaz/10.04.2025
+source: https://zan.gov.kz/client/#!/doc/205490/kaz/22.08.2025
 ---
 
 > *Жамбыл аудандық мәслихатының*  
