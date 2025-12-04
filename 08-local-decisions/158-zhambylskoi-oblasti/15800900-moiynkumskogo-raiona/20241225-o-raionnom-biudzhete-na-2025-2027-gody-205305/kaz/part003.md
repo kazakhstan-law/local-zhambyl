@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205305/kaz/03.11.2025
+source: https://zan.gov.kz/client/#!/doc/205305/kaz/04.12.2025
 ---
 
 > *Мойынқұм аудандық мәслихатының*  
