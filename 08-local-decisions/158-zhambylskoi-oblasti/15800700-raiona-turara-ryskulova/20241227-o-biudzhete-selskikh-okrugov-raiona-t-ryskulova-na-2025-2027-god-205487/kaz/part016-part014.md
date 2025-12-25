@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/205487/kaz/05.12.2025
+source: https://zan.gov.kz/client/#!/doc/205487/kaz/25.12.2025
 ---
 
 ## 2026 жылға арналған Қорағаты ауылдық округінің бюджеті
