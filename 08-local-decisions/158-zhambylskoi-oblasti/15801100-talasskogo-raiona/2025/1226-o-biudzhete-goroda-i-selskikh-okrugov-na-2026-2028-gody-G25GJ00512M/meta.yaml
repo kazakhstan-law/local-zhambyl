@@ -1,0 +1,25 @@
+key: G25GJ00512M
+akn: /akn/kz/act/2025-12-26/G25GJ00512M
+act_code: '220395'
+requisite: Решение Таласского районного маслихата Жамбылской области от 26 декабря 2025 года № 51-2
+title:
+  rus: О бюджете города и сельских округов на 2026-2028 годы
+  kaz: 2026 - 2028 жылдарға арналған қала және ауылдық округ  бюджеттері туралы
+form: РЕШ
+type_codes:
+- РЕШ
+approved_on: 2025-12-26
+in_force_from: 2026-01-01
+approved_by:
+- '158011000002'
+versions:
+- date: 2025-12-26
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-12-26
+  rus: 2025-12-26
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/220395/kaz/26.12.2025
+  rus: https://zan.gov.kz/client/#!/doc/220395/rus/26.12.2025
