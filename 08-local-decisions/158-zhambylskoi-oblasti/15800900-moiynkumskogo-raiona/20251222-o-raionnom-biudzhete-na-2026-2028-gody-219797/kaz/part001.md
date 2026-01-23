@@ -1,13 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
+source: https://zan.gov.kz/client/#!/doc/219797/kaz/23.01.2026
 ---
 
 > *Мойынқұм аудандық мәслихатының*  
-> *2025 жылғы 22 желтоқсандағы №47-5*  
-> *шешіміне 1 қосымша*
+> *2025 жылғы 22 желтоқсандағы*  
+> *№47-5 шешіміне 1 қосымша*
 
 ## 2026 жылға арналған аудандық бюджет
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Жамбыл облысы Мойынқұм аудандық мәслихатының 23.01.2026 № 49-2 (01.01.2026 бастап күшіне енеді) шешімімен.*
 
 <table>
 <tr>
@@ -28,18 +30,18 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="4">4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="4">4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">1. КІРІСТЕР</td>
-<td colspan="2">9543258</td>
+<td colspan="2">9370146</td>
 </tr>
 <tr>
 <td>1</td>
@@ -108,14 +110,14 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
-<td colspan="4">Көлiк құралдарына салынатын салық</td>
+<td colspan="4">Көлік құралы салығы</td>
 <td colspan="2">11992</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
-<td colspan="4">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
+<td colspan="4">Тауарларға, жұмыстарға және көрсетілетін қызметтерге салынатын iшкi салықтар</td>
 <td colspan="2">49126</td>
 </tr>
 <tr>
@@ -213,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="4">Мұнай секторы ұйымдарынан түсетін, Жәбірленушілерге өтемақы қорына, Білім беру инфрақұрылымын қолдау қорына және Арнаулы мемлекеттік қорға түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
+<td colspan="4">Мұнай секторы ұйымдарынан түсетін, бюджеттен тыс қорға түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
 <td colspan="2">2150</td>
 </tr>
 <tr>
@@ -266,25 +268,25 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2">39453</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Трансферттердің түсімдері</td>
-<td colspan="2">3543389</td>
+<td colspan="2">3370277</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="4">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td colspan="2">3543389</td>
+<td colspan="2">3370277</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="4">Облыстық бюджеттен түсетін трансферттер</td>
-<td colspan="2">3543389</td>
+<td colspan="2">3370277</td>
 </tr>
 <tr>
 <td></td>
@@ -313,25 +315,25 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="4">3</th>
-<th>4</th>
-<th colspan="4">5</th>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="4">3</td>
+<td>4</td>
+<td colspan="4">5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td>2. ШЫҒЫНДАР</td>
-<td colspan="4">9543258</td>
+<td colspan="4">9564569</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="4"></td>
-<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="4">1524296</td>
+<td>Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</td>
+<td colspan="4">1484657</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -373,14 +375,14 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2">452</td>
 <td colspan="4"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td colspan="4">656065</td>
+<td colspan="4">610426</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">001</td>
 <td>Ауданның (облыстық маңызы бар қаланың) бюджетін орындау жәнекоммуналдық меншігін басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="4">42413</td>
+<td colspan="4">43413</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -401,7 +403,7 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2"></td>
 <td colspan="4">113</td>
 <td>Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td colspan="4">612592</td>
+<td colspan="4">555953</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -422,7 +424,7 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2">458</td>
 <td colspan="4"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td colspan="4">278262</td>
+<td colspan="4">284262</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -436,7 +438,7 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2"></td>
 <td colspan="4">113</td>
 <td>Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td colspan="4">49153</td>
+<td colspan="4">55153</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -575,7 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">017</td>
-<td>Оңалтудың жеке бағдарламасына сәйкес мұқтаж мүгедектігі бар адамдарды протездік-ортопедиялық көмек, сурдотехникалық құралдар, тифлотехникалық құралдар, санаторий-курорттық емделу, мiндеттi гигиеналық құралдармен қамтамасыз ету, арнаулы жүрiп-тұру құралдары, жеке көмекшінің және есту бойынша мүгедектігі бар адамдарға қолмен көрсететiн тіл маманының қызметтері мен қамтамасыз ету</td>
+<td>Мүгедектігі бар адамды абилитациялаудың және оңалтудың жеке бағдарламасына сәйкес мұқтаж мүгедектігі бар адамдарды протездік-ортопедиялық көмекпен, сурдотехникалық және тифлотехникалық құралдармен, мiндеттi гигиеналық құралдармен, арнаулы жүріп-тұру құралдарымен қамтамасыз ету, сондай-ақ санаторий-курорттық емдеу,жеке көмекшінің және ымдау тілі маманының қызметтерімен қамтамасыз ету</td>
 <td colspan="4">49627</td>
 </tr>
 <tr>
@@ -609,13 +611,6 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="4">032</td>
-<td>Ведомстволық бағынысты мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td colspan="4">1500</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="4">050</td>
 <td>Қазақстан Республикасында мүгедектігі бар адамдардың құқықтарын қамтамасыз етуге және өмір сүру сапасын жақсарту</td>
 <td colspan="4">36428</td>
@@ -628,11 +623,18 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="4">74600</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4">067</td>
+<td>Ведомстволық бағынысты мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
+<td colspan="4">1500</td>
+</tr>
+<tr>
 <td colspan="2">07</td>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="4">3176268</td>
+<td colspan="4">3236268</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -660,14 +662,14 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2">458</td>
 <td colspan="4"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td colspan="4">2705374</td>
+<td colspan="4">2765374</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">012</td>
 <td>Сумен жабдықтау және су бұру жүйесінің жұмыс істеуі</td>
-<td colspan="4">261605</td>
+<td colspan="4">321605</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -842,21 +844,21 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td colspan="4">687132</td>
+<td colspan="4">688082</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">462</td>
 <td colspan="4"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ауыл шаруашылығы бөлімі</td>
-<td colspan="4">117382</td>
+<td colspan="4">118332</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">001</td>
 <td>Жергілікті деңгейде ауыл шаруашылығы саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="4">34857</td>
+<td colspan="4">35807</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -911,7 +913,7 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2"></td>
 <td colspan="2">458</td>
 <td colspan="4"></td>
-<td>Ауданның (облыстық маңызы бар қаланың)тұрғын үй-коммуналдық шаруашылық, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
+<td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылық, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
 <td colspan="4">6000</td>
 </tr>
 <tr>
@@ -1120,7 +1122,7 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
+<td colspan="2">6</td>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
@@ -1229,7 +1231,7 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">5. БЮДЖЕТ ТАПШЫЛЫҒЫ (ПРОФИЦИТІ)</td>
-<td colspan="3">-50829</td>
+<td colspan="3">-245252</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1243,7 +1245,7 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">7. БЮДЖЕТ ТАПШЫЛЫҒЫН ҚАРЖЫЛАНДЫРУ (ПРОФИЦИТІН ПАЙДАЛАНУ)</td>
-<td colspan="3">50829</td>
+<td colspan="3">245252</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1269,7 +1271,7 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
+<td colspan="2">8</td>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">Қарыздар түсімдері</td>
@@ -1290,13 +1292,19 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="3">138400</td>
 </tr>
 <tr>
-<td colspan="10">Функционалдық топ</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="10">Функционалдық топ</td>
+<td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="8">Әкiмшiсi</td>
-<td colspan="3" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1331,6 +1339,13 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="3">87571</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
 <td colspan="10">Санаты</td>
 <td colspan="3" rowspan="4">Сомасы, мың теңге</td>
 </tr>
@@ -1350,25 +1365,25 @@ source: https://zan.gov.kz/client/#!/doc/219797/kaz/22.12.2025
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td colspan="3">0</td>
+<td colspan="3">194423</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="4"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td colspan="3">0</td>
+<td colspan="3">194423</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">1</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td colspan="3">0</td>
+<td colspan="3">194423</td>
 </tr>
 </table>
 
