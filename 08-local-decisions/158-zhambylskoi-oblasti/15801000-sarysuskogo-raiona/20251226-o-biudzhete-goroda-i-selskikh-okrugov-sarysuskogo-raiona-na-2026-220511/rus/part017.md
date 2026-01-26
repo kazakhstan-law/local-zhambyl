@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
+source: https://zan.gov.kz/client/#!/doc/220511/rus/26.01.2026
 ---
 
 > *Приложение 6-2 к решению*  
@@ -647,6 +647,8 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 
 ## Бюджет аппарата акима Тогызкентского сельского округа на 2026 год
 
+> *Сноска. Приложение 7-1 в редакции решения Сарысуского районного маслихата Жамбылской области от 26.01.2026 № 52-2 (вводится в действие с 01.01.2026).*
+
 <table>
 <tr>
 <td colspan="7">Категория</td>
@@ -673,7 +675,7 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>175775</td>
+<td>174375</td>
 </tr>
 <tr>
 <td>1</td>
@@ -785,26 +787,25 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>166392</td>
+<td>164992</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>166392</td>
+<td>164992</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>166392</td>
+<td>164992</td>
 </tr>
-<tr>
-<td colspan="6"></td>
-<td colspan="2"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td colspan="6">Функциональная группа</td>
 <td colspan="2" rowspan="3">Сумма (тысяч тенге)</td>
@@ -907,14 +908,14 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2"></td>
 <td>V.ДЕФИЦИТ (ПРОФИЦИТ) БЮДЖЕТА</td>
-<td colspan="2">0</td>
+<td colspan="2">-1400</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td>VІ. ФИНАНСИРОВАНИЕ ДЕФИЦИТА (ИСПОЛЬЗОВАНИЕ ПРОФИЦИТА) БЮДЖЕТА</td>
-<td colspan="2">0</td>
+<td colspan="2">1400</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -942,21 +943,21 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">1400</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="2"></td>
 <td>Остатки бюджетных средств на конец отчетного периода</td>
-<td colspan="2">0</td>
+<td colspan="2">1400</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">01</td>
 <td>Остатки бюджетных средств на конец отчетного периода</td>
-<td colspan="2">0</td>
+<td colspan="2">1400</td>
 </tr>
 </table>
 
@@ -1604,6 +1605,8 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 
 ## Бюджет аппарата акима Туркестанского сельского округа на 2026 год
 
+> *Сноска. Приложение 8-1 в редакции решения Сарысуского районного маслихата Жамбылской области от 26.01.2026 № 52-2 (вводится в действие с 01.01.2026).*
+
 <table>
 <tr>
 <td colspan="7">Категория</td>
@@ -1630,7 +1633,7 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>127435</td>
+<td>166653</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1742,26 +1745,25 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>119444</td>
+<td>158662</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>119444</td>
+<td>158662</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>119444</td>
+<td>158662</td>
 </tr>
-<tr>
-<td colspan="6"></td>
-<td colspan="2"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td colspan="6">Функциональная группа</td>
 <td colspan="2" rowspan="3">Сумма (тысяч тенге)</td>
@@ -1787,21 +1789,21 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td colspan="2">127435</td>
+<td colspan="2">167435</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">86911</td>
+<td colspan="2">126911</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">86911</td>
+<td colspan="2">126911</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1815,7 +1817,7 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td colspan="2">17786</td>
+<td colspan="2">57786</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
@@ -1864,14 +1866,14 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2"></td>
 <td>V.ДЕФИЦИТ (ПРОФИЦИТ) БЮДЖЕТА</td>
-<td colspan="2">0</td>
+<td colspan="2">-782</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td>VІ. ФИНАНСИРОВАНИЕ ДЕФИЦИТА (ИСПОЛЬЗОВАНИЕ ПРОФИЦИТА) БЮДЖЕТА</td>
-<td colspan="2">0</td>
+<td colspan="2">782</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -1899,21 +1901,21 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">782</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="2"></td>
 <td>Остатки бюджетных средств на конец отчетного периода</td>
-<td colspan="2">0</td>
+<td colspan="2">782</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">01</td>
 <td>Остатки бюджетных средств на конец отчетного периода</td>
-<td colspan="2">0</td>
+<td colspan="2">782</td>
 </tr>
 </table>
 
@@ -2561,6 +2563,8 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 
 ## Бюджет аппарата акима Досболского сельского округа на 2026 год
 
+> *Сноска. Приложение 9-1 в редакции решения Сарысуского районного маслихата Жамбылской области от 26.01.2026 № 52-2 (вводится в действие с 01.01.2026).*
+
 <table>
 <tr>
 <td colspan="7">Категория</td>
@@ -2587,7 +2591,7 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">І. ДОХОДЫ</td>
-<td>50033</td>
+<td>49931</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2692,26 +2696,25 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>48125</td>
+<td>48023</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>48125</td>
+<td>48023</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>48125</td>
+<td>48023</td>
 </tr>
-<tr>
-<td colspan="6"></td>
-<td colspan="2"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td colspan="6">Функциональная группа</td>
 <td colspan="2" rowspan="3">Сумма (тысяч тенге)</td>
@@ -2807,14 +2810,14 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2"></td>
 <td>V.ДЕФИЦИТ (ПРОФИЦИТ) БЮДЖЕТА</td>
-<td colspan="2">0</td>
+<td colspan="2">-102</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td>VІ. ФИНАНСИРОВАНИЕ ДЕФИЦИТА (ИСПОЛЬЗОВАНИЕ ПРОФИЦИТА) БЮДЖЕТА</td>
-<td colspan="2">0</td>
+<td colspan="2">102</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -2842,21 +2845,21 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">102</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="2"></td>
 <td>Остатки бюджетных средств на конец отчетного периода</td>
-<td colspan="2">0</td>
+<td colspan="2">102</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">01</td>
 <td>Остатки бюджетных средств на конец отчетного периода</td>
-<td colspan="2">0</td>
+<td colspan="2">102</td>
 </tr>
 </table>
 
@@ -3476,6 +3479,8 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 
 ## Бюджет аппарата акима Камкалинского сельского округа на 2026 год
 
+> *Сноска. Приложение 10-1 в редакции решения Сарысуского районного маслихата Жамбылской области от 26.01.2026 № 52-2 (вводится в действие с 01.01.2026).*
+
 <table>
 <tr>
 <td colspan="7">Категория</td>
@@ -3630,10 +3635,9 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
 <td>42</td>
 </tr>
-<tr>
-<td colspan="6"></td>
-<td colspan="2"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td colspan="6">Функциональная группа</td>
 <td colspan="2" rowspan="3">Сумма (тысяч тенге)</td>
@@ -3659,21 +3663,21 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2"></td>
 <td>ІІ.РАСХОДЫ</td>
-<td colspan="2">83383</td>
+<td colspan="2">144145</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td colspan="2">53155</td>
+<td colspan="2">48955</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">53155</td>
+<td colspan="2">48955</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3687,21 +3691,21 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
-<td colspan="2">6225</td>
+<td colspan="2">2025</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
 <td></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">4691</td>
+<td colspan="2">11849</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">4691</td>
+<td colspan="2">11849</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3715,28 +3719,28 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">897</td>
+<td colspan="2">8055</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
 <td></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td colspan="2">25537</td>
+<td colspan="2">83341</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">25537</td>
+<td colspan="2">83341</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">043</td>
 <td>Бюджетные изъятия</td>
-<td colspan="2">25537</td>
+<td colspan="2">83341</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3757,14 +3761,14 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2"></td>
 <td>V.ДЕФИЦИТ (ПРОФИЦИТ) БЮДЖЕТА</td>
-<td colspan="2">0</td>
+<td colspan="2">-60762</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td>VІ. ФИНАНСИРОВАНИЕ ДЕФИЦИТА (ИСПОЛЬЗОВАНИЕ ПРОФИЦИТА) БЮДЖЕТА</td>
-<td colspan="2">0</td>
+<td colspan="2">60762</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -3792,21 +3796,21 @@ source: https://zan.gov.kz/client/#!/doc/220511/rus/26.12.2025
 <td></td>
 <td colspan="2"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td colspan="2">0</td>
+<td colspan="2">60762</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="2"></td>
 <td>Остатки бюджетных средств на конец отчетного периода</td>
-<td colspan="2">0</td>
+<td colspan="2">60762</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">01</td>
 <td>Остатки бюджетных средств на конец отчетного периода</td>
-<td colspan="2">0</td>
+<td colspan="2">60762</td>
 </tr>
 </table>
 
