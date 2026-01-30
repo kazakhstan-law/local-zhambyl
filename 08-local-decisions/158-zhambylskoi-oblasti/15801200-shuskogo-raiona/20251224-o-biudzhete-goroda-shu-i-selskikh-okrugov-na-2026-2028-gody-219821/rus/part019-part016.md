@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/219821/rus/24.12.2025
+source: https://zan.gov.kz/client/#!/doc/219821/rus/30.01.2026
 ---
 
 ## Бюджет Тасуткельского сельского округа на 2027 год

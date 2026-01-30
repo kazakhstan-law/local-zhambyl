@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/219821/kaz/24.12.2025
+source: https://zan.gov.kz/client/#!/doc/219821/kaz/30.01.2026
 ---
 
 ## 2027 жылға арналған Қонаев ауылының бюджеті
