@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/221489/rus/25.12.2025
+source: https://zan.gov.kz/client/#!/doc/221489/rus/09.02.2026
 ---
 
 ## Бюджет сельского округа Корагаты на 2028 год

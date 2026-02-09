@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/221489/kaz/25.12.2025
+source: https://zan.gov.kz/client/#!/doc/221489/kaz/09.02.2026
 ---
 
 ## 2028 жылға арналған Қорағаты ауылдық округінің бюджеті
