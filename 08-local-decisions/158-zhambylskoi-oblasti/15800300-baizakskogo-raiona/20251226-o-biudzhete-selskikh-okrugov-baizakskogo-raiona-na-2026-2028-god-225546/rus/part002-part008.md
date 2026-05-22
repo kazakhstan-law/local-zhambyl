@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/225546/rus/26.12.2025
+source: https://zan.gov.kz/client/#!/doc/225546/rus/22.05.2026
 ---
 
 Приложение 2-15 к решению Байзакского районного маслихата от 26 декабря 2025 года №58-2
